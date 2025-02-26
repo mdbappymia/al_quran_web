@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 31,
+    "english": "and muse ˹over these exploits˺ upon returning to their own people.",
+    "arabic1": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+    "arabic2": "واذا انقلبوا الى اهلهم انقلبوا فكهين",
+    "bengali": "আর যখন তারা পরিবার-পরিজনের কাছে ফিরে আসত তখন তারা উৎফুল্ল হয়ে ফিরে আসত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_31.mp3"
+        }
+    }
+}

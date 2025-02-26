@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 46,
+    "english": "And the people of Noah ˹had also been destroyed˺ earlier. They were truly a rebellious people.",
+    "arabic1": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+    "arabic2": "وقوم نوح من قبل انهم كانوا قوما فاسقين",
+    "bengali": "আর ইতঃপূর্বে নূহের কওমকেও (আমি ধ্বংস করে দিয়েছিলাম)। নিশ্চয় তারা ছিল ফাসিক কওম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_46.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 24,
+    "english": "Or should every person ˹simply˺ have whatever ˹intercessors˺ they desire?",
+    "arabic1": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+    "arabic2": "ام للانسان ما تمنى",
+    "bengali": "মানুষের জন্য তা কি হয়, যা সে চায়?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_24.mp3"
+        }
+    }
+}

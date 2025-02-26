@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 17,
+    "english": "and—above all—to be one of those who have faith and urge each other to perseverance and urge each other to compassion.",
+    "arabic1": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+    "arabic2": "ثم كان من الذين امنوا وتواصوا بالصبر وتواصوا بالمرحمة",
+    "bengali": "অতঃপর সে তাদের অন্তর্ভুক্ত হয়ে যায়, যারা ঈমান এনেছে এবং পরস্পরকে উপদেশ দেয় ধৈর্যধারণের, আর পরস্পরকে উপদেশ দেয় দয়া-অনুগ্রহের।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/90_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/90_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/90_17.mp3"
+        }
+    }
+}

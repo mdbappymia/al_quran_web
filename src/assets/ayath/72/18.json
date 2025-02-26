@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 18,
+    "english": "The places of worship are ˹only˺ for Allah, so do not invoke anyone besides Him.",
+    "arabic1": "وَأَنَّ ٱلْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا",
+    "arabic2": "وان المساجد لله فلا تدعوا مع الله احدا",
+    "bengali": "আর নিশ্চয় মসজিদগুলো আল্লাহরই জন্য। কাজেই তোমরা আল্লাহর সাথে অন্য কাউকে ডেকো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_18.mp3"
+        }
+    }
+}

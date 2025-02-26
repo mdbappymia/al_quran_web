@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 13,
+    "english": "They invoke those whose worship leads to harm, not benefit. What an evil patron and what an evil associate!",
+    "arabic1": "يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ ۚ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ",
+    "arabic2": "يدعو لمن ضره اقرب من نفعه لبئس المولى ولبئس العشير",
+    "bengali": "সে এমন কিছুকে ডাকে যার ক্ষতি তার উপকার অপেক্ষা নিকটতর। কতইনা নিকৃষ্ট এই অভিভাবক এবং কতই না নিকৃষ্ট এই সঙ্গী!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_13.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 5,
+    "english": "In fact, they reject the truth when it has come to them, so they are in a confused state.",
+    "arabic1": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+    "arabic2": "بل كذبوا بالحق لما جاءهم فهم في امر مريج",
+    "bengali": "বরং তারা সত্যকে অস্বীকার করেছে, যখনই তাদের কাছে সত্য এসেছে। অতএব তারা সংশয়যুক্ত বিষয়ের মধ্যে রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_5.mp3"
+        }
+    }
+}

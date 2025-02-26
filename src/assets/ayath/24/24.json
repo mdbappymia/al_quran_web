@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 24,
+    "english": "on the Day their tongues, hands, and feet will testify against them for what they used to do.",
+    "arabic1": "يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "يوم تشهد عليهم السنتهم وايديهم وارجلهم بما كانوا يعملون",
+    "bengali": "যেদিন তাদের জিহবাগুলো, তাদের হাতগুলো ও তাদের পাগুলো তারা যা করত, সে ব্যাপারে তাদের বিরুদ্ধে সাক্ষ্য দেবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_24.mp3"
+        }
+    }
+}

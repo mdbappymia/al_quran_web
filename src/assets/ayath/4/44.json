@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 44,
+    "english": "Have you ˹O Prophet˺ not seen those who were given a portion of the Scriptures yet trade it for misguidance and wish to see you deviate from the ˹Right˺ Path?",
+    "arabic1": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَـٰبِ يَشْتَرُونَ ٱلضَّلَـٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ",
+    "arabic2": "الم تر الى الذين اوتوا نصيبا من الكتاب يشترون الضلالة ويريدون ان تضلوا السبيل",
+    "bengali": "তুমি কি সে সব লোককে দেখনি, যাদেরকে কিতাবের কিছু অংশ দেয়া হয়েছে? তারা পথভ্রষ্টতা ক্রয় করে এবং চায় যে, তোমরাও পথভ্রষ্ট হয়ে যাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_44.mp3"
+        }
+    }
+}

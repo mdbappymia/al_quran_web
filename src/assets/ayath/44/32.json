@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 32,
+    "english": "And indeed, We chose the Israelites knowingly above the others.",
+    "arabic1": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "ولقد اخترناهم على علم على العالمين",
+    "bengali": "আর আমি জ্ঞাতসারেই তাদেরকে সকল সৃষ্টির উপর নির্বাচিত করেছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_32.mp3"
+        }
+    }
+}

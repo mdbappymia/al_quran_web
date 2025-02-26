@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 9,
+    "english": "O believers! Remember Allah’s favour upon you when ˹enemy˺ forces came to ˹besiege˺ you ˹in Medina˺, so We sent against them a ˹bitter˺ wind and forces you could not see. And Allah is All-Seeing of what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+    "arabic2": "يا ايها الذين امنوا اذكروا نعمة الله عليكم اذ جاءتكم جنود فارسلنا عليهم ريحا وجنودا لم تروها وكان الله بما تعملون بصيرا",
+    "bengali": "হে মুমিনগণ, তোমরা তোমাদের প্রতি আল্লাহর নিআমতকে স্মরণ কর, যখন সেনাবাহিনী তোমাদের কাছে এসে গিয়েছিল, তখন আমি তাদের উপর প্রবল বায়ু ও সেনাদল প্রেরণ করলাম যা তোমরা দেখনি। আর তোমরা যা কর আল্লাহ তার সম্যক দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_9.mp3"
+        }
+    }
+}

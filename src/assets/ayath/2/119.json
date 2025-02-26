@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 119,
+    "english": "We have surely sent you with the truth ˹O Prophet˺ as a deliverer of good news and a warner. And you will not be accountable for the residents of the Hellfire.",
+    "arabic1": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْـَٔلُ عَنْ أَصْحَـٰبِ ٱلْجَحِيمِ",
+    "arabic2": "انا ارسلناك بالحق بشيرا ونذيرا ولا تسال عن اصحاب الجحيم",
+    "bengali": "নিশ্চয় আমি তোমাকে প্রেরণ করেছি সত্যসহ, সুসংবাদদাতা ও সতর্ককারীরূপে এবং তোমাকে আগুনের অধিবাসীদের সম্পর্কে প্রশ্ন করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_119.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_119.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_119.mp3"
+        }
+    }
+}

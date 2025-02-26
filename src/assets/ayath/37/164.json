@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 164,
+    "english": "˹The angels respond,˺ “There is not one of us without an assigned station ˹of worship˺.",
+    "arabic1": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ",
+    "arabic2": "وما منا الا له مقام معلوم",
+    "bengali": "আমাদের* প্রত্যেকের জন্যই একটা নির্ধারিতস্থান** রয়েছে। \n*এটা ফেরেশতাদের বক্তব্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_164.mp3"
+        }
+    }
+}

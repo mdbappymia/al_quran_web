@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 9,
+    "english": "And whenever they learn anything of Our revelations, they make a mockery of it. It is they who will suffer a humiliating punishment.",
+    "arabic1": "وَإِذَا عَلِمَ مِنْ ءَايَـٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+    "arabic2": "واذا علم من اياتنا شيئا اتخذها هزوا اولئك لهم عذاب مهين",
+    "bengali": "আর যখন সে আমার আয়াতসমূহের কিছু জানতে পারে, তখন সে এটাকে পরিহাসের পাত্ররূপে গ্রহণ করে। এদের জন্য রয়েছে লাঞ্ছনাদায়ক আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_9.mp3"
+        }
+    }
+}

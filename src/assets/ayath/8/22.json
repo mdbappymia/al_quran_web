@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 22,
+    "english": "Indeed, the worst of all beings in the sight of Allah are the ˹wilfully˺ deaf and dumb, who do not understand.",
+    "arabic1": "۞ إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ",
+    "arabic2": "ان شر الدواب عند الله الصم البكم الذين لا يعقلون",
+    "bengali": "নিশ্চয় আল্লাহর নিকট নিকৃষ্টতম বিচরণশীল প্রাণী হচ্ছে বধির, বোবা, যারা বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_22.mp3"
+        }
+    }
+}

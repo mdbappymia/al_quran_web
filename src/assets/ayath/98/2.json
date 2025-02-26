@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Bayyina",
+    "surahNameArabic": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameTranslation": "The Evidence",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 98,
+    "ayahNo": 2,
+    "english": "a messenger from Allah, reciting scrolls of ˹utmost˺ purity",
+    "arabic1": "رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً",
+    "arabic2": "رسول من الله يتلو صحفا مطهرة",
+    "bengali": "আল্লাহর পক্ষ থেকে এক রাসূল পবিত্র কিতাবসমূহ তিলাওয়াত করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/98_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/98_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/98_2.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 43,
+    "english": "the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺",
+    "arabic1": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+    "arabic2": "يوم يخرجون من الاجداث سراعا كانهم الى نصب يوفضون",
+    "bengali": "যেদিন দ্রুতবেগে তারা কবর থেকে বের হয়ে আসবে, যেন তারা কোন লক্ষ্যের দিকে ছুটছে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_43.mp3"
+        }
+    }
+}

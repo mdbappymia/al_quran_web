@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 17,
+    "english": "Indeed, We have tested those ˹Meccans˺ as We tested the owners of the garden—when they swore they would surely harvest ˹all˺ its fruit in the early morning",
+    "arabic1": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+    "arabic2": "انا بلوناهم كما بلونا اصحاب الجنة اذ اقسموا ليصرمنها مصبحين",
+    "bengali": "নিশ্চয় আমি এদেরকে পরীক্ষা করেছি, যেভাবে পরীক্ষা করেছিলাম বাগানের মালিকদেরকে। যখন তারা কসম করেছিল যে, অবশ্যই তারা সকাল বেলা বাগানের ফল আহরণ করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_17.mp3"
+        }
+    }
+}

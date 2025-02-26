@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taariq",
+    "surahNameArabic": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameTranslation": "The Morning Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 17,
+    "surahNo": 86,
+    "ayahNo": 13,
+    "english": "Surely this ˹Quran˺ is a decisive word",
+    "arabic1": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+    "arabic2": "انه لقول فصل",
+    "bengali": "নিশ্চয় এটা ফয়সালাকারী বাণী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/86_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/86_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/86_13.mp3"
+        }
+    }
+}

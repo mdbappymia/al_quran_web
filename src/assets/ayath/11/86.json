@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 86,
+    "english": "What is left ˹as a lawful gain˺ by Allah is far better for you if you are ˹truly˺ believers. And I am not a keeper over you.”",
+    "arabic1": "بَقِيَّتُ ٱللَّهِ خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ",
+    "arabic2": "بقيت الله خير لكم ان كنتم مؤمنين وما انا عليكم بحفيظ",
+    "bengali": "‘আল্লাহর দেয়া উদ্বৃত্ত লাভ তোমাদের জন্য কল্যাণকর, যদি তোমরা মুমিন হও। আর আমি তো তোমাদের হিফাযতকারী নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_86.mp3"
+        }
+    }
+}

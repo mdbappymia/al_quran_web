@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 24,
+    "english": "We raised from among them leaders, guiding by Our command, when they patiently endured and firmly believed in Our signs.",
+    "arabic1": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يُوقِنُونَ",
+    "arabic2": "وجعلنا منهم ائمة يهدون بامرنا لما صبروا وكانوا باياتنا يوقنون",
+    "bengali": "আর আমি তাদের মধ্য থেকে বহু নেতা করেছিলাম, তারা আমার আদেশানুযায়ী সৎপথ প্রদর্শন করত, যখন তারা ধৈর্যধারণ করেছিল। আর তারা আমার আয়াতসমূহের প্রতি দৃঢ় বিশ্বাস রাখত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_24.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 22,
+    "english": "until an appointed time?",
+    "arabic1": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+    "arabic2": "الى قدر معلوم",
+    "bengali": "একটি নির্দিষ্ট সময় পর্যন্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_22.mp3"
+        }
+    }
+}

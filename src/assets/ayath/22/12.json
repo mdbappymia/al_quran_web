@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 12,
+    "english": "They call besides Allah what can neither harm nor benefit them. That is ˹truly˺ the farthest one can stray.",
+    "arabic1": "يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
+    "arabic2": "يدعو من دون الله ما لا يضره وما لا ينفعه ذلك هو الضلال البعيد",
+    "bengali": "সে আল্লাহর পরিবর্তে এমন কিছুকে ডাকে, যা তার কোন ক্ষতি করতে পারে না এবং কোন উপকারও করতে পারে না। এটিই চরম পথভ্রষ্টতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_12.mp3"
+        }
+    }
+}

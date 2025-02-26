@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 58,
+    "english": "And We poured upon them a rain ˹of brimstone˺. How evil was the rain of those who had been warned!",
+    "arabic1": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+    "arabic2": "وامطرنا عليهم مطرا فساء مطر المنذرين",
+    "bengali": "আমি তাদের উপর মুষলধারে (পাথরের) বৃষ্টি বর্ষণ করেছিলাম। ভীতি প্রদর্শিতদের জন্য কতইনা নিকৃষ্ট ছিল এই বৃষ্টি!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_58.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 52,
+    "english": "Say, “Are you awaiting anything to befall us except one of the two best things: ˹victory or martyrdom˺? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”",
+    "arabic1": "قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ",
+    "arabic2": "قل هل تربصون بنا الا احدى الحسنيين ونحن نتربص بكم ان يصيبكم الله بعذاب من عنده او بايدينا فتربصوا انا معكم متربصون",
+    "bengali": "বল, ‘তোমরা কেবল আমাদের জন্য দু’টি কল্যাণের একটির অপেক্ষা করছ, আর আমরাও তোমাদের জন্য অপেক্ষা করছি যে, আল্লাহ তোমাদেরকে তাঁর পক্ষ থেকে অথবা আমাদের হাত দ্বারা আযাব দেবেন। অতএব তোমরা অপেক্ষা কর, নিশ্চয় আমরা তোমাদের সাথে অপেক্ষমাণ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_52.mp3"
+        }
+    }
+}

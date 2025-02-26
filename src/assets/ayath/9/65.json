@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 65,
+    "english": "If you question them, they will certainly say, “We were only talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger that you ridiculed?”",
+    "arabic1": "وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَـٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ",
+    "arabic2": "ولئن سالتهم ليقولن انما كنا نخوض ونلعب قل ابالله واياته ورسوله كنتم تستهزئون",
+    "bengali": "আর যদি তুমি তাদেরকে প্রশ্ন কর, অবশ্যই তারা বলবে, ‘আমরা আলাপচারিতা ও খেল-তামাশা করছিলাম। বল, ‘আল্লাহ, তাঁর আয়াতসমূহ ও তাঁর রাসূলের সাথে তোমরা বিদ্রূপ করছিলে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_65.mp3"
+        }
+    }
+}

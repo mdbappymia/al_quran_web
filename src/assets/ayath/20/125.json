@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 125,
+    "english": "They will cry, “My Lord! Why have you raised me up blind, although I used to see?”",
+    "arabic1": "قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًا",
+    "arabic2": "قال رب لم حشرتني اعمى وقد كنت بصيرا",
+    "bengali": "সে বলবে, ‘হে আমার রব, কেন আপনি আমাকে অন্ধ অবস্থায় উঠালেন? অথচ আমি তো ছিলাম দৃষ্টিশক্তি সম্পন্ন’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_125.mp3"
+        }
+    }
+}

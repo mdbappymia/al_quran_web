@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 79,
+    "english": "Not at all! We certainly record whatever he claims and will increase his punishment extensively.",
+    "arabic1": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّا",
+    "arabic2": "كلا سنكتب ما يقول ونمد له من العذاب مدا",
+    "bengali": "কখনো নয়, সে যা বলে আমি তা লিখে রাখব এবং তার আযাব বাড়াতেই থাকব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_79.mp3"
+        }
+    }
+}

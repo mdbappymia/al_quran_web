@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 11,
+    "english": "˹Fear is˺ only for those who do wrong. But if they later mend ˹their˺ evil ˹ways˺ with good, then I am certainly All-Forgiving, Most Merciful.",
+    "arabic1": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسْنًۢا بَعْدَ سُوٓءٍ فَإِنِّى غَفُورٌ رَّحِيمٌ",
+    "arabic2": "الا من ظلم ثم بدل حسنا بعد سوء فاني غفور رحيم",
+    "bengali": "‘তবে যে যুল্‌ম করে। তারপর অসৎকাজের পরিবর্তে সৎকাজ করে, তবে অবশ্যই আমি অধিক ক্ষমাশীল, পরম দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_11.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 43,
+    "english": "Moses said to them, “Cast whatever you wish to cast.”",
+    "arabic1": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+    "arabic2": "قال لهم موسى القوا ما انتم ملقون",
+    "bengali": "মূসা তাদের বলল, ‘তোমরা যা নিক্ষেপ করার তা নিক্ষেপ কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_43.mp3"
+        }
+    }
+}

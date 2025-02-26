@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 14,
+    "english": "Now, ˹simply˺ because he has been blessed with ˹abundant˺ wealth and children",
+    "arabic1": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+    "arabic2": "ان كان ذا مال وبنين",
+    "bengali": "এ কারণে যে, সে ছিল ধন-সম্পদ ও সন্তান- সন্ততির অধিকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_14.mp3"
+        }
+    }
+}

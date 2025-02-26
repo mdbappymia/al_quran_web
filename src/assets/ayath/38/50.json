@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 50,
+    "english": "the Gardens of Eternity, whose gates will be open for them.",
+    "arabic1": "جَنَّـٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+    "arabic2": "جنات عدن مفتحة لهم الابواب",
+    "bengali": "চিরস্থায়ী জান্নাত, যার দরজাসমূহ থাকবে তাদের জন্য উন্মুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_50.mp3"
+        }
+    }
+}

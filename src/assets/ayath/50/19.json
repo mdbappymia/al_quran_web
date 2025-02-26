@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 19,
+    "english": "˹Ultimately,˺ with the throes of death will come the truth. This is what you were trying to escape!",
+    "arabic1": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+    "arabic2": "وجاءت سكرة الموت بالحق ذلك ما كنت منه تحيد",
+    "bengali": "আর মৃত্যুর যন্ত্রণা যথাযথই আসবে। যা থেকে তুমি পলায়ন করতে চাইতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_19.mp3"
+        }
+    }
+}

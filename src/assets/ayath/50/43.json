@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 43,
+    "english": "It is certainly We Who give life and cause death. And to Us is the final return.",
+    "arabic1": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+    "arabic2": "انا نحن نحيي ونميت والينا المصير",
+    "bengali": "আমিই জীবন দেই এবং আমিই মৃত্যু ঘটাই, আর আমার দিকেই চূড়ান্ত প্রত্যাবর্তন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_43.mp3"
+        }
+    }
+}

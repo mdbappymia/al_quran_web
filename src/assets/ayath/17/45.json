@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 45,
+    "english": "When you ˹O Prophet˺ recite the Quran, We put a hidden barrier between you and those who do not believe in the Hereafter.",
+    "arabic1": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ حِجَابًا مَّسْتُورًا",
+    "arabic2": "واذا قرات القران جعلنا بينك وبين الذين لا يؤمنون بالاخرة حجابا مستورا",
+    "bengali": "আর তুমি যখন কুরআন পড় তখন তোমার ও যারা আখিরাতে ঈমান আনে না তাদের মধ্যে আমি এক অদৃশ্য পর্দা দিয়ে দেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_45.mp3"
+        }
+    }
+}

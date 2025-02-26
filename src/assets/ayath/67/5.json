@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 5,
+    "english": "And indeed, We adorned the lowest heaven with ˹stars like˺ lamps, and made them ˹as missiles˺ for stoning ˹eavesdropping˺ devils, for whom We have also prepared the torment of the Blaze.",
+    "arabic1": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+    "arabic2": "ولقد زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين واعتدنا لهم عذاب السعير",
+    "bengali": "আমি নিকটবর্তী আসমানকে প্রদীপপুঞ্জ দ্বারা সুশোভিত করেছি এবং সেগুলোকে শয়তানদের প্রতি নিক্ষেপের বস্তু বানিয়েছি। আর তাদের জন্য প্রস্তুত করে রেখেছি জ্বলন্ত আগুনের আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_5.mp3"
+        }
+    }
+}

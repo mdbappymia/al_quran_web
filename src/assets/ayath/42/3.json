@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 3,
+    "english": "And so you ˹O Prophet˺ are sent revelation, just like those before you, by Allah—the Almighty, All-Wise.",
+    "arabic1": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "كذلك يوحي اليك والى الذين من قبلك الله العزيز الحكيم",
+    "bengali": "এমনিভাবে মহাপরাক্রমশালী ও প্রজ্ঞাময় আল্লাহ তোমার কাছে ওহী প্রেরণ করেন এবং তোমার পূর্ববর্তীদের কাছেও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_3.mp3"
+        }
+    }
+}

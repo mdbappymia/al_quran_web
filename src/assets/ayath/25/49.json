@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 49,
+    "english": "giving life to a lifeless land, and providing water for countless animals and humans of Our Own creation.",
+    "arabic1": "لِّنُحْـِۧىَ بِهِۦ بَلْدَةً مَّيْتًا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَـٰمًا وَأَنَاسِىَّ كَثِيرًا",
+    "arabic2": "لنحيي به بلدة ميتا ونسقيه مما خلقنا انعاما واناسي كثيرا",
+    "bengali": "যাতে তা দ্বারা মৃত ভূ-খন্ডকে জীবিত করি এবং আমি যে সকল জীবজন্তু ও মানুষ সৃষ্টি করেছি, তার মধ্য থেকে অনেককে তা পান করাই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_49.mp3"
+        }
+    }
+}

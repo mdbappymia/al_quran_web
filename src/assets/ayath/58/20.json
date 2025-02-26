@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 20,
+    "english": "˹As for˺ those who defy Allah and His Messenger, they will definitely be among the most debased.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَـٰٓئِكَ فِى ٱلْأَذَلِّينَ",
+    "arabic2": "ان الذين يحادون الله ورسوله اولئك في الاذلين",
+    "bengali": "নিশ্চয় যারা আল্লাহ ও তাঁর রাসূলের বিরোধিতা করে তারা চরম লাঞ্ছিতদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_20.mp3"
+        }
+    }
+}

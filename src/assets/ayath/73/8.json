@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 8,
+    "english": "˹Always˺ remember the Name of your Lord, and devote yourself to Him wholeheartedly.",
+    "arabic1": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+    "arabic2": "واذكر اسم ربك وتبتل اليه تبتيلا",
+    "bengali": "আর তুমি তোমার রবের নাম স্মরণ কর এবং একাগ্রচিত্তে তাঁর প্রতি নিমগ্ন হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_8.mp3"
+        }
+    }
+}

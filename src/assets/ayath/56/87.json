@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 87,
+    "english": "bring that soul back, if what you say is true.",
+    "arabic1": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ترجعونها ان كنتم صادقين",
+    "bengali": "ফিরিয়ে আনছ না রূহকে, যদি তোমরা সত্যবাদী হও?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_87.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_87.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_87.mp3"
+        }
+    }
+}

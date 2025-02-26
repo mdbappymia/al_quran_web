@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 75,
+    "english": "And We admitted him into Our mercy, ˹for˺ he was truly one of the righteous.",
+    "arabic1": "وَأَدْخَلْنَـٰهُ فِى رَحْمَتِنَآ ۖ إِنَّهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "وادخلناه في رحمتنا انه من الصالحين",
+    "bengali": "আর আমি তাকে আমার রহমতের মধ্যে শামিল করে নিয়েছিলাম। সে ছিল সৎকর্মশীলদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_75.mp3"
+        }
+    }
+}

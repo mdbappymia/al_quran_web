@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 17,
+    "english": "And they will be given a drink ˹of pure wine˺ flavoured with ginger",
+    "arabic1": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+    "arabic2": "ويسقون فيها كاسا كان مزاجها زنجبيلا",
+    "bengali": "সেখানে তাদেরকে পান করানো হবে পাত্রভরা আদা-মিশ্রিত সুরা,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_17.mp3"
+        }
+    }
+}

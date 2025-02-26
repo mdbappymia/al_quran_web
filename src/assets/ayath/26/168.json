@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 168,
+    "english": "Lot responded, “I am truly one of those who despise your ˹shameful˺ practice.",
+    "arabic1": "قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ",
+    "arabic2": "قال اني لعملكم من القالين",
+    "bengali": "লূত বলল, ‘নিশ্চয় আমি তোমাদের কাজকে ঘৃণা করি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_168.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_168.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_168.mp3"
+        }
+    }
+}

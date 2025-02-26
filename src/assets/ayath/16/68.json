@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 68,
+    "english": "And your Lord inspired the bees: “Make ˹your˺ homes in the mountains, the trees, and in what people construct",
+    "arabic1": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+    "arabic2": "واوحى ربك الى النحل ان اتخذي من الجبال بيوتا ومن الشجر ومما يعرشون",
+    "bengali": "আর তোমার রব মৌমাছিকে ইংগিতে জানিয়েছে যে, ‘তুমি পাহাড়ে ও গাছে এবং তারা যে গৃহ নির্মাণ করে তাতে নিবাস বানাও।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_68.mp3"
+        }
+    }
+}

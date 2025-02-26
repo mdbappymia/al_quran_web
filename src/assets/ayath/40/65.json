@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 65,
+    "english": "He is the Ever-Living. There is no god ˹worthy of worship˺ except Him. So call upon Him with sincere devotion, ˹saying,˺ “All praise is for Allah—Lord of all worlds.”",
+    "arabic1": "هُوَ ٱلْحَىُّ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "هو الحي لا اله الا هو فادعوه مخلصين له الدين الحمد لله رب العالمين",
+    "bengali": "তিনি চিরঞ্জীব, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। সুতরাং তোমরা দীনকে তাঁর জন্য একনিষ্ঠ করে তাঁকে ডাক। সকল প্রশংসা আল্লাহর যিনি সৃষ্টিকুলের রব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_65.mp3"
+        }
+    }
+}

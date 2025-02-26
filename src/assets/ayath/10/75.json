@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 75,
+    "english": "Then after these ˹messengers˺ We sent Moses and Aaron to Pharaoh and his chiefs with Our signs. But they behaved arrogantly and were a wicked people.",
+    "arabic1": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ",
+    "arabic2": "ثم بعثنا من بعدهم موسى وهارون الى فرعون وملئه باياتنا فاستكبروا وكانوا قوما مجرمين",
+    "bengali": "অতঃপর তাদের পরে আমি মূসা ও হারূনকে ফিরআউন ও তার পারিষদবর্গের কাছে আমার আয়াতসমূহ দিয়ে পাঠিয়েছি। কিন্তু তারা অহঙ্কার করেছে। আর তারা ছিল অপরাধী কওম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_75.mp3"
+        }
+    }
+}

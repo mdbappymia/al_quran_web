@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 28,
+    "english": "They ask ˹mockingly˺, “When is this ˹Day of final˺ Decision, if what you say is true?”",
+    "arabic1": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ويقولون متى هذا الفتح ان كنتم صادقين",
+    "bengali": "আর তারা বলে, কখন হবে এ ফয়সালা? তোমরা যদি সত্যবাদী হও তবে বল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_28.mp3"
+        }
+    }
+}

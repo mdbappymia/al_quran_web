@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 51,
+    "english": "And indeed, We had granted Abraham sound judgment early on, for We knew him well ˹to be worthy of it˺.",
+    "arabic1": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَـٰلِمِينَ",
+    "arabic2": "ولقد اتينا ابراهيم رشده من قبل وكنا به عالمين",
+    "bengali": "আর আমি তো ইতঃপূর্বে ইবরাহীমকে সঠিক পথের জ্ঞান দিয়েছিলাম এবং আমি তার সম্পর্কে ছিলাম সম্যক অবগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_51.mp3"
+        }
+    }
+}

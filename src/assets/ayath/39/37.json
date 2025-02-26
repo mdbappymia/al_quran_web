@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 37,
+    "english": "And whoever Allah guides, none can lead astray. Is Allah not Almighty, capable of punishment?",
+    "arabic1": "وَمَن يَهْدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّ ۗ أَلَيْسَ ٱللَّهُ بِعَزِيزٍ ذِى ٱنتِقَامٍ",
+    "arabic2": "ومن يهد الله فما له من مضل اليس الله بعزيز ذي انتقام",
+    "bengali": "আর আল্লাহ যাকে হিদায়াত করেন, তার জন্য কোন পথভ্রষ্টকারী নেই। আল্লাহ কি মহাপরাক্রমশালী প্রতিশোধ গ্রহণকারী নন?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_37.mp3"
+        }
+    }
+}

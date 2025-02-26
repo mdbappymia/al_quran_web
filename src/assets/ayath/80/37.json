@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 37,
+    "english": "For then everyone will have enough concern of their own.",
+    "arabic1": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+    "arabic2": "لكل امرئ منهم يومئذ شان يغنيه",
+    "bengali": "সেদিন তাদের প্রত্যেকেরই একটি গুরুতর অবস্থা থাকবে, যা তাকে ব্যতিব্যস্ত করে রাখবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_37.mp3"
+        }
+    }
+}

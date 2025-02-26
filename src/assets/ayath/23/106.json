@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 106,
+    "english": "They will cry, “Our Lord! Our ill-fate took hold of us, so we became a misguided people.",
+    "arabic1": "قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَآلِّينَ",
+    "arabic2": "قالوا ربنا غلبت علينا شقوتنا وكنا قوما ضالين",
+    "bengali": "তারা বলবে, ‘হে আমাদের রব, দুর্ভাগ্য আমাদেরকে পেয়ে বসেছিল, আর আমরা ছিলাম পথভ্রষ্ট’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_106.mp3"
+        }
+    }
+}

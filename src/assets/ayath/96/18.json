@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 18,
+    "english": "We will call the wardens of Hell.",
+    "arabic1": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+    "arabic2": "سندع الزبانية",
+    "bengali": "অচিরেই আমি ডেকে নেব জাহান্নামের প্রহরীদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_18.mp3"
+        }
+    }
+}

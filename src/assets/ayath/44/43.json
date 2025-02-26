@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 43,
+    "english": "Surely ˹the fruit of˺ the tree of Zaqqûm",
+    "arabic1": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+    "arabic2": "ان شجرت الزقوم",
+    "bengali": "নিশ্চয় যাক্কূম বৃক্ষ",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_43.mp3"
+        }
+    }
+}

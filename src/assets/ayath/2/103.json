@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 103,
+    "english": "If only they were faithful and mindful ˹of Allah˺, there would have been a better reward from Allah, if only they knew!",
+    "arabic1": "وَلَوْ أَنَّهُمْ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَمَثُوبَةٌ مِّنْ عِندِ ٱللَّهِ خَيْرٌ ۖ لَّوْ كَانُوا۟ يَعْلَمُونَ",
+    "arabic2": "ولو انهم امنوا واتقوا لمثوبة من عند الله خير لو كانوا يعلمون",
+    "bengali": "আর যদি তারা ঈমান আনত এবং তাকওয়া অবলম্বন করত, তবে অবশ্যই আল্লাহর পক্ষ থেকে (তাদের জন্য) প্রতিদান উত্তম হত। যদি তারা জানত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_103.mp3"
+        }
+    }
+}

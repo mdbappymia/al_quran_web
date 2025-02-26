@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 20,
+    "english": "yet between them is a barrier they never cross.",
+    "arabic1": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+    "arabic2": "بينهما برزخ لا يبغيان",
+    "bengali": "উভয়ের মধ্যে রয়েছে এক আড়াল যা তারা অতিক্রম করতে পারে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_20.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 67,
+    "english": "As for those who repent, believe, and do good ˹in this world˺, it is right to hope that they will be among the successful.",
+    "arabic1": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ",
+    "arabic2": "فاما من تاب وامن وعمل صالحا فعسى ان يكون من المفلحين",
+    "bengali": "তবে যে তাওবা করেছিল, ঈমান এনেছিল এবং সৎকর্ম করেছিল, আশা করা যায় সে সাফল্য অর্জনকারীদের অন্তর্ভুক্ত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_67.mp3"
+        }
+    }
+}

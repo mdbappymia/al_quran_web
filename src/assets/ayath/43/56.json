@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 56,
+    "english": "And We made them an example and a lesson for those after them.",
+    "arabic1": "فَجَعَلْنَـٰهُمْ سَلَفًا وَمَثَلًا لِّلْـَٔاخِرِينَ",
+    "arabic2": "فجعلناهم سلفا ومثلا للاخرين",
+    "bengali": "ফলে আমি তাদেরকে পরবর্তীদের জন্য অতীত ইতিহাস ও দৃষ্টান্ত বানালাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_56.mp3"
+        }
+    }
+}

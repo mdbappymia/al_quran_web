@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 18,
+    "english": "those who listen to what is said and follow the best of it. These are the ones ˹rightly˺ guided by Allah, and these are ˹truly˺ the people of reason.",
+    "arabic1": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+    "arabic2": "الذين يستمعون القول فيتبعون احسنه اولئك الذين هداهم الله واولئك هم اولو الالباب",
+    "bengali": "যারা মনোযোগ সহকারে কথা শোনে অতঃপর তার মধ্যে যা উত্তম তা অনুসরণ করে তাদেরকেই আল্লাহ হিদায়াত দান করেন আর তারাই বুদ্ধিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_18.mp3"
+        }
+    }
+}

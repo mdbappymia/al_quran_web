@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 24,
+    "english": "saying, “This ˹Quran˺ is nothing but magic from the ancients.",
+    "arabic1": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+    "arabic2": "فقال ان هذا الا سحر يؤثر",
+    "bengali": "অতঃপর সে বলল, ‘এ তো লোক পরম্পরায়প্রাপ্ত যাদু ছাড়া আর কিছুই নয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_24.mp3"
+        }
+    }
+}

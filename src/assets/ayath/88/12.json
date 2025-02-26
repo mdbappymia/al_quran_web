@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 12,
+    "english": "In it will be a running spring",
+    "arabic1": "فِيهَا عَيْنٌ جَارِيَةٌ",
+    "arabic2": "فيها عين جارية",
+    "bengali": "সেখানে থাকবে প্রবাহমান ঝর্ণাধারা,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_12.mp3"
+        }
+    }
+}

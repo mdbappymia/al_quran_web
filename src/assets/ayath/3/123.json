@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 123,
+    "english": "Indeed, Allah made you victorious at Badr when you were ˹vastly˺ outnumbered. So be mindful of Allah, perhaps you will be grateful.",
+    "arabic1": "وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "ولقد نصركم الله ببدر وانتم اذلة فاتقوا الله لعلكم تشكرون",
+    "bengali": "আর অবশ্যই আল্লাহ তোমাদেরকে বদরে সাহায্য করেছেন অথচ তোমরা ছিলে হীনবল। অতএব তোমরা আল্লাহকে ভয় কর, আশা করা যায়, তোমরা শোকরগুজার হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_123.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_123.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_123.mp3"
+        }
+    }
+}

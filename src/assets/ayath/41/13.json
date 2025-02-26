@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 13,
+    "english": "If they turn away, then say, ˹O Prophet,˺ “I warn you of a ˹mighty˺ blast, like the one that befell ’Ȃd and Thamûd.”",
+    "arabic1": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةً مِّثْلَ صَـٰعِقَةِ عَادٍ وَثَمُودَ",
+    "arabic2": "فان اعرضوا فقل انذرتكم صاعقة مثل صاعقة عاد وثمود",
+    "bengali": "তবুও যদি তারা মুখ ফিরিয়ে নেয় তাহলে তুমি বলে দাও, ‘আদ ও সামূদের ধ্বংসের মতই এক মহাধ্বংস সম্পর্কে আমি তোমাদেরকে সতর্ক করছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_13.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 10,
+    "english": "Then Allah revealed to His servant what He revealed ˹through Gabriel˺.",
+    "arabic1": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+    "arabic2": "فاوحى الى عبده ما اوحى",
+    "bengali": "অতঃপর তিনি তাঁর বান্দার প্রতি যা ওহী করার তা ওহী করলেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_10.mp3"
+        }
+    }
+}

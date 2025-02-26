@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 159,
+    "english": "There are some among the people of Moses who guide with the truth and establish justice accordingly.",
+    "arabic1": "وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+    "arabic2": "ومن قوم موسى امة يهدون بالحق وبه يعدلون",
+    "bengali": "মূসার কওম থেকে এমন এক দল রয়েছে যারা সঠিকভাবে পথ প্রদর্শন করে এবং তা দ্বারা ইনসাফ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_159.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_159.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_159.mp3"
+        }
+    }
+}

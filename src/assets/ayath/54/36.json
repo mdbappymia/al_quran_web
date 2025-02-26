@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 36,
+    "english": "He had already warned them of Our ˹crushing˺ blow but they disputed the warnings.",
+    "arabic1": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+    "arabic2": "ولقد انذرهم بطشتنا فتماروا بالنذر",
+    "bengali": "আর লূত তো তাদেরকে আমার কঠিন পাকড়াও সম্পর্কে সাবধান করেছিল, তারপরও তারা সাবধান বাণী সম্পর্কে সন্দেহ পোষণ করেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_36.mp3"
+        }
+    }
+}

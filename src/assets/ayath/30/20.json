@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 20,
+    "english": "One of His signs is that He created you from dust, then—behold!—you are human beings spreading over ˹the earth˺.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ",
+    "arabic2": "ومن اياته ان خلقكم من تراب ثم اذا انتم بشر تنتشرون",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে যে, তিনি তোমাদেরকে মাটি থেকে সৃষ্টি করেছেন, তারপর তোমরা মানুষ হয়ে ছড়িয়ে পড়ছ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_20.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 17,
+    "english": "screening herself off from them. Then We sent to her Our angel, ˹Gabriel,˺ appearing before her as a man, perfectly formed.",
+    "arabic1": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+    "arabic2": "فاتخذت من دونهم حجابا فارسلنا اليها روحنا فتمثل لها بشرا سويا",
+    "bengali": "আর সে তাদের নিকট থেকে (নিজকে) আড়াল করল। তখন আমি তার নিকট আমার রূহ (জিবরীল) কে প্রেরণ করলাম। অতঃপর সে তার সামনে পূর্ণ মানবের রূপ ধারণ করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_17.mp3"
+        }
+    }
+}

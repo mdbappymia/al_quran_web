@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 17,
+    "english": "even though the Hereafter is far better and more lasting.",
+    "arabic1": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+    "arabic2": "والاخرة خير وابقى",
+    "bengali": "অথচ আখিরাত সর্বোত্তম ও স্থায়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_17.mp3"
+        }
+    }
+}

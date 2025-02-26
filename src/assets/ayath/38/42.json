@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 42,
+    "english": "˹We responded,˺ “Stomp your foot: ˹now˺ here is a cool ˹and refreshing˺ spring for washing and drinking.”",
+    "arabic1": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ",
+    "arabic2": "اركض برجلك هذا مغتسل بارد وشراب",
+    "bengali": "[আমি বললাম], ‘তুমি তোমার পা দিয়ে (ভূমিতে) আঘাত কর, এ হচ্ছে গোসলের সুশীতল পানি আর পানীয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_42.mp3"
+        }
+    }
+}

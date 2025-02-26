@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 3,
+    "english": "For He sent against them flocks of birds",
+    "arabic1": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+    "arabic2": "وارسل عليهم طيرا ابابيل",
+    "bengali": "আর তিনি তাদের বিরুদ্ধে ঝাঁকে ঝাঁকে পাখি প্রেরণ করেছিলেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/105_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/105_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/105_3.mp3"
+        }
+    }
+}

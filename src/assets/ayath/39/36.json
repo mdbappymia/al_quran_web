@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 36,
+    "english": "Is Allah not sufficient for His servant? Yet they threaten you with other ˹powerless˺ gods besides Him! Whoever Allah leaves to stray will be left with no guide.",
+    "arabic1": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ ۖ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+    "arabic2": "اليس الله بكاف عبده ويخوفونك بالذين من دونه ومن يضلل الله فما له من هاد",
+    "bengali": "আল্লাহ কি তাঁর বান্দার জন্য যথেষ্ট নন? অথচ তারা তোমাকে আল্লাহর পরিবর্তে অন্যদের ভয় দেখায়। আর আল্লাহ যাকে পথভ্রষ্ট করেন, তার জন্য কোন হিদায়াতকারী নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_36.mp3"
+        }
+    }
+}

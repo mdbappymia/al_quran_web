@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 13,
+    "english": "Yet they will certainly ˹be made to˺ carry their own burdens, as well as other burdens along with their own. And they will surely be questioned on Judgment Day about what they used to fabricate.",
+    "arabic1": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ ۖ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَـٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "وليحملن اثقالهم واثقالا مع اثقالهم وليسالن يوم القيامة عما كانوا يفترون",
+    "bengali": "আর অবশ্যই তারা বহন করবে তাদের বোঝা এবং তাদের বোঝার সাথে আরো কিছু বোঝা। আর তারা কিয়ামতের দিন অবশ্যই জিজ্ঞাসিত হবে সে সম্পর্কে, যা তারা মিথ্যা বানাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_13.mp3"
+        }
+    }
+}

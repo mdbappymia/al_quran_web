@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 45,
+    "english": "˹Soon˺ their united front will be defeated and ˹forced to˺ flee.",
+    "arabic1": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+    "arabic2": "سيهزم الجمع ويولون الدبر",
+    "bengali": "সংঘবদ্ধ দলটি শীঘ্রই পরাজিত হবে এবং পিঠ দেখিয়ে পালাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_45.mp3"
+        }
+    }
+}

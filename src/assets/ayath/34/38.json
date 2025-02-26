@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 38,
+    "english": "As for those who strive to discredit Our revelations, it is they who will be confined in punishment.",
+    "arabic1": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَـٰتِنَا مُعَـٰجِزِينَ أُو۟لَـٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+    "arabic2": "والذين يسعون في اياتنا معاجزين اولئك في العذاب محضرون",
+    "bengali": "আর যারা আমার আয়াতসমূহকে ব্যর্থ করে দিতে প্রচেষ্টা চালায় তাদেরকে আযাবের মধ্যে উপস্থিত করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_38.mp3"
+        }
+    }
+}

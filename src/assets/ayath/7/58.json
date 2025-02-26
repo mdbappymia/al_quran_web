@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 58,
+    "english": "The fertile land produces abundantly by the Will of its Lord, whereas the infertile land hardly produces anything. This is how We vary ˹Our˺ lessons to those who are thankful.",
+    "arabic1": "وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ ۖ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا ۚ كَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَشْكُرُونَ",
+    "arabic2": "والبلد الطيب يخرج نباته باذن ربه والذي خبث لا يخرج الا نكدا كذلك نصرف الايات لقوم يشكرون",
+    "bengali": "আর উত্তম ভূমি- তার ফসল বের হয় তার রবের অনুমতিতে। আর যা নিকৃষ্ট, তাতে তো কমই উৎপন্ন হয়। এভাবেই আমি আয়াতসমূহ বিভিন্নভাবে বর্ণনা করি এমন কওমের জন্য, যারা কৃতজ্ঞ হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_58.mp3"
+        }
+    }
+}

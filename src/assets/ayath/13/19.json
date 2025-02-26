@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 19,
+    "english": "Can the one who knows that your Lord’s revelation to you ˹O Prophet˺ is the truth be like the one who is blind? None will be mindful ˹of this˺ except people of reason.",
+    "arabic1": "۞ أَفَمَن يَعْلَمُ أَنَّمَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ كَمَنْ هُوَ أَعْمَىٰٓ ۚ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+    "arabic2": "افمن يعلم انما انزل اليك من ربك الحق كمن هو اعمى انما يتذكر اولو الالباب",
+    "bengali": "যে ব্যক্তি জানে তোমার রবের পক্ষ থেকে তোমার প্রতি যা নাযিল হয়েছে, তা সত্য, সে কি তার মত, যে অন্ধ? বুদ্ধিমানরাই শুধু উপদেশ গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_19.mp3"
+        }
+    }
+}

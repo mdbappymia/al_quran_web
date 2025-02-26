@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 42,
+    "english": "˹They will be˺ in scorching heat and boiling water",
+    "arabic1": "فِى سَمُومٍ وَحَمِيمٍ",
+    "arabic2": "في سموم وحميم",
+    "bengali": "তারা থাকবে তীব্র গরম হাওয়া এবং প্রচন্ড উত্তপ্ত পানিতে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_42.mp3"
+        }
+    }
+}

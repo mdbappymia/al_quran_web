@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 7,
+    "english": "But they will never wish for that because of what their hands have done. And Allah has ˹perfect˺ knowledge of the wrongdoers.",
+    "arabic1": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+    "arabic2": "ولا يتمنونه ابدا بما قدمت ايديهم والله عليم بالظالمين",
+    "bengali": "আর তারা, তাদের হাত যা আগে পাঠিয়েছে সে কারণে কখনো মৃত্যু কামনা করবে না। আর আল্লাহ যালিমদের সম্পর্কে সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/62_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/62_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/62_7.mp3"
+        }
+    }
+}

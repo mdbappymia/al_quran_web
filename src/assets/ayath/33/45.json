@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 45,
+    "english": "O Prophet! We have sent you as a witness, and a deliverer of good news, and a warner",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+    "arabic2": "يا ايها النبي انا ارسلناك شاهدا ومبشرا ونذيرا",
+    "bengali": "হে নবী, আমি তোমাকে পাঠিয়েছি সাক্ষ্যদাতা, সুসংবাদদাতা ও সতর্ককারীরূপে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_45.mp3"
+        }
+    }
+}

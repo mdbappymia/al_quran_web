@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 18,
+    "english": "It will ˹even˺ cause the sky to split apart. His promise ˹of judgment˺ must be fulfilled.",
+    "arabic1": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+    "arabic2": "السماء منفطر به كان وعده مفعولا",
+    "bengali": "যার কারণে আসমান হবে বিদীর্ণ, আল্লাহর ওয়াদা হবে বাস্তবায়িত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_18.mp3"
+        }
+    }
+}

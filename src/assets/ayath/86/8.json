@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taariq",
+    "surahNameArabic": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameTranslation": "The Morning Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 17,
+    "surahNo": 86,
+    "ayahNo": 8,
+    "english": "Surely He is fully capable of bringing them back ˹to life˺",
+    "arabic1": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+    "arabic2": "انه على رجعه لقادر",
+    "bengali": "নিশ্চয় তিনি তাকে ফিরিয়ে আনতে সক্ষম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/86_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/86_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/86_8.mp3"
+        }
+    }
+}

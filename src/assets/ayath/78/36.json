@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 36,
+    "english": "a ˹fitting˺ reward as a generous gift from your Lord",
+    "arabic1": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+    "arabic2": "جزاء من ربك عطاء حسابا",
+    "bengali": "তোমার রবের পক্ষ থেকে প্রতিফল, যথোচিত দানস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_36.mp3"
+        }
+    }
+}

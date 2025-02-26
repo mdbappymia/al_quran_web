@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 22,
+    "english": "So he brought about their fall through deception. And when they tasted of the tree, their nakedness was exposed to them, prompting them to cover themselves with leaves from Paradise. Then their Lord called out to them, “Did I not forbid you from that tree and ˹did I not˺ tell you that Satan is your sworn enemy?”",
+    "arabic1": "فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+    "arabic2": "فدلاهما بغرور فلما ذاقا الشجرة بدت لهما سواتهما وطفقا يخصفان عليهما من ورق الجنة وناداهما ربهما الم انهكما عن تلكما الشجرة واقل لكما ان الشيطان لكما عدو مبين",
+    "bengali": "অতঃপর সে তাদেরকে প্রতারণার মাধ্যমে পদস্খলিত করল। তাই তারা যখন গাছটির ফল আস্বাদন করল, তাদের সামনে তাদের লজ্জাস্থান প্রকাশিত হয়ে গেল। আর তারা জান্নাতের পাতা দিয়ে নিজদেরকে ঢাকতে লাগল এবং তাদের রব তাদেরকে ডাকলেন যে, ‘আমি কি তোমাদেরকে ঐ গাছটি থেকে নিষেধ করিনি এবং তোমাদেরকে বলিনি যে নিশ্চয় শয়তান তোমাদের জন্য স্পষ্ট শত্রু’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_22.mp3"
+        }
+    }
+}

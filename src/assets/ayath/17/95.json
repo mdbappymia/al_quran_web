@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 95,
+    "english": "Say, ˹O Prophet,˺ “Had there been angels walking the earth, well settled, We would have surely sent down for them an angel from heaven as a messenger.”",
+    "arabic1": "قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَـٰٓئِكَةٌ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًا رَّسُولًا",
+    "arabic2": "قل لو كان في الارض ملائكة يمشون مطمئنين لنزلنا عليهم من السماء ملكا رسولا",
+    "bengali": "বল, ‘ফেরেশ্তারা যদি যমীনে চলাচল করত নিশ্চিন্তভাবে তাহলে আমি অবশ্যই আসমান হতে তাদের কাছে ফেরেশতা পাঠাতাম রাসূল হিসেবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_95.mp3"
+        }
+    }
+}

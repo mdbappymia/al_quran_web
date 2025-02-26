@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 55,
+    "english": "But ˹continue to˺ remind. For certainly reminders benefit the believers.",
+    "arabic1": "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ",
+    "arabic2": "وذكر فان الذكرى تنفع المؤمنين",
+    "bengali": "এবং উপদেশ দিতে থাক, কারণ উপদেশ মুমিনদের উপকারে আসে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_55.mp3"
+        }
+    }
+}

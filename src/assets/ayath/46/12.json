@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 12,
+    "english": "And before this ˹Quran˺ the Book of Moses was ˹revealed as˺ a guide and mercy. And this Book is a confirmation, in the Arabic tongue, to warn those who do wrong, and as good news to those who do good.",
+    "arabic1": "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً ۚ وَهَـٰذَا كِتَـٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+    "arabic2": "ومن قبله كتاب موسى اماما ورحمة وهذا كتاب مصدق لسانا عربيا لينذر الذين ظلموا وبشرى للمحسنين",
+    "bengali": "আর এর পূর্বে এসেছিল মূসার কিতাব পথপ্রদর্শক ও রহমতস্বরূপ। আর এটি তার সত্যায়নকারী কিতাব, আরবী ভাষায়; যাতে এটা যালিমদেরকে সতর্ক করতে পারে এবং তা ইনসাফকারীদের জন্য এক সুসংবাদ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_12.mp3"
+        }
+    }
+}

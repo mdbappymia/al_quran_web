@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 10,
+    "english": "Allah has ˹also˺ prepared for them a severe punishment. So fear Allah, O  people of reason and faith. Allah has indeed revealed to you a Reminder",
+    "arabic1": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
+    "arabic2": "اعد الله لهم عذابا شديدا فاتقوا الله يا اولي الالباب الذين امنوا قد انزل الله اليكم ذكرا",
+    "bengali": "আল্লাহ তাদের জন্য কঠিন আযাব প্রস্তুত রেখেছেন; সুতরাং তোমরা আল্লাহকে ভয় কর, হে বুদ্ধিসম্পন্ন লোকেরা, যারা ঈমান এনেছে; নিশ্চয় আল্লাহ তোমাদের কাছে পাঠিয়েছেন একটি উপদেশ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/65_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/65_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/65_10.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 168,
+    "english": "O humanity! Eat from what is lawful and good on the earth and do not follow Satan’s footsteps. He is truly your sworn enemy.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَـٰلًا طَيِّبًا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "arabic2": "يا ايها الناس كلوا مما في الارض حلالا طيبا ولا تتبعوا خطوات الشيطان انه لكم عدو مبين",
+    "bengali": "হে মানুষ, যমীনে যা রয়েছে, তা থেকে হালাল পবিত্র বস্তু আহার কর এবং শয়তানের পদাঙ্ক অনুসরণ করো না। নিশ্চয় সে তোমাদের জন্য সুস্পষ্ট শত্রু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_168.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_168.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_168.mp3"
+        }
+    }
+}

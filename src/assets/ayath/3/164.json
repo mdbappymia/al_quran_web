@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 164,
+    "english": "Indeed, Allah has done the believers a ˹great˺ favour by raising a messenger from among them—reciting to them His revelations, purifying them, and teaching them the Book and wisdom. For indeed they had previously been clearly astray.",
+    "arabic1": "لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "لقد من الله على المؤمنين اذ بعث فيهم رسولا من انفسهم يتلو عليهم اياته ويزكيهم ويعلمهم الكتاب والحكمة وان كانوا من قبل لفي ضلال مبين",
+    "bengali": "অবশ্যই আল্লাহ মুমিনদের উপর অনুগ্রহ করেছেন, যখন তিনি তাদের মধ্য থেকে তাদের প্রতি একজন রাসূল পাঠিয়েছেন, যে তাদের কাছে তাঁর আয়াতসমূহ তিলাওয়াত করে এবং তাদেরকে পরিশুদ্ধ করে আর তাদেরকে কিতাব ও হিকমাত শিক্ষা দেয়। যদিও তারা ইতঃপূর্বে স্পষ্ট ভ্রান্তিতে ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_164.mp3"
+        }
+    }
+}

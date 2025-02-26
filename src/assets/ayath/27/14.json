@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 14,
+    "english": "And, although their hearts were convinced the signs were true, they still denied them wrongfully and arrogantly. See then what was the end of the corruptors!",
+    "arabic1": "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا ۚ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+    "arabic2": "وجحدوا بها واستيقنتها انفسهم ظلما وعلوا فانظر كيف كان عاقبة المفسدين",
+    "bengali": "আর তারা অন্যায় ও উদ্ধতভাবে নিদর্শনগুলোকে প্রত্যাখ্যান করল। অথচ তাদের অন্তর তা নিশ্চিত বিশ্বাস করেছিল। অতএব দেখ, ফাসাদ সৃষ্টিকারীদের পরিণাম কেমন হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_14.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 5,
+    "english": "They have no knowledge of this, nor did their forefathers. What a terrible claim that comes out of their mouths! They say nothing but lies.",
+    "arabic1": "مَّا لَهُم بِهِۦ مِنْ عِلْمٍ وَلَا لِـَٔابَآئِهِمْ ۚ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَٰهِهِمْ ۚ إِن يَقُولُونَ إِلَّا كَذِبًا",
+    "arabic2": "ما لهم به من علم ولا لابائهم كبرت كلمة تخرج من افواههم ان يقولون الا كذبا",
+    "bengali": "এ ব্যাপারে তাদের কোন জ্ঞান নেই এবং তাদের পিতৃপুরুষদেরও না। বড় মারাত্মক কথা, যা তাদের মুখ থেকে বের হয়। মিথ্যা ছাড়া তারা কিছুই বলে না!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_5.mp3"
+        }
+    }
+}

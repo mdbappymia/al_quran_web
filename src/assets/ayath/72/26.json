@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 26,
+    "english": "˹He is the˺ Knower of the unseen, disclosing none of it to anyone",
+    "arabic1": "عَـٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا",
+    "arabic2": "عالم الغيب فلا يظهر على غيبه احدا",
+    "bengali": "তিনি অদৃশ্যের জ্ঞানী, আর তিনি তাঁর অদৃশ্যের জ্ঞান কারো কাছে প্রকাশ করেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_26.mp3"
+        }
+    }
+}

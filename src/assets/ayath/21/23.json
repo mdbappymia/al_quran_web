@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 23,
+    "english": "He cannot be questioned about what He does, but they will ˹all˺ be questioned.",
+    "arabic1": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+    "arabic2": "لا يسال عما يفعل وهم يسالون",
+    "bengali": "তিনি যা করেন সে ব্যাপারে তাকে প্রশ্ন করা যাবে না; বরং তাদেরকেই প্রশ্ন করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_23.mp3"
+        }
+    }
+}

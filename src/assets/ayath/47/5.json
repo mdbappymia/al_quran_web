@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 5,
+    "english": "He will guide them ˹to their reward˺, improve their condition",
+    "arabic1": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+    "arabic2": "سيهديهم ويصلح بالهم",
+    "bengali": "অচিরেই তিনি তাদেরকে হিদায়াত দিবেন এবং তাদের অবস্থা সংশোধন করে দিবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_5.mp3"
+        }
+    }
+}

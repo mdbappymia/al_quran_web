@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 17,
+    "english": "Moses pledged, “My Lord! For all Your favours upon me, I will never side with the wicked.”",
+    "arabic1": "قَالَ رَبِّ بِمَآ أَنْعَمْتَ عَلَىَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
+    "arabic2": "قال رب بما انعمت علي فلن اكون ظهيرا للمجرمين",
+    "bengali": "মূসা বলল, ‘হে আমার রব, আপনি যেহেতু আমার প্রতি নিআমত দান করেন, তাই আমি কখনো আর অপরাধীদের সাহায্যকারী হব না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_17.mp3"
+        }
+    }
+}

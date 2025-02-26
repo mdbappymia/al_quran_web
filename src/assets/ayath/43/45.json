@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 45,
+    "english": "Ask ˹the followers of˺ the messengers that We already sent before you if We ˹ever˺ appointed ˹other˺ gods to be worshipped besides the Most Compassionate.",
+    "arabic1": "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَـٰنِ ءَالِهَةً يُعْبَدُونَ",
+    "arabic2": "واسال من ارسلنا من قبلك من رسلنا اجعلنا من دون الرحمن الهة يعبدون",
+    "bengali": "আর তোমার পূর্বে আমি রাসূলগণ থেকে যাদের প্রেরণ করেছিলাম তুমি তাদেরকে জিজ্ঞাসা করে দেখ, আমি কি রহমানের পরিবর্তে অন্য কোন উপাস্য নির্ধারণ করে দিয়েছিলাম, যাদের ইবাদাত করা যাবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_45.mp3"
+        }
+    }
+}

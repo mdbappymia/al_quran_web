@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 31,
+    "english": "˹O believers!˺ Always turn to Him ˹in repentance˺, be mindful of Him, and establish prayers. And do not be polytheists—",
+    "arabic1": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "منيبين اليه واتقوه واقيموا الصلاة ولا تكونوا من المشركين",
+    "bengali": "তাঁর অভিমুখী হয়ে তাঁকে ভয় কর, সালাত কায়েম কর, আর মুশরিকদের অন্তর্ভুক্ত হয়ো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_31.mp3"
+        }
+    }
+}

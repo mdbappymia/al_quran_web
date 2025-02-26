@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 79,
+    "english": "Or have they mastered some ˹evil˺ plan? Then We ˹too˺ are surely planning.",
+    "arabic1": "أَمْ أَبْرَمُوٓا۟ أَمْرًا فَإِنَّا مُبْرِمُونَ",
+    "arabic2": "ام ابرموا امرا فانا مبرمون",
+    "bengali": "না কি তারা কোন ব্যাপারে পাকা সিদ্ধান্ত নিয়েছে? নিশ্চয় আমি চূড়ান্ত সিদ্ধান্তকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_79.mp3"
+        }
+    }
+}

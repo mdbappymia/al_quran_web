@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 2,
+    "english": "Your fellow man is neither misguided nor astray.",
+    "arabic1": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+    "arabic2": "ما ضل صاحبكم وما غوى",
+    "bengali": "তোমাদের সঙ্গী পথভ্রষ্ট হয়নি এবং বিপথগামীও হয়নি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_2.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 22,
+    "english": "Nor are the dead and the living equal. Indeed, Allah ˹alone˺ makes whoever He wills hear, but you ˹O Prophet˺ can never make those in the graves hear ˹your call˺.",
+    "arabic1": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ ۚ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ ۖ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ",
+    "arabic2": "وما يستوي الاحياء ولا الاموات ان الله يسمع من يشاء وما انت بمسمع من في القبور",
+    "bengali": "আর জীবিতরা ও মৃতরা এক নয়;* নিশ্চয় আল্লাহ যাকে ইচ্ছা শুনাতে পারেন, কিন্তু যে ব্যক্তি কবরে আছে তাকে তুমি শুনাতে পারবে না। \n* এই আয়াত ও আগের কয়েকটি আয়াতে ঈমান ও কুফরীকে নানা উপমায় চিত্রিত করা হয়েছে; ঈমান হল দৃষ্টিশক্তি, আলো, সুশীতল ছায়া আর প্রাণবন্ত জীবনের ন্যায়। পক্ষান্তরে কুফরী হল অন্ধত্ব, অন্ধকার, প্রচন্ড খরতাপ আর মৃত্যুতুল্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_22.mp3"
+        }
+    }
+}

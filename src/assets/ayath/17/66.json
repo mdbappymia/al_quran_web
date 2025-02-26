@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 66,
+    "english": "It is your Lord Who steers the ships for you through the sea, so that you may seek His bounty. Surely He is ever Merciful to you.",
+    "arabic1": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًا",
+    "arabic2": "ربكم الذي يزجي لكم الفلك في البحر لتبتغوا من فضله انه كان بكم رحيما",
+    "bengali": "তোমাদের রব তিনি, যিনি তোমাদের জন্য সমুদ্রে চালিত করেন নৌযান, যাতে তোমরা তাঁর অনুগ্রহ সন্ধান করতে পার। নিশ্চয় তিনি তোমাদের প্রতি পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_66.mp3"
+        }
+    }
+}

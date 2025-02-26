@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 42,
+    "english": "It cannot be proven false from any angle. ˹It is˺ a revelation from the ˹One Who is˺ All-Wise, Praiseworthy.",
+    "arabic1": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌ مِّنْ حَكِيمٍ حَمِيدٍ",
+    "arabic2": "لا ياتيه الباطل من بين يديه ولا من خلفه تنزيل من حكيم حميد",
+    "bengali": "বাতিল এতে অনুপ্রবেশ করতে পারে না, না সামনে থেকে, না পিছন থেকে। এটি প্রজ্ঞাময়, সপ্রশংসিতের পক্ষ থেকে নাযিলকৃত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_42.mp3"
+        }
+    }
+}

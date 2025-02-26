@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 75,
+    "english": "It is they who will be rewarded with ˹elevated˺ mansions ˹in Paradise˺ for their perseverance, and will be received with salutations and ˹greetings of˺ peace",
+    "arabic1": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَـٰمًا",
+    "arabic2": "اولئك يجزون الغرفة بما صبروا ويلقون فيها تحية وسلاما",
+    "bengali": "তারাই, যাদেরকে [জান্নাতে] সুউচ্চ কক্ষ প্রতিদান হিসাবে দেয়া হবে যেহেতু তারা সবর করেছিল সেজন্য। আর তাদের সেখানে অভ্যর্থনা করা হবে অভিবাদন ও সালাম দ্বারা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_75.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Quraish",
+    "surahNameArabic": "قريش",
+    "surahNameArabicLong": "سورة قريش",
+    "surahNameTranslation": "Quraysh",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 106,
+    "ayahNo": 4,
+    "english": "Who has fed them against hunger and made them secure against fear.",
+    "arabic1": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+    "arabic2": "الذي اطعمهم من جوع وامنهم من خوف",
+    "bengali": "যিনি ক্ষুধায় তাদেরকে আহার দিয়েছেন আর ভয় থেকে তাদেরকে নিরাপদ করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/106_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/106_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/106_4.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 31,
+    "english": "The decree of our Lord has come to pass against us ˹all˺: we will certainly taste ˹the punishment˺.",
+    "arabic1": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
+    "arabic2": "فحق علينا قول ربنا انا لذائقون",
+    "bengali": "‘তাই আমাদের বিরুদ্ধে আমাদের রবের বাণী সত্য হয়েছে; নিশ্চয় আমরা আস্বাদন করব (আযাব)’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_31.mp3"
+        }
+    }
+}

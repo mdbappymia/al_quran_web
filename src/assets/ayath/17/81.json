@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 81,
+    "english": "And declare, “The truth has come and falsehood has vanished. Indeed, falsehood is bound to vanish.”",
+    "arabic1": "وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَـٰطِلُ ۚ إِنَّ ٱلْبَـٰطِلَ كَانَ زَهُوقًا",
+    "arabic2": "وقل جاء الحق وزهق الباطل ان الباطل كان زهوقا",
+    "bengali": "আর বল, ‘হক এসেছে এবং বাতিল বিলুপ্ত হয়েছে। নিশ্চয় বাতিল বিলুপ্ত হওয়ারই ছিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_81.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_81.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_81.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 32,
+    "english": "Yet they will all be brought before Us.",
+    "arabic1": "وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+    "arabic2": "وان كل لما جميع لدينا محضرون",
+    "bengali": "আর তাদের সকলকে একত্রে আমার কাছে হাযির করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_32.mp3"
+        }
+    }
+}

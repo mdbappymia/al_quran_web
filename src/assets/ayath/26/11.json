@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 11,
+    "english": "the people of Pharaoh. Will they not fear ˹Allah˺?”",
+    "arabic1": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+    "arabic2": "قوم فرعون الا يتقون",
+    "bengali": "‘ফির‘আউনের সম্প্রদায়ের কাছে। তারা কি ভয় করবে না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_11.mp3"
+        }
+    }
+}

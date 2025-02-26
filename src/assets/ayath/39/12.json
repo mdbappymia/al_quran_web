@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 12,
+    "english": "And I am commanded to be the first of those who submit ˹to His Will˺.”",
+    "arabic1": "وَأُمِرْتُ لِأَنْ أَكُونَ أَوَّلَ ٱلْمُسْلِمِينَ",
+    "arabic2": "وامرت لان اكون اول المسلمين",
+    "bengali": "‘আমাকে আরো নির্দেশ দেয়া হয়েছে যেন আমি প্রথম মুসলিম হই।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_12.mp3"
+        }
+    }
+}

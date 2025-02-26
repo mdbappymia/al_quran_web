@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 51,
+    "english": "And Pharaoh called out to his people, boasting, “O my people! Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet? Can you not see?",
+    "arabic1": "وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَـٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ ٱلْأَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ",
+    "arabic2": "ونادى فرعون في قومه قال يا قوم اليس لي ملك مصر وهذه الانهار تجري من تحتي افلا تبصرون",
+    "bengali": "আর ফির‘আউন তার কওমের মধ্যে ঘোষণা দিয়ে বলল, ‘হে আমার কওম, মিসরের রাজত্ব কি আমার নয়? আর এ সব নদ-নদী কি আমার পাদদেশ দিয়ে প্রবাহিত হচ্ছে না, তোমরা কি দেখছ না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_51.mp3"
+        }
+    }
+}

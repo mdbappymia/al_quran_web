@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 62,
+    "english": "But if their intention is only to deceive you, then Allah is certainly sufficient for you. He is the One Who has supported you with His help and with the believers.",
+    "arabic1": "وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ ۚ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ وَبِٱلْمُؤْمِنِينَ",
+    "arabic2": "وان يريدوا ان يخدعوك فان حسبك الله هو الذي ايدك بنصره وبالمؤمنين",
+    "bengali": "আর যদি তারা তোমাকে ধোঁকা দিতে চায়, তাহলে তোমার জন্য আল্লাহই যথেষ্ট। তিনিই তোমাকে শক্তিশালী করেছেন তাঁর সাহায্য ও মুমিনদের দ্বারা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_62.mp3"
+        }
+    }
+}

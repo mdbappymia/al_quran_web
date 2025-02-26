@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 19,
+    "english": "Woe on that Day to the deniers!",
+    "arabic1": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+    "arabic2": "ويل يومئذ للمكذبين",
+    "bengali": "মিথ্যারোপকারীদের জন্য সেদিনের ধ্বংস!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_19.mp3"
+        }
+    }
+}

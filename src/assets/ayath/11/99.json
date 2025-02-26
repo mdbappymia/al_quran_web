@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 99,
+    "english": "They were followed by a curse in this ˹life˺ and ˹will receive another˺ on the Day of Judgment. What an evil gift to receive!",
+    "arabic1": "وَأُتْبِعُوا۟ فِى هَـٰذِهِۦ لَعْنَةً وَيَوْمَ ٱلْقِيَـٰمَةِ ۚ بِئْسَ ٱلرِّفْدُ ٱلْمَرْفُودُ",
+    "arabic2": "واتبعوا في هذه لعنة ويوم القيامة بئس الرفد المرفود",
+    "bengali": "আর এখানে (দুনিয়ায়) লা‘নত তাদের পেছনে লাগিয়ে দেয়া হয়েছে এবং কিয়ামত দিবসেও। কি নিকৃষ্ট প্রতিদান, যা তাদের দেয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_99.mp3"
+        }
+    }
+}

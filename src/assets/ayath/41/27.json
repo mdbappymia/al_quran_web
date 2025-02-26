@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 27,
+    "english": "So We will certainly make the disbelievers taste a severe punishment, and We will surely repay them according to the worst of their deeds.",
+    "arabic1": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟ عَذَابًا شَدِيدًا وَلَنَجْزِيَنَّهُمْ أَسْوَأَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "فلنذيقن الذين كفروا عذابا شديدا ولنجزينهم اسوا الذي كانوا يعملون",
+    "bengali": "সুতরাং আমি অবশ্যই কাফিরদেরকে কঠিন আযাব আস্বাদন করাব এবং আমি অবশ্যই তাদের কাজের নিকৃষ্টতম প্রতিদান দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_27.mp3"
+        }
+    }
+}

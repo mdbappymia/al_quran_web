@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 122,
+    "english": "˹However,˺ it is not necessary for the believers to march forth all at once. Only a party from each group should march forth, leaving the rest to gain religious knowledge then enlighten their people when they return to them, so that they ˹too˺ may beware ˹of evil˺.",
+    "arabic1": "۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+    "arabic2": "وما كان المؤمنون لينفروا كافة فلولا نفر من كل فرقة منهم طائفة ليتفقهوا في الدين ولينذروا قومهم اذا رجعوا اليهم لعلهم يحذرون",
+    "bengali": "আর মুমিনদের জন্য সংগত নয় যে, তারা সকলে একসঙ্গে অভিযানে বের হবে। অতঃপর তাদের প্রতিটি দল থেকে কিছু লোক কেন বের হয় না, যাতে তারা দীনের গভীর জ্ঞান আহরণ করতে পারে এবং আপন সম্প্রদায় যখন তাদের নিকট প্রত্যাবর্তন করবে, তখন তাদেরকে সতর্ক করতে পারে, যাতে তারা (গুনাহ থেকে) বেঁচে থাকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_122.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 141,
+    "english": "and distinguish the ˹true˺ believers and destroy the disbelievers.",
+    "arabic1": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "وليمحص الله الذين امنوا ويمحق الكافرين",
+    "bengali": "আর যাতে আল্লাহ পরিশুদ্ধ করেন ঈমানদারদেরকে এবং ধ্বংস করে দেন কাফিরদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_141.mp3"
+        }
+    }
+}

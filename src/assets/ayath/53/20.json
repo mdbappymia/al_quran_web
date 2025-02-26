@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 20,
+    "english": "and the third one, Manât, as well?",
+    "arabic1": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+    "arabic2": "ومناة الثالثة الاخرى",
+    "bengali": "আর মানাত সম্পর্কে, যা তৃতীয় আরেকটি?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_20.mp3"
+        }
+    }
+}

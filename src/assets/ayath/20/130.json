@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 130,
+    "english": "So be patient ˹O Prophet˺ with what they say. And glorify the praises of your Lord before sunrise and before sunset, and glorify Him in the hours of the night and at both ends of the day, so that you may be pleased ˹with the reward˺.",
+    "arabic1": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+    "arabic2": "فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل غروبها ومن اناء الليل فسبح واطراف النهار لعلك ترضى",
+    "bengali": "সুতরাং এরা যা বলে তার উপর ধৈর্য ধারণ কর এবং তাসবীহ পাঠ কর তোমার রবের প্রশংসা বর্ণনার মাধ্যমে, সূর্যোদয়ের পূর্বে, সূর্যাস্তের পূর্বে এবং তাসবীহ পাঠ কর রাতের কিছু অংশে ও দিনের প্রান্তসমূহে, যাতে তুমি সন্তুষ্ট হতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_130.mp3"
+        }
+    }
+}

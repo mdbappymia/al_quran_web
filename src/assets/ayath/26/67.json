@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 67,
+    "english": "Surely in this is a sign. Yet most of them would not believe.",
+    "arabic1": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic2": "ان في ذلك لاية وما كان اكثرهم مؤمنين",
+    "bengali": "নিশ্চয় এর মধ্যে রয়েছে নিদর্শন। আর তাদের অধিকাংশই মুমিন নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_67.mp3"
+        }
+    }
+}

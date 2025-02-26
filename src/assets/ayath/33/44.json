@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 44,
+    "english": "Their greeting on the Day they meet Him will be, “Peace!” And He has prepared for them an honourable reward.",
+    "arabic1": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+    "arabic2": "تحيتهم يوم يلقونه سلام واعد لهم اجرا كريما",
+    "bengali": "যেদিন তারা তাঁর সাথে সাক্ষাৎ করবে সেদিন তাদের অভিবাদন হবে: ‘সালাম’। আর তিনি তাদের জন্য প্রস্তুত রেখেছেন সম্মানজনক প্রতিদান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_44.mp3"
+        }
+    }
+}

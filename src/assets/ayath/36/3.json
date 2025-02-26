@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 3,
+    "english": "You ˹O Prophet˺ are truly one of the messengers",
+    "arabic1": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+    "arabic2": "انك لمن المرسلين",
+    "bengali": "নিশ্চয় তুমি রাসূলদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_3.mp3"
+        }
+    }
+}

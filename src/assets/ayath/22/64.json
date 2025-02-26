@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 64,
+    "english": "To Him belongs whatever is in the heavens and whatever is on the earth. Allah ˹alone˺ is truly the Self-Sufficient, Praiseworthy.",
+    "arabic1": "لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَإِنَّ ٱللَّهَ لَهُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+    "arabic2": "له ما في السماوات وما في الارض وان الله لهو الغني الحميد",
+    "bengali": "আসমানসমূহ ও যমীনে যা কিছু আছে, সব তাঁরই। আর নিশ্চয় আল্লাহই তো অভাবমুক্ত, সকল প্রশংসার অধিকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_64.mp3"
+        }
+    }
+}

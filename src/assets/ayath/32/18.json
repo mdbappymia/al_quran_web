@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 18,
+    "english": "Is the one who is a believer equal ˹before Allah˺ to the one who is rebellious? They are not equal!",
+    "arabic1": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا ۚ لَّا يَسْتَوُۥنَ",
+    "arabic2": "افمن كان مؤمنا كمن كان فاسقا لا يستوون",
+    "bengali": "যে ব্যক্তি মুমিন সে কি ফাসিক ব্যক্তির মত? তারা সমান নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_18.mp3"
+        }
+    }
+}

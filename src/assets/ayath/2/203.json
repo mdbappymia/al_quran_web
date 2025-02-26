@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 203,
+    "english": "And remember Allah during ˹these˺ appointed days. Whoever departs swiftly on the second day is not sinful, neither are those who stay behind ˹till the third—seeking additional reward˺, so long as they are mindful ˹of their Lord˺. And be mindful of Allah, and know that to Him you will ˹all˺ be gathered.",
+    "arabic1": "۞ وَٱذْكُرُوا۟ ٱللَّهَ فِىٓ أَيَّامٍ مَّعْدُودَٰتٍ ۚ فَمَن تَعَجَّلَ فِى يَوْمَيْنِ فَلَآ إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَآ إِثْمَ عَلَيْهِ ۚ لِمَنِ ٱتَّقَىٰ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "واذكروا الله في ايام معدودات فمن تعجل في يومين فلا اثم عليه ومن تاخر فلا اثم عليه لمن اتقى واتقوا الله واعلموا انكم اليه تحشرون",
+    "bengali": "আর আল্লাহকে স্মরণ কর নির্দিষ্ট দিনসমূহে। অতঃপর যে তাড়াহুড়া করে দু’দিনে চলে আসবে। তার কোন পাপ নেই। আর যে বিলম্ব করবে, তারও কোন অপরাধ নেই। (এ বিধান) তার জন্য, যে তাকওয়া অবলম্বন করেছে। আর তোমরা আল্লাহর তাকওয়া অবলম্বন কর এবং জেনে রাখ, নিশ্চয় তোমাদেরকে তাঁরই কাছে সমবেত করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_203.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_203.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_203.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 42,
+    "english": "You invite me to disbelieve in Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, Most Forgiving.",
+    "arabic1": "تَدْعُونَنِى لِأَكْفُرَ بِٱللَّهِ وَأُشْرِكَ بِهِۦ مَا لَيْسَ لِى بِهِۦ عِلْمٌ وَأَنَا۠ أَدْعُوكُمْ إِلَى ٱلْعَزِيزِ ٱلْغَفَّـٰرِ",
+    "arabic2": "تدعونني لاكفر بالله واشرك به ما ليس لي به علم وانا ادعوكم الى العزيز الغفار",
+    "bengali": "‘তোমরা আমাকে ডাকছ আমি যেন আল্লাহর সাথে কুফরী করি, তাঁর সাথে শরীক করি যে ব্যাপারে আমার কোন জ্ঞান নেই; আর আমি তোমাদেরকে ডাকছি মহাপরাক্রমশালী ও পরম ক্ষমাশীলের দিকে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_42.mp3"
+        }
+    }
+}

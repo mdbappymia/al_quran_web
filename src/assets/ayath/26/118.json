@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 118,
+    "english": "So judge between me and them decisively, and save me and the believers with me.”",
+    "arabic1": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "فافتح بيني وبينهم فتحا ونجني ومن معي من المؤمنين",
+    "bengali": "‘সুতরাং আপনি আমার ও তাদের মধ্যে ফয়সালা করে দিন আর আমাকে ও আমার সাথে যেসব মুমিন, আছে তাদেরকে রক্ষা করুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_118.mp3"
+        }
+    }
+}

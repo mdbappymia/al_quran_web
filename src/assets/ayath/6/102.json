@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 102,
+    "english": "That is Allah—your Lord! There is no god ˹worthy of worship˺ except Him. ˹He is˺ the Creator of all things, so worship Him ˹alone˺. And He is the Maintainer of everything.",
+    "arabic1": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ خَـٰلِقُ كُلِّ شَىْءٍ فَٱعْبُدُوهُ ۚ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+    "arabic2": "ذلكم الله ربكم لا اله الا هو خالق كل شيء فاعبدوه وهو على كل شيء وكيل",
+    "bengali": "তিনিই আল্লাহ, তোমাদের রব। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি প্রতিটি জিনিসের স্রষ্টা। সুতরাং তোমরা তাঁর ইবাদাত কর। আর তিনি প্রতিটি জিনিসের উপর তত্ত্বাবধায়ক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_102.mp3"
+        }
+    }
+}

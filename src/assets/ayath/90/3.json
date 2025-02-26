@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 3,
+    "english": "and by every parent and ˹their˺ child!",
+    "arabic1": "وَوَالِدٍ وَمَا وَلَدَ",
+    "arabic2": "ووالد وما ولد",
+    "bengali": "কসম জনকের এবং যা সে জন্ম দেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/90_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/90_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/90_3.mp3"
+        }
+    }
+}

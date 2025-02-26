@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 152,
+    "english": "And do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Give full measure and weigh with justice. We never require of any soul more than what it can afford. Whenever you speak, maintain justice—even regarding a close relative. And fulfil your covenant with Allah. This is what He has commanded you, so perhaps you will be mindful.",
+    "arabic1": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+    "arabic2": "ولا تقربوا مال اليتيم الا بالتي هي احسن حتى يبلغ اشده واوفوا الكيل والميزان بالقسط لا نكلف نفسا الا وسعها واذا قلتم فاعدلوا ولو كان ذا قربى وبعهد الله اوفوا ذلكم وصاكم به لعلكم تذكرون",
+    "bengali": "আর তোমরা ইয়াতীমের সম্পদের নিকটবর্তী হয়ো না, সুন্দর পন্থা ছাড়া। যতক্ষণ না সে পরিণত বয়সে উপনীত হয়, আর পরিমাপ ও ওযন ইনসাফের সাথে পরিপূর্ণ দেবে। আমি কাউকে তার সাধ্য ছাড়া দায়িত্ব অর্পণ করি না। আর যখন তোমরা কথা বলবে, তখন ইনসাফ কর, যদিও সে আত্মীয় হয় এবং আল্লাহর ওয়াদা পূর্ণ কর। এগুলো তিনি তোমাদেরকে নির্দেশ দিয়েছেন। যাতে তোমরা উপদেশ গ্রহণ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_152.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_152.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_152.mp3"
+        }
+    }
+}

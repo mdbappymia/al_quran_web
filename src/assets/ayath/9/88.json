@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 88,
+    "english": "But the Messenger and the believers with him strived with their wealth and their lives. They will have all the best, and it is they who will be successful.",
+    "arabic1": "لَـٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ وَأُو۟لَـٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "لكن الرسول والذين امنوا معه جاهدوا باموالهم وانفسهم واولئك لهم الخيرات واولئك هم المفلحون",
+    "bengali": "কিন্তু রাসূল ও তার সাথে মুমিনরা তাদের মাল ও জান দিয়ে জিহাদ করে, আর সে সব লোকের জন্যই রয়েছে যাবতীয় কল্যাণ এবং তারাই সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_88.mp3"
+        }
+    }
+}

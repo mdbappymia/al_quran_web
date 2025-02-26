@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 31,
+    "english": "He has made me a blessing wherever I go, and bid me to establish prayer and give alms-tax as long as I live",
+    "arabic1": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+    "arabic2": "وجعلني مباركا اين ما كنت واوصاني بالصلاة والزكاة ما دمت حيا",
+    "bengali": "‘আর যেখানেই আমি থাকি না কেন তিনি আমাকে বরকতময় করেছেন এবং যতদিন আমি জীবিত থাকি তিনি আমাকে সালাত ও যাকাত আদায় করতে আদেশ করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_31.mp3"
+        }
+    }
+}

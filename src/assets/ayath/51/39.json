@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 39,
+    "english": "but Pharaoh was carried away by his power, saying ˹of Moses˺, “A magician or a madman!”",
+    "arabic1": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ أَوْ مَجْنُونٌ",
+    "arabic2": "فتولى بركنه وقال ساحر او مجنون",
+    "bengali": "কিন্তু সে তার দলবলসহ মুখ ফিরিয়ে নিল এবং বলল, ‘এ ব্যক্তি যাদুকর অথবা উম্মাদ।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_39.mp3"
+        }
+    }
+}

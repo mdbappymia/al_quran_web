@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 4,
+    "english": "and to warn those who claim, “Allah has offspring.”",
+    "arabic1": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا",
+    "arabic2": "وينذر الذين قالوا اتخذ الله ولدا",
+    "bengali": "আর যেন সতর্ক করে তাদেরকে, যারা বলে, আল্লাহ সন্তান গ্রহণ করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_4.mp3"
+        }
+    }
+}

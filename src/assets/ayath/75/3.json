@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 3,
+    "english": "Do people think We cannot reassemble their bones?",
+    "arabic1": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+    "arabic2": "ايحسب الانسان الن نجمع عظامه",
+    "bengali": "মানুষ কি মনে করে যে, আমি কখনই তার অস্থিসমূহ একত্র করব না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_3.mp3"
+        }
+    }
+}

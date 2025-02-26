@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 3,
+    "english": "We narrate to you ˹O Prophet˺ part of the story of Moses and Pharaoh in truth for people who believe.",
+    "arabic1": "نَتْلُوا۟ عَلَيْكَ مِن نَّبَإِ مُوسَىٰ وَفِرْعَوْنَ بِٱلْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "نتلو عليك من نبا موسى وفرعون بالحق لقوم يؤمنون",
+    "bengali": "আমি তোমার কাছে পাঠ করছি মূসা ও ফির‘আউনের কিছু বৃত্তান্ত যথাযথভাবে, এমন লোকদের জন্য যারা ঈমান আনে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_3.mp3"
+        }
+    }
+}

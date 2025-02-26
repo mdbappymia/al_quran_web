@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "ayahNo": 4,
+    "english": "stirring up ˹clouds of˺ dust",
+    "arabic1": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+    "arabic2": "فاثرن به نقعا",
+    "bengali": "অতঃপর সে তা দ্বারা ধুলি উড়ায়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/100_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/100_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/100_4.mp3"
+        }
+    }
+}

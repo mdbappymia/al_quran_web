@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 45,
+    "english": "O believers! When you face an enemy, stand firm and remember Allah often so you may triumph.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمْ فِئَةً فَٱثْبُتُوا۟ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "يا ايها الذين امنوا اذا لقيتم فئة فاثبتوا واذكروا الله كثيرا لعلكم تفلحون",
+    "bengali": "হে মুমিনগণ, যখন তোমরা কোন দলের মুখোমুখি হও, তখন অবিচল থাক, আর আল্লাহকে অধিক স্মরণ কর, যাতে তোমরা সফল হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_45.mp3"
+        }
+    }
+}

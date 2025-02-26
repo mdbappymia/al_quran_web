@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 21,
+    "english": "And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, and in them are many other benefits for you, and from them you may eat.",
+    "arabic1": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+    "arabic2": "وان لكم في الانعام لعبرة نسقيكم مما في بطونها ولكم فيها منافع كثيرة ومنها تاكلون",
+    "bengali": "আর নিশ্চয় গবাদিপশুর মধ্যে তোমাদের জন্য শিক্ষণীয় বিষয় রয়েছে। তাদের পেটে যা আছে তা থেকে আমি তোমাদেরকে পান করাই। আর এতে তোমাদের জন্য প্রচুর উপকারিতা রয়েছে এবং তা থেকে তোমরা খাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_21.mp3"
+        }
+    }
+}

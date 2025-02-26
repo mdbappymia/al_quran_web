@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 105,
+    "english": "How many signs in the heavens and the earth do they pass by with indifference!",
+    "arabic1": "وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+    "arabic2": "وكاين من اية في السماوات والارض يمرون عليها وهم عنها معرضون",
+    "bengali": "আর আসমানসমূহ ও যমীনে কত নিদর্শন রয়েছে, যা তারা অতিক্রম করে চলে যায়, অথচ সেগুলো থেকে তারা বিমুখ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_105.mp3"
+        }
+    }
+}

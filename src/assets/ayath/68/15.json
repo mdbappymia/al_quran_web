@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 15,
+    "english": "whenever Our revelations are recited to him, he says, “Ancient fables!”",
+    "arabic1": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "اذا تتلى عليه اياتنا قال اساطير الاولين",
+    "bengali": "যখন তার কাছে আমার আয়াতসমূহ তিলাওয়াত করা হয় তখন সে বলে, এগুলো পূর্ববর্তীদের কল্পকাহিনীমাত্র।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_15.mp3"
+        }
+    }
+}

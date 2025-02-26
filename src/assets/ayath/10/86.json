@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 86,
+    "english": "and deliver us by Your mercy from the disbelieving people.”",
+    "arabic1": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "arabic2": "ونجنا برحمتك من القوم الكافرين",
+    "bengali": "‘আর আমাদেরকে আপনার অনুগ্রহে কাফির কওম থেকে নাজাত দিন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_86.mp3"
+        }
+    }
+}

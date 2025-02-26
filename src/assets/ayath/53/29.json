@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 29,
+    "english": "So turn away ˹O Prophet˺ from whoever has shunned Our Reminder, only seeking the ˹fleeting˺ life of this world.",
+    "arabic1": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+    "arabic2": "فاعرض عن من تولى عن ذكرنا ولم يرد الا الحياة الدنيا",
+    "bengali": "অতএব তুমি তাকে উপেক্ষা করে চল, যে আমার স্মরণ থেকে বিমুখ হয় এবং কেবল দুনিয়ার জীবনই কামনা করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_29.mp3"
+        }
+    }
+}

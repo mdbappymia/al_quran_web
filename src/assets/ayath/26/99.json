@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 99,
+    "english": "And none led us astray other than the wicked.",
+    "arabic1": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+    "arabic2": "وما اضلنا الا المجرمون",
+    "bengali": "‘আর অপরাধীরাই শুধু আমাদেরকে পথভ্রষ্ট করেছিল’;",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_99.mp3"
+        }
+    }
+}

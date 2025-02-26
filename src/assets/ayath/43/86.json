@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 86,
+    "english": "˹But˺ those ˹objects of worship˺ they invoke besides Him have no power to intercede, except those who testify to the truth knowingly.",
+    "arabic1": "وَلَا يَمْلِكُ ٱلَّذِينَ يَدْعُونَ مِن دُونِهِ ٱلشَّفَـٰعَةَ إِلَّا مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ",
+    "arabic2": "ولا يملك الذين يدعون من دونه الشفاعة الا من شهد بالحق وهم يعلمون",
+    "bengali": "আর তিনি ছাড়া যাদেরকে তারা আহবান করে তারা সুপারিশের মালিক হবে না; তবে তারা ছাড়া যারা জেনে-শুনে সত্য সাক্ষ্য দেয় ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_86.mp3"
+        }
+    }
+}

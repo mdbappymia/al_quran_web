@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 45,
+    "english": "Then We sent Moses and his brother Aaron with Our signs and compelling proof",
+    "arabic1": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "ثم ارسلنا موسى واخاه هارون باياتنا وسلطان مبين",
+    "bengali": "তারপর আমি মূসা ও তার ভাই হারূনকে আমার নিদর্শনাবলী ও সুস্পষ্ট প্রমাণসহ প্রেরণ করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_45.mp3"
+        }
+    }
+}

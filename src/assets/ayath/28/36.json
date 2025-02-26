@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 36,
+    "english": "But when Moses came to them with Our clear signs, they said ˹arrogantly˺, “This is nothing but conjured magic ˹tricks˺. We have never heard of this in ˹the history of˺ our forefathers.”",
+    "arabic1": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍ قَالُوا۟ مَا هَـٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+    "arabic2": "فلما جاءهم موسى باياتنا بينات قالوا ما هذا الا سحر مفترى وما سمعنا بهذا في ابائنا الاولين",
+    "bengali": "অতঃপর মূসা যখন তাদের কাছে আমার সুস্পষ্ট নিদর্শনগুলো নিয়ে আসল, তখন তারা বলল, ‘এ তো মিথ্যা যাদু ছাড়া আর কিছুই নয় এবং এরূপ কথা আমাদের পিতৃপুরুষদের মধ্যেও শুনিনি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_36.mp3"
+        }
+    }
+}

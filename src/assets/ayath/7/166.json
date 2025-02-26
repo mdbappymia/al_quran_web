@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 166,
+    "english": "But when they stubbornly persisted in violation, We said to them, “Be disgraced apes!”",
+    "arabic1": "فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+    "arabic2": "فلما عتوا عن ما نهوا عنه قلنا لهم كونوا قردة خاسئين",
+    "bengali": "অতঃপর যা থেকে তাদেরকে নিষেধ করা হয়েছিল তারা যখন সে বিষয়ে সীমালঙ্ঘন করল, তখন আমি তাদেরকে বললাম, ‘তোমরা নিকৃষ্ট বানর হয়ে যাও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_166.mp3"
+        }
+    }
+}

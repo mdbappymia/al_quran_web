@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 191,
+    "english": "Do they associate ˹with Allah˺ those ˹idols˺ which cannot create anything, but are in fact created;",
+    "arabic1": "أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ",
+    "arabic2": "ايشركون ما لا يخلق شيئا وهم يخلقون",
+    "bengali": "তারা কি এমন কিছুকে শরীক করে, যারা কোন কিছু সৃষ্টি করে না, বরং তাদেরকেই সৃষ্টি করা হয়?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_191.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_191.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_191.mp3"
+        }
+    }
+}

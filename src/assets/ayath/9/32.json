@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 32,
+    "english": "They wish to extinguish Allah’s light with their mouths, but Allah will only allow His light to be perfected, even to the dismay of the disbelievers.",
+    "arabic1": "يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+    "arabic2": "يريدون ان يطفئوا نور الله بافواههم ويابى الله الا ان يتم نوره ولو كره الكافرون",
+    "bengali": "তারা আল্লাহর নূরকে নির্বাপিত করতে চায় তাদের মুখের (ফুঁক) দ্বারা, কিন্তু আল্লাহ তো তাঁর নূর পরিপূর্ণ করা ছাড়া অন্য কিছু চান না, যদিও কাফিররা অপছন্দ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_32.mp3"
+        }
+    }
+}

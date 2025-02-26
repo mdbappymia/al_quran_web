@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 7,
+    "english": "followed by a second Blast.",
+    "arabic1": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+    "arabic2": "تتبعها الرادفة",
+    "bengali": "তাকে অনুসরণ করবে পরবর্তী কম্পনকারী।* \n*দ্বিতীয় শিংগাধ্বনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_7.mp3"
+        }
+    }
+}

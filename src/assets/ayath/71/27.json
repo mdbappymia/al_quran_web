@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 27,
+    "english": "For if You spare ˹any of˺ them, they will certainly mislead Your servants, and give birth only to ˹wicked˺ sinners, staunch disbelievers.",
+    "arabic1": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+    "arabic2": "انك ان تذرهم يضلوا عبادك ولا يلدوا الا فاجرا كفارا",
+    "bengali": "‘আপনি যদি তাদেরকে অবশিষ্ট রাখেন তবে তারা আপনার বান্দাদেরকে পথভ্রষ্ট করবে এবং দুরাচারী ও কাফির ছাড়া অন্য কারো জন্ম দেবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_27.mp3"
+        }
+    }
+}

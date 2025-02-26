@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 103,
+    "english": "The Supreme Horror ˹of that Day˺ will not disturb them, and the angels will greet them, ˹saying,˺ “This is your Day, which you have been promised.”",
+    "arabic1": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ هَـٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ",
+    "arabic2": "لا يحزنهم الفزع الاكبر وتتلقاهم الملائكة هذا يومكم الذي كنتم توعدون",
+    "bengali": "মহাভীতি তাদেরকে পেরেশান করবে না। আর ফেরেশতারা তাদেরকে অভ্যর্থনা জানিয়ে বলবে, ‘এটাই তোমাদের সেই দিন, যার ওয়াদা তোমাদেরকে দেয়া হয়েছিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_103.mp3"
+        }
+    }
+}

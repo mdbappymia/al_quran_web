@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 77,
+    "english": "When Our messenger-angels came to Lot, he was distressed and worried by their arrival. He said, “This is a terrible day.”",
+    "arabic1": "وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَـٰذَا يَوْمٌ عَصِيبٌ",
+    "arabic2": "ولما جاءت رسلنا لوطا سيء بهم وضاق بهم ذرعا وقال هذا يوم عصيب",
+    "bengali": "আর যখন লূতের কাছে আমার ফেরেশতা আসল, তখন তাদের (আগমনের) কারণে তার অস্বস্তিবোধ হল এবং তার অন্তর খুব সঙ্কুচিত হয়ে গেল। আর সে বলল, ‘এ তো কঠিন দিন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_77.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_77.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_77.mp3"
+        }
+    }
+}

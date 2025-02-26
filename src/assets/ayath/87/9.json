@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 9,
+    "english": "So ˹always˺ remind ˹with the Quran˺—˹even˺ if the reminder is beneficial ˹only to some˺.",
+    "arabic1": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+    "arabic2": "فذكر ان نفعت الذكرى",
+    "bengali": "অতঃপর উপদেশ দাও যদি উপদেশ ফলপ্রসু হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_9.mp3"
+        }
+    }
+}

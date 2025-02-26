@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 90,
+    "english": "Indeed, those who disbelieve after having believed then increase in disbelief, their repentance will never be accepted. It is they who are astray.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+    "arabic2": "ان الذين كفروا بعد ايمانهم ثم ازدادوا كفرا لن تقبل توبتهم واولئك هم الضالون",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে ঈমান আনার পর, তারপর তারা কুফরীতে বেড়ে গিয়েছে, তাদের তাওবা কখনো কবুল করা হবে না। আর তারাই পথভ্রষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_90.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_90.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_90.mp3"
+        }
+    }
+}

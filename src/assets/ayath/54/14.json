@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 14,
+    "english": "sailing under Our ˹watchful˺ Eyes—a ˹fair˺ punishment on behalf of the one ˹they˺ denied.",
+    "arabic1": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+    "arabic2": "تجري باعيننا جزاء لمن كان كفر",
+    "bengali": "যা আমার চাক্ষুস তত্ত্বাবধানে চলত, তার জন্য পুরস্কারস্বরূপ, যাকে প্রত্যাখ্যান করা হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_14.mp3"
+        }
+    }
+}

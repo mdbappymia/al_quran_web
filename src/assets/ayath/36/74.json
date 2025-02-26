@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 74,
+    "english": "Still they have taken other gods besides Allah, hoping to be helped ˹by them˺.",
+    "arabic1": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ",
+    "arabic2": "واتخذوا من دون الله الهة لعلهم ينصرون",
+    "bengali": "অথচ তারা আল্লাহর পরিবর্তে অন্য সব ইলাহ গ্রহণ করেছে, এই প্রত্যাশায় যে, তারা সাহায্যপ্রাপ্ত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_74.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 45,
+    "english": "˹Finally,˺ the surviving ex-prisoner remembered ˹Joseph˺ after a long time and said, “I will tell you its interpretation, so send me forth ˹to Joseph˺.”",
+    "arabic1": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+    "arabic2": "وقال الذي نجا منهما وادكر بعد امة انا انبئكم بتاويله فارسلون",
+    "bengali": "আর সে দু’জনের মধ্যে যে মুক্তি পেয়েছিল, সে বলল এবং দীর্ঘ দিন পর তার স্মরণ হল, ‘আমি তোমাদেরকে এর ব্যাখ্যা জানিয়ে দিচ্ছি, অতএব তোমরা আমাকে পাঠিয়ে দাও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_45.mp3"
+        }
+    }
+}

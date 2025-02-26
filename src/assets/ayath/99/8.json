@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "ayahNo": 8,
+    "english": "And whoever does an atom’s weight of evil will see it.",
+    "arabic1": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+    "arabic2": "ومن يعمل مثقال ذرة شرا يره",
+    "bengali": "আর কেউ অণু পরিমাণ খারাপ কাজ করলে তাও সে দেখবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/99_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/99_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/99_8.mp3"
+        }
+    }
+}

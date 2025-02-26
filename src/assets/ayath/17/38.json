@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 38,
+    "english": "The violation of any of these ˹commandments˺ is detestable to your Lord.",
+    "arabic1": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكْرُوهًا",
+    "arabic2": "كل ذلك كان سيئه عند ربك مكروها",
+    "bengali": "এ সবের যা মন্দ তা তোমার রবের নিকট অপছন্দনীয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_38.mp3"
+        }
+    }
+}

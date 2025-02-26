@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 8,
+    "english": "We have commanded people to honour their parents. But if they urge you to associate with Me what you have no knowledge of, then do not obey them. To Me you will ˹all˺ return, and then I will inform you of what you used to do.",
+    "arabic1": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حُسْنًا ۖ وَإِن جَـٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ ۚ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "ووصينا الانسان بوالديه حسنا وان جاهداك لتشرك بي ما ليس لك به علم فلا تطعهما الي مرجعكم فانبئكم بما كنتم تعملون",
+    "bengali": "আর আমি মানুষকে নির্দেশ দিয়েছি তার পিতা-মাতার সাথে সদাচরণ করতে। তবে যদি তারা তোমার উপর প্রচেষ্টা চালায় আমার সাথে এমন কিছুকে শরীক করতে যার সম্পর্কে তোমার কোন জ্ঞান নেই, তাহলে তুমি তাদের আনুগত্য করবে না। আমার দিকেই তোমাদের প্রত্যাবর্তন। অতঃপর তোমরা যা করতে আমি তা তোমাদেরকে জানিয়ে দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_8.mp3"
+        }
+    }
+}

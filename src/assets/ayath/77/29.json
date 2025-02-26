@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 29,
+    "english": "˹The disbelievers will be told,˺ “Proceed into that ˹Fire˺ which you used to deny!",
+    "arabic1": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+    "arabic2": "انطلقوا الى ما كنتم به تكذبون",
+    "bengali": "(তাদেরকে বলা হবে), তোমরা যা অস্বীকার করতে সেদিকে গমন কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_29.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 12,
+    "english": "To Him belong the keys ˹of the treasuries˺ of the heavens and the earth. He gives abundant or limited provisions to whoever He wills. Indeed, He has ˹perfect˺ knowledge of all things.",
+    "arabic1": "لَهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "له مقاليد السماوات والارض يبسط الرزق لمن يشاء ويقدر انه بكل شيء عليم",
+    "bengali": "আসমানসমূহ ও যমীনের চাবি তাঁর কাছে; যার জন্য ইচ্ছা তিনি রিয্ক প্রশস্ত করেন এবং নিয়ন্ত্রিত করেন; নিশ্চয় তিনি সকল বিষয়ে সর্বজ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_12.mp3"
+        }
+    }
+}

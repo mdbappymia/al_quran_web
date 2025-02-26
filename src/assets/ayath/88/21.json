@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 21,
+    "english": "So, ˹continue to˺ remind ˹all, O  Prophet˺, for your duty is only to remind.",
+    "arabic1": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+    "arabic2": "فذكر انما انت مذكر",
+    "bengali": "অতএব তুমি উপদেশ দাও, তুমি তো একজন উপদেশদাতা মাত্র।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_21.mp3"
+        }
+    }
+}

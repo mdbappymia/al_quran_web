@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 79,
+    "english": "It is Allah Who made cattle for you so that you may ride some and eat others.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَنْعَـٰمَ لِتَرْكَبُوا۟ مِنْهَا وَمِنْهَا تَأْكُلُونَ",
+    "arabic2": "الله الذي جعل لكم الانعام لتركبوا منها ومنها تاكلون",
+    "bengali": "আল্লাহই তোমাদের জন্য গবাদি পশু সৃষ্টি করেছেন, যাতে তোমরা এদের কতকের উপর আরোহণ করতে পার আর কতক তোমরা খেতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_79.mp3"
+        }
+    }
+}

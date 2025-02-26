@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 1,
+    "english": "By those ˹winds˺ sent forth successively",
+    "arabic1": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+    "arabic2": "والمرسلات عرفا",
+    "bengali": "কসম কল্যাণের উদ্দেশ্যে প্রেরিত বাতাসের,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_1.mp3"
+        }
+    }
+}

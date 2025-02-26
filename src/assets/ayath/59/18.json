@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 18,
+    "english": "O believers! Be mindful of Allah and let every soul look to what ˹deeds˺ it has sent forth for tomorrow. And fear Allah, ˹for˺ certainly Allah is All-Aware of what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "يا ايها الذين امنوا اتقوا الله ولتنظر نفس ما قدمت لغد واتقوا الله ان الله خبير بما تعملون",
+    "bengali": "হে ঈমানদারগণ, তোমরা আল্লাহকে ভয় কর; আর প্রত্যেকের উচিত চিন্তা করে দেখা সে আগামীকালের জন্য কি প্রেরণ করেছে; তোমরা আল্লাহকে ভয় কর। তোমরা যা কর নিশ্চয় আল্লাহ সে বিষয়ে সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_18.mp3"
+        }
+    }
+}

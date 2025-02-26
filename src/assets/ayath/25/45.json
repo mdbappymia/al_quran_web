@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 45,
+    "english": "Have you not seen how your Lord extends the shade—He could have simply made it ˹remain˺ still if He so willed—then We make the sun its guide",
+    "arabic1": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا",
+    "arabic2": "الم تر الى ربك كيف مد الظل ولو شاء لجعله ساكنا ثم جعلنا الشمس عليه دليلا",
+    "bengali": "তুমি কি তোমার রবকে দেখনি, কীভাবে তিনি ছায়াকে দীর্ঘ করেছেন, আর তিনি যদি চাইতেন, তাহলে তাকে অবশ্যই স্থির করে দিতে পারতেন। অতঃপর আমি সূর্যকে তার উপর নির্দেশক বানিয়ে দিয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_45.mp3"
+        }
+    }
+}

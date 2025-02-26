@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 19,
+    "english": "The sky will be ˹split˺ open, becoming ˹many˺ gates",
+    "arabic1": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+    "arabic2": "وفتحت السماء فكانت ابوابا",
+    "bengali": "আর আসমান খুলে দেয়া হবে, ফলে তা হবে বহু দ্বারবিশিষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_19.mp3"
+        }
+    }
+}

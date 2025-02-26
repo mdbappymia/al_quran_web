@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 35,
+    "english": "never to hear any idle talk or lying therein—",
+    "arabic1": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+    "arabic2": "لا يسمعون فيها لغوا ولا كذابا",
+    "bengali": "তারা সেখানে কোন অসার ও মিথ্যা কথা শুনবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_35.mp3"
+        }
+    }
+}

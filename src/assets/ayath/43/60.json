@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 60,
+    "english": "Had We willed, We could have easily replaced you ˹all˺ with angels, succeeding one another on earth.",
+    "arabic1": "وَلَوْ نَشَآءُ لَجَعَلْنَا مِنكُم مَّلَـٰٓئِكَةً فِى ٱلْأَرْضِ يَخْلُفُونَ",
+    "arabic2": "ولو نشاء لجعلنا منكم ملائكة في الارض يخلفون",
+    "bengali": "আর যদি আমি চাইতাম, তবে আমি তোমাদের পরিবর্তে ফেরেশতা সৃষ্টি করে পাঠাতাম যারা যমীনে তোমাদের উত্তরাধিকার হত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_60.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 20,
+    "english": "Allah has promised you ˹believers˺ abundant spoils, which you will gain, so He hastened this ˹truce˺ for you. And He has held people’s hands back from ˹harming˺ you, so it may be a sign for the believers, and so He may guide you along the Straight Path.",
+    "arabic1": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا",
+    "arabic2": "وعدكم الله مغانم كثيرة تاخذونها فعجل لكم هذه وكف ايدي الناس عنكم ولتكون اية للمؤمنين ويهديكم صراطا مستقيما",
+    "bengali": "আল্লাহ তোমাদেরকে প্রভূত গনীমতের ওয়াদা দিয়েছেন যা তোমরা গ্রহণ করবে; অতঃপর এগুলি আগে দিয়েছেন; আর মানুষের হাত তোমাদের থেকে ফিরিয়ে রেখেছেন এবং যাতে এটি মুমিনদের জন্য একটি নিদর্শন হয়, আর তিনি তোমাদেরকে সরল পথ দেখান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_20.mp3"
+        }
+    }
+}

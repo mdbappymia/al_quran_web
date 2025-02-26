@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 28,
+    "english": "And he left this enduring declaration among his descendants, so they may ˹always˺ turn back ˹to Allah˺.",
+    "arabic1": "وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "وجعلها كلمة باقية في عقبه لعلهم يرجعون",
+    "bengali": "আর এটিকে সে তার উত্তরসূরীদের মধ্যে এক চিরন্তন বাণী বানিয়ে রেখে গেল, যাতে তারা প্রত্যাবর্তন করতে পারে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_28.mp3"
+        }
+    }
+}

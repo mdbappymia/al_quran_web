@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 12,
+    "english": "Why should we not put our trust in Allah, when He has truly guided us to ˹the very best of˺ ways? Indeed, we will patiently endure whatever harm you may cause us. And in Allah let the faithful put their trust.”",
+    "arabic1": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+    "arabic2": "وما لنا الا نتوكل على الله وقد هدانا سبلنا ولنصبرن على ما اذيتمونا وعلى الله فليتوكل المتوكلون",
+    "bengali": "‘আর আমরা কেন আল্লাহর উপর তাওয়াক্কুল করব না, অথচ তিনিই আমাদেরকে আমাদের পথের দিশা দিয়েছেন। আর তোমরা আমাদের যে কষ্ট দিচ্ছ, আমরা তার উপর অবশ্যই সবর করব। আর আল্লাহর উপরই যেন তাওয়াক্কুলকারীরা তাওয়াক্কুল করে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_12.mp3"
+        }
+    }
+}

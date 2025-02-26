@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 9,
+    "english": "Those who believe and do good will surely be admitted by Us into ˹the company of˺ the righteous.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُدْخِلَنَّهُمْ فِى ٱلصَّـٰلِحِينَ",
+    "arabic2": "والذين امنوا وعملوا الصالحات لندخلنهم في الصالحين",
+    "bengali": "আর যারা ঈমান আনে এবং সৎকর্ম করে, আমি অবশ্যই তাদেরকে সৎকর্মশীলদের অন্তর্ভুক্ত করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_9.mp3"
+        }
+    }
+}

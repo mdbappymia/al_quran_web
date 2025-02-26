@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 63,
+    "english": "If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors.",
+    "arabic1": "فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ عَلِيمٌۢ بِٱلْمُفْسِدِينَ",
+    "arabic2": "فان تولوا فان الله عليم بالمفسدين",
+    "bengali": "তবুও যদি তারা উপেক্ষা করে, তবে নিশ্চয় আল্লাহ ফাসাদ সৃষ্টিকারীদের সম্পর্কে অবগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_63.mp3"
+        }
+    }
+}

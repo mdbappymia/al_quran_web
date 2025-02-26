@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 9,
+    "english": "and the sky is torn apart",
+    "arabic1": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+    "arabic2": "واذا السماء فرجت",
+    "bengali": "আর আকাশ বিদীর্ণ হবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_9.mp3"
+        }
+    }
+}

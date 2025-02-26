@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 49,
+    "english": "One never tires of praying for good. And if touched with evil, they become desperate and hopeless.",
+    "arabic1": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ",
+    "arabic2": "لا يسام الانسان من دعاء الخير وان مسه الشر فيئوس قنوط",
+    "bengali": "কল্যাণ প্রার্থনায় মানুষ বিরক্ত হয় না; আর যদি অকল্যাণ তাকে স্পর্শ করে তাহলে সে নিরাশ ও হতাশ হয়ে পড়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_49.mp3"
+        }
+    }
+}

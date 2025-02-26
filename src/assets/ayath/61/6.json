@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 6,
+    "english": "And ˹remember˺ when Jesus, son of Mary, said, “O children of Israel! I am truly Allah’s messenger to you, confirming the Torah which came before me, and giving good news of a messenger after me whose name will be Aḥmad.” Yet when the Prophet came to them with clear proofs, they said, “This is pure magic.”",
+    "arabic1": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+    "arabic2": "واذ قال عيسى ابن مريم يا بني اسرائيل اني رسول الله اليكم مصدقا لما بين يدي من التوراة ومبشرا برسول ياتي من بعدي اسمه احمد فلما جاءهم بالبينات قالوا هذا سحر مبين",
+    "bengali": "আর যখন মারইয়াম পুত্র ঈসা বলেছিল, ‘হে বনী ইসরাঈল, নিশ্চয় আমি তোমাদের নিকট আল্লাহর রাসূল। আমার পূর্ববর্তী তাওরাতের সত্যায়নকারী এবং একজন রাসূলের সুসংবাদদাতা যিনি আমার পরে আসবেন, যার নাম আহমদ’। অতঃপর সে যখন সুস্পষ্ট নিদর্শনসমূহ নিয়ে আগমন করল, তখন তারা বলল, ‘এটাতো স্পষ্ট যাদু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/61_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/61_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/61_6.mp3"
+        }
+    }
+}

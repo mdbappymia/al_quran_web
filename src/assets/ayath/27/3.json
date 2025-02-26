@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 3,
+    "english": "˹those˺ who establish prayer, pay alms-tax, and have sure faith in the Hereafter.",
+    "arabic1": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+    "arabic2": "الذين يقيمون الصلاة ويؤتون الزكاة وهم بالاخرة هم يوقنون",
+    "bengali": "যারা সালাত কায়েম করে এবং যাকাত দেয়। আর তারাই আখিরাতের প্রতি নিশ্চিত বিশ্বাস রাখে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 1,
+    "english": "Woe to the defrauders!",
+    "arabic1": " وَيْلٌ لِّلْمُطَفِّفِينَ",
+    "arabic2": "ويل للمطففين",
+    "bengali": "ধ্বংস যারা পরিমাপে কম দেয় তাদের জন্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_1.mp3"
+        }
+    }
+}

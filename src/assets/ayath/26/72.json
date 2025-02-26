@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 72,
+    "english": "Abraham asked, “Can they hear you when you call upon them?",
+    "arabic1": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+    "arabic2": "قال هل يسمعونكم اذ تدعون",
+    "bengali": "সে বলল, ‘যখন তোমরা ডাক তখন তারা কি তোমাদের সে ডাক শুনতে পায়?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_72.mp3"
+        }
+    }
+}

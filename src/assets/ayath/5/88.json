@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 88,
+    "english": "Eat of the good, lawful things provided to you by Allah. And be mindful of Allah in Whom you believe.",
+    "arabic1": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+    "arabic2": "وكلوا مما رزقكم الله حلالا طيبا واتقوا الله الذي انتم به مؤمنون",
+    "bengali": "আর আহার কর আল্লাহ যা তোমাদের রিয্ক দিয়েছেন তা থেকে হালাল, পবিত্র বস্তু। আর তাকওয়া অবলম্বন কর আল্লাহর যার প্রতি তোমরা মুমিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_88.mp3"
+        }
+    }
+}

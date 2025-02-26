@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 195,
+    "english": "Do they have feet to walk with? Or hands to hold with? Or eyes to see with? Or ears to hear with? Say, ˹O Prophet,˺ “Call upon your associate-gods and conspire against me without delay!",
+    "arabic1": "أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ ۖ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ ۖ أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَآ ۖ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا ۗ قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ",
+    "arabic2": "الهم ارجل يمشون بها ام لهم ايد يبطشون بها ام لهم اعين يبصرون بها ام لهم اذان يسمعون بها قل ادعوا شركاءكم ثم كيدون فلا تنظرون",
+    "bengali": "তাদের কি পা আছে যার সাহায্যে তারা চলে? বা তাদের কি হাত আছে যা দ্বারা তারা ধরে? বা তাদের কি চক্ষু আছে যার মাধ্যমে তারা দেখে? অথবা তাদের কি কান আছে যা দ্বারা তারা শুনে? বল, ‘তোমরা তোমাদের শরীকদের ডাক। তারপর আমার বিরুদ্ধে ষড়যন্ত্র কর এবং আমাকে অবকাশ দিয়ো না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_195.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_195.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_195.mp3"
+        }
+    }
+}

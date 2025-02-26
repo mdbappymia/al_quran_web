@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 17,
+    "english": "And by the night and whatever it envelops!",
+    "arabic1": "وَٱلَّيْلِ وَمَا وَسَقَ",
+    "arabic2": "والليل وما وسق",
+    "bengali": "আর রাতের কসম এবং রাত যা কিছুর সমাবেশ ঘটায় তার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_17.mp3"
+        }
+    }
+}

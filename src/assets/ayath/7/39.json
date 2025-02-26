@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 39,
+    "english": "Then the leaders will say to their followers, “You were no better than us! So taste the torment for what you used to commit.”",
+    "arabic1": "وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ",
+    "arabic2": "وقالت اولاهم لاخراهم فما كان لكم علينا من فضل فذوقوا العذاب بما كنتم تكسبون",
+    "bengali": "আর তাদের পূর্ববর্তী দল পরবর্তী দলকে বলবে, ‘তাহলে আমাদের উপর তোমাদের কোন শ্রেষ্ঠত্ব নেই। অতএব তোমরা যা অর্জন করেছিলে, তার কারণে তোমরা আযাব আস্বাদন কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_39.mp3"
+        }
+    }
+}

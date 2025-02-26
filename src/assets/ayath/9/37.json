@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 37,
+    "english": "Reallocating the sanctity of ˹these˺ months is an increase in disbelief, by which the disbelievers are led ˹far˺ astray. They adjust the sanctity one year and uphold it in another, only to maintain the number of months sanctified by Allah, violating the very months Allah has made sacred. Their evil deeds have been made appealing to them. And Allah does not guide the disbelieving people.",
+    "arabic1": "إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَـٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "انما النسيء زيادة في الكفر يضل به الذين كفروا يحلونه عاما ويحرمونه عاما ليواطئوا عدة ما حرم الله فيحلوا ما حرم الله زين لهم سوء اعمالهم والله لا يهدي القوم الكافرين",
+    "bengali": "নিশ্চয় কোন মাসকে পিছিয়ে দেয়া কুফরী বৃদ্ধি করে, এর দ্বারা কাফিররা পথভ্রষ্ট হয়, তারা এটি এক বছর হালাল করে এবং আরেক বছর হারাম করে, যাতে তারা আল্লাহ যা হারাম করেছেন তার সংখ্যা ঠিক রাখে। ফলে আল্লাহ যা হারাম করেছেন, তা তারা হালাল করে। তাদের মন্দ আমলসমূহ তাদের জন্য সুশোভিত করা হয়েছে। আর আল্লাহ কাফির কওমকে হিদায়াত দেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_37.mp3"
+        }
+    }
+}

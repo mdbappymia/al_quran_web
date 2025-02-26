@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 194,
+    "english": "Our Lord! Grant us what You have promised us through Your messengers and do not put us to shame on Judgment Day—for certainly You never fail in Your promise.”",
+    "arabic1": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ",
+    "arabic2": "ربنا واتنا ما وعدتنا على رسلك ولا تخزنا يوم القيامة انك لا تخلف الميعاد",
+    "bengali": "‘হে আমাদের রব, আর আপনি আমাদেরকে তা প্রদান করুন যার ওয়াদা আপনি আমাদেরকে দিয়েছেন আপনার রাসূলগণের মাধ্যমে। আর কিয়ামতের দিনে আপনি আমাদেরকে অপমান করবেন না। নিশ্চয় আপনি অঙ্গীকার ভঙ্গ করেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_194.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_194.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_194.mp3"
+        }
+    }
+}

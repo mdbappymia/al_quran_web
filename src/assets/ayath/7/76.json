@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 76,
+    "english": "The arrogant said, “We surely reject what you believe in.”",
+    "arabic1": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا بِٱلَّذِىٓ ءَامَنتُم بِهِۦ كَـٰفِرُونَ",
+    "arabic2": "قال الذين استكبروا انا بالذي امنتم به كافرون",
+    "bengali": "যারা অহঙ্কার করেছিল তারা বলল, ‘নিশ্চয় তোমরা যার প্রতি ঈমান এনেছ, আমরা তার প্রতি অস্বীকারকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_76.mp3"
+        }
+    }
+}

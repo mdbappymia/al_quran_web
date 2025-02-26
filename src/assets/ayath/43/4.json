@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 4,
+    "english": "And indeed, it is—in the Master Record with Us—highly esteemed, rich in wisdom.",
+    "arabic1": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+    "arabic2": "وانه في ام الكتاب لدينا لعلي حكيم",
+    "bengali": "আর নিশ্চয় তা আমার কাছে উম্মুল কিতাবে সুউচ্চ মর্যাদাসম্পন্ন, প্রজ্ঞাপূর্ণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_4.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 10,
+    "english": "and doomed is the one who corrupts it!",
+    "arabic1": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+    "arabic2": "وقد خاب من دساها",
+    "bengali": "এবং সে ব্যর্থ হয়েছে, যে তা (নাফস)-কে কলুষিত করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_10.mp3"
+        }
+    }
+}

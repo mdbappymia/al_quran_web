@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 13,
+    "english": "Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. The believers saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight.",
+    "arabic1": "قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا ۖ فِئَةٌ تُقَـٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ ۚ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ ۗ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ",
+    "arabic2": "قد كان لكم اية في فئتين التقتا فئة تقاتل في سبيل الله واخرى كافرة يرونهم مثليهم راي العين والله يؤيد بنصره من يشاء ان في ذلك لعبرة لاولي الابصار",
+    "bengali": "নিশ্চয় তোমাদের জন্য নিদর্শন রয়েছে দু’টি দলের মধ্যে, যারা পরস্পর মুখোমুখি হয়েছিল। একটি দল লড়াই করছিল আল্লাহর পথে এবং অপর দলটি কাফির। তারা বাহ্যিক দৃষ্টিতে তাদেরকে ওদের দ্বিগুণ দেখছিল। আর আল্লাহ নিজ সাহায্য দ্বারা যাকে চান শক্তিশালী করেন। নিশ্চয় এতে রয়েছে চক্ষুষ্মানদের জন্য শিক্ষা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_13.mp3"
+        }
+    }
+}

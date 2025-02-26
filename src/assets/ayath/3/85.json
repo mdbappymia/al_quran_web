@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 85,
+    "english": "Whoever seeks a way other than Islam, it will never be accepted from them, and in the Hereafter they will be among the losers.",
+    "arabic1": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+    "arabic2": "ومن يبتغ غير الاسلام دينا فلن يقبل منه وهو في الاخرة من الخاسرين",
+    "bengali": "আর যে ইসলাম ছাড়া অন্য কোন দীন চায় তবে তার কাছ থেকে তা কখনো গ্রহণ করা হবে না এবং সে আখিরাতে ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_85.mp3"
+        }
+    }
+}

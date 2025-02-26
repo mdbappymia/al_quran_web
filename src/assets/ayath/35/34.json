@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 34,
+    "english": "And they will say, “Praise be to Allah, Who has kept away from us all ˹causes of˺ sorrow. Our Lord is indeed All-Forgiving, Most Appreciative.",
+    "arabic1": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+    "arabic2": "وقالوا الحمد لله الذي اذهب عنا الحزن ان ربنا لغفور شكور",
+    "bengali": "আর তারা বলবে, ‘সকল প্রশংসা আল্লাহর, যিনি আমাদের দুঃখ-কষ্ট দূর করে দিয়েছেন। নিশ্চয় আমাদের রব পরম ক্ষমাশীল, মহাগুণগ্রাহী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_34.mp3"
+        }
+    }
+}

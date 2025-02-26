@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 63,
+    "english": "˹Only˺ Allah knows what is in their hearts. So turn away from them, caution them, and give them advice that will shake their very souls.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا",
+    "arabic2": "اولئك الذين يعلم الله ما في قلوبهم فاعرض عنهم وعظهم وقل لهم في انفسهم قولا بليغا",
+    "bengali": "ওরা হল সেসব লোক, যাদের অন্তরে কি আছে আল্লাহ তা জানেন। সুতরাং তুমি তাদের থেকে মুখ ফিরিয়ে নাও এবং তাদেরকে সদুপদেশ দাও। আর তাদেরকে তাদের নিজদের ব্যাপারে মর্মস্পর্শী কথা বল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_63.mp3"
+        }
+    }
+}

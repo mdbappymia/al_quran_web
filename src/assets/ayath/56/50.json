@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 50,
+    "english": "will surely be gathered ˹together˺ for the appointed Day.",
+    "arabic1": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+    "arabic2": "لمجموعون الى ميقات يوم معلوم",
+    "bengali": "এক নির্ধারিত দিনের নির্দিষ্ট সময়ে অবশ্যই একত্র হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_50.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 33,
+    "english": "O humanity! Be mindful of your Lord, and beware of a Day when no parent will be of any benefit to their child, nor will a child be of any benefit to their parent. Surely Allah’s promise is true. So do not let the life of this world deceive you, nor let the Chief Deceiver deceive you about Allah.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+    "arabic2": "يا ايها الناس اتقوا ربكم واخشوا يوما لا يجزي والد عن ولده ولا مولود هو جاز عن والده شيئا ان وعد الله حق فلا تغرنكم الحياة الدنيا ولا يغرنكم بالله الغرور",
+    "bengali": "হে মানুষ, তোমরা তোমাদের রবকে ভয় কর এবং সেই দিনকে ভয় কর যেদিন পিতা তার সন্তানের কোন উপকার করতে পারবে না এবং সন্তানও তার পিতার কোন উপকারে আসবে না। নিশ্চয় আল্লাহর ওয়াদা সত্য। সুতরাং দুনিয়ার জীবন যেন কিছুতেই তোমাদেরকে ধোকা দিতে না পারে এবং মহাপ্রতারক (শয়তান) যেন তোমাদেরকে আল্লাহ সম্পর্কে ধোকায় ফেলতে না পারে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_33.mp3"
+        }
+    }
+}

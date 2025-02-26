@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 196,
+    "english": "“Indeed, my Protector is Allah Who has revealed this Book. For He ˹alone˺ protects the righteous.",
+    "arabic1": "إِنَّ وَلِـِّۧىَ ٱللَّهُ ٱلَّذِى نَزَّلَ ٱلْكِتَـٰبَ ۖ وَهُوَ يَتَوَلَّى ٱلصَّـٰلِحِينَ",
+    "arabic2": "ان وليي الله الذي نزل الكتاب وهو يتولى الصالحين",
+    "bengali": "‘নিশ্চয় আমার অভিভাবক আল্লাহ, যিনি কিতাব নাযিল করেছেন। আর তিনি নেককারদের দেখাশোনা করেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_196.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_196.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_196.mp3"
+        }
+    }
+}

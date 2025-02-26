@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 56,
+    "english": "They swear by Allah that they are part of you, but they are not. They only say so out of fear.",
+    "arabic1": "وَيَحْلِفُونَ بِٱللَّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُم مِّنكُمْ وَلَـٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ",
+    "arabic2": "ويحلفون بالله انهم لمنكم وما هم منكم ولكنهم قوم يفرقون",
+    "bengali": "আর তারা আল্লাহর কসম করে যে, নিশ্চয় তারা তোমাদের অন্তর্ভুক্ত, অথচ তারা তোমাদের অন্তর্ভুক্ত নয়। বরং তারা এমন কওম যারা ভীত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_56.mp3"
+        }
+    }
+}

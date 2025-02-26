@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 65,
+    "english": "But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.",
+    "arabic1": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+    "arabic2": "فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في انفسهم حرجا مما قضيت ويسلموا تسليما",
+    "bengali": "অতএব তোমার রবের কসম, তারা মুমিন হবে না যতক্ষণ না তাদের মধ্যে সৃষ্ট বিবাদের ব্যাপারে তোমাকে বিচারক নির্ধারণ করে, তারপর তুমি যে ফয়সালা দেবে সে ব্যাপারে নিজদের অন্তরে কোন দ্বিধা অনুভব না করে এবং পূর্ণ সম্মতিতে মেনে নেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_65.mp3"
+        }
+    }
+}

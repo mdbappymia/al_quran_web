@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 29,
+    "english": "My Word cannot be changed, nor am I unjust to ˹My˺ creation.”",
+    "arabic1": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "ما يبدل القول لدي وما انا بظلام للعبيد",
+    "bengali": "‘আমার কাছে কথা রদবদল হয় না, আর আমি বান্দার প্রতি যুলমকারীও নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_29.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 117,
+    "english": "So We cautioned, “O Adam! This is surely an enemy to you and to your wife. So do not let him drive you both out of Paradise, for you ˹O Adam˺ would then suffer ˹hardship˺.",
+    "arabic1": "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ هَـٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ",
+    "arabic2": "فقلنا يا ادم ان هذا عدو لك ولزوجك فلا يخرجنكما من الجنة فتشقى",
+    "bengali": "অতঃপর আমি বললাম, ‘হে আদম, নিশ্চয় এ তোমার ও তোমার স্ত্রীর শত্রু। সুতরাং সে যেন তোমাদের উভয়কে জান্নাত থেকে কিছুতেই বের করে না দেয়, তাহলে তোমরা দুর্ভোগ পোহাবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_117.mp3"
+        }
+    }
+}

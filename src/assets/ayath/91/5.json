@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 5,
+    "english": "And by heaven and ˹the One˺ Who built it",
+    "arabic1": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+    "arabic2": "والسماء وما بناها",
+    "bengali": "কসম আসমানের এবং যিনি তা বানিয়েছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_5.mp3"
+        }
+    }
+}

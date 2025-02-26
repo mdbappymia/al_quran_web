@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 2,
+    "english": "obeying its Lord as it must",
+    "arabic1": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+    "arabic2": "واذنت لربها وحقت",
+    "bengali": "আর তার রবের নির্দেশ পালন করবে এবং এটাই তার করণীয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_2.mp3"
+        }
+    }
+}

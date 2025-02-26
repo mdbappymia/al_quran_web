@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 10,
+    "english": "Those in awe ˹of Allah˺ will be mindful ˹of it˺.",
+    "arabic1": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+    "arabic2": "سيذكر من يخشى",
+    "bengali": "সে-ই উপদেশ গ্রহণ করে, যে ভয় করে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_10.mp3"
+        }
+    }
+}

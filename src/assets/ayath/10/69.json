@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 69,
+    "english": "Say, ˹O Prophet,˺ “Indeed, those who fabricate lies against Allah will never succeed.”",
+    "arabic1": "قُلْ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+    "arabic2": "قل ان الذين يفترون على الله الكذب لا يفلحون",
+    "bengali": "বল, ‘নিশ্চয় যারা আল্লাহর নামে মিথ্যা রটায়, তারা সফল হবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_69.mp3"
+        }
+    }
+}

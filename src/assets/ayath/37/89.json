@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 89,
+    "english": "then said, “I am really sick.”",
+    "arabic1": "فَقَالَ إِنِّى سَقِيمٌ",
+    "arabic2": "فقال اني سقيم",
+    "bengali": "তারপর বলল, ‘আমি তো অসুস্থ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_89.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_89.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_89.mp3"
+        }
+    }
+}

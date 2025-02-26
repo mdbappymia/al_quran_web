@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 78,
+    "english": "Strive for ˹the cause of˺ Allah in the way He deserves, for ˹it is˺ He ˹Who˺ has chosen you, and laid upon you no hardship in the religion—the way of your forefather Abraham. ˹It is Allah˺ Who named you ‘the ones who submit’ ˹in the˺ earlier ˹Scriptures˺ and in this ˹Quran˺, so that the Messenger may be a witness over you, and that you may be witnesses over humanity. So establish prayer, pay alms-tax, and hold fast to Allah. He ˹alone˺ is your Guardian. What an excellent Guardian, and what an excellent Helper!",
+    "arabic1": "وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+    "arabic2": "وجاهدوا في الله حق جهاده هو اجتباكم وما جعل عليكم في الدين من حرج ملة ابيكم ابراهيم هو سماكم المسلمين من قبل وفي هذا ليكون الرسول شهيدا عليكم وتكونوا شهداء على الناس فاقيموا الصلاة واتوا الزكاة واعتصموا بالله هو مولاكم فنعم المولى ونعم النصير",
+    "bengali": "আর তোমরা আল্লাহর পথে জিহাদ কর যেভাবে জিহাদ করা উচিৎ। তিনি তোমাদেরকে মনোনীত করেছেন। দীনের ব্যাপারে তিনি তোমাদের উপর কোন কঠোরতা আরোপ করেননি। এটা তোমাদের পিতা ইবরাহীমের দীন। তিনিই তোমাদের নাম রেখেছেন ‘মুসলিম’ পূর্বে এবং এ কিতাবেও। যাতে রাসূল তোমাদের জন্য সাক্ষী হয় আর তোমরা মানুষের জন্য সাক্ষী হও। অতএব তোমরা সালাত কায়েম কর, যাকাত দাও এবং আল্লাহকে মজবুতভাবে ধর। তিনিই তোমাদের অভিভাবক। আর তিনি কতই না উত্তম অভিভাবক এবং কতই না উত্তম সাহায্যকারী!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_78.mp3"
+        }
+    }
+}

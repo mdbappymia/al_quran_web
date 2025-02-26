@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 45,
+    "english": "Your duty is only to warn whoever is in awe of it.",
+    "arabic1": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+    "arabic2": "انما انت منذر من يخشاها",
+    "bengali": "তুমিতো কেবল তাকেই সতর্ককারী, যে একে ভয় করে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_45.mp3"
+        }
+    }
+}

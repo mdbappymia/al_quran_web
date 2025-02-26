@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 17,
+    "english": "Can the One Who creates be equal to those who do not? Will you not then be mindful?",
+    "arabic1": "أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+    "arabic2": "افمن يخلق كمن لا يخلق افلا تذكرون",
+    "bengali": "সুতরাং যে সৃষ্টি করে, সে কি তার মত, যে সৃষ্টি করে না? অতএব তোমরা কি উপদেশ গ্রহণ করবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_17.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 69,
+    "english": "We have not taught him poetry, nor is it fitting for him. This ˹Book˺ is only a Reminder and a clear Quran",
+    "arabic1": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+    "arabic2": "وما علمناه الشعر وما ينبغي له ان هو الا ذكر وقران مبين",
+    "bengali": "আমি রাসূলকে কাব্য শিখাইনি এবং এটি তার জন্য শোভনীয়ও নয়। এ তো কেবল এক উপদেশ ও স্পষ্ট কুরআন মাত্র।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_69.mp3"
+        }
+    }
+}

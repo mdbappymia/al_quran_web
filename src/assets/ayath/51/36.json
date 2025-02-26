@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 36,
+    "english": "But We only found one family that had submitted ˹to Allah˺.",
+    "arabic1": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ",
+    "arabic2": "فما وجدنا فيها غير بيت من المسلمين",
+    "bengali": "তবে আমি সেখানে একটি বাড়ী ছাড়া কোন মুসলমান পাইনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_36.mp3"
+        }
+    }
+}

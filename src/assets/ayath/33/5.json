@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 5,
+    "english": "Let your adopted children keep their family names. That is more just in the sight of Allah. But if you do not know their fathers, then they are ˹simply˺ your fellow believers and close associates. There is no blame on you for what you do by mistake, but ˹only˺ for what you do intentionally. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "ادعوهم لابائهم هو اقسط عند الله فان لم تعلموا اباءهم فاخوانكم في الدين ومواليكم وليس عليكم جناح فيما اخطاتم به ولكن ما تعمدت قلوبكم وكان الله غفورا رحيما",
+    "bengali": "তোমরা তাদেরকে তাদের পিতৃ-পরিচয়ে ডাক; আল্লাহর কাছে এটাই অধিক ইনসাফপূর্ণ। অতঃপর যদি তোমরা তাদের পিতৃ-পরিচয় না জান, তাহলে তারা তোমাদের দীনি ভাই এবং তোমাদের বন্ধু। আর এ বিষয়ে তোমরা কোন ভুল করলে তোমাদের কোন পাপ নেই; কিন্তু তোমাদের অন্তরে সংকল্প থাকলে (পাপ হবে)। আর আল্লাহ অধিক ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_5.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 137,
+    "english": "You ˹Meccans˺ certainly pass by their ruins day",
+    "arabic1": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+    "arabic2": "وانكم لتمرون عليهم مصبحين",
+    "bengali": "আর তোমরা নিশ্চয় তাদের (ধ্বংসাবশেষের) উপর দিয়ে অতিক্রম করে থাক সকালে-",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_137.mp3"
+        }
+    }
+}

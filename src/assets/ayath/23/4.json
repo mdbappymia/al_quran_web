@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 4,
+    "english": "those who pay alms-tax;",
+    "arabic1": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+    "arabic2": "والذين هم للزكاة فاعلون",
+    "bengali": "আর যারা যাকাতের ক্ষেত্রে সক্রিয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_4.mp3"
+        }
+    }
+}

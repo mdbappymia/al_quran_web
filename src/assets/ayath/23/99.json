@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 99,
+    "english": "When death approaches any of them, they cry, “My Lord! Let me go back",
+    "arabic1": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ",
+    "arabic2": "حتى اذا جاء احدهم الموت قال رب ارجعون",
+    "bengali": "অবশেষে যখন তাদের কারো মৃত্যু আসে, সে বলে, ‘হে আমার রব, আমাকে ফেরত পাঠান,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_99.mp3"
+        }
+    }
+}

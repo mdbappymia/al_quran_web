@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 96,
+    "english": "Bring me blocks of iron!” Then, when he had filled up ˹the gap˺ between the two mountains, he ordered, “Blow!” When the iron became red hot, he said, “Bring me molten copper to pour over it.”",
+    "arabic1": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًا",
+    "arabic2": "اتوني زبر الحديد حتى اذا ساوى بين الصدفين قال انفخوا حتى اذا جعله نارا قال اتوني افرغ عليه قطرا",
+    "bengali": "‘তোমরা আমাকে লোহার পাত এনে দাও’। অবশেষে যখন সে দু’পাহাড়ের মধ্যবর্তী জায়গা সমান করে দিল, তখন সে বলল, ‘তোমরা ফুঁক দিতে থাক’। অতঃপর যখন সে তা আগুনে পরিণত করল, তখন বলল, ‘তোমরা আমাকে কিছু তামা দাও, আমি তা এর উপর ঢেলে দেই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_96.mp3"
+        }
+    }
+}

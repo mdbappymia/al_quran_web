@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 55,
+    "english": "This is how We make Our signs clear, so the way of the wicked may become distinct.",
+    "arabic1": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلِتَسْتَبِينَ سَبِيلُ ٱلْمُجْرِمِينَ",
+    "arabic2": "وكذلك نفصل الايات ولتستبين سبيل المجرمين",
+    "bengali": "আর এভাবেই আমি আয়াতসমূহ বিস্তারিত বর্ণনা করি। আর যাতে অপরাধীদের পথ স্পষ্ট হয়ে যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_55.mp3"
+        }
+    }
+}

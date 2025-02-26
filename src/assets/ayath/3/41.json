@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 41,
+    "english": "Zachariah said, “My Lord! Grant me a sign.” He said, “Your sign is that you will not ˹be able to˺ speak to people for three days except through gestures. Remember your Lord often and glorify ˹Him˺ morning and evening.”",
+    "arabic1": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+    "arabic2": "قال رب اجعل لي اية قال ايتك الا تكلم الناس ثلاثة ايام الا رمزا واذكر ربك كثيرا وسبح بالعشي والابكار",
+    "bengali": "সে বলল, ‘হে আমার রব, আমাকে দেন একটি নিদর্শন’। তিনি বললেন, ‘তোমার নিদর্শন হল, তুমি তিন দিন পর্যন্ত মানুষের সাথে ইশারা ছাড়া কথা বলবে না। আর তোমার রবকে অধিক স্মরণ কর এবং সকাল-সন্ধ্যা তার তাসবীহ পাঠ কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_41.mp3"
+        }
+    }
+}

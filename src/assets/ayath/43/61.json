@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 61,
+    "english": "And his ˹second˺ coming is truly a sign for the Hour. So have no doubt about it, and follow me. This is the Straight Path.",
+    "arabic1": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+    "arabic2": "وانه لعلم للساعة فلا تمترن بها واتبعون هذا صراط مستقيم",
+    "bengali": "আর নিশ্চয় সে (ঈসা) হবে কিয়ামতের এক সুনিশ্চিত আলামত। সুতরাং তোমরা কিয়ামত সম্পর্কে সংশয় পোষণ করো না। তোমরা আমারই অনুসরণ কর। এটিই সরল পথ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_61.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_61.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_61.mp3"
+        }
+    }
+}

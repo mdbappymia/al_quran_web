@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 34,
+    "english": "So his Lord responded to him, turning their cunning away from him. Surely He is the All-Hearing, All-Knowing.",
+    "arabic1": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "فاستجاب له ربه فصرف عنه كيدهن انه هو السميع العليم",
+    "bengali": "অতঃপর তার রব তার আহবানে সাড়া দিলেন এবং তার থেকে তাদের চক্রান্ত প্রতিহত করলেন। নিশ্চয় তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_34.mp3"
+        }
+    }
+}

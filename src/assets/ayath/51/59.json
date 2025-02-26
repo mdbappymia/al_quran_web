@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 59,
+    "english": "The wrongdoers will certainly have a share ˹of the torment˺ like that of their predecessors. So do not let them ask Me to hasten ˹it˺.",
+    "arabic1": "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+    "arabic2": "فان للذين ظلموا ذنوبا مثل ذنوب اصحابهم فلا يستعجلون",
+    "bengali": "যারা যুলম করেছে তাদের জন্য রয়েছে তাদের সমমনাদের অনুরূপ আযাব; সুতরাং তারা যেন আমার কাছে (আযাবের) তাড়াহুড়া না করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_59.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 103,
+    "english": "And We surely know that they say, “No one is teaching him except a human.” But the man they refer to speaks a foreign tongue, whereas this ˹Quran˺ is ˹in˺ eloquent Arabic.",
+    "arabic1": "وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّ وَهَـٰذَا لِسَانٌ عَرَبِىٌّ مُّبِينٌ",
+    "arabic2": "ولقد نعلم انهم يقولون انما يعلمه بشر لسان الذي يلحدون اليه اعجمي وهذا لسان عربي مبين",
+    "bengali": "আর আমি অবশ্যই জানি যে, তারা বলে, তাকে তো শিক্ষা দেয় একজন মানুষ, যার দিকে তারা ঈঙ্গিত করছে, তার ভাষা হচ্ছে অনারবী। অথচ এটা হচ্ছে সুস্পষ্ট আরবী ভাষা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_103.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 9,
+    "english": "In fact, they are in doubt, amusing themselves.",
+    "arabic1": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+    "arabic2": "بل هم في شك يلعبون",
+    "bengali": "তারা বরং সন্দেহের বশবর্তী হয়ে খেলতামাশা করছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_9.mp3"
+        }
+    }
+}

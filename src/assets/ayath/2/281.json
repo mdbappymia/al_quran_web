@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 281,
+    "english": "Be mindful of the Day when you will ˹all˺ be returned to Allah, then every soul will be paid in full for what it has done, and none will be wronged.",
+    "arabic1": "وَٱتَّقُوا۟ يَوْمًا تُرْجَعُونَ فِيهِ إِلَى ٱللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "واتقوا يوما ترجعون فيه الى الله ثم توفى كل نفس ما كسبت وهم لا يظلمون",
+    "bengali": "আর তোমরা সে দিনের ভয় কর, যে দিন তোমাদেরকে আল্লাহর দিকে ফিরিয়ে নেয়া হবে। অতঃপর প্রত্যেক ব্যক্তিকে সে যা উপার্জন করেছে, তা পুরোপুরি দেয়া হবে। আর তাদের যুলম করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_281.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_281.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_281.mp3"
+        }
+    }
+}

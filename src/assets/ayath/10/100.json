@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 100,
+    "english": "It is not for any soul to believe except by Allah’s leave, and He will bring His wrath upon those who are unmindful.",
+    "arabic1": "وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَجْعَلُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يَعْقِلُونَ",
+    "arabic2": "وما كان لنفس ان تؤمن الا باذن الله ويجعل الرجس على الذين لا يعقلون",
+    "bengali": "আর কারও পক্ষে সম্ভব নয় যে, আললাহর অনুমতি ছাড়া ঈমান আনবে এবং যারা বুঝে না তিনি আযাব চাপিয়ে দেবেন তাদের উপর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_100.mp3"
+        }
+    }
+}

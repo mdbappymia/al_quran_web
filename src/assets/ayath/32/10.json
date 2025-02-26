@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 10,
+    "english": "˹Still˺ they ask ˹mockingly˺, “When we are disintegrated into the earth, will we really be raised as a new creation?” In fact, they are in denial of the meeting with their Lord.",
+    "arabic1": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ",
+    "arabic2": "وقالوا ااذا ضللنا في الارض اانا لفي خلق جديد بل هم بلقاء ربهم كافرون",
+    "bengali": "আর তারা বলে, ‘আমরা যখন মাটিতে মিশে যাব তখন কি আবার নতুন সৃষ্টি হব’? বরং তারাতো তাদের রবের সাক্ষাৎকে অস্বীকারকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_10.mp3"
+        }
+    }
+}

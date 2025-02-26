@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Bayyina",
+    "surahNameArabic": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameTranslation": "The Evidence",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 98,
+    "ayahNo": 4,
+    "english": "It was not until this clear proof came to the People of the Book that they became divided ˹about his prophethood˺—",
+    "arabic1": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+    "arabic2": "وما تفرق الذين اوتوا الكتاب الا من بعد ما جاءتهم البينة",
+    "bengali": "আর কিতাবীরা তাদের কাছে সুস্পষ্ট প্রমাণ আসার পরই কেবল মতভেদ করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/98_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/98_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/98_4.mp3"
+        }
+    }
+}

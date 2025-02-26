@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 145,
+    "english": "No soul can ever die without Allah’s Will at the destined time. Those who desire worldly gain, We will let them have it, and those who desire heavenly reward, We will grant it to them. And We will reward those who are grateful.",
+    "arabic1": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+    "arabic2": "وما كان لنفس ان تموت الا باذن الله كتابا مؤجلا ومن يرد ثواب الدنيا نؤته منها ومن يرد ثواب الاخرة نؤته منها وسنجزي الشاكرين",
+    "bengali": "আর কোন প্রাণী আল্লাহর অনুমতি ছাড়া মারা যায় না, তা নির্দিষ্টভাবে লিখিত আছে। আর যে দুনিয়ার প্রতিদান চায়, আমি তা থেকে তাকে দিয়ে দেই, আর যে আখিরাতের বিনিময় চায়, আমি তা থেকে তাকেও দেই এবং আমি অচিরেই কৃতজ্ঞদের প্রতিদান দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_145.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_145.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_145.mp3"
+        }
+    }
+}

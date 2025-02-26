@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 80,
+    "english": "˹Some of˺ the Jews claim, “The Fire will not touch us except for a number of days.” Say, ˹O Prophet,˺ “Have you taken a pledge from Allah—for Allah never breaks His word—or are you ˹just˺ saying about Allah what you do not know?”",
+    "arabic1": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "وقالوا لن تمسنا النار الا اياما معدودة قل اتخذتم عند الله عهدا فلن يخلف الله عهده ام تقولون على الله ما لا تعلمون",
+    "bengali": "আর তারা বলে, ‘গোনা-কয়েকদিন ছাড়া আগুন আমাদেরকে কখনো স্পর্শ করবে না’। বল, ‘তোমরা কি আল্লাহর নিকট ওয়াদা নিয়েছ, ফলে আল্লাহ তাঁর ওয়াদা ভঙ্গ করবেন না? নাকি আল্লাহর উপর এমন কিছু বলছ, যা তোমরা জান না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_80.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 15,
+    "english": "Is this magic, or do you not see?",
+    "arabic1": "أَفَسِحْرٌ هَـٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+    "arabic2": "افسحر هذا ام انتم لا تبصرون",
+    "bengali": "‘এটি কি যাদু, নাকি তোমরা দেখতে পাচ্ছ না!’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_15.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 39,
+    "english": "So be patient ˹O Prophet˺ with what they say. And glorify the praises of your Lord before sunrise and before sunset.",
+    "arabic1": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+    "arabic2": "فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل الغروب",
+    "bengali": "অতএব এরা যা বলে, তাতে তুমি ধৈর্যধারণ কর এবং সূর্য উদয়ের পূর্বে ও অস্তমিত হওয়ার পূর্বে তুমি তোমার রবের প্রশংসাসহ তাসবীহ পাঠ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_39.mp3"
+        }
+    }
+}

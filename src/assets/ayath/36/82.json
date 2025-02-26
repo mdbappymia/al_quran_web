@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 82,
+    "english": "All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!",
+    "arabic1": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+    "arabic2": "انما امره اذا اراد شيئا ان يقول له كن فيكون",
+    "bengali": "তাঁর ব্যাপার শুধু এই যে, কোন কিছুকে তিনি যদি ‘হও’ বলতে চান, তখনই তা হয়ে যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_82.mp3"
+        }
+    }
+}

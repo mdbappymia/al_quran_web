@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 51,
+    "english": "Surely Allah is my Lord and your Lord. So worship Him ˹alone˺. This is the Straight Path.’”",
+    "arabic1": "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+    "arabic2": "ان الله ربي وربكم فاعبدوه هذا صراط مستقيم",
+    "bengali": "‘নিশ্চয় আল্লাহ আমার রব ও তোমাদের রব। অতএব তোমরা তাঁর ইবাদাত কর। এটি সরল পথ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_51.mp3"
+        }
+    }
+}

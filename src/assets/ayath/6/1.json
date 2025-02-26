@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 1,
+    "english": "All praise is for Allah Who created the heavens and the earth and made darkness and light. Yet the disbelievers set up equals to their Lord ˹in worship˺.",
+    "arabic1": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+    "arabic2": "الحمد لله الذي خلق السماوات والارض وجعل الظلمات والنور ثم الذين كفروا بربهم يعدلون",
+    "bengali": "সকল প্রশংসা আল্লাহর জন্য যিনি সৃষ্টি করেছেন আসমান ও যমীন এবং সৃষ্টি করেছেন অন্ধকার ও আলো। তারপর কাফিররা তাদের রবের সমতুল্য স্থির করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_1.mp3"
+        }
+    }
+}

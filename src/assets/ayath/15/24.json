@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 24,
+    "english": "We certainly know those who have gone before you and those who will come after ˹you˺.",
+    "arabic1": "وَلَقَدْ عَلِمْنَا ٱلْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا ٱلْمُسْتَـْٔخِرِينَ",
+    "arabic2": "ولقد علمنا المستقدمين منكم ولقد علمنا المستاخرين",
+    "bengali": "আর অবশ্যই আমি জানি তোমাদের পূর্ববর্তীদেরকে এবং অবশ্যই জানি পরবর্তীদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_24.mp3"
+        }
+    }
+}

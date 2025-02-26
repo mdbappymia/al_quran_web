@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 16,
+    "english": "But you ˹deniers only˺ prefer the life of this world",
+    "arabic1": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+    "arabic2": "بل تؤثرون الحياة الدنيا",
+    "bengali": "বরং তোমরা দুনিয়ার জীবনকে প্রাধান্য দিচ্ছ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_16.mp3"
+        }
+    }
+}

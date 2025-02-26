@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 38,
+    "english": "Or do they claim, “He made it up!”? Tell them ˹O Prophet˺, “Produce one sûrah like it then, and seek help from whoever you can—other than Allah—if what you say is true!”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ام يقولون افتراه قل فاتوا بسورة مثله وادعوا من استطعتم من دون الله ان كنتم صادقين",
+    "bengali": "নাকি তারা বলে, ‘সে তা বানিয়েছে’? বল, ‘তবে তোমরা তার মত একটি সূরা (বানিয়ে) নিয়ে আস এবং আল্লাহ ছাড়া যাকে পারো ডাক, যদি তোমরা সত্যবাদী হও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_38.mp3"
+        }
+    }
+}

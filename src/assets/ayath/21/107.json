@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 107,
+    "english": "We have sent you ˹O Prophet˺ only as a mercy for the whole world.",
+    "arabic1": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
+    "arabic2": "وما ارسلناك الا رحمة للعالمين",
+    "bengali": "আর আমি তো তোমাকে বিশ্ববাসীর জন্য রহমত হিসেবেই প্রেরণ করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_107.mp3"
+        }
+    }
+}

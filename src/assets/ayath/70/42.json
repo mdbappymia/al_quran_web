@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 42,
+    "english": "So let them indulge ˹in falsehood˺ and amuse ˹themselves˺ until they face their Day, which they have been threatened with—",
+    "arabic1": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+    "arabic2": "فذرهم يخوضوا ويلعبوا حتى يلاقوا يومهم الذي يوعدون",
+    "bengali": "অতএব তাদেরকে ছেড়ে দাও, তারা (বেহুদা কথায়) মত্ত থাকুক আর খেল-তামাশা করুক যতক্ষণ না তারা দেখা পায় সেদিনের, যার প্রতিশ্রুতি তাদেরকে দেয়া হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_42.mp3"
+        }
+    }
+}

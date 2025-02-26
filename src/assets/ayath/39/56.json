@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 56,
+    "english": "so that no ˹sinful˺ soul will say ˹on Judgment Day˺, ‘Woe to me for neglecting ˹my duties towards˺ Allah, while ridiculing ˹the truth˺.’",
+    "arabic1": "أَن تَقُولَ نَفْسٌ يَـٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّـٰخِرِينَ",
+    "arabic2": "ان تقول نفس يا حسرتا على ما فرطت في جنب الله وان كنت لمن الساخرين",
+    "bengali": "যাতে কাউকেও বলতে না হয়, ‘হায় আফসোস! আল্লাহর হক আদায়ে আমি যে শৈথিল্য করেছিলাম তার জন্য। আর আমি কেবল ঠাট্টা-বিদ্রূপকারীদের মধ্যে অন্তর্ভুক্ত ছিলাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_56.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 13,
+    "english": "And surely to Us ˹alone˺ belong this life and the next.",
+    "arabic1": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+    "arabic2": "وان لنا للاخرة والاولى",
+    "bengali": "আর অবশ্যই আমার অধিকারে পরকাল ও ইহকাল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_13.mp3"
+        }
+    }
+}

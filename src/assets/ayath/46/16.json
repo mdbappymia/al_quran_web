@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 16,
+    "english": "It is from these ˹people˺ that We will accept the good they did, and overlook their misdeeds—along with the residents of Paradise, ˹in fulfilment of˺ the true promise they have been given.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَـٰبِ ٱلْجَنَّةِ ۖ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+    "arabic2": "اولئك الذين نتقبل عنهم احسن ما عملوا ونتجاوز عن سيئاتهم في اصحاب الجنة وعد الصدق الذي كانوا يوعدون",
+    "bengali": "এরাই, যাদের উৎকৃষ্ট আমলগুলো আমি কবূল করি এবং তাদের মন্দ কাজগুলো ক্ষমা করে দেই। তারা জান্নাতবাসীদের অন্তর্ভুক্ত। তাদেরকে যে ওয়াদা দেয়া হয়েছে, তা সত্য ওয়াদা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_16.mp3"
+        }
+    }
+}

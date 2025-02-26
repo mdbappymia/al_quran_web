@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 73,
+    "english": "So the ˹mighty˺ blast overtook them at sunrise.",
+    "arabic1": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ",
+    "arabic2": "فاخذتهم الصيحة مشرقين",
+    "bengali": "অতএব সূর্যোদয়কালে বিকট আওয়াজ তাদের পেয়ে বসল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_73.mp3"
+        }
+    }
+}

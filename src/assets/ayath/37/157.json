@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 157,
+    "english": "Then bring ˹us˺ your scripture, if what you say is true!",
+    "arabic1": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "فاتوا بكتابكم ان كنتم صادقين",
+    "bengali": "অতএব তোমরা সত্যবাদী হলে তোমাদের কিতাব নিয়ে আস।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_157.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_157.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_157.mp3"
+        }
+    }
+}

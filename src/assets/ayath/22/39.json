@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 39,
+    "english": "Permission ˹to fight back˺ is ˹hereby˺ granted to those being fought, for they have been wronged. And Allah is truly Most Capable of helping them ˹prevail˺.",
+    "arabic1": "أُذِنَ لِلَّذِينَ يُقَـٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+    "arabic2": "اذن للذين يقاتلون بانهم ظلموا وان الله على نصرهم لقدير",
+    "bengali": "যুদ্ধের অনুমতি দেয়া হল তাদেরকে, যাদেরকে আক্রমণ করা হচ্ছে। কারণ তাদের ওপর নির্যাতন করা হয়েছে। নিশ্চয় আল্লাহ তাদেরকে বিজয় দানে সক্ষম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_39.mp3"
+        }
+    }
+}

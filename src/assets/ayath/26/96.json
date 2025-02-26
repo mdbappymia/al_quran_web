@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 96,
+    "english": "There the deviant will cry while disputing with their idols",
+    "arabic1": "قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+    "arabic2": "قالوا وهم فيها يختصمون",
+    "bengali": "সেখানে পরস্পর ঝগড়া করতে গিয়ে তারা বলবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_96.mp3"
+        }
+    }
+}

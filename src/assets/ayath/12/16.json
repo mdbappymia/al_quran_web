@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 16,
+    "english": "Then they returned to their father in the evening, weeping.",
+    "arabic1": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+    "arabic2": "وجاءوا اباهم عشاء يبكون",
+    "bengali": "আর তারা রাতের প্রথম ভাগে কাঁদতে কাঁদতে তাদের পিতার নিকট আসল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_16.mp3"
+        }
+    }
+}

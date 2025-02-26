@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 122,
+    "english": "And those who believe and do good, We will soon admit them into Gardens under which rivers flow, to stay there for ever and ever. Allah’s promise is ˹always˺ true. And whose word is more truthful than Allah’s?",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ قِيلًا",
+    "arabic2": "والذين امنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الانهار خالدين فيها ابدا وعد الله حقا ومن اصدق من الله قيلا",
+    "bengali": "আর যারা ঈমান এনেছে এবং নেক আমল করেছে, অচিরেই তাদেরকে আমি প্রবেশ করাব জান্নাতসমূহে, যার তলদেশে প্রবাহিত হচ্ছে নহরসমূহ। সেখানে তারা হবে স্থায়ী। আল্লাহর প্রতিশ্রুতি সত্য। আর কথায় আল্লাহ অপেক্ষা অধিক সত্যবাদী কে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_122.mp3"
+        }
+    }
+}

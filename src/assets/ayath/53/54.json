@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 54,
+    "english": "How overwhelming was what covered ˹them˺!",
+    "arabic1": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+    "arabic2": "فغشاها ما غشى",
+    "bengali": "অতঃপর সেটাকে আচ্ছন্ন করেছিল, যা আচ্ছন্ন করার ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_54.mp3"
+        }
+    }
+}

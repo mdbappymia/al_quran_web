@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 11,
+    "english": "and made the day for livelihood",
+    "arabic1": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+    "arabic2": "وجعلنا النهار معاشا",
+    "bengali": "আর আমি দিনকে করেছি জীবিকার্জনের সময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_11.mp3"
+        }
+    }
+}

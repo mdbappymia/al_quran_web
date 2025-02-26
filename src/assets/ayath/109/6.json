@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kaafiroon",
+    "surahNameArabic": "الكافرون",
+    "surahNameArabicLong": "سورة الكافرون",
+    "surahNameTranslation": "The Disbelievers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 109,
+    "ayahNo": 6,
+    "english": "You have your way, and I have my Way.”",
+    "arabic1": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "arabic2": "لكم دينكم ولي دين",
+    "bengali": "‘তোমাদের জন্য তোমাদের দীন আর আমার জন্য আমার দীন।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/109_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/109_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/109_6.mp3"
+        }
+    }
+}

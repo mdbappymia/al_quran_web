@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 133,
+    "english": "And Lot was indeed one of the messengers.",
+    "arabic1": "وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ",
+    "arabic2": "وان لوطا لمن المرسلين",
+    "bengali": "আর নিশ্চয় লূতও ছিল রাসূলদেরই একজন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_133.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_133.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_133.mp3"
+        }
+    }
+}

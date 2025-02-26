@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 81,
+    "english": "Return to your father and say, ‘O our father! Your son committed theft. We testify only to what we know. We could not guard against the unforeseen.",
+    "arabic1": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَـٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَـٰفِظِينَ",
+    "arabic2": "ارجعوا الى ابيكم فقولوا يا ابانا ان ابنك سرق وما شهدنا الا بما علمنا وما كنا للغيب حافظين",
+    "bengali": "‘তোমরা তোমাদের পিতার নিকট ফিরে যাও এবং বল, হে আমাদের পিতা, আপনার ছেলে তো চুরি করেছে, আর আমরা যা জানি তাঁরই সাক্ষ্য দিয়েছি এবং আমরা গায়েব সংরক্ষণকারী নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_81.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_81.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_81.mp3"
+        }
+    }
+}

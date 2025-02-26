@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 85,
+    "english": "They said, “By Allah! You will not cease to remember Joseph until you lose your health or ˹even˺ your life.”",
+    "arabic1": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ",
+    "arabic2": "قالوا تالله تفتا تذكر يوسف حتى تكون حرضا او تكون من الهالكين",
+    "bengali": "তারা বলল, ‘আল্লাহর কসম, আপনি তো ইউসুফকে স্মরণ করতেই থাকবেন, যতক্ষণ না আপনি ধ্বংসের দ্বারপ্রান্তে পৌঁছবেন অথবা ধ্বংস হয়ে যাবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_85.mp3"
+        }
+    }
+}

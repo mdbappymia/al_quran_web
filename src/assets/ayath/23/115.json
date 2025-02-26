@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 115,
+    "english": "Did you then think that We had created you without purpose, and that you would never be returned to Us?”",
+    "arabic1": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+    "arabic2": "افحسبتم انما خلقناكم عبثا وانكم الينا لا ترجعون",
+    "bengali": "‘তোমরা কি মনে করেছিলে যে, আমি তোমাদেরকে কেবল অনর্থক সৃষ্টি করেছি এবং তোমরা আমার দিকে প্রত্যাবর্তিত হবে না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_115.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_115.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_115.mp3"
+        }
+    }
+}

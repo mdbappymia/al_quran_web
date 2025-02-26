@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 131,
+    "english": "When his Lord ordered him, “Submit ˹to My Will˺,” he responded, “I submit to the Lord of all worlds.”",
+    "arabic1": "إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "اذ قال له ربه اسلم قال اسلمت لرب العالمين",
+    "bengali": "যখন তার রব তাকে বললেন, ‘তুমি আত্মসমর্পণ কর’। সে বলল, ‘আমি সকল সৃষ্টির রবের কাছে নিজকে সমর্পণ করলাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_131.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 30,
+    "english": "But if only you could see when they will be detained before their Lord! He will ask ˹them˺, “Is this ˹Hereafter˺ not the truth?” They will cry, “Absolutely, by our Lord!” He will say, “Then taste the punishment for your disbelief.”",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic2": "ولو ترى اذ وقفوا على ربهم قال اليس هذا بالحق قالوا بلى وربنا قال فذوقوا العذاب بما كنتم تكفرون",
+    "bengali": "আর যদি তুমি দেখতে যখন তাদেরকে দাঁড় করানো হবে তাদের রবের সামনে এবং তিনি বলবেন ‘এটা কি সত্য নয়’? তারা বলবে, ‘হ্যাঁ, আমাদের রবের কসম!’ তিনি বলবেন, ‘সুতরাং তোমরা যে কুফরী করতে তার কারণে আযাব আস্বাদন কর।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_30.mp3"
+        }
+    }
+}

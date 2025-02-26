@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 130,
+    "english": "˹Allah will ask,˺ “O assembly of jinn and humans! Did messengers not come from among you, proclaiming My revelations and warning you of the coming of this Day of yours?” They will say, “We confess against ourselves!” For they have been deluded by ˹their˺ worldly life. And they will testify against themselves that they were disbelievers.",
+    "arabic1": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ",
+    "arabic2": "يا معشر الجن والانس الم ياتكم رسل منكم يقصون عليكم اياتي وينذرونكم لقاء يومكم هذا قالوا شهدنا على انفسنا وغرتهم الحياة الدنيا وشهدوا على انفسهم انهم كانوا كافرين",
+    "bengali": "‘হে জিন ও মানুষের দল, তোমাদের মধ্য থেকে কি তোমাদের নিকট রাসূলগণ আসেনি, যারা তোমাদের নিকট আমার আয়াতসমূহ বর্ণনা করত এবং তোমাদের এই দিনের সাক্ষাতের ব্যাপারে তোমাদেরকে সতর্ক করত?’ তারা বলবে, ‘আমরা আমাদের নিজদের বিরুদ্ধে সাক্ষ্য দিলাম।’ আর দুনিয়ার জীবন তাদেরকে প্রতারিত করেছে এবং তারা নিজেদের বিরুদ্ধে সাক্ষ্য দেবে যে, তারা ছিল কাফির।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_130.mp3"
+        }
+    }
+}

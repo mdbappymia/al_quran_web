@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 21,
+    "english": "Those who do not expect to meet Us say, “If only the angels were sent down to us, or we could see our Lord!” They have certainly been carried away by their arrogance and have entirely exceeded all limits.",
+    "arabic1": "۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَـٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا",
+    "arabic2": "وقال الذين لا يرجون لقاءنا لولا انزل علينا الملائكة او نرى ربنا لقد استكبروا في انفسهم وعتوا عتوا كبيرا",
+    "bengali": "আর যারা আমার সাক্ষাৎ প্রত্যাশা করে না, তারা বলে, ‘আমাদের নিকট ফেরেশতা নাযিল হয় না কেন? অথবা আমরা আমাদের রবকে দেখতে পাই না কেন’? অবশ্যই তারা তো তাদের অন্তরে অহঙ্কার পোষণ করেছে এবং তারা গুরুতর সীমালংঘন করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 90,
+    "english": "So seek your Lord’s forgiveness and turn to Him in repentance. Surely my Lord is Most Merciful, All-Loving.”",
+    "arabic1": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+    "arabic2": "واستغفروا ربكم ثم توبوا اليه ان ربي رحيم ودود",
+    "bengali": "‘আর তোমরা তোমাদের রবের কাছে ইস্তিগফার কর অতঃপর তাঁরই কাছে তাওবা কর। নিশ্চয় আমার রব পরম দয়ালু, অতীব ভালবাসা পোষণকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_90.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_90.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_90.mp3"
+        }
+    }
+}

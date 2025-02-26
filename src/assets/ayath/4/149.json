@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 149,
+    "english": "Whether you reveal or conceal a good or pardon an evil—surely Allah is Ever-Pardoning, Most Capable.",
+    "arabic1": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+    "arabic2": "ان تبدوا خيرا او تخفوه او تعفوا عن سوء فان الله كان عفوا قديرا",
+    "bengali": "যদি তোমরা ভালো কিছু প্রকাশ কর, কিংবা গোপন কর অথবা মন্দ ক্ষমা করে দাও, তবে নিশ্চয় আল্লাহ ক্ষমাশীল, ক্ষমতাবান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_149.mp3"
+        }
+    }
+}

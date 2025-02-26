@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 96,
+    "english": "Had the people of those societies been faithful and mindful ˹of Allah˺, We would have overwhelmed them with blessings from heaven and earth. But they disbelieved, so We seized them for what they used to commit.",
+    "arabic1": "وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَـٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَـٰكِن كَذَّبُوا۟ فَأَخَذْنَـٰهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "ولو ان اهل القرى امنوا واتقوا لفتحنا عليهم بركات من السماء والارض ولكن كذبوا فاخذناهم بما كانوا يكسبون",
+    "bengali": "আর যদি জনপদসমূহের অধিবাসীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত তাহলে আমি অবশ্যই আসমান ও যমীন থেকে বরকতসমূহ তাদের উপর খুলে দিতাম; কিন্তু তারা অস্বীকার করল। অতঃপর তারা যা অর্জন করত তার কারণে আমি তাদেরকে পাকড়াও করলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_96.mp3"
+        }
+    }
+}

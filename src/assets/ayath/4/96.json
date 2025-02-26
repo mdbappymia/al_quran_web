@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 96,
+    "english": "far superior ranks, forgiveness, and mercy from Him. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "درجات منه ومغفرة ورحمة وكان الله غفورا رحيما",
+    "bengali": "তাঁর পক্ষ থেকে অনেক মর্যাদা, ক্ষমা ও রহমত। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_96.mp3"
+        }
+    }
+}

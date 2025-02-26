@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 34,
+    "english": "And We have placed in it gardens of palm trees and grapevines, and caused springs to gush forth in it",
+    "arabic1": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ",
+    "arabic2": "وجعلنا فيها جنات من نخيل واعناب وفجرنا فيها من العيون",
+    "bengali": "আর আমি তাতে খেজুর ও আঙ্গুরের বাগান তৈরী করেছি এবং তাতে কিছু ঝর্নাধারা প্রবাহিত করি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_34.mp3"
+        }
+    }
+}

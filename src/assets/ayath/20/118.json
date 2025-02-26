@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 118,
+    "english": "Here it is guaranteed that you will never go hungry or unclothed",
+    "arabic1": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ",
+    "arabic2": "ان لك الا تجوع فيها ولا تعرى",
+    "bengali": "‘নিশ্চয় তোমার জন্য এ ব্যবস্থা যে, তুমি সেখানে ক্ষুধার্তও হবে না এবং বস্ত্রহীনও হবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_118.mp3"
+        }
+    }
+}

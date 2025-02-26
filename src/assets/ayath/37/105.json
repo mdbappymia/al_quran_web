@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 105,
+    "english": "You have already fulfilled the vision.” Indeed, this is how We reward the good-doers.",
+    "arabic1": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "arabic2": "قد صدقت الرؤيا انا كذلك نجزي المحسنين",
+    "bengali": "‘তুমি তো স্বপ্নকে সত্যে পরিণত করেছ। নিশ্চয় আমি এভাবেই সৎকর্মশীলদের পুরস্কৃত করে থাকি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_105.mp3"
+        }
+    }
+}

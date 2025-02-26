@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 32,
+    "english": "It is Allah Who created the heavens and the earth and sends down rain from the sky, causing fruits to grow as a provision for you. He has subjected the ships for your service, sailing through the sea by His command, and has subjected the rivers for you.",
+    "arabic1": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَـٰرَ",
+    "arabic2": "الله الذي خلق السماوات والارض وانزل من السماء ماء فاخرج به من الثمرات رزقا لكم وسخر لكم الفلك لتجري في البحر بامره وسخر لكم الانهار",
+    "bengali": "আল্লাহ, যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন। আর তিনি আসমান থেকে বৃষ্টি বর্ষণ করেন ফলে তা দ্বারা ফল-ফলাদি থেকে তোমাদের জন্য রিয্ক উৎপাদন করেন এবং তিনি নৌযানকে তোমাদের জন্য নিয়োজিত করেছেন, যাতে তাঁর আদেশে সমুদ্রে তা চলাচল করে এবং নদীসমূহকে তোমাদের জন্য নিয়োজিত করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_32.mp3"
+        }
+    }
+}

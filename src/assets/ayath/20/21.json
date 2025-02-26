@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 21,
+    "english": "Allah said, “Take it, and have no fear. We will return it to its former state.",
+    "arabic1": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+    "arabic2": "قال خذها ولا تخف سنعيدها سيرتها الاولى",
+    "bengali": "তিনি বললেন, ‘ওটা ধর এবং ভয় করো না, আমি ওকে ওর পূর্বের অবস্থায় ফিরিয়ে দেব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 88,
+    "english": "And you will certainly know its truth before long.”",
+    "arabic1": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ حِينٍۭ",
+    "arabic2": "ولتعلمن نباه بعد حين",
+    "bengali": "আর অল্পকাল পরে তুমি অবশ্যই এর সংবাদ জানবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_88.mp3"
+        }
+    }
+}

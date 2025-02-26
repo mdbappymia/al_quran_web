@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "ayahNo": 2,
+    "english": "striking sparks of fire ˹with their hoofs˺",
+    "arabic1": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+    "arabic2": "فالموريات قدحا",
+    "bengali": "অতঃপর যারা ক্ষুরাঘাতে অগ্নি-স্ফূলিঙ্গ ছড়ায়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/100_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/100_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/100_2.mp3"
+        }
+    }
+}

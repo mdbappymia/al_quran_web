@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 15,
+    "english": "Undoubtedly, they will be sealed off from their Lord on that Day.",
+    "arabic1": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+    "arabic2": "كلا انهم عن ربهم يومئذ لمحجوبون",
+    "bengali": "কখনো নয়, নিশ্চয় সেদিন তারা তাদের রব থেকে পর্দার আড়ালে থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_15.mp3"
+        }
+    }
+}

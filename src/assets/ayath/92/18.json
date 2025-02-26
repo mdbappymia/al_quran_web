@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 18,
+    "english": "who donate ˹some of˺ their wealth only to purify themselves",
+    "arabic1": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+    "arabic2": "الذي يؤتي ماله يتزكى",
+    "bengali": "যে তার সম্পদ দান করে আত্ম-শুদ্ধির উদ্দেশ্যে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_18.mp3"
+        }
+    }
+}

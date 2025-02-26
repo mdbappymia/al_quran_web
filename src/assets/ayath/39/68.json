@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 68,
+    "english": "The Trumpet will be blown and all those in the heavens and all those on the earth will fall dead, except those Allah wills ˹to spare˺. Then it will be blown again and they will rise up at once, looking on ˹in anticipation˺.",
+    "arabic1": "وَنُفِخَ فِى ٱلصُّورِ فَصَعِقَ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۖ ثُمَّ نُفِخَ فِيهِ أُخْرَىٰ فَإِذَا هُمْ قِيَامٌ يَنظُرُونَ",
+    "arabic2": "ونفخ في الصور فصعق من في السماوات ومن في الارض الا من شاء الله ثم نفخ فيه اخرى فاذا هم قيام ينظرون",
+    "bengali": "আর শিঙ্গায় ফুঁক দেয়া হবে। ফলে আল্লাহ যাদেরকে ইচ্ছা করেন তারা ছাড়া আসমানসমূহে যারা আছে এবং পৃথিবীতে যারা আছে সকলেই বেহুঁশ হয়ে পড়বে। তারপর আবার শিঙ্গায় ফুঁক দেয়া হবে, তখন তারা দাঁড়িয়ে তাকাতে থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_68.mp3"
+        }
+    }
+}

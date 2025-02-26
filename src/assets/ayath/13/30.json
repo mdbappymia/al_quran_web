@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 30,
+    "english": "And so We have sent you ˹O Prophet˺ to a community, like ˹We did with˺ earlier communities, so that you may recite to them what We have revealed to you. Yet they deny the Most Compassionate. Say, “He is my Lord! There is no god ˹worthy of worship˺ except Him. In Him I put my trust, and to Him I turn ˹in repentance˺.”",
+    "arabic1": "كَذَٰلِكَ أَرْسَلْنَـٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَـٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَـٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+    "arabic2": "كذلك ارسلناك في امة قد خلت من قبلها امم لتتلو عليهم الذي اوحينا اليك وهم يكفرون بالرحمن قل هو ربي لا اله الا هو عليه توكلت واليه متاب",
+    "bengali": "এমনিভাবে আমি তোমাকে পাঠিয়েছি এমন এক জাতির নিকট, যার পূর্বে অনেক জাতি গত হয়েছে, যেন আমি তোমার প্রতি যে ওহী প্রেরণ করেছি, তা তাদের নিকট তিলাওয়াত কর। অথচ তারা রহমানকে অস্বীকার করে। বল, ‘তিনি আমার রব, তিনি ছাড়া আর কোন (সত্য) ইলাহ নেই, তাঁরই উপর আমি তাওয়াক্কুল করেছি এবং তাঁরই দিকে আমার প্রত্যাবর্তন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_30.mp3"
+        }
+    }
+}

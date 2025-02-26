@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 60,
+    "english": "That is so. And whoever retaliates in equivalence to the injury they have received, and then are wronged ˹again˺, Allah will certainly help them. Surely Allah is Ever-Pardoning, All-Forgiving.",
+    "arabic1": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+    "arabic2": "ذلك ومن عاقب بمثل ما عوقب به ثم بغي عليه لينصرنه الله ان الله لعفو غفور",
+    "bengali": "এটাই প্রকৃত অবস্থা। আর যে ব্যক্তি নিপীড়িত হয়ে তার সমপরিমাণ প্রতিশোধ গ্রহণ করে; অতঃপর তার উপর আবার নিপীড়ন করা হয় তাহলে আল্লাহ অবশ্যই তাকে সাহায্য করবেন। নিশ্চয় আল্লাহ পাপ মোচনকারী, অতীব ক্ষমাশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_60.mp3"
+        }
+    }
+}

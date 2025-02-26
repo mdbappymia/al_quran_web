@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 109,
+    "english": "They swear by Allah their most solemn oaths that if a sign were to come to them, they would certainly believe in it. Say, ˹O Prophet,˺ “Signs are only with Allah.” What will make you ˹believers˺ realize that even if a sign were to come to them, they still would not believe?",
+    "arabic1": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+    "arabic2": "واقسموا بالله جهد ايمانهم لئن جاءتهم اية ليؤمنن بها قل انما الايات عند الله وما يشعركم انها اذا جاءت لا يؤمنون",
+    "bengali": "আর তারা আল্লাহর নামে কঠিন কসম করেছে, যদি তাদের কাছে কোন নিদর্শন আসে, তবে তারা অবশ্যই তার প্রতি ঈমান আনবে। বল, ‘সমস্ত নিদর্শন তো কেবল আল্লাহর কাছে। আর কিসে তোমাদের উপলব্ধি ঘটাবে যে, যখন তা এসে যাবে, তারা ঈমান আনবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_109.mp3"
+        }
+    }
+}

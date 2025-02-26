@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 74,
+    "english": "And We turned the cities ˹of Sodom and Gomorrah˺ upside down and rained upon them stones of baked clay.",
+    "arabic1": "فَجَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ",
+    "arabic2": "فجعلنا عاليها سافلها وامطرنا عليهم حجارة من سجيل",
+    "bengali": "অতঃপর আমি তার (নগরীর) উপরকে নিচে উলটে দিলাম এবং তাদের উপর বর্ষণ করলাম পোড়া মাটির পাথর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_74.mp3"
+        }
+    }
+}

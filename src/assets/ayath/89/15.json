@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 15,
+    "english": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+    "arabic1": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+    "arabic2": "فاما الانسان اذا ما ابتلاه ربه فاكرمه ونعمه فيقول ربي اكرمن",
+    "bengali": "আর মানুষ তো এমন যে, যখন তার রব তাকে পরীক্ষা করেন, অতঃপর তাকে সম্মান দান করেন এবং অনুগ্রহ প্রদান করেন, তখন সে বলে, ‘আমার রব আমাকে সম্মানিত করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_15.mp3"
+        }
+    }
+}

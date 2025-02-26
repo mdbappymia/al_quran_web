@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 39,
+    "english": "As for the moon, We have ordained ˹precise˺ phases for it, until it ends up like an old, curved palm stalk.",
+    "arabic1": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+    "arabic2": "والقمر قدرناه منازل حتى عاد كالعرجون القديم",
+    "bengali": "আর চাঁদের জন্য আমি নির্ধারণ করেছি মানযিলসমূহ, অবশেষে সেটি খেজুরের শুষ্ক পুরাতন শাখার মত হয়ে যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_39.mp3"
+        }
+    }
+}

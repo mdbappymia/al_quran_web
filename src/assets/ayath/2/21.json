@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 21,
+    "english": "O humanity! Worship your Lord, Who created you and those before you, so that you may become mindful ˹of Him˺.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic2": "يا ايها الناس اعبدوا ربكم الذي خلقكم والذين من قبلكم لعلكم تتقون",
+    "bengali": "হে মানুষ, তোমরা তোমাদের রবের ইবাদাত কর, যিনি সৃষ্টি করেছেন তোমাদেরকে এবং তোমাদের পূর্বে যারা ছিল তাদেরকে, যাতে তোমরা তাকওয়া অবলম্বন কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_21.mp3"
+        }
+    }
+}

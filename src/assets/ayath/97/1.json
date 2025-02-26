@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qadr",
+    "surahNameArabic": "القدر",
+    "surahNameArabicLong": "سورة القدر",
+    "surahNameTranslation": "The Power, Fate",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 97,
+    "ayahNo": 1,
+    "english": "Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.",
+    "arabic1": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "arabic2": "انا انزلناه في ليلة القدر",
+    "bengali": "নিশ্চয়ই আমি এটি নাযিল করেছি ‘লাইলাতুল ক্বাদরে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/97_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/97_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/97_1.mp3"
+        }
+    }
+}

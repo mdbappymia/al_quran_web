@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 34,
+    "english": "But on that Day the believers will be laughing at the disbelievers",
+    "arabic1": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+    "arabic2": "فاليوم الذين امنوا من الكفار يضحكون",
+    "bengali": "অতএব আজ মুমিনরাই কাফিরদেরকে নিয়ে হাসবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_34.mp3"
+        }
+    }
+}

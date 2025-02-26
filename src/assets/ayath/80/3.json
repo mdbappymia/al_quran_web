@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 3,
+    "english": "You never know ˹O Prophet˺, perhaps he may be purified",
+    "arabic1": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+    "arabic2": "وما يدريك لعله يزكى",
+    "bengali": "আর কিসে তোমাকে জানাবে যে, সে হয়ত পরিশুদ্ধ হত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_3.mp3"
+        }
+    }
+}

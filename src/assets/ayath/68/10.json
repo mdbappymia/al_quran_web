@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 10,
+    "english": "And do not obey the despicable, vain oath-taker",
+    "arabic1": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+    "arabic2": "ولا تطع كل حلاف مهين",
+    "bengali": "আর তুমি আনুগত্য করো না প্রত্যেক এমন ব্যক্তির যে অধিক কসমকারী, লাঞ্ছিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_10.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 37,
+    "english": "Go back to them, for we will certainly mobilize against them forces which they can never resist, and we will drive them out from there in disgrace, fully humbled.”",
+    "arabic1": "ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ",
+    "arabic2": "ارجع اليهم فلناتينهم بجنود لا قبل لهم بها ولنخرجنهم منها اذلة وهم صاغرون",
+    "bengali": "‘তোমরা তাদের কাছে ফিরে যাও। তারপর আমি অবশ্যই তাদের কাছে এমন সৈন্যবাহিনী নিয়ে আসব যার মুকাবিলা করার শক্তি তাদের নেই। আর আমি অবশ্যই তাদেরকে সেখান থেকে লাঞ্ছিত অবস্থায় বের করে দেব আর তারা অপমানিত।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_37.mp3"
+        }
+    }
+}

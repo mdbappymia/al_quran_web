@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 38,
+    "english": "that you will have whatever you choose?",
+    "arabic1": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+    "arabic2": "ان لكم فيه لما تخيرون",
+    "bengali": "যে, নিশ্চয় তোমাদের জন্য সেখানে রয়েছে যা তোমরা পছন্দ কর?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_38.mp3"
+        }
+    }
+}

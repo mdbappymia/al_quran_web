@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 7,
+    "english": "you will ˹all˺ be ˹divided into˺ three groups:",
+    "arabic1": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+    "arabic2": "وكنتم ازواجا ثلاثة",
+    "bengali": "আর তোমরা বিভক্ত হয়ে পড়বে তিন দলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_7.mp3"
+        }
+    }
+}

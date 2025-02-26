@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 43,
+    "english": "He is the One Who showers His blessings upon you—and His angels pray for you—so that He may bring you out of darkness and into light. For He is ever Merciful to the believers.",
+    "arabic1": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+    "arabic2": "هو الذي يصلي عليكم وملائكته ليخرجكم من الظلمات الى النور وكان بالمؤمنين رحيما",
+    "bengali": "তিনিই তোমাদের প্রতি অনুগ্রহ করেন এবং তাঁর ফেরেশতারা তোমাদের জন্য দো‘আ করে, তোমাদেরকে অন্ধকার থেকে আলোয় আনার জন্য; আর তিনি মুমিনদের প্রতি অতীব দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_43.mp3"
+        }
+    }
+}

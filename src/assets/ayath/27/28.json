@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 28,
+    "english": "Go with this letter of mine and deliver it to them, then stand aside and see how they will respond.”",
+    "arabic1": "ٱذْهَب بِّكِتَـٰبِى هَـٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ",
+    "arabic2": "اذهب بكتابي هذا فالقه اليهم ثم تول عنهم فانظر ماذا يرجعون",
+    "bengali": "‘তুমি আমার এ পত্র নিয়ে যাও। অতঃপর এটা তাদের কাছে নিক্ষেপ কর, তারপর তাদের কাছ থেকে সরে থাক এবং দেখ, তারা কী জবাব দেয়’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_28.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 7,
+    "english": "˹the people˺ of Iram—with ˹their˺ great stature",
+    "arabic1": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+    "arabic2": "ارم ذات العماد",
+    "bengali": "ইরাম গোত্রের সাথে, যারা ছিল সুউচ্চ স্তম্ভের অধিকারী?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_7.mp3"
+        }
+    }
+}

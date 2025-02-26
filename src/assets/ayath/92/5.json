@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 5,
+    "english": "As for the one who is charitable, mindful ˹of Allah˺",
+    "arabic1": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+    "arabic2": "فاما من اعطى واتقى",
+    "bengali": "সুতরাং যে দান করেছে এবং তাকওয়া অবলম্বন করেছে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_5.mp3"
+        }
+    }
+}

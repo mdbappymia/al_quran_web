@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 66,
+    "english": "It is certainly an evil place to settle and reside.”",
+    "arabic1": "إِنَّهَا سَآءَتْ مُسْتَقَرًّا وَمُقَامًا",
+    "arabic2": "انها ساءت مستقرا ومقاما",
+    "bengali": "‘নিশ্চয় তা অবস্থানস্থল ও আবাসস্থল হিসেবে অত্যন্ত নিকৃষ্ট’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_66.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 67,
+    "english": "Do ˹such˺ people not remember that We created them before, when they were nothing?",
+    "arabic1": "أَوَلَا يَذْكُرُ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن قَبْلُ وَلَمْ يَكُ شَيْـًٔا",
+    "arabic2": "اولا يذكر الانسان انا خلقناه من قبل ولم يك شيئا",
+    "bengali": "মানুষ কি স্মরণ করে না যে, আমি তাকে পূর্বে সৃষ্টি করেছি অথচ সে কিছুই ছিল না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_67.mp3"
+        }
+    }
+}

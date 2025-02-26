@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 6,
+    "english": "Say, ˹O Prophet,˺ “This ˹Quran˺ has been revealed by the One Who knows the secrets of the heavens and the earth. Surely He is All-Forgiving, Most Merciful.”",
+    "arabic1": "قُلْ أَنزَلَهُ ٱلَّذِى يَعْلَمُ ٱلسِّرَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ غَفُورًا رَّحِيمًا",
+    "arabic2": "قل انزله الذي يعلم السر في السماوات والارض انه كان غفورا رحيما",
+    "bengali": "বল, ‘যিনি আসমান ও যমীনের রহস্য জানেন তিনি এটি নাযিল করেছেন; নিশ্চয় তিনি অতীব ক্ষমাশীল, পরম দয়ালু।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_6.mp3"
+        }
+    }
+}

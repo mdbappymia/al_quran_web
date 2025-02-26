@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Faatiha",
+    "surahNameArabic": "الفاتحة",
+    "surahNameArabicLong": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameTranslation": "The Opening",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 1,
+    "ayahNo": 5,
+    "english": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+    "arabic1": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "arabic2": "اياك نعبد واياك نستعين",
+    "bengali": "আপনারই আমরা ইবাদাত করি এবং আপনারই নিকট আমরা সাহায্য চাই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/1_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/1_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/1_5.mp3"
+        }
+    }
+}

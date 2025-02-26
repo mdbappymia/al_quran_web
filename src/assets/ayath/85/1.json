@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 1,
+    "english": "By the sky full of constellations",
+    "arabic1": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+    "arabic2": "والسماء ذات البروج",
+    "bengali": "কক্ষপথ বিশিষ্ট আসমানের কসম,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_1.mp3"
+        }
+    }
+}

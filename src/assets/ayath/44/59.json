@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 59,
+    "english": "Wait then! They too are certainly waiting.",
+    "arabic1": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+    "arabic2": "فارتقب انهم مرتقبون",
+    "bengali": "অতএব তুমি অপেক্ষা কর, তারাও অপেক্ষাকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_59.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 88,
+    "english": "So, if the deceased is one of those brought near ˹to Us˺",
+    "arabic1": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+    "arabic2": "فاما ان كان من المقربين",
+    "bengali": "অতঃপর সে যদি নৈকট্যপ্রাপ্তদের অন্যতম হয়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_88.mp3"
+        }
+    }
+}

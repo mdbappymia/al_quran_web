@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 24,
+    "english": "saying, “I am your lord, the most high!”",
+    "arabic1": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+    "arabic2": "فقال انا ربكم الاعلى",
+    "bengali": "আর বলল, ‘আমিই তোমাদের সর্বোচ্চ রব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_24.mp3"
+        }
+    }
+}

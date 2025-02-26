@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 15,
+    "english": "They kept repeating their cry until We mowed them down, ˹leaving them˺ lifeless.",
+    "arabic1": "فَمَا زَالَت تِّلْكَ دَعْوَىٰهُمْ حَتَّىٰ جَعَلْنَـٰهُمْ حَصِيدًا خَـٰمِدِينَ",
+    "arabic2": "فما زالت تلك دعواهم حتى جعلناهم حصيدا خامدين",
+    "bengali": "অতঃপর তাদের এই বিলাপ চলতে থাকে আমি তাদেরকে কেটে ফেলা শস্য ও নিভে যাওয়া আগুন সদৃশ না করা পর্যন্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_15.mp3"
+        }
+    }
+}

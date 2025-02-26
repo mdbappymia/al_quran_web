@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 22,
+    "english": "And put your hand under your armpit, it will come out ˹shining˺ white, unblemished, as another sign",
+    "arabic1": "وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ",
+    "arabic2": "واضمم يدك الى جناحك تخرج بيضاء من غير سوء اية اخرى",
+    "bengali": "‘আর তোমার হাত তোমার বগলের সাথে মিলাও, তাহলে তা উজ্জ্বল হয়ে বেরিয়ে আসবে কোনরূপ ত্রুটি ছাড়া; আরেকটি নিদর্শনরূপে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_22.mp3"
+        }
+    }
+}

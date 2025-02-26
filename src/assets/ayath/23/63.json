@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 63,
+    "english": "But the hearts of those ˹who disbelieve˺ are oblivious to ˹all of˺ this, and they have other ˹evil˺ deeds, opposite to this, in which they are engrossed.",
+    "arabic1": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍ مِّنْ هَـٰذَا وَلَهُمْ أَعْمَـٰلٌ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
+    "arabic2": "بل قلوبهم في غمرة من هذا ولهم اعمال من دون ذلك هم لها عاملون",
+    "bengali": "বরং তাদের অন্তরসমূহ এ বিষয়ে বিভ্রান্তিতে রয়েছে। এছাড়া তাদের আরও আনেক আমল রয়েছে, যা তারা করছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_63.mp3"
+        }
+    }
+}

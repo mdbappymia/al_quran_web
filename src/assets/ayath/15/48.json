@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 48,
+    "english": "No fatigue will touch them there, nor will they ever be asked to leave.",
+    "arabic1": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+    "arabic2": "لا يمسهم فيها نصب وما هم منها بمخرجين",
+    "bengali": "সেখানে তাদেরকে ক্লান্তি স্পর্শ করবে না এবং তারা সেখান থেকে বহিষ্কৃতও হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_48.mp3"
+        }
+    }
+}

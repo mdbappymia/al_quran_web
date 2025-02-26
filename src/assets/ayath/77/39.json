@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 39,
+    "english": "So if you have a scheme ˹to save yourselves˺, then use it against Me.”",
+    "arabic1": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+    "arabic2": "فان كان لكم كيد فكيدون",
+    "bengali": "তোমাদের কোন কৌশল থাকলে আমার বিরুদ্ধে প্রয়োগ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_39.mp3"
+        }
+    }
+}

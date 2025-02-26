@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 52,
+    "english": "˹Remember˺ when he questioned his father and his people, “What are these statues to which you are so devoted?”",
+    "arabic1": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَـٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَـٰكِفُونَ",
+    "arabic2": "اذ قال لابيه وقومه ما هذه التماثيل التي انتم لها عاكفون",
+    "bengali": "যখন সে তার পিতা ও তার কওমকে বলল, ‘এ মূর্তিগুলো কী, যেগুলোর পূজায় তোমরা রত রয়েছ’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_52.mp3"
+        }
+    }
+}

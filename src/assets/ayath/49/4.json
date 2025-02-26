@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 4,
+    "english": "Indeed, most of those who call out to you ˹O Prophet˺ from outside ˹your˺ private quarters have no understanding ˹of manners˺.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic2": "ان الذين ينادونك من وراء الحجرات اكثرهم لا يعقلون",
+    "bengali": "নিশ্চয় যারা তোমাকে হুজরাসমূহের পিছন থেকে ডাকাডাকি করে তাদের অধিকাংশই বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/49_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/49_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/49_4.mp3"
+        }
+    }
+}

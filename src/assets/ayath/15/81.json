@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 81,
+    "english": "We gave them Our signs, but they turned away from them.",
+    "arabic1": "وَءَاتَيْنَـٰهُمْ ءَايَـٰتِنَا فَكَانُوا۟ عَنْهَا مُعْرِضِينَ",
+    "arabic2": "واتيناهم اياتنا فكانوا عنها معرضين",
+    "bengali": "আর আমি তাদেরকে আমার আয়াতসমূহ দিয়েছিলাম, তবে তারা তা থেকে বিমুখ হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_81.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_81.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_81.mp3"
+        }
+    }
+}

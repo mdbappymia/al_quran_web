@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 13,
+    "english": "We surely destroyed ˹other˺ peoples before you when they did wrong, and their messengers came to them with clear proofs but they would not believe! This is how We reward the wicked people.",
+    "arabic1": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ ۙ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+    "arabic2": "ولقد اهلكنا القرون من قبلكم لما ظلموا وجاءتهم رسلهم بالبينات وما كانوا ليؤمنوا كذلك نجزي القوم المجرمين",
+    "bengali": "আর অবশ্যই আমি তোমাদের পূর্বে বহু প্রজন্মকে ধ্বংস করেছি, যখন তারা যুলম করেছে। আর তাদের নিকট তাদের রাসূলগণ প্রমাণাদিসহ আগমন করেছিল, কিন্তু তারা ঈমান আনার ছিল না। এভাবে আমি অপরাধী কওমকে শাস্তি প্রদান করি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_13.mp3"
+        }
+    }
+}

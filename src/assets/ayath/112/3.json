@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ikhlaas",
+    "surahNameArabic": "الإخلاص",
+    "surahNameArabicLong": "سورة الإخلاص",
+    "surahNameTranslation": "Sincerity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 112,
+    "ayahNo": 3,
+    "english": "He has never had offspring, nor was He born.",
+    "arabic1": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "arabic2": "لم يلد ولم يولد",
+    "bengali": "তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেয়া হয়নি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/112_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/112_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/112_3.mp3"
+        }
+    }
+}

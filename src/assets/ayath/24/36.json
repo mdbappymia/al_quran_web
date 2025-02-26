@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 36,
+    "english": "˹That light shines˺ through houses ˹of worship˺ which Allah has ordered to be raised, and where His Name is mentioned. He is glorified there morning and evening",
+    "arabic1": "فِى بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا ٱسْمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ",
+    "arabic2": "في بيوت اذن الله ان ترفع ويذكر فيها اسمه يسبح له فيها بالغدو والاصال",
+    "bengali": "সেসব ঘরে যাকে সমুন্নত করতে এবং যেখানে আল্লাহর নাম যিক্র করতে আল্লাহই অনুমতি দিয়েছেন। সেখানে সকাল ও সন্ধ্যায় তাঁর তাসবীহ পাঠ করে-",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_36.mp3"
+        }
+    }
+}

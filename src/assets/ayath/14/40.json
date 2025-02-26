@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 40,
+    "english": "My Lord! Make me and those ˹believers˺ of my descendants keep up prayer. Our Lord! Accept my prayers.",
+    "arabic1": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+    "arabic2": "رب اجعلني مقيم الصلاة ومن ذريتي ربنا وتقبل دعاء",
+    "bengali": "‘হে আমার রব, আমাকে সালাত কায়েমকারী বানান এবং আমার বংশধরদের মধ্য থেকেও, হে আমাদের রব, আর আমার দো‘আ কবূল করুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_40.mp3"
+        }
+    }
+}

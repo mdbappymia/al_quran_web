@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 36,
+    "english": "Bring ˹back˺ our forefathers, if what you say is true.”",
+    "arabic1": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "فاتوا بابائنا ان كنتم صادقين",
+    "bengali": "‘যদি তোমরা সত্যবাদী হও, তবে আমাদের পিতৃপুরুষদেরকে নিয়ে এসো’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_36.mp3"
+        }
+    }
+}

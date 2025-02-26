@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 159,
+    "english": "It is out of Allah’s mercy that you ˹O Prophet˺ have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you. So pardon them, ask Allah’s forgiveness for them, and consult with them in ˹conducting˺ matters. Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.",
+    "arabic1": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+    "arabic2": "فبما رحمة من الله لنت لهم ولو كنت فظا غليظ القلب لانفضوا من حولك فاعف عنهم واستغفر لهم وشاورهم في الامر فاذا عزمت فتوكل على الله ان الله يحب المتوكلين",
+    "bengali": "অতঃপর আল্লাহর পক্ষ থেকে রহমতের কারণে তুমি তাদের জন্য নম্র হয়েছিলে। আর যদি তুমি কঠোর স্বভাবের, কঠিন হৃদয়সম্পন্ন হতে, তবে তারা তোমার আশপাশ থেকে সরে পড়ত। সুতরাং তাদেরকে ক্ষমা কর এবং তাদের জন্য ক্ষমা প্রার্থনা কর। আর কাজে-কর্মে তাদের সাথে পরার্মশ কর। অতঃপর যখন সংকল্প করবে তখন আল্লাহর উপর তাওয়াক্কুল করবে। নিশ্চয় আল্লাহ তাওয়াক্কুলকারীদেরকে ভালবাসেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_159.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_159.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_159.mp3"
+        }
+    }
+}

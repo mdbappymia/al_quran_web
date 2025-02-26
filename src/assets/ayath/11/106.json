@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 106,
+    "english": "As for those bound for misery, they will be in the Fire, where they will be sighing and gasping",
+    "arabic1": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
+    "arabic2": "فاما الذين شقوا ففي النار لهم فيها زفير وشهيق",
+    "bengali": "অতঃপর যারা হয়েছে দুর্ভাগা, তারা থাকবে আগুনে। সেখানে থাকবে তাদের চীৎকার ও আর্তনাদ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_106.mp3"
+        }
+    }
+}

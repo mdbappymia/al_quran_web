@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 36,
+    "english": "My Lord! They have caused many people to go astray. So whoever follows me is with me, and whoever disobeys me—then surely You are ˹still˺ All-Forgiving, Most Merciful.",
+    "arabic1": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "رب انهن اضللن كثيرا من الناس فمن تبعني فانه مني ومن عصاني فانك غفور رحيم",
+    "bengali": "‘হে আমার রব, নিশ্চয় এসব মূর্তি অনেক মানুষকে পথভ্রষ্ট করেছে, সুতরাং যে আমার অনুসরণ করেছে, নিশ্চয় সে আমার দলভুক্ত, আর যে আমার অবাধ্য হয়েছে, তবে নিশ্চয় আপনি ক্ষমাশীল, পরম দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_36.mp3"
+        }
+    }
+}

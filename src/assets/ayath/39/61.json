@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 61,
+    "english": "And Allah will deliver those who were mindful ˹of Him˺ to their place of ˹ultimate˺ triumph. No evil will touch them, nor will they grieve.",
+    "arabic1": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "وينجي الله الذين اتقوا بمفازتهم لا يمسهم السوء ولا هم يحزنون",
+    "bengali": "আর আল্লাহ মুত্তাকীদেরকে তাদের সাফল্যসহ নাজাত দেবেন। কোন অমঙ্গল তাদেরকে স্পর্শ করবে না। আর তারা চিন্তিতও হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_61.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_61.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_61.mp3"
+        }
+    }
+}

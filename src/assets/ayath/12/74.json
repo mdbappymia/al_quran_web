@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 74,
+    "english": "Joseph’s men asked, “What should be the price for theft, if you are lying?”",
+    "arabic1": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَـٰذِبِينَ",
+    "arabic2": "قالوا فما جزاؤه ان كنتم كاذبين",
+    "bengali": "তারা বলল, ‘তাহলে তার শাস্তি কি হবে, যদি তোমরা মিথ্যাবাদী হও’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_74.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 65,
+    "english": "And ˹watch for˺ the Day He will call to them, asking, “What response did you give to the messengers?”",
+    "arabic1": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَآ أَجَبْتُمُ ٱلْمُرْسَلِينَ",
+    "arabic2": "ويوم يناديهم فيقول ماذا اجبتم المرسلين",
+    "bengali": "আর সেদিন আল্লাহ তাদেরকে ডেকে বলবেন, ‘তোমরা রাসূলদেরকে কী জবাব দিয়েছিলে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_65.mp3"
+        }
+    }
+}

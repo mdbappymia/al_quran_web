@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 127,
+    "english": "They will have the Home of Peace with their Lord, Who will be their Guardian because of what they used to do.",
+    "arabic1": "۞ لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "لهم دار السلام عند ربهم وهو وليهم بما كانوا يعملون",
+    "bengali": "তাদের জন্য তাদের রবের নিকট রয়েছে শান্তির আবাস এবং তারা যে আমল করত, তার কারণে তিনি তাদের অভিভাবক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_127.mp3"
+        }
+    }
+}

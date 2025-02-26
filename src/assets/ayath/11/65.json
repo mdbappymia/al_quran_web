@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 65,
+    "english": "But they killed her, so he warned ˹them˺, “You have ˹only˺ three ˹more˺ days to enjoy life in your homes—this is an unfailing promise!”",
+    "arabic1": "فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَـٰثَةَ أَيَّامٍ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
+    "arabic2": "فعقروها فقال تمتعوا في داركم ثلاثة ايام ذلك وعد غير مكذوب",
+    "bengali": "অতঃপর তারা তাকে হত্যা করল। তাই সে বলল, ‘তোমরা তিন দিন নিজ নিজ গৃহে আনন্দে কাটাও। এ এমন এক ওয়াদা, যা মিথ্যা হবার নয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_65.mp3"
+        }
+    }
+}

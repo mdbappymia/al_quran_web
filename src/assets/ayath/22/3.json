@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 3,
+    "english": "˹Still˺ there are some who dispute about Allah without knowledge, and follow every rebellious devil.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّبِعُ كُلَّ شَيْطَـٰنٍ مَّرِيدٍ",
+    "arabic2": "ومن الناس من يجادل في الله بغير علم ويتبع كل شيطان مريد",
+    "bengali": "মানুষের মধ্যে কতক আল্লাহ সম্পর্কে তর্ক-বিতর্ক করে না জেনে এবং সে অনুসরণ করে প্রত্যেক বিদ্রোহী শয়তানের।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_3.mp3"
+        }
+    }
+}

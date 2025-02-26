@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 79,
+    "english": "And rise at ˹the last˺ part of the night, offering additional prayers, so your Lord may raise you to a station of praise.",
+    "arabic1": "وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+    "arabic2": "ومن الليل فتهجد به نافلة لك عسى ان يبعثك ربك مقاما محمودا",
+    "bengali": "আর রাতের কিছু অংশে তাহাজ্জুদ আদায় কর তোমার অতিরিক্ত দায়িত্ব হিসেবে। আশা করা যায়, তোমার রব তোমাকে প্রশংসিত অবস্থানে প্রতিষ্ঠিত করবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_79.mp3"
+        }
+    }
+}

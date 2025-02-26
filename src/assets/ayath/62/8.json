@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 8,
+    "english": "Say, “The death you are running away from will inevitably come to you. Then you will be returned to the Knower of the seen and unseen, and He will inform you of what you used to do.”",
+    "arabic1": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "قل ان الموت الذي تفرون منه فانه ملاقيكم ثم تردون الى عالم الغيب والشهادة فينبئكم بما كنتم تعملون",
+    "bengali": "বল যে মৃত্যু হতে তোমরা পলায়ন করছ তা অবশ্যই তোমাদের সাথে সাক্ষাৎ করবে। তারপর তোমাদেরকে অদৃশ্য ও দৃশ্য সম্পর্কে পরিজ্ঞাত আল্লাহর কাছে ফিরিয়ে নেয়া হবে। তারপর তিনি তোমাদেরকে জানিয়ে দেবেন যা তোমরা করতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/62_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/62_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/62_8.mp3"
+        }
+    }
+}

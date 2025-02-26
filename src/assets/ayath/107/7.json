@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maa'un",
+    "surahNameArabic": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameTranslation": "Almsgiving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 107,
+    "ayahNo": 7,
+    "english": "and refuse to give ˹even the simplest˺ aid.",
+    "arabic1": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+    "arabic2": "ويمنعون الماعون",
+    "bengali": "এবং ছোট-খাট গৃহসামগ্রী* দানে নিষেধ করে। \n*ماعون গৃহস্থালীর ছোট-খাট সামগ্রী। যেমন, পানি, লবণ, দিয়াশলাই, বালতি ইত্যাদি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/107_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/107_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/107_7.mp3"
+        }
+    }
+}

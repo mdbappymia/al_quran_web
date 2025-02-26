@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 22,
+    "english": "For Allah created the heavens and the earth for a purpose, so that every soul may be paid back for what it has committed. And none will be wronged.",
+    "arabic1": "وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "وخلق الله السماوات والارض بالحق ولتجزى كل نفس بما كسبت وهم لا يظلمون",
+    "bengali": "আর আল্লাহ আসমানসমূহ ও যমীনকে যথার্থভাবে সৃষ্টি করেছেন এবং যাতে প্রত্যেক ব্যক্তি সে যা উপার্জন করেছে তদনুযায়ী প্রতিদানপ্রাপ্ত হয়, আর তারা সামান্যতমও যুলমের শিকার না হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_22.mp3"
+        }
+    }
+}

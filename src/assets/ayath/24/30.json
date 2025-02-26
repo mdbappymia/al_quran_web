@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 30,
+    "english": "˹O Prophet!˺ Tell the believing men to lower their gaze and guard their chastity. That is purer for them. Surely Allah is All-Aware of what they do.",
+    "arabic1": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ",
+    "arabic2": "قل للمؤمنين يغضوا من ابصارهم ويحفظوا فروجهم ذلك ازكى لهم ان الله خبير بما يصنعون",
+    "bengali": "মুমিন পুরুষদেরকে বল, তারা তাদের দৃষ্টিকে সংযত রাখবে এবং তাদের লজ্জাস্থানের হিফাযত করবে। এটাই তাদের জন্য অধিক পবিত্র। নিশ্চয় তারা যা করে সে সম্পর্কে আল্লাহ সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_30.mp3"
+        }
+    }
+}

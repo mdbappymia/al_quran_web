@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 40,
+    "english": "So We seized him and his soldiers, casting them into the sea while he was blameworthy.",
+    "arabic1": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ",
+    "arabic2": "فاخذناه وجنوده فنبذناهم في اليم وهو مليم",
+    "bengali": "ফলে আমি তাকে ও তার সৈন্য-সামন্তকে পাকড়াও করলাম। অতঃপর তাদেরকে সমুদ্রে নিক্ষেপ করলাম। সে তো ছিল তিরস্কৃত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_40.mp3"
+        }
+    }
+}

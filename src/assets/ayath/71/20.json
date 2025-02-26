@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 20,
+    "english": "to walk along its spacious pathways.’”",
+    "arabic1": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+    "arabic2": "لتسلكوا منها سبلا فجاجا",
+    "bengali": "যেন তোমরা সেখানে প্রশস্ত পথে চলতে পার’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_20.mp3"
+        }
+    }
+}

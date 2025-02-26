@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 48,
+    "english": "Say, “Surely my Lord hurls the truth ˹against falsehood˺. ˹He is˺ the Knower of all unseen.”",
+    "arabic1": "قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّـٰمُ ٱلْغُيُوبِ",
+    "arabic2": "قل ان ربي يقذف بالحق علام الغيوب",
+    "bengali": "বল, ‘আমার রব সত্য পাঠিয়েছেন। তিনি যাবতীয় গায়েব সম্পর্কে পরিজ্ঞাত।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_48.mp3"
+        }
+    }
+}

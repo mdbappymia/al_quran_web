@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 42,
+    "english": "Allah surely knows that whatever ˹gods˺ they invoke besides Him are ˹simply˺ nothing. For He is the Almighty, All-Wise.",
+    "arabic1": "إِنَّ ٱللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِۦ مِن شَىْءٍ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ان الله يعلم ما يدعون من دونه من شيء وهو العزيز الحكيم",
+    "bengali": "নিশ্চয় আল্লাহ তাদেরকে জানেন তাঁকে ছাড়া যাদেরকে ওরা আহবান করে; আর তিনি মহা পরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_42.mp3"
+        }
+    }
+}

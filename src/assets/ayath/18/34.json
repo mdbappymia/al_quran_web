@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 34,
+    "english": "And he had other resources ˹as well˺. So he boasted to a ˹poor˺ companion of his, while conversing with him, “I am greater than you in wealth and superior in manpower.”",
+    "arabic1": "وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَـٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
+    "arabic2": "وكان له ثمر فقال لصاحبه وهو يحاوره انا اكثر منك مالا واعز نفرا",
+    "bengali": "আর (এতে) তার ছিল বিপুল ফল-ফলাদি। তাই সে তার সঙ্গীকে কথায় কথায় বলল, ‘সম্পদে আমি তোমার চেয়ে অধিক এবং জনবলেও অনেক শক্তিশালী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_34.mp3"
+        }
+    }
+}

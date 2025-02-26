@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 10,
+    "english": "They do not honour the bonds of kinship or treaties with the believers. It is they who are the transgressors.",
+    "arabic1": "لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ",
+    "arabic2": "لا يرقبون في مؤمن الا ولا ذمة واولئك هم المعتدون",
+    "bengali": "তারা কোন মুমিনের ব্যাপারে আত্মীয়তা ও অঙ্গীকারের খেয়াল রাখে না। আর তারাই হল সীমালঙ্ঘনকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_10.mp3"
+        }
+    }
+}

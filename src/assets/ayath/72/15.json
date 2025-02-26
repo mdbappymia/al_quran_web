@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 15,
+    "english": "And as for the deviant, they will be fuel for Hell.’”",
+    "arabic1": "وَأَمَّا ٱلْقَـٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًا",
+    "arabic2": "واما القاسطون فكانوا لجهنم حطبا",
+    "bengali": "‘আর যারা সীমালঙ্ঘনকারী, তারা তো জাহান্নামের ইন্ধন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_15.mp3"
+        }
+    }
+}

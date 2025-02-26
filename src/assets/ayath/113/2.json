@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Falaq",
+    "surahNameArabic": "الفلق",
+    "surahNameArabicLong": "سورة الفلق",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 113,
+    "ayahNo": 2,
+    "english": "from the evil of whatever He has created",
+    "arabic1": "مِن شَرِّ مَا خَلَقَ",
+    "arabic2": "من شر ما خلق",
+    "bengali": "তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/113_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/113_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/113_2.mp3"
+        }
+    }
+}

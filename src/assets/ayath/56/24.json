@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 24,
+    "english": "˹all˺ as a reward for what they used to do.",
+    "arabic1": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "جزاء بما كانوا يعملون",
+    "bengali": "তারা যে আমল করত তার প্রতিদানস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_24.mp3"
+        }
+    }
+}

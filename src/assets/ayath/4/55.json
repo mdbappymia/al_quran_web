@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 55,
+    "english": "Yet some believed in him while others turned away from him. Hell is sufficient as a torment!",
+    "arabic1": "فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+    "arabic2": "فمنهم من امن به ومنهم من صد عنه وكفى بجهنم سعيرا",
+    "bengali": "অতঃপর তাদের অনেকে এর প্রতি ঈমান এনেছে এবং অনেকে এ থেকে বিরত থেকেছে। আর দগ্ধকারী হিসেবে জাহান্নামই যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_55.mp3"
+        }
+    }
+}

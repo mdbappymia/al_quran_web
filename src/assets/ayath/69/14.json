@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 14,
+    "english": "and the earth and mountains will be lifted up and crushed with one blow",
+    "arabic1": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً",
+    "arabic2": "وحملت الارض والجبال فدكتا دكة واحدة",
+    "bengali": "আর যমীন ও পর্বতমালাকে সরিয়ে নেয়া হবে এবং মাত্র একটি আঘাতে এগুলো চূর্ণ-বিচূর্ণ হয়ে যাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_14.mp3"
+        }
+    }
+}

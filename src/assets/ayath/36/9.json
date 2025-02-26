@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 9,
+    "english": "and have placed a barrier before them and a barrier behind them and covered them ˹all˺ up, so they fail to see ˹the truth˺.",
+    "arabic1": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+    "arabic2": "وجعلنا من بين ايديهم سدا ومن خلفهم سدا فاغشيناهم فهم لا يبصرون",
+    "bengali": "আর আমি তাদের সামনে একটি প্রাচীর ও তাদের পিছনে একটি প্রাচীর স্থাপন করেছি, অতঃপর আমি তাদেরকে ঢেকে দিয়েছি, ফলে তারা দেখতে পায় না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_9.mp3"
+        }
+    }
+}

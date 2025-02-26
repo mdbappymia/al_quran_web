@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 13,
+    "english": "Indeed, there is more fear in their hearts for you ˹believers˺ than for Allah. That is because they are a people who do not comprehend.",
+    "arabic1": "لَأَنتُمْ أَشَدُّ رَهْبَةً فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+    "arabic2": "لانتم اشد رهبة في صدورهم من الله ذلك بانهم قوم لا يفقهون",
+    "bengali": "প্রকৃতপক্ষে তাদের অন্তরে আল্লাহর চাইতে তোমাদের ভয় বেশী; এটা এ কারণে যে, তারা অবুঝ সম্প্রদায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_13.mp3"
+        }
+    }
+}

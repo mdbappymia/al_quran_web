@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 3,
+    "english": "and when the earth is flattened out",
+    "arabic1": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+    "arabic2": "واذا الارض مدت",
+    "bengali": "আর যখন যমীনকে সম্প্রসারিত করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 12,
+    "english": "Our Lord! Remove ˹this˺ torment from us, ˹and˺ we will certainly believe.”",
+    "arabic1": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+    "arabic2": "ربنا اكشف عنا العذاب انا مؤمنون",
+    "bengali": "(তখন তারা বলবে) ‘হে আমাদের রব, আমাদের থেকে আযাব দূর করুন; নিশ্চয় আমরা মুমিন হব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_12.mp3"
+        }
+    }
+}

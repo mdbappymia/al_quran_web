@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 57,
+    "english": "Every soul will taste death, then to Us you will ˹all˺ be returned.",
+    "arabic1": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+    "arabic2": "كل نفس ذائقة الموت ثم الينا ترجعون",
+    "bengali": "প্রতিটি প্রাণ মৃত্যুর স্বাদ আস্বাদন করবে, তারপর আমার কাছেই তোমরা প্রত্যাবর্তিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_57.mp3"
+        }
+    }
+}

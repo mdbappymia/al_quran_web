@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 51,
+    "english": "Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺.",
+    "arabic1": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+    "arabic2": "وانذر به الذين يخافون ان يحشروا الى ربهم ليس لهم من دونه ولي ولا شفيع لعلهم يتقون",
+    "bengali": "আর এ দ্বারা তুমি তাদেরকে সতর্ক কর, যারা ভয় করে যে, তাদেরকে তাদের রবের দিকে সমবেত করা হবে, (এ অবস্থায় যে) তিনি ছাড়া তাদের জন্য থাকবে না কোন সাহায্যকারী আর না সুপারিশকারী। হয়ত তারা তাকওয়া অবলম্বন করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_51.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 29,
+    "english": "Then his wife came forward with a cry, clasping her forehead ˹in astonishment˺, exclaiming, “˹A baby from˺ a barren, old woman!”",
+    "arabic1": "فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ",
+    "arabic2": "فاقبلت امراته في صرة فصكت وجهها وقالت عجوز عقيم",
+    "bengali": "তখন তার স্ত্রী চিৎকার করতে করতে এগিয়ে আসল এবং নিজ মুখ চাপড়িয়ে বলল, ‘বৃদ্ধা-বন্ধ্যা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_29.mp3"
+        }
+    }
+}

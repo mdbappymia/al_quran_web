@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 20,
+    "english": "distressed when touched with evil",
+    "arabic1": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+    "arabic2": "اذا مسه الشر جزوعا",
+    "bengali": "যখন তাকে বিপদ স্পর্শ করে তখন সে হয়ে পড়ে অতিমাত্রায় উৎকন্ঠিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_20.mp3"
+        }
+    }
+}

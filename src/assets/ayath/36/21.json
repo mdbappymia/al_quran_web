@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 21,
+    "english": "Follow those who ask no reward of you, and are ˹rightly˺ guided.",
+    "arabic1": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+    "arabic2": "اتبعوا من لا يسالكم اجرا وهم مهتدون",
+    "bengali": "‘তোমরা তাদের অনুসরণ কর যারা তোমাদের কাছে কোন প্রতিদান চায় না আর তারা সৎপথপ্রাপ্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_21.mp3"
+        }
+    }
+}

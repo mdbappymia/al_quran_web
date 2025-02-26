@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 2,
+    "english": "The Romans have been defeated",
+    "arabic1": "غُلِبَتِ ٱلرُّومُ",
+    "arabic2": "غلبت الروم",
+    "bengali": "রোমানরা পরাজিত হয়েছে।* \n* ৩৯৫ খৃস্টাব্দে রোমক সাম্রাজ্য থেকে পৃথক হয়ে বায়যানটাইন নামে যে সাম্রাজ্যটি পরিচিত হয়েছিল, এখানে الرومবলতে তাকে বুঝানো হয়েছে। সিরিয়া ও প্যালেস্টাইন এ সাম্রাজ্যের অধীন ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_2.mp3"
+        }
+    }
+}

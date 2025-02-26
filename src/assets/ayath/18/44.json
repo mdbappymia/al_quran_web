@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 44,
+    "english": "At this time, support comes ˹only˺ from Allah—the True ˹Lord˺. He is best in reward and best in outcome.",
+    "arabic1": "هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+    "arabic2": "هنالك الولاية لله الحق هو خير ثوابا وخير عقبا",
+    "bengali": "এখানে অভিভাবকত্ব আল্লাহর, যিনি সত্য। তিনিই প্রতিদানে উত্তম এবং পরিণামে শ্রেষ্ঠ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_44.mp3"
+        }
+    }
+}

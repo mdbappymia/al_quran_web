@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 7,
+    "english": "And persevere for ˹the sake of˺ your Lord.",
+    "arabic1": "وَلِرَبِّكَ فَٱصْبِرْ",
+    "arabic2": "ولربك فاصبر",
+    "bengali": "আর তোমার রবের জন্যই ধৈর্যধারণ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_7.mp3"
+        }
+    }
+}

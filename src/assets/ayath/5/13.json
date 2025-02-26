@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 13,
+    "english": "But for breaking their covenant We condemned them and hardened their hearts. They distorted the words of the Scripture and neglected a portion of what they had been commanded to uphold. You ˹O Prophet˺ will always find deceit on their part, except for a few. But pardon them and bear with them. Indeed, Allah loves the good-doers.",
+    "arabic1": "فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ لَعَنَّـٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَـٰسِيَةً ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+    "arabic2": "فبما نقضهم ميثاقهم لعناهم وجعلنا قلوبهم قاسية يحرفون الكلم عن مواضعه ونسوا حظا مما ذكروا به ولا تزال تطلع على خائنة منهم الا قليلا منهم فاعف عنهم واصفح ان الله يحب المحسنين",
+    "bengali": "সুতরাং তারা তাদের অঙ্গীকার ভঙ্গের কারণে আমি তাদেরকে লা‘নত দিয়েছি এবং তাদের অন্তরসমূহকে করেছি কঠোর। তারা শব্দগুলোকে আপন স্থান থেকে বিকৃত করে এবং তাদেরকে যে উপদেশ দেয়া হয়েছে, তার একটি অংশ তারা ভুলে গিয়েছে এবং তুমি তাদের থেকে খিয়ানত সম্পর্কে অবগত হতে থাকবে, তাদের অল্প সংখ্যক ছাড়া। সুতরাং তুমি তাদেরকে ক্ষমা কর এবং এড়িয়ে যাও। নিশ্চয় আল্লাহ সৎকর্মশীলদের ভালবাসেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_13.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 53,
+    "english": "They reassured ˹him˺, “Do not be afraid! Surely we give you good news of a knowledgeable son.”",
+    "arabic1": "قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِيمٍ",
+    "arabic2": "قالوا لا توجل انا نبشرك بغلام عليم",
+    "bengali": "তারা বলল, ‘তুমি ভীত হয়ো না, নিশ্চয় আমরা তোমাকে এক জ্ঞানী শিশুর সুসংবাদ দিচ্ছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_53.mp3"
+        }
+    }
+}

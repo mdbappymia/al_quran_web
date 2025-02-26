@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 19,
+    "english": "But they said, “Our Lord! Make ˹the distances of˺ our journeys longer,” wronging themselves. So We reduced them to ˹cautionary˺ tales, and scattered them utterly. Surely in this are lessons for whoever is steadfast, grateful.",
+    "arabic1": "فَقَالُوا۟ رَبَّنَا بَـٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَـٰهُمْ أَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+    "arabic2": "فقالوا ربنا باعد بين اسفارنا وظلموا انفسهم فجعلناهم احاديث ومزقناهم كل ممزق ان في ذلك لايات لكل صبار شكور",
+    "bengali": "কিন্তু তারা বলল, ‘হে আমাদের রব, আমাদের সফরের মধ্যে দূরত্ব বাড়িয়ে দিন’। আর তারা নিজদের প্রতি যুলম করল। ফলে আমি তাদেরকে কাহিনী বানালাম এবং তাদেরকে একেবারে ছিন্নভিন্ন করে দিলাম। নিশ্চয় এতে প্রত্যেক ধৈর্যশীল কৃতজ্ঞ ব্যক্তির জন্য নিদর্শন রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_19.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 24,
+    "english": "˹Also˺ say, “He is the One Who has dispersed you ˹all˺ over the earth, and to Him you will ˹all˺ be gathered.”",
+    "arabic1": "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "قل هو الذي ذراكم في الارض واليه تحشرون",
+    "bengali": "বল, ‘তিনিই তোমাদেরকে যমীনে সৃষ্টি করেছেন এবং তাঁর কাছেই তোমাদেরকে সমবেত করা হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_24.mp3"
+        }
+    }
+}

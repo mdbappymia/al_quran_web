@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 75,
+    "english": "˹Even˺ if We had mercy on them and removed their affliction, they would still persist in their transgression, wandering blindly.",
+    "arabic1": "۞ وَلَوْ رَحِمْنَـٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا۟ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+    "arabic2": "ولو رحمناهم وكشفنا ما بهم من ضر للجوا في طغيانهم يعمهون",
+    "bengali": "আর যদি আমি তাদের দয়া করতাম এবং তাদের দুঃখ-দুর্দশা থেকে মুক্ত করতাম, তবুও তারা অবাধ্যতায় বিভ্রান্ত হয়ে ঘুরে বেড়াত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_75.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 20,
+    "english": "But Allah encompasses them from all sides.",
+    "arabic1": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+    "arabic2": "والله من ورائهم محيط",
+    "bengali": "আর আল্লাহ তাদের অলক্ষ্যে তাদের পরিবেষ্টনকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_20.mp3"
+        }
+    }
+}

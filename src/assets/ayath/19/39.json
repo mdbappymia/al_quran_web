@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 39,
+    "english": "And warn them ˹O Prophet˺ of the Day of Regret, when all matters will be settled, while they are ˹engrossed˺ in heedlessness and disbelief.",
+    "arabic1": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "وانذرهم يوم الحسرة اذ قضي الامر وهم في غفلة وهم لا يؤمنون",
+    "bengali": "আর তাদেরকে সতর্ক করে দাও পরিতাপ দিবস সম্পর্কে যখন সব বিষয়ের চূড়ান্ত সিদ্ধান্ত হয়ে যাবে, অথচ তারা রয়েছে উদাসীনতায় বিভোর এবং তারা ঈমান আনছে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_39.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 92,
+    "english": "You will never achieve righteousness until you donate some of what you cherish. And whatever you give is certainly well known to Allah.",
+    "arabic1": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+    "arabic2": "لن تنالوا البر حتى تنفقوا مما تحبون وما تنفقوا من شيء فان الله به عليم",
+    "bengali": "তোমরা কখনো সওয়াব অর্জন করতে পারবে না, যতক্ষণ না ব্যয় করবে তা থেকে, যা তোমরা ভালবাস। আর যা কিছু তোমরা ব্যয় করবে, তবে নিশ্চয় আল্লাহ সে বিষয়ে সম্যক জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_92.mp3"
+        }
+    }
+}

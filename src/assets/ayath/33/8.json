@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 8,
+    "english": "so that He may question these men of truth about their ˹delivery of the˺ truth. And He has prepared a painful punishment for the disbelievers.",
+    "arabic1": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+    "arabic2": "ليسال الصادقين عن صدقهم واعد للكافرين عذابا اليما",
+    "bengali": "সত্যবাদীদেরকে তাদের সত্যবাদিতা সম্পর্কে জিজ্ঞাসা করার জন্য। আর তিনি প্রস্তুত করে রেখেছেন কাফিরদের জন্য যন্ত্রণাদায়ক আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_8.mp3"
+        }
+    }
+}

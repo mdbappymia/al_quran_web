@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 204,
+    "english": "There are some ˹hypocrites˺ who impress you with their views regarding worldly affairs and openly call upon Allah to witness what is in their hearts, yet they are your worst adversaries.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ",
+    "arabic2": "ومن الناس من يعجبك قوله في الحياة الدنيا ويشهد الله على ما في قلبه وهو الد الخصام",
+    "bengali": "আর মানুষের মধ্যে এমনও আছে, যার কথা দুনিয়ার জীবনে তোমাকে অবাক করে এবং সে তার অন্তরে যা রয়েছে, তার উপর আল্লাহকে সাক্ষী রাখে। আর সে কঠিন ঝগড়াকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_204.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_204.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_204.mp3"
+        }
+    }
+}

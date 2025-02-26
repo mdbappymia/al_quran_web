@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 29,
+    "english": "Those who believe and do good, for them will be bliss and an honourable destination.”",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍ",
+    "arabic2": "الذين امنوا وعملوا الصالحات طوبى لهم وحسن ماب",
+    "bengali": "‘যারা ঈমান আনে এবং নেক আমল করে, তাদের জন্য রয়েছে স্বাচ্ছন্দ ও সুন্দর প্রত্যাবর্তনস্থল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_29.mp3"
+        }
+    }
+}

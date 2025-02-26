@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 98,
+    "english": "He said, “I will pray to my Lord for your forgiveness. He ˹alone˺ is indeed the All-Forgiving, Most Merciful.”",
+    "arabic1": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "arabic2": "قال سوف استغفر لكم ربي انه هو الغفور الرحيم",
+    "bengali": "সে বলল, ‘অচিরেই আমি তোমাদের জন্য আমার রবের নিকট ক্ষমা চাইব, নিশ্চয় তিনি ক্ষমাশীল, পরম দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_98.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_98.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_98.mp3"
+        }
+    }
+}

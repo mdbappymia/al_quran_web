@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 31,
+    "english": "Whenever Our revelations are recited to them, they challenge ˹you˺, “We have already heard ˹the recitation˺. If we wanted, we could have easily produced something similar. This ˹Quran˺ is nothing but ancient fables!”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هَـٰذَآ ۙ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "واذا تتلى عليهم اياتنا قالوا قد سمعنا لو نشاء لقلنا مثل هذا ان هذا الا اساطير الاولين",
+    "bengali": "আর তাদের উপর যখন আমার আয়াতসমূহ পাঠ করা হয় তখন তারা বলে, শুনলাম তো। যদি আমরা চাই, তাহলে এর অনুরূপ আমরাও বলতে পারি। এতো পিতৃ-পুরুষদের কল্প-কাহিনী ছাড়া কিছু না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_31.mp3"
+        }
+    }
+}

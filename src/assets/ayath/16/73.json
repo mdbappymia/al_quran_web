@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 73,
+    "english": "Yet they worship besides Allah those ˹idols˺ who do not afford them any provision from the heavens and the earth, nor do they have the power to.",
+    "arabic1": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ شَيْـًٔا وَلَا يَسْتَطِيعُونَ",
+    "arabic2": "ويعبدون من دون الله ما لا يملك لهم رزقا من السماوات والارض شيئا ولا يستطيعون",
+    "bengali": "আর তারা আল্লাহ ছাড়া এমন কিছুর উপাসনা করে, যারা আসমানসমূহ ও যমীনে তাদের কোন রিযকের মালিক নয় এবং হতেও পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_73.mp3"
+        }
+    }
+}

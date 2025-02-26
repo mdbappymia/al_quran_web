@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 12,
+    "english": "None would deny it except every evildoing transgressor.",
+    "arabic1": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+    "arabic2": "وما يكذب به الا كل معتد اثيم",
+    "bengali": "আর সকল সীমালঙ্ঘনকারী পাপাচারী ছাড়া কেউ তা অস্বীকার করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_12.mp3"
+        }
+    }
+}

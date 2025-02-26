@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 57,
+    "english": "˹Even˺ the closest ˹to Allah˺ of those invoked would be seeking a way to their Lord, hoping for His mercy, and fearing His punishment. Indeed, your Lord’s torment is fearsome.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+    "arabic2": "اولئك الذين يدعون يبتغون الى ربهم الوسيلة ايهم اقرب ويرجون رحمته ويخافون عذابه ان عذاب ربك كان محذورا",
+    "bengali": "তারা যাদেরকে ডাকে, তারা নিজেরাই তো তাদের রবের কাছে নৈকট্যের মাধ্যমে অনুসন্ধান করে যে, তাদের মধ্যে কে তাঁর নিকটতর? আর তারা তাঁর রহমতের আশা করে এবং তাঁর আযাবকে ভয় করে। নিশ্চয় তোমার রবের আযাব ভীতিকর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_57.mp3"
+        }
+    }
+}

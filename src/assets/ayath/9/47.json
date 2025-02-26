@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 47,
+    "english": "Had they gone forth with you ˹believers˺, they would have been nothing but trouble for you, and would have scrambled around, seeking to spread discord in your midst. And some of you would have eagerly listened to them. And Allah has ˹perfect˺ knowledge of the wrongdoers.",
+    "arabic1": "لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَـٰلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّـٰعُونَ لَهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+    "arabic2": "لو خرجوا فيكم ما زادوكم الا خبالا ولاوضعوا خلالكم يبغونكم الفتنة وفيكم سماعون لهم والله عليم بالظالمين",
+    "bengali": "যদি তারা তোমাদের সাথে বের হত, তবে তোমাদের মধ্যে ফাসাদই বৃদ্ধি করত এবং তোমাদের মাঝে ছুটোছুটি করত, তোমাদের মধ্যে ফিতনা সৃষ্টির অনুসন্ধানে। আর তোমাদের মধ্যে রয়েছে তাদের কথা অধিক শ্রবণকারী, আর আল্লাহ যালিমদের সম্পর্কে পূর্ণ জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_47.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 24,
+    "english": "to Pharaoh, Hamân, and Korah. But they responded: “Magician! Total liar!”",
+    "arabic1": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوا۟ سَـٰحِرٌ كَذَّابٌ",
+    "arabic2": "الى فرعون وهامان وقارون فقالوا ساحر كذاب",
+    "bengali": "ফির‘আউন, হামান ও কারূনের প্রতি। অতঃপর তারা বলল, ‘সে এক যাদুকর, চরম মিথ্যাবাদী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_24.mp3"
+        }
+    }
+}

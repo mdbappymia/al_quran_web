@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 166,
+    "english": "leaving the wives that your Lord has created for you? In fact, you are a transgressing people.”",
+    "arabic1": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+    "arabic2": "وتذرون ما خلق لكم ربكم من ازواجكم بل انتم قوم عادون",
+    "bengali": "‘আর তোমাদের রব তোমাদের জন্য যে স্ত্রীদের সৃষ্টি করেছেন তাদেরকে তোমরা ত্যাগ কর, বরং তোমরা এক সীমালংঘনকারী সম্প্রদায়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_166.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_166.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_166.mp3"
+        }
+    }
+}

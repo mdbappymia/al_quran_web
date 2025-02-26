@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 14,
+    "english": "Had it not been for Allah’s grace and mercy upon you in this world and the Hereafter, you would have certainly been touched with a tremendous punishment for what you plunged into—",
+    "arabic1": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ لَمَسَّكُمْ فِى مَآ أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ولولا فضل الله عليكم ورحمته في الدنيا والاخرة لمسكم في ما افضتم فيه عذاب عظيم",
+    "bengali": "আর যদি দুনিয়া ও আখেরাতে তোমাদের উপর আল্লাহর দয়া ও তাঁর অনুগ্রহ না থাকত, তবে তোমরা যাতে লিপ্ত ছিলে, তার জন্য তোমাদেরকে অবশ্যই কঠিন আযাব স্পর্শ করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_14.mp3"
+        }
+    }
+}

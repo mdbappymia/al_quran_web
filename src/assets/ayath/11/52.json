@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 52,
+    "english": "And O  my people! Seek your Lord’s forgiveness and turn to Him in repentance. He will shower you with rain in abundance, and add strength to your strength. So do not turn away, persisting in wickedness.”",
+    "arabic1": "وَيَـٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ",
+    "arabic2": "ويا قوم استغفروا ربكم ثم توبوا اليه يرسل السماء عليكم مدرارا ويزدكم قوة الى قوتكم ولا تتولوا مجرمين",
+    "bengali": "‘হে আমার কওম, তোমরা তোমাদের রবের কাছে ক্ষমা চাও অতঃপর তার কাছে তাওবা কর, তাহলে তিনি তোমাদের উপর মুষলধারে বৃষ্টি পাঠাবেন এবং তোমাদের শক্তির সাথে আরো শক্তি বৃদ্ধি করবেন। আর তোমরা অপরাধী হয়ে বিমুখ হয়ো না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_52.mp3"
+        }
+    }
+}

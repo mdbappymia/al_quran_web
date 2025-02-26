@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 39,
+    "english": "the Hellfire will certainly be ˹their˺ home.",
+    "arabic1": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+    "arabic2": "فان الجحيم هي الماوى",
+    "bengali": "নিশ্চয় জাহান্নাম হবে তার আবাসস্থল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_39.mp3"
+        }
+    }
+}

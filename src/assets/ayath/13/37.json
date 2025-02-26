@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 37,
+    "english": "And so We have revealed it as an authority in Arabic. And if you were to follow their desires after ˹all˺ the knowledge that has come to you, there would be none to protect or shield you from Allah.",
+    "arabic1": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ حُكْمًا عَرَبِيًّا ۚ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم بَعْدَ مَا جَآءَكَ مِنَ ٱلْعِلْمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِىٍّ وَلَا وَاقٍ",
+    "arabic2": "وكذلك انزلناه حكما عربيا ولئن اتبعت اهواءهم بعدما جاءك من العلم ما لك من الله من ولي ولا واق",
+    "bengali": "আর এভাবেই আমি কুরআনকে বিধানস্বরূপ আরবীতে নাযিল করেছি। তোমার নিকট জ্ঞান পৌঁছার পরও যদি তুমি তাদের খেয়াল খুশির অনুসরণ কর, তবে আল্লাহ ছাড়া তোমার কোন অভিভাবক ও রক্ষাকারী নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_37.mp3"
+        }
+    }
+}

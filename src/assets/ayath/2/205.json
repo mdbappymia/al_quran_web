@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 205,
+    "english": "And when they leave ˹you˺, they strive throughout the land to spread mischief in it and destroy crops and cattle. Allah does not like mischief.",
+    "arabic1": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
+    "arabic2": "واذا تولى سعى في الارض ليفسد فيها ويهلك الحرث والنسل والله لا يحب الفساد",
+    "bengali": "আর যখন সে ফিরে যায়, তখন যমীনে প্রচেষ্টা চালায় তাতে ফাসাদ করতে এবং ধ্বংস করতে শস্য ও প্রাণী। আর আল্লাহ ফাসাদ ভালবাসেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_205.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_205.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_205.mp3"
+        }
+    }
+}

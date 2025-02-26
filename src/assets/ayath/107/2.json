@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maa'un",
+    "surahNameArabic": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameTranslation": "Almsgiving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 107,
+    "ayahNo": 2,
+    "english": "That is the one who repulses the orphan",
+    "arabic1": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+    "arabic2": "فذلك الذي يدع اليتيم",
+    "bengali": "সে-ই ইয়াতীমকে কঠোরভাবে তাড়িয়ে দেয়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/107_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/107_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/107_2.mp3"
+        }
+    }
+}

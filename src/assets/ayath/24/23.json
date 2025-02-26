@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 23,
+    "english": "Surely those who accuse chaste, unsuspecting, believing women are cursed in this life and the Hereafter. And they will suffer a tremendous punishment",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ٱلْغَـٰفِلَـٰتِ ٱلْمُؤْمِنَـٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ان الذين يرمون المحصنات الغافلات المؤمنات لعنوا في الدنيا والاخرة ولهم عذاب عظيم",
+    "bengali": "যারা সচ্চরিত্রা সরলমনা মুমিন নারীদের প্রতি অপবাদ আরোপ করে, তারা দুনিয়া ও আখিরাতে অভিশপ্ত। আর তাদের জন্য রয়েছে মহাআযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_23.mp3"
+        }
+    }
+}

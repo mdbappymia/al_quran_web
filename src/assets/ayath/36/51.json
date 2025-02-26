@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 51,
+    "english": "The Trumpet will be blown ˹a second time˺, then—behold!—they will rush from the graves to their Lord.",
+    "arabic1": "وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ",
+    "arabic2": "ونفخ في الصور فاذا هم من الاجداث الى ربهم ينسلون",
+    "bengali": "আর শিঙ্গায় ফুঁক দেয়া হবে, তৎক্ষণাৎ তারা কবর থেকে তাদের রবের দিকে ছুটে আসবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_51.mp3"
+        }
+    }
+}

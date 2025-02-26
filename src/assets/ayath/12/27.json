@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 27,
+    "english": "But if it is torn from the back, then she has lied and he is truthful.”",
+    "arabic1": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "وان كان قميصه قد من دبر فكذبت وهو من الصادقين",
+    "bengali": "‘আর তার জামা যদি পেছন থেকে ছেঁড়া হয় তাহলে সে (মহিলা) মিথ্যা বলেছে এবং সে (পুরুষ) হচ্ছে সত্যবাদীদের অন্তর্ভুক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_27.mp3"
+        }
+    }
+}

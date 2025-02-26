@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 24,
+    "english": "And one of His signs is that He shows you lightning, inspiring ˹you with˺ hope and fear. And He sends down rain from the sky, reviving the earth after its death. Surely in this are signs for people who understand.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+    "arabic2": "ومن اياته يريكم البرق خوفا وطمعا وينزل من السماء ماء فيحيي به الارض بعد موتها ان في ذلك لايات لقوم يعقلون",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে তিনি তোমাদেরকে ভয় ও ভরসাস্বরূপ বিদ্যুৎ দেখান, আর আসমান থেকে পানি বর্ষণ করেন। অতঃপর তা দ্বারা যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে সে কওমের জন্য যারা অনুধাবন করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_24.mp3"
+        }
+    }
+}

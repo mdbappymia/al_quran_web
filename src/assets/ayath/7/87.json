@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 87,
+    "english": "If some of you do believe in what I have been sent with while others do not, then be patient until Allah judges between us. He is the Best of Judges.”",
+    "arabic1": "وَإِن كَانَ طَآئِفَةٌ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+    "arabic2": "وان كان طائفة منكم امنوا بالذي ارسلت به وطائفة لم يؤمنوا فاصبروا حتى يحكم الله بيننا وهو خير الحاكمين",
+    "bengali": "আমি যা নিয়ে প্রেরিত হয়েছি, তার প্রতি যদি তোমাদের একটি দল ঈমান আনে আর অন্য দল ঈমান না আনে, তাহলে ধৈর্যধারণ কর, যতক্ষণ না আল্লাহ আমাদের মধ্যে ফয়সালা করেন। আর তিনি উত্তম ফয়সালাকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_87.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_87.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_87.mp3"
+        }
+    }
+}

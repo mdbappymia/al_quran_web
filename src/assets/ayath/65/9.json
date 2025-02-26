@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 9,
+    "english": "So they tasted the evil consequences of their doings, and the outcome of their doings was ˹total˺ loss.",
+    "arabic1": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَـٰقِبَةُ أَمْرِهَا خُسْرًا",
+    "arabic2": "فذاقت وبال امرها وكان عاقبة امرها خسرا",
+    "bengali": "অতএব তারা নিজদের কৃতকর্মের আযাব আস্বাদন করেছে আর ক্ষতিই ছিল তাদের কাজের পরিণতি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/65_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/65_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/65_9.mp3"
+        }
+    }
+}

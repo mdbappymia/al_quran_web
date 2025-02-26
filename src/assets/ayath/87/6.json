@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 6,
+    "english": "We will have you recite ˹the Quran, O  Prophet,˺ so you will not forget ˹any of it˺",
+    "arabic1": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+    "arabic2": "سنقرئك فلا تنسى",
+    "bengali": "আমি তোমাকে পড়িয়ে দেব অতঃপর তুমি ভুলবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_6.mp3"
+        }
+    }
+}

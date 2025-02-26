@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 65,
+    "english": "O People of the Book! Why do you argue about Abraham, while the Torah and the Gospel were not revealed until long after him? Do you not understand?",
+    "arabic1": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ",
+    "arabic2": "يا اهل الكتاب لم تحاجون في ابراهيم وما انزلت التوراة والانجيل الا من بعده افلا تعقلون",
+    "bengali": "হে কিতাবীগণ, তোমরা ইবরাহীমের ব্যাপারে কেন বিতর্ক কর? অথচ তাওরাত ও ইনজীল তো তার পরই অবতীর্ণ হয়েছে। সুতরাং তোমরা কি বুঝবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_65.mp3"
+        }
+    }
+}

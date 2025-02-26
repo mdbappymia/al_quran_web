@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 26,
+    "english": "Say, ˹O Prophet,˺ “O Allah! Lord over all authorities! You give authority to whoever You please and remove it from who You please; You honour whoever You please and disgrace who You please—all good is in Your Hands. Surely You ˹alone˺ are Most Capable of everything.",
+    "arabic1": "قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "قل اللهم مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء بيدك الخير انك على كل شيء قدير",
+    "bengali": "বল, ‘হে আল্লাহ, রাজত্বের মালিক, আপনি যাকে চান রাজত্ব দান করেন, আর যার থেকে চান রাজত্ব কেড়ে নেন এবং আপনি যাকে চান সম্মান দান করেন। আর যাকে চান অপমানিত করেন, আপনার হাতেই কল্যাণ। নিশ্চয় আপনি সব কিছুর উপর ক্ষমতাবান’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_26.mp3"
+        }
+    }
+}

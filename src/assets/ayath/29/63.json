@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 63,
+    "english": "And if you ask them who sends down rain from the sky, giving life to the earth after its death, they will surely say, “Allah!” Say, “Praise be to Allah!” In fact, most of them do not understand.",
+    "arabic1": "وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic2": "ولئن سالتهم من نزل من السماء ماء فاحيا به الارض من بعد موتها ليقولن الله قل الحمد لله بل اكثرهم لا يعقلون",
+    "bengali": "আর তুমি যদি তাদেরকে প্রশ্ন কর, ‘কে আসমান থেকে পানি বর্ষণ করেন, অতঃপর তা দ্বারা যমীনকে তার মৃত্যুর পর সঞ্জীবিত করেন’? তবে তারা অবশ্যই বলবে, ‘আল্লাহ’। বল, ‘সকল প্রশংসা আল্লাহর’। কিন্তু তাদের অধিকাংশই তা বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_63.mp3"
+        }
+    }
+}

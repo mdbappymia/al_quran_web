@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 13,
+    "english": "But indeed, it will take only one ˹mighty˺ Blast",
+    "arabic1": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ",
+    "arabic2": "فانما هي زجرة واحدة",
+    "bengali": "আর ওটা তো কেবল এক বিকট আওয়াজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_13.mp3"
+        }
+    }
+}

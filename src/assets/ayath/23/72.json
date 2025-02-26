@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 72,
+    "english": "Or ˹is it because˺ you ˹O Prophet˺ are asking them for tribute? But the reward of your Lord is best, for He is the Best Provider.",
+    "arabic1": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "arabic2": "ام تسالهم خرجا فخراج ربك خير وهو خير الرازقين",
+    "bengali": "নাকি তুমি তাদের কাছে কোন প্রতিদান চাও? তবে তোমার রবের প্রতিদান সর্বোত্তম। আর তিনিই সর্বোত্তম রিয্কদাতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_72.mp3"
+        }
+    }
+}

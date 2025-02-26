@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 2,
+    "english": "˹Allah is˺ the One to Whom belongs the kingdom of the heavens and the earth, Who has never had ˹any˺ offspring, nor does He have a partner in ˹governing˺ the kingdom. He has created everything, ordaining it precisely.",
+    "arabic1": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+    "arabic2": "الذي له ملك السماوات والارض ولم يتخذ ولدا ولم يكن له شريك في الملك وخلق كل شيء فقدره تقديرا",
+    "bengali": "যার অধিকারে রয়েছে আসমান ও যমীনের মালিকানা; আর তিনি কোন সন্তান গ্রহণ করেননি এবং সার্বভৌমত্বে তাঁর কোন শরীক নেই। তিনি সব কিছু সৃষ্টি করেছেন। অতঃপর তা নিপুণভাবে নিরূপণ করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_2.mp3"
+        }
+    }
+}

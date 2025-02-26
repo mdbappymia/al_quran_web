@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 27,
+    "english": "I wish death was the end!",
+    "arabic1": "يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+    "arabic2": "يا ليتها كانت القاضية",
+    "bengali": "‘হায়, মৃত্যুই যদি আমার চূড়ান্ত ফয়সালা হত’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_27.mp3"
+        }
+    }
+}

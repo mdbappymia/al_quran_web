@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 272,
+    "english": "You are not responsible for people’s guidance ˹O Prophet˺—it is Allah Who guides whoever He wills. Whatever you ˹believers˺ spend in charity, it is for your own good—as long as you do so seeking the pleasure of Allah. Whatever you donate will be paid back to you in full, and you will not be wronged.",
+    "arabic1": "۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+    "arabic2": "ليس عليك هداهم ولكن الله يهدي من يشاء وما تنفقوا من خير فلانفسكم وما تنفقون الا ابتغاء وجه الله وما تنفقوا من خير يوف اليكم وانتم لا تظلمون",
+    "bengali": "তাদেরকে হিদায়াত করার দায়িত্ব তোমার নয়, কিন্তু আল্লাহ যাকে চান হিদায়াত করেন এবং তোমরা যে সম্পদ ব্যয় কর, তা তোমাদের নিজদের জন্যই। আর তোমরা তো আল্লাহর সন্তুষ্টির উদ্দেশ্যে ব্যয় কর এবং তোমরা কোন উত্তম ব্যয় করলে তা তোমাদেরকে পরিপূর্ণভাবে দেয়া হবে। আর তোমাদের প্রতি যুলম করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_272.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_272.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_272.mp3"
+        }
+    }
+}

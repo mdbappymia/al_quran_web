@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 51,
+    "english": "There they will recline, calling for abundant fruit and drink.",
+    "arabic1": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ فِيهَا بِفَـٰكِهَةٍ كَثِيرَةٍ وَشَرَابٍ",
+    "arabic2": "متكئين فيها يدعون فيها بفاكهة كثيرة وشراب",
+    "bengali": "সেখানে তারা হেলান দিয়ে আসীন থাকবে, সেখানে তারা বহু ফলমূল ও পানীয় চাইবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_51.mp3"
+        }
+    }
+}

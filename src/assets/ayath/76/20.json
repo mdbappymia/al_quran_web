@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 20,
+    "english": "And if you looked around, you would see ˹indescribable˺ bliss and a vast kingdom.",
+    "arabic1": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًا وَمُلْكًا كَبِيرًا",
+    "arabic2": "واذا رايت ثم رايت نعيما وملكا كبيرا",
+    "bengali": "আর তুমি যখন দেখবে তুমি সেখানে দেখতে পাবে স্বাচ্ছন্দ্য ও বিরাট সাম্রাজ্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_20.mp3"
+        }
+    }
+}

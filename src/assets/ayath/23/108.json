@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 108,
+    "english": "Allah will respond, “Be despised in there! Do not ˹ever˺ plead with Me ˹again˺!",
+    "arabic1": "قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ",
+    "arabic2": "قال اخسئوا فيها ولا تكلمون",
+    "bengali": "আল্লাহ বলবেন, ‘তোমরা ধিকৃত অবস্থায় এখানেই থাক, আর আমার সাথে কথা বলো না।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_108.mp3"
+        }
+    }
+}

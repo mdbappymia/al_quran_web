@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 111,
+    "english": "They can never inflict harm on you, except a little annoyance. But if they meet you in battle, they will flee and they will have no helpers.",
+    "arabic1": "لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ",
+    "arabic2": "لن يضروكم الا اذى وان يقاتلوكم يولوكم الادبار ثم لا ينصرون",
+    "bengali": "তারা তোমাদের কোন ক্ষতি করতে পারবে না কষ্ট দেয়া ছাড়া। আর যদি তারা তোমাদের সাথে লড়াই করে, তবে তারা তোমাদেরকে পৃষ্ঠপ্রদর্শন করে পালাবে, তারপর তাদেরকে সাহায্য করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_111.mp3"
+        }
+    }
+}

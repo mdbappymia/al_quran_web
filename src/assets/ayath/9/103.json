@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 103,
+    "english": "Take from their wealth ˹O Prophet˺ charity to purify and bless them, and pray for them—surely your prayer is a source of comfort for them. And Allah is All-Hearing, All-Knowing.",
+    "arabic1": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "خذ من اموالهم صدقة تطهرهم وتزكيهم بها وصل عليهم ان صلاتك سكن لهم والله سميع عليم",
+    "bengali": "তাদের সম্পদ থেকে সদাকা নাও। এর মাধ্যমে তাদেরকে তুমি পবিত্র ও পরিশুদ্ধ করবে। আর তাদের জন্য দো‘আ কর, নিশ্চয় তোমার দো‘আ তাদের জন্য প্রশান্তিকর। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_103.mp3"
+        }
+    }
+}

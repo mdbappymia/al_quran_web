@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 157,
+    "english": "They are the ones who will receive Allah’s blessings and mercy. And it is they who are ˹rightly˺ guided.",
+    "arabic1": "أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+    "arabic2": "اولئك عليهم صلوات من ربهم ورحمة واولئك هم المهتدون",
+    "bengali": "তাদের উপরই রয়েছে তাদের রবের পক্ষ থেকে মাগফিরাত ও রহমত এবং তারাই হিদায়াতপ্রাপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_157.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_157.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_157.mp3"
+        }
+    }
+}

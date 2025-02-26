@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 47,
+    "english": "With Him ˹alone˺ is the knowledge of the Hour. No fruit comes out of its husk, nor does a female conceive or deliver without His knowledge. And ˹consider˺ the Day He will call to them, “Where are My ˹so-called˺ associate-gods?” They will cry, “We declare before you that none of us testifies to that ˹any longer˺.”",
+    "arabic1": "۞ إِلَيْهِ يُرَدُّ عِلْمُ ٱلسَّاعَةِ ۚ وَمَا تَخْرُجُ مِن ثَمَرَٰتٍ مِّنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَآءِى قَالُوٓا۟ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِيدٍ",
+    "arabic2": "اليه يرد علم الساعة وما تخرج من ثمرات من اكمامها وما تحمل من انثى ولا تضع الا بعلمه ويوم يناديهم اين شركائي قالوا اذناك ما منا من شهيد",
+    "bengali": "কিয়ামতের জ্ঞান তাঁরই দিকে প্রত্যাবর্তিত হয়। তাঁর অজ্ঞাতসারে আবরণ হতে ফলসমূহ বের হয় না, কোন নারী গর্ভধারণ করে না এবং সন্তান প্রসবও করে না এবং সেদিন যখন তিনি তাদেরকে আহবান করে বলবেন, ‘আমার শরীকরা কোথায়?’ তারা বলবে, ‘আমরা আপনাকে জানাচ্ছি যে, এ ব্যাপারে আমাদের থেকে কোন সাক্ষী নেই।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_47.mp3"
+        }
+    }
+}

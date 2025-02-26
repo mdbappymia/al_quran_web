@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 52,
+    "english": "Ask ˹them, O  Prophet˺, “Imagine if this ˹Quran˺ is ˹truly˺ from Allah and you deny it: who can be more astray than those who have gone too far in opposition ˹to the truth˺?”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍ",
+    "arabic2": "قل ارايتم ان كان من عند الله ثم كفرتم به من اضل ممن هو في شقاق بعيد",
+    "bengali": "বল, ‘তোমরা কি লক্ষ্য করেছ, তা যদি (কুরআন) আল্লাহর কাছ থেকে এসে থাকে আর তোমরা তা অস্বীকার কর, তবে যে ব্যক্তি ঘোর বিরোধিতায় লিপ্ত তার চেয়ে অধিক ভ্রষ্ট আর কে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_52.mp3"
+        }
+    }
+}

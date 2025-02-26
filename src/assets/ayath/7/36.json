@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 36,
+    "english": "But those who receive Our revelations with denial and arrogance will be the residents of the Fire. They will be there forever.",
+    "arabic1": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "والذين كذبوا باياتنا واستكبروا عنها اولئك اصحاب النار هم فيها خالدون",
+    "bengali": "আর যারা আমার আয়াতসমূহকে অস্বীকার করেছে এবং তার ব্যাপারে অহঙ্কার করেছে, তারাই আগুনের অধিবাসী। তারা সেখানে হবে স্থায়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_36.mp3"
+        }
+    }
+}

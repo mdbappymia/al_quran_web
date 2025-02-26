@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 49,
+    "english": "Had he not been shown grace by his Lord, he would have certainly been cast onto the open ˹shore˺, still blameworthy.",
+    "arabic1": "لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ",
+    "arabic2": "لولا ان تداركه نعمة من ربه لنبذ بالعراء وهو مذموم",
+    "bengali": "যদি তার রবের অনুগ্রহ তার কাছে না পৌঁছত, তাহলে সে নিন্দিত অবস্থায় উন্মুক্ত প্রান্তরে নিক্ষিপ্ত হত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_49.mp3"
+        }
+    }
+}

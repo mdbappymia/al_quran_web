@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 55,
+    "english": "Call upon your Lord humbly and secretly. Surely He does not like the transgressors.",
+    "arabic1": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+    "arabic2": "ادعوا ربكم تضرعا وخفية انه لا يحب المعتدين",
+    "bengali": "তোমরা তোমাদের রবকে ডাক অনুনয় বিনয় করে ও চুপিসারে। নিশ্চয় তিনি পছন্দ করেন না সীমালঙ্ঘনকারীদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_55.mp3"
+        }
+    }
+}

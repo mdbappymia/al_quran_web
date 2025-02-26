@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 32,
+    "english": "And among His signs are the ships like mountains ˹sailing˺ in the sea.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+    "arabic2": "ومن اياته الجوار في البحر كالاعلام",
+    "bengali": "তাঁর নিদর্শনাবলীর মধ্যে আরো রয়েছে সমুদ্রে চলাচলকারী পর্বতমালার মত জাহাজসমূহ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_32.mp3"
+        }
+    }
+}

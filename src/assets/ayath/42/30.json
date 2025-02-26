@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 30,
+    "english": "Whatever affliction befalls you is because of what your own hands have committed. And He pardons much.",
+    "arabic1": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ",
+    "arabic2": "وما اصابكم من مصيبة فبما كسبت ايديكم ويعفو عن كثير",
+    "bengali": "আর তোমাদের প্রতি যে মুসীবত আপতিত হয়, তা তোমাদের কৃতকর্মেরই ফল। আর অনেক কিছুই তিনি ক্ষমা করে দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_30.mp3"
+        }
+    }
+}

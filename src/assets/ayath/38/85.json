@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 85,
+    "english": "I will surely fill up Hell with you and whoever follows you from among them, all together.”",
+    "arabic1": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ",
+    "arabic2": "لاملان جهنم منك وممن تبعك منهم اجمعين",
+    "bengali": "‘তোমাকে দিয়ে এবং তাদের মধ্যে যারা তোমার অনুসরণ করত তাদের দিয়ে নিশ্চয় আমি জাহান্নাম পূর্ণ করব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_85.mp3"
+        }
+    }
+}

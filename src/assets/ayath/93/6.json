@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 6,
+    "english": "Did He not find you as an orphan then sheltered you?",
+    "arabic1": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+    "arabic2": "الم يجدك يتيما فاوى",
+    "bengali": "তিনি কি তোমাকে ইয়াতীম অবস্থায় পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/93_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/93_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/93_6.mp3"
+        }
+    }
+}

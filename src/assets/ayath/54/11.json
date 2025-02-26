@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 11,
+    "english": "So We opened the gates of the sky with pouring rain",
+    "arabic1": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+    "arabic2": "ففتحنا ابواب السماء بماء منهمر",
+    "bengali": "ফলে আমি বর্ষণশীল বারিধারার মাধ্যমে আসমানের দরজাসমূহ খুলে দিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_11.mp3"
+        }
+    }
+}

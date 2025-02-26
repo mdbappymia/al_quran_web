@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 18,
+    "english": "Whoever desires this fleeting world ˹alone˺, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.",
+    "arabic1": "مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًا مَّدْحُورًا",
+    "arabic2": "من كان يريد العاجلة عجلنا له فيها ما نشاء لمن نريد ثم جعلنا له جهنم يصلاها مذموما مدحورا",
+    "bengali": "যে দুনিয়া চায় আমি সেখানে তাকে দ্রুত দিয়ে দেই, যা আমি চাই, যার জন্য চাই। তারপর তার জন্য নির্ধারণ করি জাহান্নাম, সেখানে সে প্রবেশ করবে নিন্দিত, বিতাড়িত অবস্থায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_18.mp3"
+        }
+    }
+}

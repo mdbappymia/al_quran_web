@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 25,
+    "english": "Those before them ˹also˺ rejected ˹the truth˺, then the torment came upon them from where they least expected.",
+    "arabic1": "كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+    "arabic2": "كذب الذين من قبلهم فاتاهم العذاب من حيث لا يشعرون",
+    "bengali": "তাদের পূর্বে যারা ছিল, তারাও অস্বীকার করেছিল, ফলে তাদের প্রতি এমন ভাবে আযাব এসেছিল যে, তারা অনুভব করতে পারেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_25.mp3"
+        }
+    }
+}

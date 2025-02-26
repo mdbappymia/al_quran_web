@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 6,
+    "english": "Have they not then looked at the sky above them: how We built it and adorned it ˹with stars˺, leaving it flawless?",
+    "arabic1": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَـٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+    "arabic2": "افلم ينظروا الى السماء فوقهم كيف بنيناها وزيناها وما لها من فروج",
+    "bengali": "তারা কি তাদের উপরে আসমানের দিকে তাকায় না, কিভাবে আমি তা বানিয়েছি এবং তা সুশোভিত করেছি? আর তাতে কোন ফাটল নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_6.mp3"
+        }
+    }
+}

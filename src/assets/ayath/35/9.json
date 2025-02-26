@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 9,
+    "english": "And it is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, and then We drive them to a lifeless land, giving life to the earth after its death. Similar is the Resurrection.",
+    "arabic1": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ ٱلنُّشُورُ",
+    "arabic2": "والله الذي ارسل الرياح فتثير سحابا فسقناه الى بلد ميت فاحيينا به الارض بعد موتها كذلك النشور",
+    "bengali": "আর তিনিই আল্লাহ যিনি বায়ু প্রেরণ করেন, অতঃপর তা মেঘমালা সঞ্চালিত করে, তারপর তাকে আমি মৃত ভূমির দিকে পরিচালিত করি, অতঃপর তা দিয়ে আমি যমীনকে তার মৃত্যুর পর জীবিত করি; এভাবেই পুনরুত্থান হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_9.mp3"
+        }
+    }
+}

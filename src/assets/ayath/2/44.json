@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 44,
+    "english": "Do you preach righteousness and fail to practice it yourselves, although you read the Scripture? Do you not understand?",
+    "arabic1": "۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ",
+    "arabic2": "اتامرون الناس بالبر وتنسون انفسكم وانتم تتلون الكتاب افلا تعقلون",
+    "bengali": "তোমরা কি মানুষকে ভাল কাজের আদেশ দিচ্ছ আর নিজদেরকে ভুলে যাচ্ছ? অথচ তোমরা কিতাব তিলাওয়াত কর। তোমরা কি বুঝ না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_44.mp3"
+        }
+    }
+}

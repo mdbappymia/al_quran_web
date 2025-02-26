@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 29,
+    "english": "And they ask ˹the believers˺, “When will this threat come to pass, if what you say is true?”",
+    "arabic1": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ويقولون متى هذا الوعد ان كنتم صادقين",
+    "bengali": "আর তারা বলে, ‘তোমরা যদি সত্যবাদী হও তবে বল, এ ওয়াদা কখন বাস্তবায়িত হবে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_29.mp3"
+        }
+    }
+}

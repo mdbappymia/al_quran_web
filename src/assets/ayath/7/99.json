@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 99,
+    "english": "Did they feel secure against Allah’s planning? None would feel secure from Allah’s planning except the losers.",
+    "arabic1": "أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ ۚ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "افامنوا مكر الله فلا يامن مكر الله الا القوم الخاسرون",
+    "bengali": "তারা কি আল্লাহর কৌশল থেকে নিরাপদ হয়ে গিয়েছে? বস্তুত ক্ষতিগ্রস্ত কওম ছাড়া আল্লাহর কৌশল থেকে আর কেউ (নিজদেরকে) নিরাপদ মনে করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_99.mp3"
+        }
+    }
+}

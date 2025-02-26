@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 23,
+    "english": "where they will remain for ˹endless˺ ages.",
+    "arabic1": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+    "arabic2": "لابثين فيها احقابا",
+    "bengali": "সেখানে তারা যুগ যুগ ধরে অবস্থান করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_23.mp3"
+        }
+    }
+}

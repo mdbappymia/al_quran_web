@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 22,
+    "english": "Out of both ˹waters˺ come forth pearls and coral.",
+    "arabic1": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+    "arabic2": "يخرج منهما اللؤلؤ والمرجان",
+    "bengali": "উভয় সমুদ্র থেকে উৎপন্ন হয় মণিমুক্তা ও প্রবাল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_22.mp3"
+        }
+    }
+}

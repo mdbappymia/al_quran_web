@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 12,
+    "english": "Send him out with us tomorrow so that he may enjoy himself and play. And we will really watch over him.”",
+    "arabic1": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+    "arabic2": "ارسله معنا غدا يرتع ويلعب وانا له لحافظون",
+    "bengali": "‘আপনি আগামী কাল তাকে আমাদের সাথে প্রেরণ করুন, সে সানন্দে ঘোরাফেরা করবে ও খেলবে। আর অবশ্যই আমরা তার হেফাযতকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_12.mp3"
+        }
+    }
+}

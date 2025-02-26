@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 41,
+    "english": "Then the ˹mighty˺ blast overtook them with justice, and We reduced them to rubble. So away with the wrongdoing people!",
+    "arabic1": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءً ۚ فَبُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فاخذتهم الصيحة بالحق فجعلناهم غثاء فبعدا للقوم الظالمين",
+    "bengali": "অতঃপর যথার্থই তাদেরকে এক বিকট আওয়াজ পেয়ে বসল, তারপর আমি তাদেরকে খড়কুটায় পরিণত করলাম। সুতরাং যালিম কওমের জন্য ধ্বংস।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_41.mp3"
+        }
+    }
+}

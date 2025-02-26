@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 35,
+    "english": "who seeks to drive you from your land by his magic. So what do you propose?”",
+    "arabic1": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ",
+    "arabic2": "يريد ان يخرجكم من ارضكم بسحره فماذا تامرون",
+    "bengali": "‘সে তোমাদেরকে তার যাদুর মাধ্যমে তোমাদের দেশ থেকে বের করতে চায়। অতএব, তোমরা আমাকে কী পরামর্শ দাও?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_35.mp3"
+        }
+    }
+}

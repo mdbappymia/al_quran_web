@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 41,
+    "english": "Know that whatever spoils you take, one-fifth is for Allah and the Messenger, his close relatives, orphans, the poor, and ˹needy˺ travellers, if you ˹truly˺ believe in Allah and what We revealed to Our servant on that decisive day when the two armies met ˹at Badr˺. And Allah is Most Capable of everything.",
+    "arabic1": "۞ وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "واعلموا انما غنمتم من شيء فان لله خمسه وللرسول ولذي القربى واليتامى والمساكين وابن السبيل ان كنتم امنتم بالله وما انزلنا على عبدنا يوم الفرقان يوم التقى الجمعان والله على كل شيء قدير",
+    "bengali": "আর তোমরা জেনে রাখ, তোমরা যা কিছু গনীমতরূপে পেয়েছ, নিশ্চয় আল্লাহর জন্যই তার এক পঞ্চমাংশ ও রাসূলের জন্য, নিকট আত্মীয়, ইয়াতীম, মিসকীন ও মুসাফিরের জন্য, যদি তোমরা ঈমান এনে থাক আল্লাহর প্রতি এবং হক ও বাতিলের ফয়সালার দিন আমি আমার বান্দার উপর যা নাযিল করেছি তার প্রতি, যেদিন* দু’টি দল মুখোমুখি হয়েছে, আর আল্লাহ সব কিছুর উপর ক্ষমতাবান। \n* অর্থাৎ বদর যুদ্ধের দিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_41.mp3"
+        }
+    }
+}

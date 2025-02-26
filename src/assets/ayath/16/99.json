@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 99,
+    "english": "He certainly has no authority over those who believe and put their trust in their Lord.",
+    "arabic1": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+    "arabic2": "انه ليس له سلطان على الذين امنوا وعلى ربهم يتوكلون",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে এবং তাদের রবের উপর তাওয়াক্কুল করেছে, তাদের উপর শয়তানের কোন ক্ষমতা নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_99.mp3"
+        }
+    }
+}

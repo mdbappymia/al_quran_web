@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takwir",
+    "surahNameArabic": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameTranslation": "The Overthrowing",
+    "revelationPlace": "Mecca",
+    "totalAyah": 29,
+    "surahNo": 81,
+    "ayahNo": 14,
+    "english": "˹on that Day˺ each soul will know what ˹deeds˺ it has brought along.",
+    "arabic1": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+    "arabic2": "علمت نفس ما احضرت",
+    "bengali": "তখন প্রত্যেক ব্যক্তিই জানতে পারবে সে কী উপস্থিত করেছে!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/81_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/81_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/81_14.mp3"
+        }
+    }
+}

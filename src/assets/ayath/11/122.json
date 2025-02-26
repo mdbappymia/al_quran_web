@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 122,
+    "english": "And wait! Surely we ˹too˺ are waiting.”",
+    "arabic1": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+    "arabic2": "وانتظروا انا منتظرون",
+    "bengali": "এবং তোমরা অপেক্ষা কর আমরাও অপেক্ষমান’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_122.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_122.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_122.mp3"
+        }
+    }
+}

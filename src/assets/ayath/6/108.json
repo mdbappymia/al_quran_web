@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 108,
+    "english": "˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. This is how We have made each people’s deeds appealing to them. Then to their Lord is their return, and He will inform them of what they used to do.",
+    "arabic1": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "ولا تسبوا الذين يدعون من دون الله فيسبوا الله عدوا بغير علم كذلك زينا لكل امة عملهم ثم الى ربهم مرجعهم فينبئهم بما كانوا يعملون",
+    "bengali": "আর তোমরা তাদেরকে গালমন্দ করো না, আল্লাহ ছাড়া যাদেরকে তারা ডাকে, ফলে তারা গালমন্দ করবে আল্লাহকে, শত্রুতা পোষণ করে অজ্ঞতাবশত। এভাবেই আমি প্রত্যেক উম্মতের জন্য তাদের কর্ম শোভিত করে দিয়েছি। তারপর তাদের রবের কাছে তাদের প্রত্যাবর্তন। অতঃপর তিনি জানিয়ে দেবেন তাদেরকে, যা তারা করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_108.mp3"
+        }
+    }
+}

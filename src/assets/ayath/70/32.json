@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 32,
+    "english": "˹The faithful are˺ also those who are true to their trusts and covenants;",
+    "arabic1": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+    "arabic2": "والذين هم لاماناتهم وعهدهم راعون",
+    "bengali": "আর যারা নিজদের আমানত ও ওয়াদা রক্ষাকারী,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_32.mp3"
+        }
+    }
+}

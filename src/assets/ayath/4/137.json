@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 137,
+    "english": "Indeed, those who believed then disbelieved, then believed and again disbelieved—˹only˺ increasing in disbelief—Allah will neither forgive them nor guide them to the ˹Right˺ Way.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًۢا",
+    "arabic2": "ان الذين امنوا ثم كفروا ثم امنوا ثم كفروا ثم ازدادوا كفرا لم يكن الله ليغفر لهم ولا ليهديهم سبيلا",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে তারপর কুফরী করেছে, আবার ঈমান এনেছে তারপর কুফরী করেছে, এরপর কুফরীকে বাড়িয়ে দিয়েছে, আল্লাহ তাদেরকে ক্ষমা করার নন এবং তাদেরকে পথ প্রদর্শন করার নন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_137.mp3"
+        }
+    }
+}

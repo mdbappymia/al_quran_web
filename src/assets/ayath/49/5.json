@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 5,
+    "english": "Had they been patient until you could come out to them, it would have certainly been better for them. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "ولو انهم صبروا حتى تخرج اليهم لكان خيرا لهم والله غفور رحيم",
+    "bengali": "তুমি তাদের কাছে বের হয়ে আসা পর্যন্ত যদি তারা ধৈর্যধারণ করত, তাহলে সেটাই তাদের জন্য উত্তম হত। আর আল্লাহ অত্যন্ত ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/49_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/49_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/49_5.mp3"
+        }
+    }
+}

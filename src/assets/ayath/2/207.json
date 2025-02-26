@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 207,
+    "english": "And there are those who would dedicate their lives to Allah’s pleasure. And Allah is Ever Gracious to ˹His˺ servants.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+    "arabic2": "ومن الناس من يشري نفسه ابتغاء مرضات الله والله رءوف بالعباد",
+    "bengali": "আর মানুষের মধ্যে এমন লোকও আছে যে আল্লাহর সন্তুষ্টির উদ্দেশ্যে নিজকে বিকিয়ে দেয়। আর আল্লাহ (তাঁর) বান্দাদের প্রতি স্নেহশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_207.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_207.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_207.mp3"
+        }
+    }
+}

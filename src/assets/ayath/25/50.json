@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 50,
+    "english": "We certainly disperse it among them so they may be mindful, but most people persist in ungratefulness.",
+    "arabic1": "وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+    "arabic2": "ولقد صرفناه بينهم ليذكروا فابى اكثر الناس الا كفورا",
+    "bengali": "আর আমি তা তাদের মধ্যে বণ্টন করি, যাতে তারা উপদেশ গ্রহণ করতে পারে; তারপর অধিকাংশ লোক শুধু অকৃতজ্ঞতাই প্রকাশ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_50.mp3"
+        }
+    }
+}

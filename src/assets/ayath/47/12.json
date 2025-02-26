@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 12,
+    "english": "Surely Allah will admit those who believe and do good into Gardens under which rivers flow. As for the disbelievers, they enjoy themselves and feed like cattle. But the Fire will be their home.",
+    "arabic1": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ",
+    "arabic2": "ان الله يدخل الذين امنوا وعملوا الصالحات جنات تجري من تحتها الانهار والذين كفروا يتمتعون وياكلون كما تاكل الانعام والنار مثوى لهم",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে ও সৎকর্ম করেছে, আল্লাহ তাদেরকে জান্নাতে দাখিল করবেন। যার নিম্নদেশে নহরসমূহ প্রবাহিত হয়। কিন্তু যারা কুফরী করে তারা ভোগ-বিলাসে মত্ত থাকে এবং তারা আহার করে যেমন চতুষ্পদ জন্তুরা আহার করে। আর জাহান্নামই তাদের বাসস্থান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_12.mp3"
+        }
+    }
+}

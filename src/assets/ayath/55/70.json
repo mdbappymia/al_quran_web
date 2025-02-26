@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 70,
+    "english": "In all Gardens will be noble, pleasant mates.",
+    "arabic1": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+    "arabic2": "فيهن خيرات حسان",
+    "bengali": "সেই জান্নাতসমূহে থাকবে উত্তম চরিত্রবতী অনিন্দ্য সুন্দরীগণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_70.mp3"
+        }
+    }
+}

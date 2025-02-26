@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 21,
+    "english": "They will all appear before Allah, and the lowly ˹followers˺ will appeal to the arrogant ˹leaders˺, “We were your ˹dedicated˺ followers, so will you ˹then˺ protect us from Allah’s torment in any way?” They will reply, “Had Allah guided us, we would have guided you. ˹Now˺ it is all the same for us whether we suffer patiently or impatiently, there is no escape for us.”",
+    "arabic1": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ",
+    "arabic2": "وبرزوا لله جميعا فقال الضعفاء للذين استكبروا انا كنا لكم تبعا فهل انتم مغنون عنا من عذاب الله من شيء قالوا لو هدانا الله لهديناكم سواء علينا اجزعنا ام صبرنا ما لنا من محيص",
+    "bengali": "আর তারা সবাই আল্লাহর সামনে হাজির হবে, অতঃপর যারা অহঙ্কার করেছে দুর্বলরা তাদেরকে বলবে, ‘নিশ্চয় আমরা তোমাদের অনুসারী ছিলাম। সুতরাং তোমরা কি আল্লাহর আযাবের মোকাবেলায় আমাদের কোন উপকারে আসবে’? তারা বলবে, ‘যদি আল্লাহ আমাদের হিদায়াত করতেন, তাহলে আমরাও তোমাদের হিদায়াত করতাম, এখন আমরা অস্থির হই কিংবা সবর করি, উভয় অবস্থাই আমাদের জন্য সমান, আমাদের পালানোর কোন জায়গা নেই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 15,
+    "english": "on that Day the Inevitable Event will have come to pass.",
+    "arabic1": "فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ",
+    "arabic2": "فيومئذ وقعت الواقعة",
+    "bengali": "ফলে সে দিন মহাঘটনা সংঘটিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_15.mp3"
+        }
+    }
+}

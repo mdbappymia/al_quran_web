@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 21,
+    "english": "˹So˺ compete with one another for forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for those who believe in Allah and His messengers. This is the favour of Allah. He grants it to whoever He wills. And Allah is the Lord of infinite bounty.",
+    "arabic1": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "arabic2": "سابقوا الى مغفرة من ربكم وجنة عرضها كعرض السماء والارض اعدت للذين امنوا بالله ورسله ذلك فضل الله يؤتيه من يشاء والله ذو الفضل العظيم",
+    "bengali": "তোমরা তোমাদের রবের পক্ষ থেকে ক্ষমা ও সেই জান্নাতের দিকে প্রতিযোগিতায় অবতীর্ণ হও, যার প্রশস্ততা আসমান ও যমীনের প্রশস্ততার মত। তা প্রস্তত করা হয়েছে যারা আল্লাহ ও তাঁর রাসূলদের প্রতি ঈমান আনে তাদের জন্য। এটা আল্লাহর অনুগ্রহ। তিনি যাকে ইচ্ছা তা দান করেন। আর আল্লাহ মহা অনুগ্রহশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 27,
+    "english": "Only your Lord Himself, full of Majesty and Honour, will remain ˹forever˺.",
+    "arabic1": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+    "arabic2": "ويبقى وجه ربك ذو الجلال والاكرام",
+    "bengali": "আর থেকে যাবে শুধু মহামহিম ও মহানুভব তোমার রবের চেহারা*। \n*চেহারা বলতে কোন কোন তাফসীরকার আল্লাহর সত্তাকে বুঝিয়েছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_27.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 13,
+    "english": "And whoever does not believe in Allah and His Messenger, then We surely have prepared for the disbelievers a blazing Fire.",
+    "arabic1": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا",
+    "arabic2": "ومن لم يؤمن بالله ورسوله فانا اعتدنا للكافرين سعيرا",
+    "bengali": "আর যে কেউ আল্লাহ ও তাঁর রাসূলের উপর ঈমান আনে না তবে নিশ্চয় আমি কাফিরদের জন্য প্রস্তুত করেছি জ্বলন্ত আগুন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_13.mp3"
+        }
+    }
+}

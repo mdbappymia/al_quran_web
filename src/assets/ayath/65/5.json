@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Talaaq",
+    "surahNameArabic": "الطلاق",
+    "surahNameArabicLong": "سورة الطلاق",
+    "surahNameTranslation": "Divorce",
+    "revelationPlace": "Madina",
+    "totalAyah": 12,
+    "surahNo": 65,
+    "ayahNo": 5,
+    "english": "This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely.",
+    "arabic1": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+    "arabic2": "ذلك امر الله انزله اليكم ومن يتق الله يكفر عنه سيئاته ويعظم له اجرا",
+    "bengali": "এটি আল্লাহর নির্দেশ, তিনি তা তোমাদের প্রতি অবতীর্ণ করেছেন। আর যে আল্লাহকে ভয় করে তিনি তার গুনাহসমূহ মোচন করে দেন এবং তার প্রতিদানকে মহান করে দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/65_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/65_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/65_5.mp3"
+        }
+    }
+}

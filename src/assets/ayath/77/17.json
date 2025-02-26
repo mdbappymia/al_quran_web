@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 17,
+    "english": "And We will make the later disbelievers follow them.",
+    "arabic1": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+    "arabic2": "ثم نتبعهم الاخرين",
+    "bengali": "তারপর পরবর্তীদেরকে তাদের অনুসারী বানাই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_17.mp3"
+        }
+    }
+}

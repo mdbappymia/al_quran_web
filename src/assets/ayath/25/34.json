@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 34,
+    "english": "Those who will be dragged into Hell on their faces will be in the worst place, and are ˹now˺ farthest from the ˹Right˺ Way.",
+    "arabic1": "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا",
+    "arabic2": "الذين يحشرون على وجوههم الى جهنم اولئك شر مكانا واضل سبيلا",
+    "bengali": "যাদেরকে মুখের উপর ভর দেয়া অবস্থায় জাহান্নামের দিকে একত্র করা হবে। এরা মর্যাদায় অধিক নিকৃষ্ট এবং পথের দিক থেকে সবচেয়ে বেশী পথভ্রষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_34.mp3"
+        }
+    }
+}

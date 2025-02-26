@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "ayahNo": 5,
+    "english": "and the mountains will be like carded wool.",
+    "arabic1": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "arabic2": "وتكون الجبال كالعهن المنفوش",
+    "bengali": "আর পর্বতরাজি হবে ধুনা রঙিন পশমের মত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/101_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/101_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/101_5.mp3"
+        }
+    }
+}

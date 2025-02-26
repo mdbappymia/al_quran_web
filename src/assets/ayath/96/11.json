@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 11,
+    "english": "What if this ˹servant˺ is ˹rightly˺ guided",
+    "arabic1": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+    "arabic2": "ارايت ان كان على الهدى",
+    "bengali": "তুমি কি দেখেছ, যদি সে হিদায়াতের উপর থাকে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_11.mp3"
+        }
+    }
+}

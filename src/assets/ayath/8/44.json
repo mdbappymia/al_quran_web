@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 44,
+    "english": "Then when your armies met, Allah made them appear as few in your eyes, and made you appear as few in theirs, so Allah may establish what He had destined. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "واذ يريكموهم اذ التقيتم في اعينكم قليلا ويقللكم في اعينهم ليقضي الله امرا كان مفعولا والى الله ترجع الامور",
+    "bengali": "আর যখন তোমরা মুখোমুখি হয়েছিলে, তিনি তোমাদের চোখে তাদেরকে স্বল্প দেখিয়েছিলেন এবং তাদের চোখেও তোমাদেরকে স্বল্প দেখিয়েছিলেন যাতে আল্লাহ সম্পন্ন করেন এমন কাজ যা হওয়ারই ছিল এবং আল্লাহর দিকেই সকল বিষয় ফেরানো হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_44.mp3"
+        }
+    }
+}

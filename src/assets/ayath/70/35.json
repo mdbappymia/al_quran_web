@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 35,
+    "english": "These will be in Gardens, held in honour.",
+    "arabic1": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+    "arabic2": "اولئك في جنات مكرمون",
+    "bengali": "তারাই জান্নাতসমূহে সম্মানিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_35.mp3"
+        }
+    }
+}

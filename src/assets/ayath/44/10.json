@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 10,
+    "english": "Wait then ˹O Prophet˺ for the day ˹when˺ the sky will be veiled in haze, clearly visible",
+    "arabic1": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+    "arabic2": "فارتقب يوم تاتي السماء بدخان مبين",
+    "bengali": "অতএব অপেক্ষা কর সেদিনের যেদিন স্পষ্ট ধোঁয়ায় আচ্ছন্ন হবে আকাশ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_10.mp3"
+        }
+    }
+}

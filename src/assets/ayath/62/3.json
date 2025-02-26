@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 3,
+    "english": "along with others of them who have not yet joined them ˹in faith˺. For He is the Almighty, All-Wise.",
+    "arabic1": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "واخرين منهم لما يلحقوا بهم وهو العزيز الحكيم",
+    "bengali": "এবং তাদের মধ্য হতে অন্যান্যদের জন্যও, (এ রাসূলকেই পাঠানো হয়েছে) যারা এখনো তাদের সাথে মিলিত হয়নি। আর তিনিই মহা পরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/62_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/62_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/62_3.mp3"
+        }
+    }
+}

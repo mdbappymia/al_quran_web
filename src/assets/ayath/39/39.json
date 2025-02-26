@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 39,
+    "english": "Say, ˹O Prophet,˺ “O my people! Persist in your ways, for I ˹too˺ will persist in mine. You will soon come to know",
+    "arabic1": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَـٰمِلٌ ۖ فَسَوْفَ تَعْلَمُونَ",
+    "arabic2": "قل يا قوم اعملوا على مكانتكم اني عامل فسوف تعلمون",
+    "bengali": "বল, ‘হে আমার কওম, তোমরা তোমাদের স্থলে কাজ করে যাও, নিশ্চয় আমিও আমার কাজ করব। অতঃপর শীঘ্রই তোমরা জানতে পারবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_39.mp3"
+        }
+    }
+}

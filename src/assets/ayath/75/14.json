@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 14,
+    "english": "In fact, people will testify against their own souls",
+    "arabic1": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+    "arabic2": "بل الانسان على نفسه بصيرة",
+    "bengali": "বরং মানুষ তার নিজের উপর দৃষ্টিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_14.mp3"
+        }
+    }
+}

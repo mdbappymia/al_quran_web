@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 5,
+    "english": "As for Thamûd, they were destroyed by an overwhelming blast.",
+    "arabic1": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+    "arabic2": "فاما ثمود فاهلكوا بالطاغية",
+    "bengali": "আর সামূদ সম্প্রদায়, তাদেরকে বিকট শব্দ দ্বারা ধ্বংস করা হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_5.mp3"
+        }
+    }
+}

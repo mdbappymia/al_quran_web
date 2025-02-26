@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 55,
+    "english": "So when they enraged Us, We inflicted punishment upon them, drowning them all.",
+    "arabic1": "فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ أَجْمَعِينَ",
+    "arabic2": "فلما اسفونا انتقمنا منهم فاغرقناهم اجمعين",
+    "bengali": "তারপর যখন তারা আমাকে ক্রোধান্বিত করল, তখন আমি তাদের থেকে প্রতিশোধ গ্রহণ করলাম এবং তাদের সকলকে নিমজ্জিত করে দিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_55.mp3"
+        }
+    }
+}

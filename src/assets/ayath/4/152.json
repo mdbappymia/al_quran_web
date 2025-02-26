@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 152,
+    "english": "As for those who believe in Allah and His messengers—accepting all; rejecting none—He will surely give them their rewards. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَـٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "والذين امنوا بالله ورسله ولم يفرقوا بين احد منهم اولئك سوف يؤتيهم اجورهم وكان الله غفورا رحيما",
+    "bengali": "আর যারা আল্লাহ ও তাঁর রাসূলগণের প্রতি ঈমান এনেছে এবং তাদের কারো মধ্যে পার্থক্য করেনি, তাদেরকে অচিরেই তিনি তাদের প্রতিদান দিবেন এবং আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_152.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_152.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_152.mp3"
+        }
+    }
+}

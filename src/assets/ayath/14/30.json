@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 30,
+    "english": "They set up equals to Allah to mislead ˹others˺ from His Way. Say, ˹O Prophet,˺ “Enjoy yourselves! Surely your destination is the Fire.”",
+    "arabic1": "وَجَعَلُوا۟ لِلَّهِ أَندَادًا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+    "arabic2": "وجعلوا لله اندادا ليضلوا عن سبيله قل تمتعوا فان مصيركم الى النار",
+    "bengali": "আর তারা আল্লাহর জন্য সমকক্ষ নির্ধারণ করে, যেন তারা তাঁর পথ থেকে বিভ্রান্ত করতে পারে। বল, ‘তোমরা ভোগ করতে থাক। কেননা, তোমাদের গন্তব্য তো আগুনের দিকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_30.mp3"
+        }
+    }
+}

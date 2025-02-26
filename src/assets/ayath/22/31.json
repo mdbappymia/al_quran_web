@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 31,
+    "english": "Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.",
+    "arabic1": "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ",
+    "arabic2": "حنفاء لله غير مشركين به ومن يشرك بالله فكانما خر من السماء فتخطفه الطير او تهوي به الريح في مكان سحيق",
+    "bengali": "আল্লাহর জন্য একনিষ্ঠ হয়ে এবং তাঁর সাথে কাউকে শরীক না করে। আর যে আল্লাহর সাথে শরীক করে, সে যেন আকাশ থেকে পড়ল। অতঃপর পাখি তাকে ছোঁ মেরে নিয়ে গেল কিম্বা বাতাস তাকে দূরের কোন জায়গায় নিক্ষেপ করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_31.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 7,
+    "english": "Do you not see that Allah knows whatever is in the heavens and whatever is on the earth? If three converse privately, He is their fourth. If five, He is their sixth. Whether fewer or more, He is with them wherever they may be. Then, on the Day of Judgment, He will inform them of what they have done. Surely Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "الم تر ان الله يعلم ما في السماوات وما في الارض ما يكون من نجوى ثلاثة الا هو رابعهم ولا خمسة الا هو سادسهم ولا ادنى من ذلك ولا اكثر الا هو معهم اين ما كانوا ثم ينبئهم بما عملوا يوم القيامة ان الله بكل شيء عليم",
+    "bengali": "তুমি কি লক্ষ্য করনি যে, আসমানসমূহ ও যমীনে যা কিছু আছে নিশ্চয় আল্লাহ তা জানেন? তিন জনের কোন গোপন পরামর্শ হয় না যাতে চতুর্থজন হিসেবে আল্লাহ থাকেন না, আর পাঁচ জনেরও হয় না, যাতে ষষ্ঠজন হিসেবে তিনি থাকেন না। এর চেয়ে কম হোক কিংবা বেশি হোক, তিনি তো তাদের সঙ্গেই আছেন, তারা যেখানেই থাকুক না কেন। তারপর কিয়ামতের দিন তিনি তাদেরকে তাদের কৃতকর্ম সম্পর্কে জানিয়ে দেবেন। নিশ্চয় আল্লাহ সব বিষয়ে সম্যক অবগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_7.mp3"
+        }
+    }
+}

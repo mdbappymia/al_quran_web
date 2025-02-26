@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 63,
+    "english": "When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”",
+    "arabic1": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَـٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+    "arabic2": "فلما رجعوا الى ابيهم قالوا يا ابانا منع منا الكيل فارسل معنا اخانا نكتل وانا له لحافظون",
+    "bengali": "অতঃপর যখন তারা তাদের বাবার কাছে ফিরে আসল, তখন বলল, ‘হে আমাদের পিতা, আমাদের জন্য পরিমাপকৃত রসদ নিষিদ্ধ করা হয়েছে। অতএব আমাদের সাথে আমাদের ভাইকে পাঠান, যেন আমরা পরিমাপ করে রসদ আনতে পারি। আর অবশ্যই আমরা তার হেফাযত করব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_63.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 40,
+    "english": "perhaps my Lord will grant me ˹something˺ better than your garden, and send down upon your garden a thunderbolt from the sky, turning it into a barren waste.",
+    "arabic1": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+    "arabic2": "فعسى ربي ان يؤتين خيرا من جنتك ويرسل عليها حسبانا من السماء فتصبح صعيدا زلقا",
+    "bengali": "তবে আশা করা যায় যে, ‘আমার রব আমাকে তোমার বাগানের চেয়ে উত্তম (কিছু) দান করবেন এবং তার উপর আসমান থেকে বজ্র পাঠাবেন। ফলে তা অনুর্বর উদ্ভিদশূন্য যমীনে পরিণত হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_40.mp3"
+        }
+    }
+}

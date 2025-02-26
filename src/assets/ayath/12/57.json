@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 57,
+    "english": "And the reward of the Hereafter is far better for those who are faithful and are mindful ˹of Allah˺.",
+    "arabic1": "وَلَأَجْرُ ٱلْـَٔاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+    "arabic2": "ولاجر الاخرة خير للذين امنوا وكانوا يتقون",
+    "bengali": "আর যারা ঈমান আনে ও তাকওয়া অবলম্বন করে, তাদের জন্য আখিরাতের প্রতিদানই উত্তম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_57.mp3"
+        }
+    }
+}

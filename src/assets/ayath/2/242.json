@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 242,
+    "english": "This is how Allah makes His revelations clear to you, so perhaps you will understand.",
+    "arabic1": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "كذلك يبين الله لكم اياته لعلكم تعقلون",
+    "bengali": "এভাবে আল্লাহ তোমাদের জন্য তাঁর আয়াতসমূহ স্পষ্টভাবে বর্ণনা করে দেন, যাতে তোমরা উপলব্ধি কর ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_242.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_242.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_242.mp3"
+        }
+    }
+}

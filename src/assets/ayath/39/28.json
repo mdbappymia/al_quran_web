@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 28,
+    "english": "˹It is˺ a Quran ˹revealed˺ in Arabic without any crookedness, so perhaps they will be conscious ˹of Allah˺.",
+    "arabic1": "قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍ لَّعَلَّهُمْ يَتَّقُونَ",
+    "arabic2": "قرانا عربيا غير ذي عوج لعلهم يتقون",
+    "bengali": "বক্রতামুক্ত আরবী কুরআন। যাতে তারা তাকওয়া অবলম্বন করতে পারে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_28.mp3"
+        }
+    }
+}

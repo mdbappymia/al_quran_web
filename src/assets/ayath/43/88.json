@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 88,
+    "english": "˹Allah is Aware of˺ the Prophet’s cry: “O my Lord! Indeed, these are a people who persist in disbelief.”",
+    "arabic1": "وَقِيلِهِۦ يَـٰرَبِّ إِنَّ هَـٰٓؤُلَآءِ قَوْمٌ لَّا يُؤْمِنُونَ",
+    "arabic2": "وقيله يا رب ان هؤلاء قوم لا يؤمنون",
+    "bengali": "আর তার (রাসূলের) বাণী ‘হে আমার রব, নিশ্চয় এরা এমন কওম যারা ঈমান আনবে না।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_88.mp3"
+        }
+    }
+}

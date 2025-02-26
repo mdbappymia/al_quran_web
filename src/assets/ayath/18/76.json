@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 76,
+    "english": "Moses replied, “If I ever question you about anything after this, then do not keep me in your company, for by then I would have given you enough of an excuse.”",
+    "arabic1": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَـٰحِبْنِى ۖ قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًا",
+    "arabic2": "قال ان سالتك عن شيء بعدها فلا تصاحبني قد بلغت من لدني عذرا",
+    "bengali": "মূসা বলল, ‘এরপর যদি আমি আপনাকে আর কোন বিষয়ে প্রশ্ন করি, তাহলে আপনি আমাকে আর আপনার সাথে রাখবেন না। আমার পক্ষ থেকে আপনি ওযর পেয়ে গেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_76.mp3"
+        }
+    }
+}

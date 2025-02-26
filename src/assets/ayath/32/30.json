@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 30,
+    "english": "So turn away from them, and wait! They too are waiting.",
+    "arabic1": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+    "arabic2": "فاعرض عنهم وانتظر انهم منتظرون",
+    "bengali": "অতএব তুমি তাদের থেকে বিমুখ থাক, আর অপেক্ষা কর, নিশ্চয় তারা অপেক্ষমাণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_30.mp3"
+        }
+    }
+}

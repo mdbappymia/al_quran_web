@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 9,
+    "english": "˹He is the˺ Lord of the east and the west. There is no god ˹worthy of worship˺ except Him, so take Him ˹alone˺ as a Trustee of Affairs.",
+    "arabic1": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+    "arabic2": "رب المشرق والمغرب لا اله الا هو فاتخذه وكيلا",
+    "bengali": "তিনি পূর্ব ও পশ্চিমের রব, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। সুতরাং তাঁকেই তুমি কার্য সম্পাদনকারীরূপে গ্রহণ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_9.mp3"
+        }
+    }
+}

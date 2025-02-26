@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 10,
+    "english": "on that Day one will cry, “Where is the escape?”",
+    "arabic1": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+    "arabic2": "يقول الانسان يومئذ اين المفر",
+    "bengali": "সেদিন মানুষ বলবে, ‘পালাবার স্থান কোথায়’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_10.mp3"
+        }
+    }
+}

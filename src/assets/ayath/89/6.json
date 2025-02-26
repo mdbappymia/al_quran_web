@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 6,
+    "english": "Did you not see how your Lord dealt with ’Ȃd—",
+    "arabic1": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+    "arabic2": "الم تر كيف فعل ربك بعاد",
+    "bengali": "তুমি কি দেখনি তোমার রব কিরূপ আচরণ করেছেন ‘আদ জাতির সাথে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_6.mp3"
+        }
+    }
+}

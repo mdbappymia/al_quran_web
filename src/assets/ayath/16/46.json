@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 46,
+    "english": "Or that He will not seize them while they go about ˹their day˺, for then they will have no escape?",
+    "arabic1": "أَوْ يَأْخُذَهُمْ فِى تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ",
+    "arabic2": "او ياخذهم في تقلبهم فما هم بمعجزين",
+    "bengali": "অথবা তিনি তাদের চলাফেরার ভেতর তাদেরকে পাকড়াও করবেন না? বস্তুত তারা (আল্লাহকে) পরাস্তকারী নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_46.mp3"
+        }
+    }
+}

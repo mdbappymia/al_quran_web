@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 210,
+    "english": "It was not the devils who brought this ˹Quran˺ down:",
+    "arabic1": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+    "arabic2": "وما تنزلت به الشياطين",
+    "bengali": "আর শয়তানরা তা নিয়ে অবতরণ করেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_210.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_210.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_210.mp3"
+        }
+    }
+}

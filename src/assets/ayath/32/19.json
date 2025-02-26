@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 19,
+    "english": "As for those who believe and do good, they will have the Gardens of ˹Eternal˺ Residence—as an accommodation for what they used to do.",
+    "arabic1": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ جَنَّـٰتُ ٱلْمَأْوَىٰ نُزُلًۢا بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اما الذين امنوا وعملوا الصالحات فلهم جنات الماوى نزلا بما كانوا يعملون",
+    "bengali": "যারা ঈমান আনে ও সৎকর্ম করে, তাদের বাসস্থান হবে জান্নাত, তারা যা করত তার আপ্যায়ন হিসেবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_19.mp3"
+        }
+    }
+}

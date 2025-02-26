@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 13,
+    "english": "The disbelievers then threatened their messengers, “We will certainly expel you from our land, unless you return to our faith.” So their Lord revealed to them, “We will surely destroy the wrongdoers",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّـٰلِمِينَ",
+    "arabic2": "وقال الذين كفروا لرسلهم لنخرجنكم من ارضنا او لتعودن في ملتنا فاوحى اليهم ربهم لنهلكن الظالمين",
+    "bengali": "আর যারা কুফরী করেছে, তারা তাদের রাসূলদের বলল, ‘আমরা তোমাদেরকে আমাদের ভূ-খন্ড থেকে অবশ্যই বের করে দেব, অথবা তোমরা অবশ্যই আমাদের মিল্লাতে ফিরে আসবে’। অতঃপর তাদের রব তাদের নিকট ওহী পাঠালেন, ‘আমি অবশ্যই যালিমদের ধ্বংস করে দেব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_13.mp3"
+        }
+    }
+}

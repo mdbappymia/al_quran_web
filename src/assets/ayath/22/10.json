@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 10,
+    "english": "˹They will be told,˺ “This is ˹the reward˺ for what your hands have done. And Allah is never unjust to ˹His˺ creation.”",
+    "arabic1": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "ذلك بما قدمت يداك وان الله ليس بظلام للعبيد",
+    "bengali": "(সেদিন তাকে বলা হবে), ‘এটি তোমার দু’হাত যা পূর্বে প্রেরণ করেছে তার কারণে। আর নিশ্চয়ই আল্লাহ বান্দাদের প্রতি যুলমকারী নন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_10.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 24,
+    "english": "But the only response of Abraham’s people was to say: “Kill him or burn him!” But Allah saved him from the fire. Surely in this are signs for people who believe.",
+    "arabic1": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "فما كان جواب قومه الا ان قالوا اقتلوه او حرقوه فانجاه الله من النار ان في ذلك لايات لقوم يؤمنون",
+    "bengali": "অতঃপর ইবরাহীমের কওমের জবাব ছিল কেবল এই যে, তারা বলল, ‘ওকে হত্যা কর অথবা জ্বালিয়ে দাও।’ অতঃপর আল্লাহ আগুন থেকে তাকে রক্ষা করলেন; নিশ্চয় এতে বহু নিদর্শন রয়েছে, যারা ঈমান আনে, সেই কওমের জন্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_24.mp3"
+        }
+    }
+}

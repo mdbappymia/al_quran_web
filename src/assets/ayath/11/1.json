@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 1,
+    "english": "Alif-Lãm-Ra. ˹This is˺ a Book whose verses are well perfected and then fully explained. ˹It is˺ from the One ˹Who is˺ All-Wise, All-Aware.",
+    "arabic1": " الٓر ۚ كِتَـٰبٌ أُحْكِمَتْ ءَايَـٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ",
+    "arabic2": "الر كتاب احكمت اياته ثم فصلت من لدن حكيم خبير",
+    "bengali": "আলিফ-লাম-রা। এটি কিতাব যার আয়াতসমূহ সুস্থিত করা হয়েছে, অতঃপর বিস্তারিতভাবে বর্ণনা করা হয়েছে প্রজ্ঞাময়, সবিশেষ অবহিত সত্ত্বার পক্ষ থেকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_1.mp3"
+        }
+    }
+}

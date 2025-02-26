@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 26,
+    "english": "And the parable of an evil word is that of an evil tree, uprooted from the earth, having no stability.",
+    "arabic1": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+    "arabic2": "ومثل كلمة خبيثة كشجرة خبيثة اجتثت من فوق الارض ما لها من قرار",
+    "bengali": "আর অপবিত্র বাক্যের উপমা নিকৃষ্ট বৃক্ষের ন্যায়, যাকে মাটির উপর থেকে সমূলে উপড়ে ফেলা হয়েছে, যার কোন স্থিতি নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_26.mp3"
+        }
+    }
+}

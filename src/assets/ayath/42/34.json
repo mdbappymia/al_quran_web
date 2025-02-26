@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 34,
+    "english": "Or He can wreck the ships for what the people have committed—though He forgives much—",
+    "arabic1": "أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ",
+    "arabic2": "او يوبقهن بما كسبوا ويعف عن كثير",
+    "bengali": "অথবা তাদের কৃতকর্মের জন্য সেগুলোকে তিনি ধ্বংস করে দিতে পারেন, আবার অনেককে তিনি ক্ষমাও করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_34.mp3"
+        }
+    }
+}

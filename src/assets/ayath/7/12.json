@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 12,
+    "english": "Allah asked, “What prevented you from prostrating when I commanded you?” He replied, “I am better than he is: You created me from fire and him from clay.”",
+    "arabic1": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+    "arabic2": "قال ما منعك الا تسجد اذ امرتك قال انا خير منه خلقتني من نار وخلقته من طين",
+    "bengali": "তিনি বললেন, ‘কিসে তোমাকে বাধা দিয়েছে যে, সিজদা করছ না, যখন আমি তোমাকে নির্দেশ দিয়েছি’? সে বলল, ‘আমি তার চেয়ে উত্তম। আপনি আমাকে আগুন থেকে সৃষ্টি করেছেন, আর তাকে সৃষ্টি করেছেন কাদামাটি থেকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_12.mp3"
+        }
+    }
+}

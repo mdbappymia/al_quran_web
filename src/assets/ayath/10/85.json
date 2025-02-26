@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 85,
+    "english": "They replied, “In Allah we trust. Our Lord! Do not subject us to the persecution of the oppressive people",
+    "arabic1": "فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فقالوا على الله توكلنا ربنا لا تجعلنا فتنة للقوم الظالمين",
+    "bengali": "তখন তারা বলল, ‘আমরা আল্লাহর উপরই তাওয়াক্কুল করলাম। হে আমাদের রব, আপনি আমাদেরকে যালিম কওমের ফিতনার পাত্র বানাবেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_85.mp3"
+        }
+    }
+}

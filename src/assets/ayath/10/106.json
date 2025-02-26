@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 106,
+    "english": "and ‘Do not invoke, instead of Allah, what can neither benefit nor harm you—for if you do, then you will certainly be one of the wrongdoers,’",
+    "arabic1": "وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ ۖ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا مِّنَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "ولا تدع من دون الله ما لا ينفعك ولا يضرك فان فعلت فانك اذا من الظالمين",
+    "bengali": "‘আর আল্লাহ ছাড়া এমন কিছুকে ডেকো না, যা তোমার উপকার করতে পারে না এবং তোমার ক্ষতিও করতে পারে না। অতএব তুমি যদি কর, তাহলে নিশ্চয় তুমি যালিমদের অন্তর্ভুক্ত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_106.mp3"
+        }
+    }
+}

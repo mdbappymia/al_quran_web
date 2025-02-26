@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 144,
+    "english": "Allah said, “O Moses! I have ˹already˺ elevated you above all others by My messages and speech. So hold firmly to what I have given you and be grateful.”",
+    "arabic1": "قَالَ يَـٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَـٰلَـٰتِى وَبِكَلَـٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+    "arabic2": "قال يا موسى اني اصطفيتك على الناس برسالاتي وبكلامي فخذ ما اتيتك وكن من الشاكرين",
+    "bengali": "তিনি বললেন, ‘হে মূসা, আমি আমার রিসালাত ও বাক্যালাপ দ্বারা তোমাকে মানুষের উপর বেছে নিয়েছি। সুতরাং যা কিছু আমি তোমাকে প্রদান করলাম তা গ্রহণ কর এবং শোকর আদায়কারীদের অন্তর্ভুক্ত হও।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_144.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_144.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_144.mp3"
+        }
+    }
+}

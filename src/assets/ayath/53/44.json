@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 44,
+    "english": "And He is the One Who gives life and causes death.",
+    "arabic1": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+    "arabic2": "وانه هو امات واحيا",
+    "bengali": "আর নিশ্চয় তিনিই মৃত্যু দেন এবং তিনিই জীবন দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_44.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 41,
+    "english": "They will say, “Glory be to You! Our loyalty is to You, not them. In fact, they ˹only˺ followed the ˹temptations of evil˺ jinn, in whom most of them had faith.”",
+    "arabic1": "قَالُوا۟ سُبْحَـٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ",
+    "arabic2": "قالوا سبحانك انت ولينا من دونهم بل كانوا يعبدون الجن اكثرهم بهم مؤمنون",
+    "bengali": "তারা (ফেরেশতারা) বলবে, ‘আপনি পবিত্র মহান, আপনিই আমাদের অভিভাবক, তারা নয়। বরং তারা জিনদের পূজা করত। এদের অধিকাংশই তাদের প্রতি ঈমান রাখত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_41.mp3"
+        }
+    }
+}

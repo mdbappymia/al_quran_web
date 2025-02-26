@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 17,
+    "english": "There is no blame on the blind, or the disabled, or the sick ˹for staying behind˺. And whoever obeys Allah and His Messenger will be admitted by Him into Gardens under which rivers flow. But whoever turns away will be subjected by Him to a painful punishment.",
+    "arabic1": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+    "arabic2": "ليس على الاعمى حرج ولا على الاعرج حرج ولا على المريض حرج ومن يطع الله ورسوله يدخله جنات تجري من تحتها الانهار ومن يتول يعذبه عذابا اليما",
+    "bengali": "অন্ধের কোন অপরাধ নেই, লেংড়ার কোন অপরাধ নেই, অসুস্থের কোন অপরাধ নেই। যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে তিনি তাকে এমন জান্নাতে দাখিল করাবেন যার পাদদেশে নহরসমূহ প্রবাহিত। আর যে ব্যক্তি পিছনে ফিরে যাবে তিনি তাকে যন্ত্রণাদায়ক আযাব দেবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_17.mp3"
+        }
+    }
+}

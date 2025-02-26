@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 91,
+    "english": "or until you have a garden of palm trees and vineyards, and cause rivers to flow abundantly in it",
+    "arabic1": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِّن نَّخِيلٍ وَعِنَبٍ فَتُفَجِّرَ ٱلْأَنْهَـٰرَ خِلَـٰلَهَا تَفْجِيرًا",
+    "arabic2": "او تكون لك جنة من نخيل وعنب فتفجر الانهار خلالها تفجيرا",
+    "bengali": "‘অথবা তোমার জন্য খেজুর ও আঙ্গুরের একটি বাগান হবে, অতঃপর তুমি তার মধ্যে প্রবাহিত করবে নদী-নালা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_91.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_91.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_91.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "ayahNo": 6,
+    "english": "Surely humankind is ungrateful to their Lord—",
+    "arabic1": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+    "arabic2": "ان الانسان لربه لكنود",
+    "bengali": "নিশ্চয় মানুষ তার রবের প্রতি বড়ই অকৃতজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/100_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/100_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/100_6.mp3"
+        }
+    }
+}

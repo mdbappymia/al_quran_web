@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Faatiha",
+    "surahNameArabic": "الفاتحة",
+    "surahNameArabicLong": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameTranslation": "The Opening",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 1,
+    "ayahNo": 6,
+    "english": "Guide us along the Straight Path",
+    "arabic1": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "arabic2": "اهدنا الصراط المستقيم",
+    "bengali": "আমাদেরকে সরল পথ দেখান। পথের হিদায়াত দিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/1_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/1_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/1_6.mp3"
+        }
+    }
+}

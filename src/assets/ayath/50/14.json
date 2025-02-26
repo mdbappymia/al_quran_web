@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 14,
+    "english": "the residents of the Forest, and the people of Tubba’. Each rejected ˹their˺ messenger, so My warning was fulfilled.",
+    "arabic1": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+    "arabic2": "واصحاب الايكة وقوم تبع كل كذب الرسل فحق وعيد",
+    "bengali": "আইকার অধিবাসী ও তুব্বা‘ সম্প্রদায়। সকলেই রাসূলদেরকে মিথ্যাবাদী বলেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_14.mp3"
+        }
+    }
+}

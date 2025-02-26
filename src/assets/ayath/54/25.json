@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 25,
+    "english": "Has the revelation been sent down ˹only˺ to him out of ˹all of˺ us? In fact, he is a boastful liar.”",
+    "arabic1": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+    "arabic2": "االقي الذكر عليه من بيننا بل هو كذاب اشر",
+    "bengali": "‘আমাদের মধ্য থেকে কি তার ওপরই উপদেশবাণী পাঠানো হয়েছে ? বরং সে চরম মিথ্যাবাদী অহঙ্কারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_25.mp3"
+        }
+    }
+}

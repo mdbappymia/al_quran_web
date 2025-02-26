@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 84,
+    "english": "Say, ˹O Prophet,˺ “Everyone acts in their own way. But your Lord knows best whose way is rightly guided.”",
+    "arabic1": "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+    "arabic2": "قل كل يعمل على شاكلته فربكم اعلم بمن هو اهدى سبيلا",
+    "bengali": "বল, ‘প্রত্যেকেই আমল করে থাকে নিজ পদ্ধতি অনুযায়ী এবং তোমার রব অধিক অবগত আছেন কে সর্বাধিক নির্ভুল পথে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_84.mp3"
+        }
+    }
+}

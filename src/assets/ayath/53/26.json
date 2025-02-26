@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 26,
+    "english": "˹Imagine˺ how many ˹noble˺ angels are in the heavens! ˹Even˺ their intercession would be of no benefit whatsoever, until Allah gives permission to whoever He wills and ˹only for the people He˺ approves.",
+    "arabic1": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+    "arabic2": "وكم من ملك في السماوات لا تغني شفاعتهم شيئا الا من بعد ان ياذن الله لمن يشاء ويرضى",
+    "bengali": "আর আসমানসমূহে অনেক ফেরেশতা রয়েছে, তাদের সুপারিশ কোনই কাজে আসবে না। তবে আল্লাহ যাকে ইচ্ছা করেন এবং যার প্রতি তিনি সন্তুষ্ট, তার ব্যাপারে অনুমতি দেয়ার পর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_26.mp3"
+        }
+    }
+}

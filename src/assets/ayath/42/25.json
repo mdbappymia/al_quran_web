@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 25,
+    "english": "He is the One Who accepts repentance from His servants and pardons ˹their˺ sins. And He knows whatever you do.",
+    "arabic1": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+    "arabic2": "وهو الذي يقبل التوبة عن عباده ويعفو عن السيئات ويعلم ما تفعلون",
+    "bengali": "আর তিনিই তাঁর বান্দাদের তাওবা কবূল করেন এবং পাপসমূহ ক্ষমা করে দেন। আর তোমরা যা কর, তা তিনি জানেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_25.mp3"
+        }
+    }
+}

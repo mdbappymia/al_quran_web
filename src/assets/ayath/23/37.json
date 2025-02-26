@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 37,
+    "english": "There is nothing beyond our worldly life. We die, others are born, and none will be resurrected.",
+    "arabic1": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+    "arabic2": "ان هي الا حياتنا الدنيا نموت ونحيا وما نحن بمبعوثين",
+    "bengali": "‘এ শুধু আমাদের দুনিয়ার জীবন। আমরা মরে যাই এবং বেঁচে থাকি। আর আমরা পুনরুত্থিত হবার নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_37.mp3"
+        }
+    }
+}

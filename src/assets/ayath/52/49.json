@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 49,
+    "english": "And glorify Him during part of the night and at the fading of the stars.",
+    "arabic1": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+    "arabic2": "ومن الليل فسبحه وادبار النجوم",
+    "bengali": "আর রাতের কিছু অংশে এবং নক্ষত্রের অস্ত যাবার পর তার তাসবীহ পাঠ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_49.mp3"
+        }
+    }
+}

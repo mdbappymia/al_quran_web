@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 8,
+    "english": "they will have an easy reckoning",
+    "arabic1": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+    "arabic2": "فسوف يحاسب حسابا يسيرا",
+    "bengali": "অত্যন্ত সহজভাবেই তার হিসাব-নিকাশ করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_8.mp3"
+        }
+    }
+}

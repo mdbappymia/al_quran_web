@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 13,
+    "english": "This is how We returned him to his mother so that her heart would be put at ease, and not grieve, and that she would know that Allah’s promise is ˹always˺ true. But most people do not know.",
+    "arabic1": "فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "فرددناه الى امه كي تقر عينها ولا تحزن ولتعلم ان وعد الله حق ولكن اكثرهم لا يعلمون",
+    "bengali": "অতঃপর আমি তাকে তার মায়ের কাছে ফিরিয়ে দিলাম, যাতে তার চোখ জুড়ায় এবং সে যেন কোন দুশ্চিন্তা না করে। আর সে যেন জানতে পারে যে, নিশ্চয় আল্লাহর ওয়াদা সত্য। কিন্তু তাদের অধিকাংশই তা জানে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_13.mp3"
+        }
+    }
+}

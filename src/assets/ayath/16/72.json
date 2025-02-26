@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 72,
+    "english": "And Allah has made for you spouses of your own kind, and given you through your spouses children and grandchildren. And He has granted you good, lawful provisions. Are they then faithful to falsehood and ungrateful for Allah’s favours?",
+    "arabic1": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ",
+    "arabic2": "والله جعل لكم من انفسكم ازواجا وجعل لكم من ازواجكم بنين وحفدة ورزقكم من الطيبات افبالباطل يؤمنون وبنعمت الله هم يكفرون",
+    "bengali": "আর আল্লাহ তোমাদের জন্য তোমাদের থেকে জোড়া সৃষ্টি করেছেন এবং তোমাদের জোড়া থেকে তোমাদের জন্য পুত্র ও নাতিদের সৃষ্টি করেছেন আর তিনি তোমারেদকে পবিত্র রিয্ক দান করেছেন তারা কি বাতিলে বিশ্বাস করে এবং আল্লাহর নিআমতকে অস্বীকার করে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_72.mp3"
+        }
+    }
+}

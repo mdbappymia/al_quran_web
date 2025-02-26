@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 12,
+    "english": "So He formed the heaven into seven heavens in two Days, assigning to each its mandate. And We adorned the lowest heaven with ˹stars like˺ lamps ˹for beauty˺ and for protection. That is the design of the Almighty, All-Knowing.”",
+    "arabic1": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا ۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+    "arabic2": "فقضاهن سبع سماوات في يومين واوحى في كل سماء امرها وزينا السماء الدنيا بمصابيح وحفظا ذلك تقدير العزيز العليم",
+    "bengali": "তারপর তিনি দু’দিনে আসমানসমূহকে সাত আসমানে পরিণত করলেন। আর প্রত্যেক আসমানে তার কার্যাবলী ওহীর মাধ্যমে জানিয়ে দিলেন। আর আমি নিকটবর্তী আসমানকে প্রদীপমালার দ্বারা সুসজ্জিত করেছি আর সুরক্ষিত করেছি। এ হল মহা পরাক্রমশালী সর্বজ্ঞের নির্ধারণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_12.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 21,
+    "english": "Allah has decreed, “I and My messengers will certainly prevail.” Surely Allah is All-Powerful, Almighty.",
+    "arabic1": "كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ",
+    "arabic2": "كتب الله لاغلبن انا ورسلي ان الله قوي عزيز",
+    "bengali": "আল্লাহ লিখে দিয়েছেন যে, ‘আমি ও আমার রাসূলগণ অবশ্যই বিজয়ী হব।’ নিশ্চয় আল্লাহ মহা শক্তিমান, মহা পরাক্রমশালী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_21.mp3"
+        }
+    }
+}

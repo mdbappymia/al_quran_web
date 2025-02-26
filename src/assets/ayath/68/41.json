@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 41,
+    "english": "Or do they have associate-gods ˹supporting this claim˺? Then let them bring forth their associate-gods, if what they say is true.",
+    "arabic1": "أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَـٰدِقِينَ",
+    "arabic2": "ام لهم شركاء فلياتوا بشركائهم ان كانوا صادقين",
+    "bengali": "অথবা তাদের জন্য কি অনেক শরীক আছে? তাহলে তারা তাদের শরীকদেরকে উপস্থিত করুক যদি তারা সত্যবাদী হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_41.mp3"
+        }
+    }
+}

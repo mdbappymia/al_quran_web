@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 181,
+    "english": "But whoever changes the will after hearing it, the blame will only be on those who made the change. Indeed, Allah is All-Hearing, All-Knowing.",
+    "arabic1": "فَمَنۢ بَدَّلَهُۥ بَعْدَ مَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "فمن بدله بعدما سمعه فانما اثمه على الذين يبدلونه ان الله سميع عليم",
+    "bengali": "অতএব যে তা শ্রবণ করার পর পরিবর্তন করবে, তবে এর পাপ তাদের হবে, যারা তা পরিবর্তন করে। নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_181.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_181.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_181.mp3"
+        }
+    }
+}

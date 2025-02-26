@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 29,
+    "english": "Surely this is a reminder. So let whoever wills take the ˹Right˺ Way to their Lord.",
+    "arabic1": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+    "arabic2": "ان هذه تذكرة فمن شاء اتخذ الى ربه سبيلا",
+    "bengali": "নিশ্চয় এটি উপদেশ; অতএব যে চায় সে যেন তার রবের দিকে একটি পথ গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_29.mp3"
+        }
+    }
+}

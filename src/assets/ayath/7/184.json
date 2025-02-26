@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 184,
+    "english": "Have they not ever given it a thought? Their fellow man is not insane. He is only sent with a clear warning.",
+    "arabic1": "أَوَلَمْ يَتَفَكَّرُوا۟ ۗ مَا بِصَاحِبِهِم مِّن جِنَّةٍ ۚ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ",
+    "arabic2": "اولم يتفكروا ما بصاحبهم من جنة ان هو الا نذير مبين",
+    "bengali": "তারা কি চিন্তা করেনি যে, তাদের সঙ্গীর মধ্যে কোন মস্তিষ্ক বিকৃতি নেই; সে তো স্পষ্ট সতর্ককারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_184.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_184.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_184.mp3"
+        }
+    }
+}

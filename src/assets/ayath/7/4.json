@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 4,
+    "english": "˹Imagine˺ how many societies We have destroyed! Our torment took them by surprise ˹while sleeping˺ at night or midday.",
+    "arabic1": "وَكَم مِّن قَرْيَةٍ أَهْلَكْنَـٰهَا فَجَآءَهَا بَأْسُنَا بَيَـٰتًا أَوْ هُمْ قَآئِلُونَ",
+    "arabic2": "وكم من قرية اهلكناها فجاءها باسنا بياتا او هم قائلون",
+    "bengali": "আর এমন বহু জনবসতি রয়েছে, যা আমি ধ্বংস করে দিয়েছি। বস্তুত সেখানে আমার আযাব এসেছে রাতে, কিংবা যখন তারা দ্বিপ্রহরে বিশ্রামরত ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_4.mp3"
+        }
+    }
+}

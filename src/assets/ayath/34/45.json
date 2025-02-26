@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 45,
+    "english": "Those ˹destroyed˺ before them denied as well—and these ˹Meccans˺ have not attained even one-tenth of what We had given their predecessors. Yet ˹when˺ they denied My messengers, how severe was My response!",
+    "arabic1": "وَكَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا۟ مِعْشَارَ مَآ ءَاتَيْنَـٰهُمْ فَكَذَّبُوا۟ رُسُلِى ۖ فَكَيْفَ كَانَ نَكِيرِ",
+    "arabic2": "وكذب الذين من قبلهم وما بلغوا معشار ما اتيناهم فكذبوا رسلي فكيف كان نكير",
+    "bengali": "আর তাদের পূর্ববর্তীরাও অস্বীকার করেছে। অথচ আমি তাদের [পূর্ববর্তীদের] যা দিয়েছিলাম এরা তার এক দশমাংশও পায়নি, তবুও তারা আমার রাসূলদের অস্বীকার করেছিল। ফলে আমার প্রত্যাখ্যান (শাস্তি) কেমন হয়েছিল?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_45.mp3"
+        }
+    }
+}

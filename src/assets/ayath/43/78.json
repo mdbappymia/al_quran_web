@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 78,
+    "english": "We certainly brought the truth to you, but most of you were resentful of the truth.",
+    "arabic1": "لَقَدْ جِئْنَـٰكُم بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَكُمْ لِلْحَقِّ كَـٰرِهُونَ",
+    "arabic2": "لقد جئناكم بالحق ولكن اكثركم للحق كارهون",
+    "bengali": "‘অবশ্যই তোমাদের কাছে আমি সত্য নিয়ে এসেছিলাম; কিন্তু তোমাদের অধিকাংশই ছিলে সত্য অপছন্দকারী*। \n* কথাটি আল্লাহর। অর্থ আমিতো তোমাদের কাছে সত্যবাণী পৌঁছিয়েছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_78.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 14,
+    "english": "and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”",
+    "arabic1": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+    "arabic2": "ولنسكننكم الارض من بعدهم ذلك لمن خاف مقامي وخاف وعيد",
+    "bengali": "‘আর নিশ্চয় আমি তাদের পর তোমাদেরকে যমীনে বাস করতে দেব। এটা তার জন্য, যে আমার অবস্থানকে ভয় করে এবং ভয় করে আমার ধমকের’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_14.mp3"
+        }
+    }
+}

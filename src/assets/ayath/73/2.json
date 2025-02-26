@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 2,
+    "english": "Stand all night ˹in prayer˺ except a little—",
+    "arabic1": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+    "arabic2": "قم الليل الا قليلا",
+    "bengali": "রাতে সালাতে দাঁড়াও কিছু অংশ ছাড়া।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_2.mp3"
+        }
+    }
+}

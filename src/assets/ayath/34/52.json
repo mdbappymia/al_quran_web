@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 52,
+    "english": "They will ˹then˺ cry, “We do ˹now˺ believe in it ˹all˺.” But how could they ˹possibly˺ attain faith from a place so far-off ˹from the world˺",
+    "arabic1": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍ",
+    "arabic2": "وقالوا امنا به وانى لهم التناوش من مكان بعيد",
+    "bengali": "আর তারা বলবে, ‘আমরা তাতে ঈমান আনলাম’। কিন্তু দূরবর্তী স্থান থেকে তারা কিভাবে ঈমানের নাগাল পাবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_52.mp3"
+        }
+    }
+}

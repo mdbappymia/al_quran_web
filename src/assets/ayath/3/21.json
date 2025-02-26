@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 21,
+    "english": "Indeed, those who deny Allah’s signs, kill the prophets unjustly, and kill people who stand up for justice—give them good news of a painful punishment.",
+    "arabic1": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "ان الذين يكفرون بايات الله ويقتلون النبيين بغير حق ويقتلون الذين يامرون بالقسط من الناس فبشرهم بعذاب اليم",
+    "bengali": "নিশ্চয় যারা আল্লাহর আয়াতসমূহের সাথে কুফরী করে এবং অন্যায়ভাবে নবীদেরকে হত্যা করে, আর মানুষের মধ্য থেকে যারা ন্যায়-পরায়ণতার নির্দেশ দেয় তাদেরকে হত্যা করে, তুমি তাদেরকে যন্ত্রণাদায়ক আযাবের সুসংবাদ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_21.mp3"
+        }
+    }
+}

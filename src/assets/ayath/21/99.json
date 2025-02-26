@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 99,
+    "english": "Had those idols been ˹true˺ gods, they would not have entered it. And they will be there forever.",
+    "arabic1": "لَوْ كَانَ هَـٰٓؤُلَآءِ ءَالِهَةً مَّا وَرَدُوهَا ۖ وَكُلٌّ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "لو كان هؤلاء الهة ما وردوها وكل فيها خالدون",
+    "bengali": "যদি তারা ইলাহ হত তবে তারা জাহান্নামে প্রবেশ করত না। আর তারা সবাই তাতে স্থায়ী হয়ে থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_99.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 28,
+    "english": "That is the reward of Allah’s enemies: the Fire, which will be their eternal home—a ˹fitting˺ reward for their denial of Our revelations.",
+    "arabic1": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ ۖ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+    "arabic2": "ذلك جزاء اعداء الله النار لهم فيها دار الخلد جزاء بما كانوا باياتنا يجحدون",
+    "bengali": "এই আগুন, আল্লাহর দুশমনদের প্রতিদান। সেখানে থাকবে তাদের জন্য স্থায়ী নিবাস তারা যে আমার আয়াতসমূহ অস্বীকার করত তারই প্রতিফলস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_28.mp3"
+        }
+    }
+}

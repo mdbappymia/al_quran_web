@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 90,
+    "english": "So We answered his prayer, granted him John, and made his wife fertile. Indeed, they used to race in doing good, and call upon Us with hope and fear, totally humbling themselves before Us.",
+    "arabic1": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ",
+    "arabic2": "فاستجبنا له ووهبنا له يحيى واصلحنا له زوجه انهم كانوا يسارعون في الخيرات ويدعوننا رغبا ورهبا وكانوا لنا خاشعين",
+    "bengali": "অতঃপর আমি তার আহবানে সাড়া দিয়েছিলাম এবং তাকে দান করেছিলাম ইয়াহইয়া। আর তার জন্য তার স্ত্রীকে উপযোগী করেছিলাম। তারা সৎকাজে প্রতিযোগিতা করত। আর আমাকে আশা ও ভীতি সহকারে ডাকত। আর তারা ছিল আমার নিকট বিনয়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_90.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_90.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_90.mp3"
+        }
+    }
+}

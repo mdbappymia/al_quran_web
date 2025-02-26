@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 12,
+    "english": "and built above you seven mighty ˹heavens˺",
+    "arabic1": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+    "arabic2": "وبنينا فوقكم سبعا شدادا",
+    "bengali": "আর আমি তোমাদের উপরে বানিয়েছি সাতটি সুদৃঢ় আকাশ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_12.mp3"
+        }
+    }
+}

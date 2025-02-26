@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 43,
+    "english": "the people of Abraham, the people of Lot",
+    "arabic1": "وَقَوْمُ إِبْرَٰهِيمَ وَقَوْمُ لُوطٍ",
+    "arabic2": "وقوم ابراهيم وقوم لوط",
+    "bengali": "আর ইবরাহীমের কওম ও লূতের কওম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_43.mp3"
+        }
+    }
+}

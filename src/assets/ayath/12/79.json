@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 79,
+    "english": "Joseph responded, “Allah forbid that we should take other than the one with whom we found our property. Otherwise, we would surely be unjust.”",
+    "arabic1": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَـٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَـٰلِمُونَ",
+    "arabic2": "قال معاذ الله ان ناخذ الا من وجدنا متاعنا عنده انا اذا لظالمون",
+    "bengali": "সে বলল, ‘যার কাছে আমাদের মাল পেয়েছি তাকে ছাড়া অন্যকে পাকড়াও করা হতে আল্লাহর আশ্রয় চাচ্ছি, এমন করলে আমরা হয়ে যাব নিশ্চিত যালিম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_79.mp3"
+        }
+    }
+}

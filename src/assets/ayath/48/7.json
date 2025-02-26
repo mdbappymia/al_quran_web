@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 7,
+    "english": "To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is Almighty, All-Wise.",
+    "arabic1": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+    "arabic2": "ولله جنود السماوات والارض وكان الله عزيزا حكيما",
+    "bengali": "আর আল্লাহরই জন্য আসমানসমূহ ও যমীনের যাবতীয় সৈন্যবাহিনী; এবং আল্লাহ মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_7.mp3"
+        }
+    }
+}

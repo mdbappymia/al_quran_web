@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 116,
+    "english": "They say, “Allah has offspring.” Glory be to Him! In fact, to Him belongs whatever is in the heavens and the earth—all are subject to His Will.",
+    "arabic1": "وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ",
+    "arabic2": "وقالوا اتخذ الله ولدا سبحانه بل له ما في السماوات والارض كل له قانتون",
+    "bengali": "আর তারা বলে, আল্লাহ সন্তান গ্রহণ করেছেন। তিনি পবিত্র মহান; বরং আসমানসমূহ ও যমীনে যা কিছু আছে তা তাঁরই । সব তাঁরই অনুগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_116.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 77,
+    "english": "So He caused hypocrisy to plague their hearts until the Day they will meet Him, for breaking their promise to Allah and for their lies.",
+    "arabic1": "فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ",
+    "arabic2": "فاعقبهم نفاقا في قلوبهم الى يوم يلقونه بما اخلفوا الله ما وعدوه وبما كانوا يكذبون",
+    "bengali": "সুতরাং পরিণামে তিনি তাদের অন্তরে নিফাক রেখে দিলেন সেদিন পর্যন্ত, যেদিন তারা তাঁর সাথে সাক্ষাৎ করবে, তারা আল্লাহকে যে ওয়াদা দিয়েছে তা ভঙ্গ করার কারণে এবং তারা যে মিথ্যা বলেছিল তার কারণে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_77.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_77.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_77.mp3"
+        }
+    }
+}

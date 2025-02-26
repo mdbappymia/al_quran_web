@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 92,
+    "english": "and to recite the Quran.” Then whoever chooses to be guided, it is only for their own good. But whoever chooses to stray, say, ˹O Prophet,˺ “I am only a warner.”",
+    "arabic1": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ",
+    "arabic2": "وان اتلو القران فمن اهتدى فانما يهتدي لنفسه ومن ضل فقل انما انا من المنذرين",
+    "bengali": "‘আর আমি যেন আল-কুরআন অধ্যয়ন করি, অতঃপর যে হিদায়াত লাভ করল সে নিজের জন্য হিদায়াত লাভ করল; আর যে পথভ্রষ্ট হল তাকে বল, ‘আমি তো সতর্ককারীদের অন্তর্ভুক্ত।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_92.mp3"
+        }
+    }
+}

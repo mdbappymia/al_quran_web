@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 59,
+    "english": "Not at all! My revelations had already come to you, but you rejected them, acted arrogantly, and were one of the disbelievers.”",
+    "arabic1": "بَلَىٰ قَدْ جَآءَتْكَ ءَايَـٰتِى فَكَذَّبْتَ بِهَا وَٱسْتَكْبَرْتَ وَكُنتَ مِنَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "بلى قد جاءتك اياتي فكذبت بها واستكبرت وكنت من الكافرين",
+    "bengali": "হ্যাঁ, অবশ্যই তোমার কাছে আমার নিদর্শনাবলী এসেছিল, অতঃপর তুমি সেগুলোকে অস্বীকার করেছিলে এবং তুমি অহঙ্কার করেছিলে। আর তুমি কাফিরদের অন্তর্ভুক্ত ছিলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_59.mp3"
+        }
+    }
+}

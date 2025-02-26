@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 22,
+    "english": "And when he reached maturity, We gave him wisdom and knowledge. This is how We reward the good-doers.",
+    "arabic1": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "arabic2": "ولما بلغ اشده اتيناه حكما وعلما وكذلك نجزي المحسنين",
+    "bengali": "আর সে যখন পূর্ণ যৌবনে উপনীত হল, আমি তাকে হিকমত ও জ্ঞান দান করলাম এবং এভাবেই আমি ইহসানকারীদের প্রতিদান দিয়ে থাকি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_22.mp3"
+        }
+    }
+}

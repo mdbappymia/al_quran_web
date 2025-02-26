@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 32,
+    "english": "And ˹remember˺ when they prayed, “O Allah! If this is indeed the truth from You, then rain down stones upon us from the sky or overcome us with a painful punishment.”",
+    "arabic1": "وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ",
+    "arabic2": "واذ قالوا اللهم ان كان هذا هو الحق من عندك فامطر علينا حجارة من السماء او ائتنا بعذاب اليم",
+    "bengali": "আর স্মরণ কর, যখন তারা বলেছিল, ‘হে আল্লাহ, যদি এটি সত্য হয় আপনার পক্ষ থেকে তাহলে আমাদের উপর আকাশ থেকে পাথর বর্ষণ করুন অথবা আমাদের উপর অন্য কোন যন্ত্রণাদায়ক আযাব নিয়ে আসুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_32.mp3"
+        }
+    }
+}

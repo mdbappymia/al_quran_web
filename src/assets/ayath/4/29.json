@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 29,
+    "english": "O believers! Do not devour one another’s wealth illegally, but rather trade by mutual consent. And do not kill ˹each other or˺ yourselves. Surely Allah is ever Merciful to you.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ إِلَّآ أَن تَكُونَ تِجَـٰرَةً عَن تَرَاضٍ مِّنكُمْ ۚ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ ۚ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا",
+    "arabic2": "يا ايها الذين امنوا لا تاكلوا اموالكم بينكم بالباطل الا ان تكون تجارة عن تراض منكم ولا تقتلوا انفسكم ان الله كان بكم رحيما",
+    "bengali": "হে মুমিনগণ, তোমরা পরস্পরের মধ্যে তোমাদের ধন-সম্পদ অন্যায়ভাবে খেয়ো না, তবে পারস্পরিক সম্মতিতে ব্যবসার মাধ্যমে হলে ভিন্ন কথা। আর তোমরা নিজেরা নিজদেরকে হত্যা করো না। নিশ্চয় আল্লাহ তোমাদের ব্যাপারে পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_29.mp3"
+        }
+    }
+}

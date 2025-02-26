@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 2,
+    "english": "It leads to Right Guidance so we believed in it, and we will never associate anyone with our Lord ˹in worship˺.",
+    "arabic1": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًا",
+    "arabic2": "يهدي الى الرشد فامنا به ولن نشرك بربنا احدا",
+    "bengali": "যা সত্যের দিকে হিদায়াত করে; অতঃপর আমরা তাতে ঈমান এনেছি। আর আমরা কখনো আমাদের রবের সাথে কাউকে শরীক করব না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_2.mp3"
+        }
+    }
+}

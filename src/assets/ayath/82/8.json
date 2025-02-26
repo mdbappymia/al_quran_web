@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 8,
+    "english": "moulding you in whatever form He willed?",
+    "arabic1": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+    "arabic2": "في اي صورة ما شاء ركبك",
+    "bengali": "যে আকৃতিতে তিনি চেয়েছেন তোমাকে গঠন করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/82_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/82_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/82_8.mp3"
+        }
+    }
+}

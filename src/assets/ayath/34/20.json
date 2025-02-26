@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 20,
+    "english": "Indeed, Iblîs’ assumption about them has come true, so they ˹all˺ follow him, except a group of ˹true˺ believers.",
+    "arabic1": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولقد صدق عليهم ابليس ظنه فاتبعوه الا فريقا من المؤمنين",
+    "bengali": "আর নিশ্চয় তাদের ব্যাপারে ইবলীস তার ধারণা সত্য প্রমাণ করল, ফলে মুমিনদের একটি দল ছাড়া সবাই তার অনুসরণ করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_20.mp3"
+        }
+    }
+}

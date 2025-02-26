@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 31,
+    "english": "If you avoid the major sins forbidden to you, We will absolve you of your ˹lesser˺ misdeeds and admit you into a place of honour.",
+    "arabic1": "إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا",
+    "arabic2": "ان تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما",
+    "bengali": "তোমরা যদি সেসব কবীরা গুনাহ পরিহার কর, যা থেকে তোমাদের বারণ করা হয়েছে, তাহলে আমি তোমাদের গুনাহসমূহ ক্ষমা করে দেব এবং তোমাদেরকে প্রবেশ করাব সম্মানজনক প্রবেশস্থলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_31.mp3"
+        }
+    }
+}

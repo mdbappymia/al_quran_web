@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 34,
+    "english": "That is Jesus, son of Mary. ˹And this is˺ a word of truth, about which they dispute.",
+    "arabic1": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+    "arabic2": "ذلك عيسى ابن مريم قول الحق الذي فيه يمترون",
+    "bengali": "এই হচ্ছে মারইয়াম পুত্র ঈসা। এটাই সঠিক বক্তব্য, যে বিষয়ে লোকেরা সন্দেহ পোষণ করছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_34.mp3"
+        }
+    }
+}

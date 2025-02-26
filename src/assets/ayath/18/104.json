@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 104,
+    "english": "˹They are˺ those whose efforts are in vain in this worldly life, while they think they are doing good!”",
+    "arabic1": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+    "arabic2": "الذين ضل سعيهم في الحياة الدنيا وهم يحسبون انهم يحسنون صنعا",
+    "bengali": "দুনিয়ার জীবনে যাদের চেষ্টা ব্যর্থ হয়ে গেছে, অথচ তারা মনে করছে যে, তারা ভাল কাজই করছে’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_104.mp3"
+        }
+    }
+}

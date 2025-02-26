@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 49,
+    "english": "And they say ˹mockingly˺, “When we are reduced to bones and ashes, will we really be raised as a new creation?”",
+    "arabic1": "وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+    "arabic2": "وقالوا ااذا كنا عظاما ورفاتا اانا لمبعوثون خلقا جديدا",
+    "bengali": "আর তারা বলে, ‘যখন আমরা হাড্ডি ও ছিন্ন-ভিন্ন হয়ে যাব, তখন কি আমরা নতুন সৃষ্টিরূপে পুনরুজ্জীবিত হব’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_49.mp3"
+        }
+    }
+}

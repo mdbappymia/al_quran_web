@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 69,
+    "english": "˹And say,˺ “I had no knowledge of the highest assembly ˹in heaven˺ when they differed ˹concerning Adam˺.",
+    "arabic1": "مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ",
+    "arabic2": "ما كان لي من علم بالملا الاعلى اذ يختصمون",
+    "bengali": "‘ঊর্ধ্বলোক সম্পর্কে আমার কোন জ্ঞানই ছিল না যখন তারা বাদানুবাদ* করছিল’। \n* আদম আ. এর সৃষ্টির প্রাক্কালে ফেরেশতাদের মধ্যকার পারস্পরিক আলোচনার প্রতি ইঙ্গিত করা হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_69.mp3"
+        }
+    }
+}

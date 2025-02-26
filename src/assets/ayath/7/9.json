@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 9,
+    "english": "But those whose scale is light, they have doomed themselves for wrongfully denying Our signs.",
+    "arabic1": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَظْلِمُونَ",
+    "arabic2": "ومن خفت موازينه فاولئك الذين خسروا انفسهم بما كانوا باياتنا يظلمون",
+    "bengali": "আর যাদের পাল্লা হালকা হবে, তারাই হবে সেই সব লোক, যারা নিজদেরকে ক্ষতিগ্রস্ত করেছে। কারণ তারা আমার আয়াতসমূহের প্রতি (অস্বীকার করার মাধ্যমে) যুলম করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_9.mp3"
+        }
+    }
+}

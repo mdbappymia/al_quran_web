@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 42,
+    "english": "you will certainly have no authority over My servants, except the deviant who follow you",
+    "arabic1": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَـٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ",
+    "arabic2": "ان عبادي ليس لك عليهم سلطان الا من اتبعك من الغاوين",
+    "bengali": "‘নিশ্চয় আমার বান্দাদের উপর তোমার কোন ক্ষমতা নেই, তবে পথভ্রষ্টরা ছাড়া যারা তোমাকে অনুসরণ করেছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_42.mp3"
+        }
+    }
+}

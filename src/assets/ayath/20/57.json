@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 57,
+    "english": "He said, “Have you come to drive us out of our land with your magic, O  Moses?",
+    "arabic1": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَـٰمُوسَىٰ",
+    "arabic2": "قال اجئتنا لتخرجنا من ارضنا بسحرك يا موسى",
+    "bengali": "সে বলল, ‘হে মূসা, তুমি কি আমাদের কাছে এজন্য এসেছ যে, তোমার যাদুর দ্বারা আমাদেরকে আমাদের দেশ থেকে বের করে দেবে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_57.mp3"
+        }
+    }
+}

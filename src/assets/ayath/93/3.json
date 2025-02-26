@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 3,
+    "english": "Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺.",
+    "arabic1": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+    "arabic2": "ما ودعك ربك وما قلى",
+    "bengali": "তোমার রব তোমাকে পরিত্যাগ করেননি এবং অসন্তুষ্টও হননি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/93_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/93_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/93_3.mp3"
+        }
+    }
+}

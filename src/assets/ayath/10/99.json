@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 99,
+    "english": "Had your Lord so willed ˹O Prophet˺, all ˹people˺ on earth would have certainly believed, every single one of them! Would you then force people to become believers?",
+    "arabic1": "وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ",
+    "arabic2": "ولو شاء ربك لامن من في الارض كلهم جميعا افانت تكره الناس حتى يكونوا مؤمنين",
+    "bengali": "আর যদি তোমার রব চাইতেন, তবে যমীনের সকলেই ঈমান আনত। তবে কি তুমি মানুষকে বাধ্য করবে, যাতে তারা মুমিন হয় ?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_99.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_99.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_99.mp3"
+        }
+    }
+}

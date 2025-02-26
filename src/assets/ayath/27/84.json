@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 84,
+    "english": "When they ˹finally˺ come before their Lord, He will ask ˹them˺, “Did you deny My revelations without ˹even˺ comprehending them? Or what ˹exactly˺ did you do?”",
+    "arabic1": "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَـٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "حتى اذا جاءوا قال اكذبتم باياتي ولم تحيطوا بها علما اماذا كنتم تعملون",
+    "bengali": "অবশেষে যখন তারা আসবে, তখন আল্লাহ বলবেন, ‘তোমরা কি আমার আয়াতসমূহকে অস্বীকার করেছিলে, অথচ সে বিষয়ে তোমাদের কোন জ্ঞানই ছিল না? নাকি তোমরা আরো কী করেছিলে?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_84.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 58,
+    "english": "Those blind ˹to the truth˺ and those who can see are not equal, nor are those who believe and do good ˹equal˺ to those who do evil. Yet you are hardly mindful.",
+    "arabic1": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَلَا ٱلْمُسِىٓءُ ۚ قَلِيلًا مَّا تَتَذَكَّرُونَ",
+    "arabic2": "وما يستوي الاعمى والبصير والذين امنوا وعملوا الصالحات ولا المسيء قليلا ما تتذكرون",
+    "bengali": "আর সমান হয় না অন্ধ ও দৃষ্টিশক্তিসম্পন্ন ব্যক্তি এবং যারা ঈমান আনে ও সৎকর্ম করে, আর যারা অপরাধী। তোমরা খুব সামান্যই উপদেশ গ্রহণ করে থাক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_58.mp3"
+        }
+    }
+}

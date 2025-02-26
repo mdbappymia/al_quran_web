@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 8,
+    "english": "Do you see any of them left alive?",
+    "arabic1": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ",
+    "arabic2": "فهل ترى لهم من باقية",
+    "bengali": "তারপর তুমি কি তাদের জন্য কোন অবশিষ্ট কিছু দেখতে পাও?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_8.mp3"
+        }
+    }
+}

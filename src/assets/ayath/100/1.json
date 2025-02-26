@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "ayahNo": 1,
+    "english": "’ By the galloping, panting horses",
+    "arabic1": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+    "arabic2": "والعاديات ضبحا",
+    "bengali": "কসম ঊর্ধশ্বাসে ছুটে যাওয়া অশ্বরাজির,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/100_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/100_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/100_1.mp3"
+        }
+    }
+}

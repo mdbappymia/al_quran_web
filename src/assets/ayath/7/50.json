@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 50,
+    "english": "The residents of the Fire will then cry out to the residents of Paradise, “Aid us with some water or any provision Allah has granted you.” They will reply, “Allah has forbidden both to the disbelievers",
+    "arabic1": "وَنَادَىٰٓ أَصْحَـٰبُ ٱلنَّارِ أَصْحَـٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ ۚ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَـٰفِرِينَ",
+    "arabic2": "ونادى اصحاب النار اصحاب الجنة ان افيضوا علينا من الماء او مما رزقكم الله قالوا ان الله حرمهما على الكافرين",
+    "bengali": "আর আগুনের অধিবাসীরা জান্নাতের অধিবাসীদেরকে ডেকে বলবে, ‘আমাদের উপর কিছু পানি অথবা তোমাদেরকে আল্লাহ যে রিয্ক দিয়েছেন, তা ঢেলে দাও’। তারা বলবে, ‘নিশ্চয় আল্লাহ তা কাফিরদের উপর হারাম করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_50.mp3"
+        }
+    }
+}

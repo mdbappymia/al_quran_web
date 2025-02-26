@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Humaza",
+    "surahNameArabic": "الهمزة",
+    "surahNameArabicLong": "سورة الهمزة",
+    "surahNameTranslation": "The Traducer",
+    "revelationPlace": "Mecca",
+    "totalAyah": 9,
+    "surahNo": 104,
+    "ayahNo": 3,
+    "english": "thinking that their wealth will make them immortal!",
+    "arabic1": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+    "arabic2": "يحسب ان ماله اخلده",
+    "bengali": "সে মনে করে তার সম্পদ তাকে চিরজীবি করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/104_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/104_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/104_3.mp3"
+        }
+    }
+}

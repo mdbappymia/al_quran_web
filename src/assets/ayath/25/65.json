@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 65,
+    "english": "˹They are˺ those who pray, “Our Lord! Keep the punishment of Hell away from us, for its punishment is indeed unrelenting.",
+    "arabic1": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+    "arabic2": "والذين يقولون ربنا اصرف عنا عذاب جهنم ان عذابها كان غراما",
+    "bengali": "আর যারা বলে, ‘হে আমাদের রব, তুমি আমাদের থেকে জাহান্নামের আযাব ফিরিয়ে নাও। নিশ্চয় এর আযাব হল অবিচ্ছিন্ন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_65.mp3"
+        }
+    }
+}

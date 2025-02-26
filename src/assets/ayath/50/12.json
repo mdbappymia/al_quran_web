@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 12,
+    "english": "Before them, the people of Noah denied ˹the truth,˺ as did the people of the Water-pit, Thamûd",
+    "arabic1": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
+    "arabic2": "كذبت قبلهم قوم نوح واصحاب الرس وثمود",
+    "bengali": "তাদের পূর্বে সত্য প্রত্যাখ্যান করেছিল নূহের সম্প্রদায়, রাস্ এর অধিবাসী ও সামূদ সম্প্রদায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_12.mp3"
+        }
+    }
+}

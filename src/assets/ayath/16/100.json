@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 100,
+    "english": "His authority is only over those who take him as a patron and who—under his influence—associate ˹others˺ with Allah ˹in worship˺.",
+    "arabic1": "إِنَّمَا سُلْطَـٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ",
+    "arabic2": "انما سلطانه على الذين يتولونه والذين هم به مشركون",
+    "bengali": "তার ক্ষমতা তো কেবল তাদের উপর, যারা তাকে অভিভাবকরূপে গ্রহণ কর এবং যারা আল্লাহর সাথে শরীক করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_100.mp3"
+        }
+    }
+}

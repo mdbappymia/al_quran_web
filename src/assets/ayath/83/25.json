@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 25,
+    "english": "They will be given a drink of sealed, pure wine",
+    "arabic1": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+    "arabic2": "يسقون من رحيق مختوم",
+    "bengali": "তাদেরকে সীলমোহর করা বিশুদ্ধ পানীয় থেকে পান করানো হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_25.mp3"
+        }
+    }
+}

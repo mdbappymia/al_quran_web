@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 109,
+    "english": "Indeed, there was a group of My servants who used to pray, ‘Our Lord! We have believed, so forgive us and have mercy on us, for You are the best of those who show mercy,’",
+    "arabic1": "إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+    "arabic2": "انه كان فريق من عبادي يقولون ربنا امنا فاغفر لنا وارحمنا وانت خير الراحمين",
+    "bengali": "আমার বান্দাদের একদল ছিল যারা বলত, ‘হে আমাদের রব, আমরা ঈমান এনেছি, অতএব আমাদেরকে ক্ষমা ও দয়া করুন, আর আপনি সর্বশ্রেষ্ঠ দয়ালু।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_109.mp3"
+        }
+    }
+}

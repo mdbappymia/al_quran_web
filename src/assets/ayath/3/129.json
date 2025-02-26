@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 129,
+    "english": "To Allah ˹alone˺ belongs whatever is in the heavens and whatever is on the earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "ولله ما في السماوات وما في الارض يغفر لمن يشاء ويعذب من يشاء والله غفور رحيم",
+    "bengali": "আর আল্লাহর জন্যই যা আছে আসমানসমূহে এবং যা আছে যমীনে । তিনি যাকে ইচ্ছা ক্ষমা করেন, আর যাকে ইচ্ছা আযাব দেন। আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_129.mp3"
+        }
+    }
+}

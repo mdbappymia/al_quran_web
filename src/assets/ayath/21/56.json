@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 56,
+    "english": "He replied, “In fact, your Lord is the Lord of the heavens and the earth, Who created them ˹both˺. And to that I bear witness.”",
+    "arabic1": "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "قال بل ربكم رب السماوات والارض الذي فطرهن وانا على ذلكم من الشاهدين",
+    "bengali": "সে বলল, ‘না, বরং তোমাদের রব তো আসমানসমূহ ও যমীনের রব; যিনি এ সবকিছু সৃষ্টি করেছেন। আর এ বিষয়ে আমি অন্যতম সাক্ষী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_56.mp3"
+        }
+    }
+}

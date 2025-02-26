@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 77,
+    "english": "˹To distance themselves,˺ Joseph’s brothers argued, “If he has stolen, so did his ˹full˺ brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said ˹to himself˺, “You are in such an evil position, and Allah knows best ˹the truth of˺ what you claim.”",
+    "arabic1": "۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+    "arabic2": "قالوا ان يسرق فقد سرق اخ له من قبل فاسرها يوسف في نفسه ولم يبدها لهم قال انتم شر مكانا والله اعلم بما تصفون",
+    "bengali": "তারা বলল, ‘যদি সে চুরি করে থাকে, তবে ইতঃপূর্বে তার এক ভাই চুরি করেছিল’। ইউসুফ বিষয়টি নিজের কাছে গোপন রাখল, তাদের কাছে প্রকাশ করল না, সে (মনে মনে) বলল, ‘তোমাদের অবস্থান তো নিকৃষ্টতর, তোমরা যা বলছ, সে সম্পর্কে আল্লাহ ভালভাবেই অবগত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_77.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_77.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_77.mp3"
+        }
+    }
+}

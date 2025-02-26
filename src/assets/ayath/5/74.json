@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 74,
+    "english": "Will they not turn to Allah in repentance and seek His forgiveness? And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسْتَغْفِرُونَهُۥ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "arabic2": "افلا يتوبون الى الله ويستغفرونه والله غفور رحيم",
+    "bengali": "সুতরাং তারা কি আল্লাহর নিকট তাওবা করবে না এবং তাঁর নিকট ক্ষমা চাইবে না? আর আল্লাহ ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_74.mp3"
+        }
+    }
+}

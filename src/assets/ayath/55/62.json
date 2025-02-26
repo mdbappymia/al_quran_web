@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 62,
+    "english": "And below these two ˹Gardens˺ will be two others.",
+    "arabic1": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "arabic2": "ومن دونهما جنتان",
+    "bengali": "আর ঐ দু’টি জান্নাত ছাড়াও আরো দু’টি জান্নাত রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_62.mp3"
+        }
+    }
+}

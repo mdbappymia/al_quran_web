@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 20,
+    "english": "May he be condemned even more! How evil was what he determined!",
+    "arabic1": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+    "arabic2": "ثم قتل كيف قدر",
+    "bengali": "তারপর সে ধ্বংস হোক! কীভাবে সে সিদ্ধান্ত গ্রহণ করল?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_20.mp3"
+        }
+    }
+}

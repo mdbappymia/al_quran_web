@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 11,
+    "english": "The disbelievers say of the believers, “Had it been ˹something˺ good, they would not have beaten us to it.” Now since they reject its guidance, they will say, “˹This is˺ an ancient fabrication!”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌ قَدِيمٌ",
+    "arabic2": "وقال الذين كفروا للذين امنوا لو كان خيرا ما سبقونا اليه واذ لم يهتدوا به فسيقولون هذا افك قديم",
+    "bengali": "আর যারা কুফরী করেছে তারা যারা ঈমান এনেছে তাদের সম্পর্কে বলে, ‘যদি এটা ভাল হত তবে তারা আমাদের থেকে অগ্রণী হতে পারত না’। আর যখন তারা এর দ্বারা হেদায়াত প্রাপ্ত হয়নি, তখন তারা অচিরেই বলবে, ‘এটা তো এক পুরাতন মিথ্যা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_11.mp3"
+        }
+    }
+}

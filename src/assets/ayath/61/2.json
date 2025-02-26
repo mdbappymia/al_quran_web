@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 2,
+    "english": "O believers! Why do you say what you do not do?",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+    "arabic2": "يا ايها الذين امنوا لم تقولون ما لا تفعلون",
+    "bengali": "হে ঈমানদারগণ, তোমরা তা কেন বল, যা তোমরা কর না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/61_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/61_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/61_2.mp3"
+        }
+    }
+}

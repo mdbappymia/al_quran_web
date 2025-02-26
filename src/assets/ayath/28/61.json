@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 61,
+    "english": "Can those to whom We have made a fine promise—which they will see fulfilled—be like those who We have allowed to enjoy the pleasures of this worldly life, but on the Day of Judgment will be brought ˹for punishment˺?",
+    "arabic1": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا حَسَنًا فَهُوَ لَـٰقِيهِ كَمَن مَّتَّعْنَـٰهُ مَتَـٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ هُوَ يَوْمَ ٱلْقِيَـٰمَةِ مِنَ ٱلْمُحْضَرِينَ",
+    "arabic2": "افمن وعدناه وعدا حسنا فهو لاقيه كمن متعناه متاع الحياة الدنيا ثم هو يوم القيامة من المحضرين",
+    "bengali": "আমি যাকে উত্তম ওয়াদা দিয়েছি সে তা পাবেই; সে কি তার মতই যাকে আমি দুনিয়ার জীবনের ভোগসামগ্রী দিয়েছি? তারপর কিয়ামতের দিনে সে উপস্থিতকৃতদের মধ্যে থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_61.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_61.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_61.mp3"
+        }
+    }
+}

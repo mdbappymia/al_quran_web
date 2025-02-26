@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 67,
+    "english": "The disbelievers ask, “When we and our fathers are reduced to dust, will we really be brought forth ˹alive˺?",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+    "arabic2": "وقال الذين كفروا ااذا كنا ترابا واباؤنا ائنا لمخرجون",
+    "bengali": "আর কাফিররা বলে, ‘আমরা ও আমাদের পিতৃপুরুষরা মাটি হয়ে যাব তখনো কি আমাদেরকে উত্থিত করা হবে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_67.mp3"
+        }
+    }
+}

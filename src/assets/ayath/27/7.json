@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 7,
+    "english": "˹Remember˺ when Moses said to his family, “I have spotted a fire. I will either bring you some directions from there, or a burning torch so you may warm yourselves.”",
+    "arabic1": "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+    "arabic2": "اذ قال موسى لاهله اني انست نارا ساتيكم منها بخبر او اتيكم بشهاب قبس لعلكم تصطلون",
+    "bengali": "স্মরণ কর, যখন মূসা তার পরিবারবর্গকে বলল, নিশ্চয় আমি আগুন দেখেছি। শীঘ্রই আমি সেখান থেকে তোমাদের জন্য কোন খবর নিয়ে আসব অথবা তোমাদের জন্য জ্বলন্ত আঙ্গার নিয়ে আসব। যাতে তোমরা আগুন পোহাতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_7.mp3"
+        }
+    }
+}

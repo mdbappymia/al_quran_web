@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 116,
+    "english": "Moses said, “You first.” So when they did, they deceived the eyes of the people, stunned them, and made a great display of magic.",
+    "arabic1": "قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+    "arabic2": "قال القوا فلما القوا سحروا اعين الناس واسترهبوهم وجاءوا بسحر عظيم",
+    "bengali": "সে বলল, ‘তোমরা নিক্ষেপ কর।’ অতঃপর যখন তারা নিক্ষেপ করল তখন তারা লোকদের চোখে যাদু করল এবং তাদেরকে ভীত করে তুলল। তারা বড় যাদু প্রদর্শন করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_116.mp3"
+        }
+    }
+}

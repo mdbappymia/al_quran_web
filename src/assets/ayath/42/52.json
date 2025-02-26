@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 52,
+    "english": "And so We have sent to you ˹O Prophet˺ a revelation by Our command. You did not know of ˹this˺ Book and faith ˹before˺. But We have made it a light, by which We guide whoever We will of Our servants. And you are truly leading ˹all˺ to the Straight Path—",
+    "arabic1": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "وكذلك اوحينا اليك روحا من امرنا ما كنت تدري ما الكتاب ولا الايمان ولكن جعلناه نورا نهدي به من نشاء من عبادنا وانك لتهدي الى صراط مستقيم",
+    "bengali": "অনুরূপভাবে (উপরোক্ত তিনটি পদ্ধতিতে) আমি তোমার কাছে আমার নির্দেশ থেকে ‘রূহ’কে ওহী যোগে প্রেরণ করেছি। তুমি জানতে না কিতাব কী এবং ঈমান কী? কিন্তু আমি একে আলো বানিয়েছি, যার মাধ্যমে আমি আমার বান্দাদের মধ্যে যাকে ইচ্ছা হিদায়াত দান করি। আর নিশ্চয় তুমি সরল পথের দিক নির্দেশনা দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_52.mp3"
+        }
+    }
+}

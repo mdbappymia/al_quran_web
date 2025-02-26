@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 59,
+    "english": "Do not let those disbelievers think they are not within reach. They will have no escape.",
+    "arabic1": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ سَبَقُوٓا۟ ۚ إِنَّهُمْ لَا يُعْجِزُونَ",
+    "arabic2": "ولا يحسبن الذين كفروا سبقوا انهم لا يعجزون",
+    "bengali": "আর কাফিররা যেন কখনও মনে না করে যে, তারা (আযাবের) নাগালের বাইরে চলে গিয়েছে, নিশ্চয় তারা (আল্লাহকে আযাব প্রদানে) অক্ষম করতে পারে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_59.mp3"
+        }
+    }
+}

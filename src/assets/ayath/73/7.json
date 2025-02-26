@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 7,
+    "english": "For during the day you are over-occupied ˹with worldly duties˺.",
+    "arabic1": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+    "arabic2": "ان لك في النهار سبحا طويلا",
+    "bengali": "নিশ্চয় তোমার জন্য দিনের বেলায় রয়েছে দীর্ঘ কর্মব্যস্ততা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_7.mp3"
+        }
+    }
+}

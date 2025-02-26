@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 65,
+    "english": "Yet their ˹various˺ groups have differed among themselves ˹about him˺, so woe to the wrongdoers when they face the torment of a painful Day!",
+    "arabic1": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌ لِّلَّذِينَ ظَلَمُوا۟ مِنْ عَذَابِ يَوْمٍ أَلِيمٍ",
+    "arabic2": "فاختلف الاحزاب من بينهم فويل للذين ظلموا من عذاب يوم اليم",
+    "bengali": "অতঃপর তাদের মধ্যকার কতগুলি দল মতভেদ করেছিল। সুতরাং যালিমদের জন্য যন্ত্রণাদায়ক দিনের আযাবের দুর্ভোগ!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_65.mp3"
+        }
+    }
+}

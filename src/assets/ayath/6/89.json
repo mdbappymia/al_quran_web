@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 89,
+    "english": "Those were the ones to whom We gave the Scripture, wisdom, and prophethood. But if these ˹pagans˺ disbelieve in this ˹message˺, then We have already entrusted it to a people who will never disbelieve in it.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ۚ فَإِن يَكْفُرْ بِهَا هَـٰٓؤُلَآءِ فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا۟ بِهَا بِكَـٰفِرِينَ",
+    "arabic2": "اولئك الذين اتيناهم الكتاب والحكم والنبوة فان يكفر بها هؤلاء فقد وكلنا بها قوما ليسوا بها بكافرين",
+    "bengali": "এরাই তারা, যাদেরকে আমি দান করেছি কিতাব, হুকুম ও নবুওয়াত। অতএব যদি তারা এর সাথে কুফরী করে, তবে আমি এগুলোর তত্ত্বাবধায়ক এমন কওমকে করেছি, যারা এর ব্যাপারে কাফির নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_89.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_89.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_89.mp3"
+        }
+    }
+}

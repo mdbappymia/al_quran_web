@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 4,
+    "english": "and ejects ˹all˺ its contents and becomes empty",
+    "arabic1": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+    "arabic2": "والقت ما فيها وتخلت",
+    "bengali": "আর তার মধ্যে যা রয়েছে তা নিক্ষেপ করবে এবং খালি হয়ে যাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_4.mp3"
+        }
+    }
+}

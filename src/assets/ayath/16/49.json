@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 49,
+    "english": "And to Allah ˹alone˺ bows down ˹in submission˺ whatever is in the heavens and whatever is on the earth of living creatures, as do the angels—who are not too proud ˹to do so˺.",
+    "arabic1": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍ وَٱلْمَلَـٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+    "arabic2": "ولله يسجد ما في السماوات وما في الارض من دابة والملائكة وهم لا يستكبرون",
+    "bengali": "আর আল্লাহকেই সিজদা করে আসমানসমূহে যা আছে এবং যমীনে যে প্রাণী আছে, আর ফেরেশতারা এবং তারা অহঙ্কার করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_49.mp3"
+        }
+    }
+}

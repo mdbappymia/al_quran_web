@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 16,
+    "english": "But when He tests them by limiting their provision, they protest, “My Lord has ˹undeservedly˺ humiliated me!”",
+    "arabic1": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+    "arabic2": "واما اذا ما ابتلاه فقدر عليه رزقه فيقول ربي اهانن",
+    "bengali": "আর যখন তিনি তাকে পরীক্ষা করেন এবং তার উপর তার রিয্ককে সঙ্কুচিত করে দেন, তখন সে বলে, ‘আমার রব আমাকে অপমানিত করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_16.mp3"
+        }
+    }
+}

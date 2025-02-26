@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "ayahNo": 3,
+    "english": "And what will make you realize what the Striking Disaster is?",
+    "arabic1": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "arabic2": "وما ادراك ما القارعة",
+    "bengali": "তোমাকে কিসে জানাবে মহা ভীতিপ্রদ শব্দ কী?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/101_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/101_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/101_3.mp3"
+        }
+    }
+}

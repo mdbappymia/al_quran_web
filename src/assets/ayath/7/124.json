@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 124,
+    "english": "I will certainly cut off your hands and feet on opposite sides, then crucify you all.”",
+    "arabic1": "لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+    "arabic2": "لاقطعن ايديكم وارجلكم من خلاف ثم لاصلبنكم اجمعين",
+    "bengali": "আমি অবশ্যই তোমাদের হাত ও পা বিপরীত দিক থেকে কেটে দেব। তারপর অবশ্যই তোমাদের সবাইকে শূলে চড়াব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_124.mp3"
+        }
+    }
+}

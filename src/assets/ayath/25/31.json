@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 31,
+    "english": "Similarly, We made enemies for every prophet from among the wicked, but sufficient is your Lord as a Guide and Helper.",
+    "arabic1": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا",
+    "arabic2": "وكذلك جعلنا لكل نبي عدوا من المجرمين وكفى بربك هاديا ونصيرا",
+    "bengali": "আর এভাবেই আমি প্রত্যেক নবীর জন্য অপরাধীদের মধ্য থেকে শত্রু বানিয়েছি। আর পথপ্রদর্শক ও সাহায্যকারী হিসেবে তোমার রবই যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_31.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 28,
+    "english": "Have you not seen those ˹disbelievers˺ who meet Allah’s favours with ingratitude and lead their own people to their doom?",
+    "arabic1": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+    "arabic2": "الم تر الى الذين بدلوا نعمت الله كفرا واحلوا قومهم دار البوار",
+    "bengali": "তুমি কি তাদেরকে দেখ না, যারা আল্লাহর নিআমতকে কুফরী দ্বারা পরিবর্তন করেছে এবং তাদের কওমকে ধ্বংসের ঘরে নামিয়ে দিয়েছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_28.mp3"
+        }
+    }
+}

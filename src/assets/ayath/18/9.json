@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 9,
+    "english": "Have you ˹O Prophet˺ thought that the people of the cave and the plaque were ˹the only˺ wonders of Our signs?",
+    "arabic1": "أَمْ حَسِبْتَ أَنَّ أَصْحَـٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَـٰتِنَا عَجَبًا",
+    "arabic2": "ام حسبت ان اصحاب الكهف والرقيم كانوا من اياتنا عجبا",
+    "bengali": "তুমি কি মনে করেছ যে, গুহা ও রাকীমের* অধিবাসীরা ছিল আমার আয়াতসমূহের এক বিস্ময়? \n* রাকীম একটি পাহাড়ের নাম, অথবা যে গ্রাম থেকে তারা বের হয়েছিল সে গ্রামের নাম, অথবা একটি ফলক- যাতে ঐ সব যুবকের নাম লিখা ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_9.mp3"
+        }
+    }
+}

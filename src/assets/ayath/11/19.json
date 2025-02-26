@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 19,
+    "english": "who hinder ˹others˺ from Allah’s Path, striving to make it ˹appear˺ crooked, and disbelieve in the Hereafter.",
+    "arabic1": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+    "arabic2": "الذين يصدون عن سبيل الله ويبغونها عوجا وهم بالاخرة هم كافرون",
+    "bengali": "যারা আল্লাহর পথ থেকে মানুষকে বাধা দেয় এবং তাকে বক্র করতে চায়। আর এরাই তো আখিরাত অস্বীকারকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_19.mp3"
+        }
+    }
+}

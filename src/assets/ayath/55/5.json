@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 5,
+    "english": "The sun and the moon ˹travel˺ with precision.",
+    "arabic1": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+    "arabic2": "الشمس والقمر بحسبان",
+    "bengali": "সূর্য ও চাঁদ (নির্ধারিত) হিসাব অনুযায়ী চলে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_5.mp3"
+        }
+    }
+}

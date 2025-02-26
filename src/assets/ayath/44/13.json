@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 13,
+    "english": "How can they be reminded when a messenger has already come to them, making things clear",
+    "arabic1": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌ مُّبِينٌ",
+    "arabic2": "انى لهم الذكرى وقد جاءهم رسول مبين",
+    "bengali": "এখন কীভাবে তারা উপদেশ গ্রহণ করবে, অথচ ইতঃপূর্বে তাদের কাছে সুস্পষ্টভাবে বর্ণনাকারী রাসূল এসেছিল?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_13.mp3"
+        }
+    }
+}

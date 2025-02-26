@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 188,
+    "english": "Do not consume one another’s wealth unjustly, nor deliberately bribe authorities in order to devour a portion of others’ property, knowing that it is a sin.",
+    "arabic1": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+    "arabic2": "ولا تاكلوا اموالكم بينكم بالباطل وتدلوا بها الى الحكام لتاكلوا فريقا من اموال الناس بالاثم وانتم تعلمون",
+    "bengali": "আর তোমরা নিজদের মধ্যে তোমাদের সম্পদ অন্যায়ভাবে খেয়ো না এবং তা বিচারকদেরকে (ঘুষ হিসেবে) প্রদান করো না। যাতে মানুষের সম্পদের কোন অংশ পাপের মাধ্যমে জেনে বুঝে খেয়ে ফেলতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_188.mp3"
+        }
+    }
+}

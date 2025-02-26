@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 181,
+    "english": "And among those We created is a group that guides with the truth and establishes justice accordingly.",
+    "arabic1": "وَمِمَّنْ خَلَقْنَآ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+    "arabic2": "وممن خلقنا امة يهدون بالحق وبه يعدلون",
+    "bengali": "আর যাদেরকে আমি সৃষ্টি করেছি তাদের মধ্যে এমন একদল আছে যারা যথাযথভাবে পথ দেখায় এবং তদ্বারা ইনসাফ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_181.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_181.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_181.mp3"
+        }
+    }
+}

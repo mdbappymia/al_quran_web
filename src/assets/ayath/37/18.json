@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 18,
+    "english": "Say, “Yes! And you will be fully humbled.”",
+    "arabic1": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+    "arabic2": "قل نعم وانتم داخرون",
+    "bengali": "বল, ‘হ্যাঁ, আর তোমরা অপমানিত-লাঞ্ছিত হবে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_18.mp3"
+        }
+    }
+}

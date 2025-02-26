@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 64,
+    "english": "Surely Allah condemns the disbelievers, and has prepared for them a blazing Fire",
+    "arabic1": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+    "arabic2": "ان الله لعن الكافرين واعد لهم سعيرا",
+    "bengali": "নিশ্চয় আল্লাহ কাফিরদেরকে লা‘নত করেছেন এবং তাদের জন্য জ্বলন্ত আগুন প্রস্তুত রেখেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_64.mp3"
+        }
+    }
+}

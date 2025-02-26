@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 59,
+    "english": "Your Lord would never destroy a society until He had sent to its capital a messenger, reciting Our revelations to them. Nor would We ever destroy a society unless its people persisted in wrongdoing.",
+    "arabic1": "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِنَا ۚ وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَـٰلِمُونَ",
+    "arabic2": "وما كان ربك مهلك القرى حتى يبعث في امها رسولا يتلو عليهم اياتنا وما كنا مهلكي القرى الا واهلها ظالمون",
+    "bengali": "আর তোমার রব কোন জনপদকে ধ্বংস করেন না, যতক্ষণ না তিনি তার মূল ভূখন্ডে রাসূল প্রেরণ করেন, যে তাদের কাছে আমার আয়াতসমূহ তিলাওয়াত করে। আর কোন জনপদের অধিবাসীরা যালিম না হলে আমি তাদেরকে ধ্বংস করি না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_59.mp3"
+        }
+    }
+}

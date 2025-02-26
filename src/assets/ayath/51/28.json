@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 28,
+    "english": "˹They did not eat,˺ so he grew fearful of them. They reassured ˹him˺, “Do not be afraid,” and gave him good news of a knowledgeable son.",
+    "arabic1": "فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍ",
+    "arabic2": "فاوجس منهم خيفة قالوا لا تخف وبشروه بغلام عليم",
+    "bengali": "এতে তাদের সম্পর্কে সে মনে মনে ভীত হল। তারা বলল, ‘ভয় পেয়োনা, তারা তাকে এক বিদ্বান পুত্র সন্তানের সুসংবাদ দিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_28.mp3"
+        }
+    }
+}

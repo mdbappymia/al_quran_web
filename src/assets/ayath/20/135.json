@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 135,
+    "english": "Say ˹to them, O  Prophet˺, “Each ˹of us˺ is waiting, so keep waiting! You will soon know who is on the Straight Path and is ˹rightly˺ guided.”",
+    "arabic1": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا۟ ۖ فَسَتَعْلَمُونَ مَنْ أَصْحَـٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ",
+    "arabic2": "قل كل متربص فتربصوا فستعلمون من اصحاب الصراط السوي ومن اهتدى",
+    "bengali": "বল, ‘প্রত্যেকেই প্রতীক্ষা করছে, অতএব তোমরাও প্রতীক্ষায় থাক। শীঘ্রই তোমরা জানতে পারবে কারা সঠিক পথের উপর রয়েছে এবং কারা হিদায়াতপ্রাপ্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_135.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_135.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_135.mp3"
+        }
+    }
+}

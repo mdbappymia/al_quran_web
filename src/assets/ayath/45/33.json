@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 33,
+    "english": "And the evil ˹consequences˺ of their deeds will unfold before them, and they will be overwhelmed by what they used to ridicule.",
+    "arabic1": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "وبدا لهم سيئات ما عملوا وحاق بهم ما كانوا به يستهزئون",
+    "bengali": "আর তাদের কৃতকর্মের কুফল তাদের জন্য প্রকাশিত হবে, আর তারা যা নিয়ে বিদ্রূপ করত তা তাদেরকে ঘিরে রাখবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_33.mp3"
+        }
+    }
+}

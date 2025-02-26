@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 11,
+    "english": "So he came out to his people from the sanctuary, signalling to them to glorify ˹Allah˺ morning and evening.",
+    "arabic1": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+    "arabic2": "فخرج على قومه من المحراب فاوحى اليهم ان سبحوا بكرة وعشيا",
+    "bengali": "অতঃপর সে মিহরাব হতে বেরিয়ে তার লোকদের সামনে আসল এবং ইশারায় তাদেরকে বলল যে, ‘তোমরা সকাল ও সন্ধ্যায় তাসবীহ পাঠ কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_11.mp3"
+        }
+    }
+}

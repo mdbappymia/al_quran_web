@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 80,
+    "english": "He responded, “If only I had the strength ˹to resist you˺ or could rely on a strong supporter.”",
+    "arabic1": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍ شَدِيدٍ",
+    "arabic2": "قال لو ان لي بكم قوة او اوي الى ركن شديد",
+    "bengali": "সে বলল, ‘তোমাদের প্রতিরোধে যদি আমার কোন শক্তি থাকত অথবা আমি কোন সুদৃঢ় স্তম্ভের আশ্রয় নিতে পারতাম’*! \n*‘সুদৃঢ় স্তম্ভ’ বলতে শক্তিশালী সৈন্যসামন্ত কিংবা কওম অথবা গোত্র বুঝানো হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_80.mp3"
+        }
+    }
+}

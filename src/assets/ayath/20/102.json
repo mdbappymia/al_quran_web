@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 102,
+    "english": "˹Beware of˺ the Day the Trumpet will be blown, and We will gather the wicked on that Day blue-faced ˹from horror and thirst˺.",
+    "arabic1": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا",
+    "arabic2": "يوم ينفخ في الصور ونحشر المجرمين يومئذ زرقا",
+    "bengali": "যেদিন শিংগায় ফুঁক দেয়া হবে, আর সেদিন আমি অপরাধীদেরকে দৃষ্টিহীন অবস্থায় সমবেত করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_102.mp3"
+        }
+    }
+}

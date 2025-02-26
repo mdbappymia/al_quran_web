@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 79,
+    "english": "They did not forbid one another from doing evil. Evil indeed was what they did!",
+    "arabic1": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+    "arabic2": "كانوا لا يتناهون عن منكر فعلوه لبئس ما كانوا يفعلون",
+    "bengali": "তারা পরস্পরকে মন্দ থেকে নিষেধ করত না, যা তারা করত। তারা যা করত, তা কতইনা মন্দ!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_79.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 171,
+    "english": "The example of the disbelievers ˹not responding to the Messenger’s warning˺ is like a flock not comprehending the calls and cries of the shepherd. ˹They are wilfully˺ deaf, dumb and blind so they have no understanding.",
+    "arabic1": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءً وَنِدَآءً ۚ صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ",
+    "arabic2": "ومثل الذين كفروا كمثل الذي ينعق بما لا يسمع الا دعاء ونداء صم بكم عمي فهم لا يعقلون",
+    "bengali": "আর যারা কুফরী করেছে তাদের উদাহরণ তার মত, যে এমন কিছুর জন্য চিৎকার করছে, হাঁক-ডাক ছাড়া যে কিছু শোনে না। তারা বধির, বোবা, অন্ধ। তাই তারা বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_171.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_171.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_171.mp3"
+        }
+    }
+}

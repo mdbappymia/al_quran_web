@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 9,
+    "english": "Surely those who believe and do good, their Lord will guide them ˹to Paradise˺ through their faith, rivers will flow under their feet in the Gardens of Bliss",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَـٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات يهديهم ربهم بايمانهم تجري من تحتهم الانهار في جنات النعيم",
+    "bengali": "নিশ্চয় যারা ঈমান আনে এবং নেক আমল করে, তাদের রব ঈমানের কারণে তাদেরকে পথ দেখাবেন, আরামদায়ক জান্নাতসমূহে যার তলদেশে নহরসমূহ প্রবাহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_9.mp3"
+        }
+    }
+}

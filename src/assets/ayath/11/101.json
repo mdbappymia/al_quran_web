@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 101,
+    "english": "We did not wrong them, rather they wronged themselves. The gods they invoked beside Allah were of no help at all when the command of your Lord came, and only contributed to their ruin.",
+    "arabic1": "وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ ۖ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ ٱلَّتِى يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ ۖ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ",
+    "arabic2": "وما ظلمناهم ولكن ظلموا انفسهم فما اغنت عنهم الهتهم التي يدعون من دون الله من شيء لما جاء امر ربك وما زادوهم غير تتبيب",
+    "bengali": "আর আমি তাদের উপর যুলম করিনি, বরং তারা নিজদের উপর যুলম করেছে। তারপর যখন তোমার রবের নির্দেশ আসল তখন আল্লাহ ছাড়া যে সব উপাস্যকে তারা ডাকত, তারা তাদের কোন উপকার করেনি এবং তারা ধ্বংস ছাড়া তাদের আর কিছুই বৃদ্ধি করেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_101.mp3"
+        }
+    }
+}

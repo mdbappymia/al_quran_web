@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 177,
+    "english": "What an evil example of those who denied Our signs! They ˹only˺ wronged their own souls.",
+    "arabic1": "سَآءَ مَثَلًا ٱلْقَوْمُ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَأَنفُسَهُمْ كَانُوا۟ يَظْلِمُونَ",
+    "arabic2": "ساء مثلا القوم الذين كذبوا باياتنا وانفسهم كانوا يظلمون",
+    "bengali": "উপমা হিসাবে খুবই মন্দ সে কওম যারা আমার আয়াতসমূহকে অস্বীকার করেছে এবং তারা নিজদের প্রতিই যুলম করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_177.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_177.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_177.mp3"
+        }
+    }
+}

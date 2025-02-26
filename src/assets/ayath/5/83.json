@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 83,
+    "english": "When they listen to what has been revealed to the Messenger, you see their eyes overflowing with tears for recognizing the truth. They say, “Our Lord! We believe, so count us among the witnesses.",
+    "arabic1": "وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ ۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "واذا سمعوا ما انزل الى الرسول ترى اعينهم تفيض من الدمع مما عرفوا من الحق يقولون ربنا امنا فاكتبنا مع الشاهدين",
+    "bengali": "‘আর রাসূলের প্রতি যা নাযিল করা হয়েছে যখন তারা তা শুনে, তুমি দেখবে তাদের চক্ষু অশ্রুতে ভেসে যাচ্ছে, কারণ তারা সত্য হতে জেনেছে। তারা বলে, ‘হে আমাদের রব, আমরা ঈমান এনেছি। সুতরাং আপনি আমাদেরকে সাক্ষ্য দানকারীদের সঙ্গে লিপিবদ্ধ করুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_83.mp3"
+        }
+    }
+}

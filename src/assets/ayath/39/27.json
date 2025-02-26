@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 27,
+    "english": "We have certainly set forth every ˹kind of˺ lesson for people in this Quran, so perhaps they will be mindful.",
+    "arabic1": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+    "arabic2": "ولقد ضربنا للناس في هذا القران من كل مثل لعلهم يتذكرون",
+    "bengali": "আর নিশ্চয় আমি এই কুরআনে মানুষের জন্য প্রত্যেক প্রকার দৃষ্টান্ত বর্ণনা করেছি, যাতে তারা শিক্ষা গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_27.mp3"
+        }
+    }
+}

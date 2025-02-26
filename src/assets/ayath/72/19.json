@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 19,
+    "english": "Yet when the servant of Allah stood up calling upon Him ˹alone˺, the pagans almost swarmed over him.",
+    "arabic1": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا",
+    "arabic2": "وانه لما قام عبد الله يدعوه كادوا يكونون عليه لبدا",
+    "bengali": "আর নিশ্চয় আল্লাহর বান্দা* যখন তাঁকে ডাকার জন্য দাঁড়াল, তখন তারা** তার নিকট ভিড় জমাল। \n*রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। **কাফিরগণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_19.mp3"
+        }
+    }
+}

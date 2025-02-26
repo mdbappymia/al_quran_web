@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 118,
+    "english": "Had your Lord so willed, He would have certainly made humanity one single community ˹of believers˺, but they will always ˹choose to˺ differ—",
+    "arabic1": "وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةً وَٰحِدَةً ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ",
+    "arabic2": "ولو شاء ربك لجعل الناس امة واحدة ولا يزالون مختلفين",
+    "bengali": "যদি তোমার রব চাইতেন, তবে সকল মানুষকে এক উম্মতে পরিণত করতেন, কিন্তু তারা পরস্পর মতবিরোধকারী রয়ে গেছে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_118.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 24,
+    "english": "then Allah will inflict upon them the major punishment.",
+    "arabic1": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+    "arabic2": "فيعذبه الله العذاب الاكبر",
+    "bengali": "ফলে আল্লাহ তাকে কঠোর আযাব দেবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_24.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 28,
+    "english": "He is the One Who has sent His Messenger with ˹right˺ guidance and the religion of truth, making it prevail over all others. And sufficient is Allah as a Witness.",
+    "arabic1": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+    "arabic2": "هو الذي ارسل رسوله بالهدى ودين الحق ليظهره على الدين كله وكفى بالله شهيدا",
+    "bengali": "তিনিই তাঁর রাসূলকে হিদায়াত ও সত্য দীনসহ প্রেরণ করেছেন, যাতে তিনি এটাকে সকল দীনের উপর বিজয়ী করতে পারেন। আর সাক্ষী হিসেবে আল্লাহই যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_28.mp3"
+        }
+    }
+}

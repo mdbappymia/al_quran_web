@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 44,
+    "english": "˹They say so even though˺ We had never given them any scriptures to study, nor did We ever send them a warner before you ˹O Prophet˺.",
+    "arabic1": "وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ",
+    "arabic2": "وما اتيناهم من كتب يدرسونها وما ارسلنا اليهم قبلك من نذير",
+    "bengali": "আর আমি তাদেরকে কোন কিতাব দেইনি যা তারা অধ্যয়ন করত, এবং তোমার পূর্বে তাদের প্রতি আর কোন সতর্ককারীও প্রেরণ করিনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_44.mp3"
+        }
+    }
+}

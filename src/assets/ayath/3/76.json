@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 76,
+    "english": "Absolutely! Those who honour their trusts and shun evil—surely Allah loves those who are mindful ˹of Him˺.",
+    "arabic1": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+    "arabic2": "بلى من اوفى بعهده واتقى فان الله يحب المتقين",
+    "bengali": "হ্যাঁ, অবশ্যই যে নিজ প্রতিশ্রুতি পূর্ণ করে এবং তাকওয়া অবলম্বন করে, তবে নিশ্চয় আল্লাহ মুত্তাকীদেরকে ভালবাসেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_76.mp3"
+        }
+    }
+}

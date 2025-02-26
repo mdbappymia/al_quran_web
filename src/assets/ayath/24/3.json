@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 3,
+    "english": "A male fornicator would only marry a female fornicator or idolatress. And a female fornicator would only be married to a fornicator or idolater. This is ˹all˺ forbidden to the believers.",
+    "arabic1": "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ ۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ",
+    "arabic2": "الزاني لا ينكح الا زانية او مشركة والزانية لا ينكحها الا زان او مشرك وحرم ذلك على المؤمنين",
+    "bengali": "ব্যভিচারী কেবল ব্যভিচারিণী অথবা মুশরিক নারীকে ছাড়া বিয়ে করবে না এবং ব্যভিচারিণীকে কেবল ব্যভিচারী অথবা মুশরিক ছাড়া বিয়ে করবে না। আর মুমিনদের উপর এটা হারাম করা হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_3.mp3"
+        }
+    }
+}

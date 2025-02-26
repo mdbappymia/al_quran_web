@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 33,
+    "english": "Say, “My Lord has only forbidden open and secret indecencies, sinfulness, unjust aggression, associating ˹others˺ with Allah ˹in worship˺—a practice He has never authorized—and attributing to Allah what you do not know.”",
+    "arabic1": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "قل انما حرم ربي الفواحش ما ظهر منها وما بطن والاثم والبغي بغير الحق وان تشركوا بالله ما لم ينزل به سلطانا وان تقولوا على الله ما لا تعلمون",
+    "bengali": "বল,‘আমার রব তো হারাম করেছেন অশ্লীল কাজ- যা প্রকাশ পায় এবং যা গোপন থাকে, আর পাপ ও অন্যায়ভাবে সীমালঙ্ঘন এবং আল্লাহর সাথে তোমাদের শরীক করা, যে ব্যাপারে আল্লাহ কোন প্রমাণ অবতীর্ণ করেননি এবং আল্লাহর উাপরে এমন কিছু বলা যা তোমরা জান না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_33.mp3"
+        }
+    }
+}

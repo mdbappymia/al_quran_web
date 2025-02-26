@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 93,
+    "english": "then their accommodation will be boiling water ˹to drink˺",
+    "arabic1": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+    "arabic2": "فنزل من حميم",
+    "bengali": "তবে তার মেহমানদারী হবে প্রচন্ড উত্তপ্ত পানি দিয়ে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_93.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_93.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_93.mp3"
+        }
+    }
+}

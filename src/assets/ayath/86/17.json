@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taariq",
+    "surahNameArabic": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameTranslation": "The Morning Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 17,
+    "surahNo": 86,
+    "ayahNo": 17,
+    "english": "So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while.",
+    "arabic1": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+    "arabic2": "فمهل الكافرين امهلهم رويدا",
+    "bengali": "অতএব কাফিরদেরকে অবকাশ দাও, তাদেরকে কিছু সময়ের অবকাশ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/86_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/86_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/86_17.mp3"
+        }
+    }
+}

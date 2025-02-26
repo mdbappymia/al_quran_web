@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 61,
+    "english": "That is because Allah causes the night to merge into the day, and the day into the night. Indeed, Allah is All-Hearing, All-Seeing.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "arabic2": "ذلك بان الله يولج الليل في النهار ويولج النهار في الليل وان الله سميع بصير",
+    "bengali": "এটা এজন্য যে, নিশ্চয় আল্লাহ রাতকে দিনের মধ্যে প্রবেশ করান এবং দিনকে রাতের মধ্যে প্রবেশ করান। আর নিশ্চয় আল্লাহ সর্বশ্রোতা, সম্যক দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_61.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_61.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_61.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 60,
+    "english": "The followers will respond, “No! You are not welcome! You brought this upon us. What an evil place for settlement!”",
+    "arabic1": "قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ أَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ ٱلْقَرَارُ",
+    "arabic2": "قالوا بل انتم لا مرحبا بكم انتم قدمتموه لنا فبئس القرار",
+    "bengali": "অনুসারীরা বলবে, ‘বরং তোমরাও, তোমাদের জন্যও তো নেই কোন অভিনন্দন। তোমরাই আমাদের জন্য এ বিপদ এনেছ। অতএব কতই না নিকৃষ্ট এ আবাসস্থল’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_60.mp3"
+        }
+    }
+}

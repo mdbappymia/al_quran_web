@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 94,
+    "english": "And do not take your oaths as a means of deceiving one another or your feet will slip after they have been firm. Then you will taste the evil ˹consequences˺ of hindering ˹others˺ from the Way of Allah, and you will suffer a tremendous punishment.",
+    "arabic1": "وَلَا تَتَّخِذُوٓا۟ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ولا تتخذوا ايمانكم دخلا بينكم فتزل قدم بعد ثبوتها وتذوقوا السوء بما صددتم عن سبيل الله ولكم عذاب عظيم",
+    "bengali": "আর তোমরা তোমাদের অঙ্গীকারগুলোকে তোমাদের প্রতারণা হিসেবে গ্রহণ করো না। তাহলে পা দৃঢ় হওয়ার পর পিছলে যাবে এবং তোমরা আযাব আস্বাদন করবে। কারণ তোমরা আল্লাহর রাস্তায় বাধা দিয়েছ। আর তোমাদের জন্য রয়েছে মহা আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_94.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_94.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_94.mp3"
+        }
+    }
+}

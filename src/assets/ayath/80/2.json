@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 2,
+    "english": "˹simply˺ because the blind man came to him ˹interrupting˺.",
+    "arabic1": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+    "arabic2": "ان جاءه الاعمى",
+    "bengali": "কারণ তার কাছে অন্ধ লোকটি* আগমন করেছিল। \n* আবদুল্লাহ ইবনে উম্মে মাকতূম",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_2.mp3"
+        }
+    }
+}

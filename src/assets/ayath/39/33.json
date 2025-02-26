@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 33,
+    "english": "And the one who has brought the truth and those who embrace it—it is they who are the righteous.",
+    "arabic1": "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+    "arabic2": "والذي جاء بالصدق وصدق به اولئك هم المتقون",
+    "bengali": "আর যে সত্য নিয়ে এসেছে এবং যে তা সত্য বলে মেনে নিয়েছে, তারাই হল মুত্তাকী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_33.mp3"
+        }
+    }
+}

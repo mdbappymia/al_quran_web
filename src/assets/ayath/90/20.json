@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 20,
+    "english": "The Fire will be sealed over them.",
+    "arabic1": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+    "arabic2": "عليهم نار مؤصدة",
+    "bengali": "তাদের উপর থাকবে অবরুদ্ধ আগুন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/90_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/90_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/90_20.mp3"
+        }
+    }
+}

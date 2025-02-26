@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 149,
+    "english": "Say, “Allah has the most conclusive argument. Had it been His Will, He would have easily imposed guidance upon all of you.”",
+    "arabic1": "قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ",
+    "arabic2": "قل فلله الحجة البالغة فلو شاء لهداكم اجمعين",
+    "bengali": "বল, ‘চূড়ান্ত প্রমাণ আল্লাহরই। সুতরাং যদি তিনি চান, অবশ্যই তোমাদের সবাইকে হিদায়াত দেবেন।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_149.mp3"
+        }
+    }
+}

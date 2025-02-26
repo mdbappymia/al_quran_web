@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 69,
+    "english": "Indeed, the believers, Jews, Sabians and Christians—whoever ˹truly˺ believes in Allah and the Last Day and does good, there will be no fear for them, nor will they grieve.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّـٰبِـُٔونَ وَٱلنَّصَـٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "ان الذين امنوا والذين هادوا والصابئون والنصارى من امن بالله واليوم الاخر وعمل صالحا فلا خوف عليهم ولا هم يحزنون",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে, ইয়াহূদী হয়েছে এবং সাবিঈ ও নাসারারা (তাদের মধ্য থেকে) যে ঈমান এনেছে আল্লাহ ও আখিরাত দিবসে এবং নেককাজ করেছে, তাদের কোন ভয় নেই এবং তারা চিন্তিতও হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_69.mp3"
+        }
+    }
+}

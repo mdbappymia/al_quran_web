@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 67,
+    "english": "And ˹remember˺ when Moses said to his people, “Allah commands you to sacrifice a cow.” They replied, “Are you mocking us?” Moses responded, “I seek refuge in Allah from acting foolishly!”",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ",
+    "arabic2": "واذ قال موسى لقومه ان الله يامركم ان تذبحوا بقرة قالوا اتتخذنا هزوا قال اعوذ بالله ان اكون من الجاهلين",
+    "bengali": "আর স্মরণ কর, যখন মূসা তার কওমকে বলল, ‘নিশ্চয় আল্লাহ তোমাদেরকে নির্দেশ দিচ্ছেন যে, তোমরা একটি গাভী যবেহ করবে’। তারা বলল, ‘তুমি কি আমাদের সাথে উপহাস করছ’? সে বলল, ‘আমি মূর্খদের অন্তর্ভুক্ত হওয়া থেকে আল্লাহর আশ্রয় চাচ্ছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_67.mp3"
+        }
+    }
+}

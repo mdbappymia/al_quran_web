@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 35,
+    "english": "for truly You have ˹always˺ been overseeing us.”",
+    "arabic1": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
+    "arabic2": "انك كنت بنا بصيرا",
+    "bengali": "‘আপনিই তো আমাদের সম্যক দ্রষ্টা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_35.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 60,
+    "english": "But the chiefs of his people said, “We surely see that you are clearly misguided.”",
+    "arabic1": "قَالَ ٱلْمَلَأُ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "قال الملا من قومه انا لنراك في ضلال مبين",
+    "bengali": "তার কওম থেকে নেতৃবর্গ বলল, ‘নিশ্চয় আমরা তোমাকে স্পষ্ট ভ্রান্তিতে দেখতে পাচ্ছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_60.mp3"
+        }
+    }
+}

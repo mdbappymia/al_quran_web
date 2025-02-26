@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 47,
+    "english": "Joseph replied, “You will plant ˹grain˺ for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat.",
+    "arabic1": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+    "arabic2": "قال تزرعون سبع سنين دابا فما حصدتم فذروه في سنبله الا قليلا مما تاكلون",
+    "bengali": "সে বলল, ‘তোমরা সাত বছর একাধারে চাষাবাদ করবে অতঃপর যে শস্য কেটে ঘরে তুলবে তার মধ্য থেকে যে সামান্য পরিমাণ খাবে সেগুলো ছাড়া সব শীষের মধ্যে রেখে দেবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_47.mp3"
+        }
+    }
+}

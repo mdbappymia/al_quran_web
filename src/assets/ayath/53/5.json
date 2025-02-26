@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 5,
+    "english": "He has been taught by one ˹angel˺ of mighty power",
+    "arabic1": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+    "arabic2": "علمه شديد القوى",
+    "bengali": "তাকে শিক্ষা দিয়েছে প্রবল শক্তিধর,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_5.mp3"
+        }
+    }
+}

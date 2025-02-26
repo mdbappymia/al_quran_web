@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 39,
+    "english": "producing from it both sexes, male and female.",
+    "arabic1": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+    "arabic2": "فجعل منه الزوجين الذكر والانثى",
+    "bengali": "অতঃপর তিনি তা থেকে সৃষ্টি করেন জোড়ায় জোড়ায় পুরুষ ও নারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_39.mp3"
+        }
+    }
+}

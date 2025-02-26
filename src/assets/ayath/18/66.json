@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 66,
+    "english": "Moses said to him, “May I follow you, provided that you teach me some of the right guidance you have been taught?”",
+    "arabic1": "قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
+    "arabic2": "قال له موسى هل اتبعك على ان تعلمن مما علمت رشدا",
+    "bengali": "মূসা তাঁকে বলল, ‘আমি কি আপনাকে এই শর্তে অনুসরণ করব যে, আপনাকে যে সঠিক জ্ঞান দেয়া হয়েছে, তা আমাকে শিক্ষা দেবেন’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_66.mp3"
+        }
+    }
+}

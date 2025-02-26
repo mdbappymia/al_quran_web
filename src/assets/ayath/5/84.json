@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 84,
+    "english": "Why should we not believe in Allah and the truth that has come to us? And we long for our Lord to include us in the company of the righteous.”",
+    "arabic1": "وَمَا لَنَا لَا نُؤْمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلْحَقِّ وَنَطْمَعُ أَن يُدْخِلَنَا رَبُّنَا مَعَ ٱلْقَوْمِ ٱلصَّـٰلِحِينَ",
+    "arabic2": "وما لنا لا نؤمن بالله وما جاءنا من الحق ونطمع ان يدخلنا ربنا مع القوم الصالحين",
+    "bengali": "আর আমাদের কী হয়েছে যে, আমরা আল্লাহর প্রতি এবং যে সত্য আমাদের কাছে এসেছে তার প্রতি ঈমান আনব না? আর আমরা আশা করব না যে, আমাদের রব আমাদেরকে প্রবেশ করাবেন নেককার সম্প্রদায়ের সাথে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_84.mp3"
+        }
+    }
+}

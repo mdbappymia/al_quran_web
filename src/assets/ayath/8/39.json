@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 39,
+    "english": "Fight against them until there is no more persecution—and ˹your˺ devotion will be entirely to Allah. But if they desist, then surely Allah is All-Seeing of what they do.",
+    "arabic1": "وَقَـٰتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ ٱلدِّينُ كُلُّهُۥ لِلَّهِ ۚ فَإِنِ ٱنتَهَوْا۟ فَإِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "وقاتلوهم حتى لا تكون فتنة ويكون الدين كله لله فان انتهوا فان الله بما يعملون بصير",
+    "bengali": "আর তোমরা তাদের বিরুদ্ধে লড়াই কর যতক্ষণ না ফিতনার অবসান হয় এবং দীন পূর্ণরূপে আল্লাহর জন্য হয়ে যায়। তবে যদি তারা বিরত হয় তাহলে নিশ্চয় আল্লাহ তারা যা করে সে বিষয়ে সম্যক দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_39.mp3"
+        }
+    }
+}

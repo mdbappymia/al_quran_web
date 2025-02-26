@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 33,
+    "english": "He has ˹also˺ subjected for you the sun and the moon, both constantly orbiting, and has subjected the day and night for you.",
+    "arabic1": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+    "arabic2": "وسخر لكم الشمس والقمر دائبين وسخر لكم الليل والنهار",
+    "bengali": "আর তিনি সূর্য ও চাঁদকে তোমাদের জন্য নিয়োজিত করেছেন বিরামহীনভাবে এবং তোমাদের জন্য নিয়োজিত করেছেন রাত ও দিনকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_33.mp3"
+        }
+    }
+}

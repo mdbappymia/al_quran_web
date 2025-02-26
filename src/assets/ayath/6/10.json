@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 10,
+    "english": "˹Other˺ messengers had already been ridiculed before you ˹O Prophet˺, but those who mocked them were overtaken by what they used to ridicule.",
+    "arabic1": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "ولقد استهزئ برسل من قبلك فحاق بالذين سخروا منهم ما كانوا به يستهزئون",
+    "bengali": "আর অবশ্যই তোমার পূর্বে রাসূলগণকে নিয়ে উপহাস করা হয়েছিল। ফলে যারা তাদের সাথে উপহাস করেছিল, তাদেরকে তাদের উপহাস বেষ্টন করে নিয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_10.mp3"
+        }
+    }
+}

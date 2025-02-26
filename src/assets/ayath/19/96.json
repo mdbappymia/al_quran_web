@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 96,
+    "english": "As for those who believe and do good, the Most Compassionate will ˹certainly˺ bless them with ˹genuine˺ love.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّا",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات سيجعل لهم الرحمن ودا",
+    "bengali": "নিশ্চয় যারা ঈমান আনে এবং সৎ কাজ করে পরম করুণাময় অবশ্যই তাদের জন্য (বান্দাদের হৃদয়ে) ভালবাসা সৃষ্টি করবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_96.mp3"
+        }
+    }
+}

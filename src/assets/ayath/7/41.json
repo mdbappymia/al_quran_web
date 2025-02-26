@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 41,
+    "english": "Hell will be their bed; flames will be their cover. This is how We reward the wrongdoers.",
+    "arabic1": "لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ ۚ وَكَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+    "arabic2": "لهم من جهنم مهاد ومن فوقهم غواش وكذلك نجزي الظالمين",
+    "bengali": "তাদের জন্য থাকবে জাহান্নামের বিছানা এবং তাদের উপরে থাকবে (আগুনের) আচ্ছাদন। আর এভাবেই আমি যালিমদেরকে প্রতিদান দেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_41.mp3"
+        }
+    }
+}

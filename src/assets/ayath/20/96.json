@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 96,
+    "english": "He said, “I saw what they did not see, so I took a handful ˹of dust˺ from the hoof-prints of ˹the horse of˺ the messenger-angel ˹Gabriel˺ then cast it ˹on the moulded calf˺. This is what my lower-self tempted me into.”",
+    "arabic1": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى",
+    "arabic2": "قال بصرت بما لم يبصروا به فقبضت قبضة من اثر الرسول فنبذتها وكذلك سولت لي نفسي",
+    "bengali": "সে বলল, ‘আমি এমন কিছু দেখেছি যা ওরা দেখেনি। তারপর আমি দূতের (জিবরীলের) পায়ের চিহ্ন থেকে এক মুষ্টি মাটি নিয়েছিলাম। অতঃপর তা নিক্ষেপ করেছিলাম। আর আমার মন আমার জন্য এরূপ করাটা শোভন করেছিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_96.mp3"
+        }
+    }
+}

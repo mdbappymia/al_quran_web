@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 25,
+    "english": "˹Remember˺ when they entered his presence and greeted ˹him with˺, “Peace!” He replied, “Peace ˹be upon you˺!” ˹Then he said to himself,˺ “˹These are˺ an unfamiliar people.”",
+    "arabic1": "إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ قَوْمٌ مُّنكَرُونَ",
+    "arabic2": "اذ دخلوا عليه فقالوا سلاما قال سلام قوم منكرون",
+    "bengali": "যখন তারা তার কাছে আসল এবং বলল, ‘সালাম’, উত্তরে সেও বলল, ‘সালাম’। এরা তো অপরিচিত লোক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_25.mp3"
+        }
+    }
+}

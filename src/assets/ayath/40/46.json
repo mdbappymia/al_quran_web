@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 46,
+    "english": "they are exposed to the Fire ˹in their graves˺ morning and evening. And on the Day the Hour will be established ˹it will be said˺, “Admit Pharaoh’s people into the harshest punishment ˹of Hell˺.”",
+    "arabic1": "ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ",
+    "arabic2": "النار يعرضون عليها غدوا وعشيا ويوم تقوم الساعة ادخلوا ال فرعون اشد العذاب",
+    "bengali": "আগুন, তাদেরকে সকাল-সন্ধ্যায় তার সামনে উপস্থিত করা হয়, আর যেদিন কিয়ামত সংঘটিত হবে (সেদিন ঘোষণা করা হবে), ‘ফির‘আউনের অনুসারীদেরকে কঠোরতম আযাবে প্রবেশ করাও।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_46.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 54,
+    "english": "And mention in the Book ˹O Prophet, the story of˺ Ishmael. He was truly a man of his word, and was a messenger and a prophet.",
+    "arabic1": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًا نَّبِيًّا",
+    "arabic2": "واذكر في الكتاب اسماعيل انه كان صادق الوعد وكان رسولا نبيا",
+    "bengali": "আর স্মরণ কর এই কিতাবে ইসমাঈলকে। সে ছিল সত্যিকারের ওয়াদা পালনকারী এবং সে ছিল রাসূল, নবী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_54.mp3"
+        }
+    }
+}

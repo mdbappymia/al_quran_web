@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 41,
+    "english": "Our Lord! Forgive me, my parents, and the believers on the Day when the judgment will come to pass.”",
+    "arabic1": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+    "arabic2": "ربنا اغفر لي ولوالدي وللمؤمنين يوم يقوم الحساب",
+    "bengali": "‘হে আমাদের রব, যেদিন হিসাব কায়েম হবে, সেদিন আপনি আমাকে, আমার পিতামাতাকে ও মুমিনদেরকে ক্ষমা করে দিবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_41.mp3"
+        }
+    }
+}

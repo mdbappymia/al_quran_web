@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 35,
+    "english": "Give in full when you measure, and weigh with an even balance. That is fairest and best in the end.",
+    "arabic1": "وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+    "arabic2": "واوفوا الكيل اذا كلتم وزنوا بالقسطاس المستقيم ذلك خير واحسن تاويلا",
+    "bengali": "আর মাপে পরিপূর্ণ দাও যখন তোমরা পরিমাপ কর এবং সঠিক দাঁড়িপাল্লায় ওযন কর। এটা কল্যাণকর ও পরিণামে সুন্দরতম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_35.mp3"
+        }
+    }
+}

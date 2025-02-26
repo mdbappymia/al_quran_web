@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 4,
+    "english": "If We willed, We could send down upon them a ˹compelling˺ sign from the heavens, leaving their necks bent in ˹utter˺ submission to it.",
+    "arabic1": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+    "arabic2": "ان نشا ننزل عليهم من السماء اية فظلت اعناقهم لها خاضعين",
+    "bengali": "আমি ইচ্ছা করলে আসমান থেকে তাদের উপর এমন নিদর্শন অবতীর্ণ করতাম ফলে তার প্রতি তাদের ঘাড়গুলো নত হয়ে যেত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_4.mp3"
+        }
+    }
+}

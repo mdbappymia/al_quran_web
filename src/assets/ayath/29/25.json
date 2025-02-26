@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 25,
+    "english": "He said ˹to his people˺, “You have taken idols ˹for worship˺ instead of Allah, only to keep ˹the bond of˺ harmony among yourselves in this worldly life. But on the Day of Judgment you will disown and curse one another. Your home will be the Fire, and you will have no helper!”",
+    "arabic1": "وَقَالَ إِنَّمَا ٱتَّخَذْتُم مِّن دُونِ ٱللَّهِ أَوْثَـٰنًا مَّوَدَّةَ بَيْنِكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ ثُمَّ يَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "وقال انما اتخذتم من دون الله اوثانا مودة بينكم في الحياة الدنيا ثم يوم القيامة يكفر بعضكم ببعض ويلعن بعضكم بعضا وماواكم النار وما لكم من ناصرين",
+    "bengali": "আর ইবরাহীম বলল, ‘দুনিয়ার জীবনে তোমাদের মধ্যে মিল-মহব্বতের জন্যই তো তোমরা আল্লাহ ছাড়া মূর্তিদেরকে গ্রহণ করেছ। তারপর কিয়ামতের দিন তোমরা একে অপরকে অস্বীকার করবে এবং পরস্পর পরস্পরকে লা‘নত করবে, আর তোমাদের নিবাস জাহান্নাম এবং তোমাদের জন্য থাকবে না কোন সাহায্যকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_25.mp3"
+        }
+    }
+}

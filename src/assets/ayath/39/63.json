@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 63,
+    "english": "To Him belong the keys ˹of the treasuries˺ of the heavens and the earth. As for those who rejected the signs of Allah, it is they who will be the ˹true˺ losers.",
+    "arabic1": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "له مقاليد السماوات والارض والذين كفروا بايات الله اولئك هم الخاسرون",
+    "bengali": "আসমানসমূহ ও যমীনের চাবিসমূহ তাঁরই কাছে। আর যারা আল্লাহর আয়াতসমূহকে অস্বীকার করে তারাই ক্ষতিগ্রস্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_63.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 38,
+    "english": "˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision: We have gathered you along with earlier disbelievers ˹for punishment˺.",
+    "arabic1": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+    "arabic2": "هذا يوم الفصل جمعناكم والاولين",
+    "bengali": "এটি ফয়সালার দিন; তোমাদেরকে ও পূর্ববর্তীদেরকে আমি একত্র করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_38.mp3"
+        }
+    }
+}

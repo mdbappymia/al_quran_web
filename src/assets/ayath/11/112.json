@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 112,
+    "english": "So be steadfast as you are commanded ˹O Prophet˺, along with those who turn ˹in submission to Allah˺ with you. And do not transgress. Surely He is All-Seeing of what you ˹believers˺ do.",
+    "arabic1": "فَٱسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا۟ ۚ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "arabic2": "فاستقم كما امرت ومن تاب معك ولا تطغوا انه بما تعملون بصير",
+    "bengali": "সুতরাং যেভাবে তুমি নির্দেশিত হয়েছ সেভাবে তুমি ও তোমার সাথী যারা তাওবা করেছে, সকলে অবিচল থাক। আর সীমালঙ্ঘন করো না। তোমরা যা করছ নিশ্চয় তিনি তার সম্যক দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_112.mp3"
+        }
+    }
+}

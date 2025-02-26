@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 75,
+    "english": "The Messiah, son of Mary, was no more than a messenger. ˹Many˺ messengers had ˹come and˺ gone before him. His mother was a woman of truth. They both ate food. See how We make the signs clear to them, yet see how they are deluded ˹from the truth˺!",
+    "arabic1": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+    "arabic2": "ما المسيح ابن مريم الا رسول قد خلت من قبله الرسل وامه صديقة كانا ياكلان الطعام انظر كيف نبين لهم الايات ثم انظر انى يؤفكون",
+    "bengali": "মাসীহ ইবনে মারইয়াম একজন রাসূল ছাড়া আর কিছুই নয়; তার পূর্বে আরও বহু রাসূল গত হয়েছে, আর তার মা একজন পরম সত্যবাদিনী, তারা উভয়ে খাদ্য আহার করত। লক্ষ্য কর! আমি কিরূপে তাদের নিকট প্রমাণসমূহ বর্ণনা করছি। আবার লক্ষ্য কর! তারা উল্টা কোন দিকে যাচ্ছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_75.mp3"
+        }
+    }
+}

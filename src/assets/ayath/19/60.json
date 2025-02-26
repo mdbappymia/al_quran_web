@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 60,
+    "english": "As for those who repent, believe, and do good, it is they who will be admitted into Paradise, never being denied any reward.",
+    "arabic1": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًٔا",
+    "arabic2": "الا من تاب وامن وعمل صالحا فاولئك يدخلون الجنة ولا يظلمون شيئا",
+    "bengali": "তবে তারা নয় যারা তাওবা করেছে, ঈমান এনেছে এবং সৎকর্ম করেছে; তারাই জান্নাতে প্রবেশ করবে এবং তাদের প্রতি কোন যুলম করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_60.mp3"
+        }
+    }
+}

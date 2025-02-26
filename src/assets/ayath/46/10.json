@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 10,
+    "english": "Ask ˹them, O  Prophet˺, “Consider if this ˹Quran˺ is ˹truly˺ from Allah and you deny it, and a witness from the Children of Israel attests to it and then believes, whereas you act arrogantly. Surely Allah does not guide the wrongdoing people.”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "قل ارايتم ان كان من عند الله وكفرتم به وشهد شاهد من بني اسرائيل على مثله فامن واستكبرتم ان الله لا يهدي القوم الظالمين",
+    "bengali": "বল, তোমরা আমাকে জানাও, যদি এ কুরআন আল্লাহর কাছ থেকে এসে থাকে, আর তোমরা এটাকে অস্বীকার করলে, অথচ বনী ইসরাঈলের একজন সাক্ষী এ ব্যাপারে অনুরূপ সাক্ষ্য দিল। অতঃপর সে ঈমান আনল আর তোমরা অহঙ্কার করলে। নিশ্চয় আল্লাহ যালিম কওমকে হেদায়াত করেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_10.mp3"
+        }
+    }
+}

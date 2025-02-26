@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 106,
+    "english": "O believers! When death approaches any of you, call upon two just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if you are afflicted with death while on a journey. If you doubt ˹their testimony˺, keep them after prayer and let them testify under oath ˹saying˺, “By Allah! We would never sell our testimony for any price, even in favour of a close relative, nor withhold the testimony of Allah. Otherwise, we would surely be sinful.”",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَـٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْـَٔاثِمِينَ",
+    "arabic2": "يا ايها الذين امنوا شهادة بينكم اذا حضر احدكم الموت حين الوصية اثنان ذوا عدل منكم او اخران من غيركم ان انتم ضربتم في الارض فاصابتكم مصيبة الموت تحبسونهما من بعد الصلاة فيقسمان بالله ان ارتبتم لا نشتري به ثمنا ولو كان ذا قربى ولا نكتم شهادة الله انا اذا لمن الاثمين",
+    "bengali": "হে মুমিনগণ, যখন তোমাদের কারো নিকট মৃত্যু উপস্থিত হয়, তখন ওসিয়তকালে তোমাদের মাঝে তোমাদের মধ্য থেকে দু’জন ন্যায়পরায়ণ ব্যক্তি সাক্ষী হবে, অথবা অন্যদের থেকে দু’জন, যদি তোমরা যমীনে সফরে থাক, অতঃপর তোমাদেরকে মৃত্যুর বিপদ পেয়ে বসে। যদি তোমাদের সন্দেহ হয়, তবে উভয়কে সালাতের পর অপেক্ষমাণ রাখবে। অতঃপর তারা উভয়ে আল্লাহর নামে কসম করবে যে, ‘আমরা এর বিনিময়ে কোন মূল্য গ্রহণ করব না, যদিও সে আত্মীয় হয়। আর আল্লাহর সাক্ষ্য আমরা গোপন করব না, করলে অবশ্যই আমরা গুনাহগারদের অন্তর্ভুক্ত হব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_106.mp3"
+        }
+    }
+}

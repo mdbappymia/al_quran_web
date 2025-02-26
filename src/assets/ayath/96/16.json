@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 16,
+    "english": "a lying, sinful forelock.",
+    "arabic1": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+    "arabic2": "ناصية كاذبة خاطئة",
+    "bengali": "মিথ্যাবাদী, পাপিষ্ঠ কপাল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_16.mp3"
+        }
+    }
+}

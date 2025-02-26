@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 90,
+    "english": "by which the heavens are about to burst, the earth to split apart, and the mountains to crumble to pieces",
+    "arabic1": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+    "arabic2": "تكاد السماوات يتفطرن منه وتنشق الارض وتخر الجبال هدا",
+    "bengali": "এতে আসমানসমূহ ফেটে পড়ার, যমীন বিদীর্ণ হওয়ার এবং পাহাড়সমূহ চূর্ণ-বিচূর্ণ হয়ে পড়ে যাওয়ার উপক্রম হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_90.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_90.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_90.mp3"
+        }
+    }
+}

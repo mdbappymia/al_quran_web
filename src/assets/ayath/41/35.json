@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 35,
+    "english": "But this cannot be attained except by those who are patient and who are truly fortunate.",
+    "arabic1": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ",
+    "arabic2": "وما يلقاها الا الذين صبروا وما يلقاها الا ذو حظ عظيم",
+    "bengali": "আর এটি তারাই প্রাপ্ত হবে যারা ধৈর্যধারণ করবে, আর এর অধিকারী কেবল তারাই হয় যারা মহাভাগ্যবান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_35.mp3"
+        }
+    }
+}

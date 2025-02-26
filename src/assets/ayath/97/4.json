@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qadr",
+    "surahNameArabic": "القدر",
+    "surahNameArabicLong": "سورة القدر",
+    "surahNameTranslation": "The Power, Fate",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 97,
+    "ayahNo": 4,
+    "english": "That night the angels and the ˹holy˺ spirit descend, by the permission of their Lord, for every ˹decreed˺ matter.",
+    "arabic1": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+    "arabic2": "تنزل الملائكة والروح فيها باذن ربهم من كل امر",
+    "bengali": "সে রাতে ফেরেশতারা ও রূহ (জিবরাইল) তাদের রবের অনুমতিক্রমে সকল সিদ্ধান্ত নিয়ে অবতরণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/97_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/97_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/97_4.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 18,
+    "english": "for he contemplated and determined ˹a degrading label for the Quran˺.",
+    "arabic1": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+    "arabic2": "انه فكر وقدر",
+    "bengali": "নিশ্চয় সে চিন্তা ভাবনা করল এবং সিদ্ধান্ত গ্রহণ করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_18.mp3"
+        }
+    }
+}

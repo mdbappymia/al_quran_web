@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 22,
+    "english": "They argued, “Have you come to turn us away from our gods? Bring us then whatever you threaten us with, if what you say is true.”",
+    "arabic1": "قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "قالوا اجئتنا لتافكنا عن الهتنا فاتنا بما تعدنا ان كنت من الصادقين",
+    "bengali": "তারা বলল, ‘তুমি কি আমাদেরকে আমাদের উপাস্যদের থেকে নিবৃত্ত করতে আমাদের নিকট এসেছ? তুমি যদি সত্যবাদীদের অন্তর্ভুক্ত হও, তাহলে আমাদেরকে যার ভয় দেখাচ্ছ তা নিয়ে এসো’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_22.mp3"
+        }
+    }
+}

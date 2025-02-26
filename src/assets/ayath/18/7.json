@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 7,
+    "english": "We have indeed made whatever is on earth as an adornment for it, in order to test which of them is best in deeds.",
+    "arabic1": "إِنَّا جَعَلْنَا مَا عَلَى ٱلْأَرْضِ زِينَةً لَّهَا لِنَبْلُوَهُمْ أَيُّهُمْ أَحْسَنُ عَمَلًا",
+    "arabic2": "انا جعلنا ما على الارض زينة لها لنبلوهم ايهم احسن عملا",
+    "bengali": "নিশ্চয় যমীনের উপর যা রয়েছে, তা আমি শোভা করেছি তার জন্য, যাতে তাদেরকে পরীক্ষা করি যে, কর্মে তাদের মধ্যে কে উত্তম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_7.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 22,
+    "english": "Say, “No one can protect me from Allah ˹if I were to disobey Him˺, nor can I find any refuge other than Him.",
+    "arabic1": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+    "arabic2": "قل اني لن يجيرني من الله احد ولن اجد من دونه ملتحدا",
+    "bengali": "বল, ‘নিশ্চয় আল্লাহর কাছ থেকে কেউ আমাকে রক্ষা করতে পারবে না এবং তিনি ছাড়া কখনো আমি কোন আশ্রয়ও পাব না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_22.mp3"
+        }
+    }
+}

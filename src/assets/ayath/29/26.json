@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 26,
+    "english": "So Lot believed in him. And Abraham said, “I am emigrating ˹in obedience˺ to my Lord. He ˹alone˺ is indeed the Almighty, All-Wise.”",
+    "arabic1": "۞ فَـَٔامَنَ لَهُۥ لُوطٌ ۘ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "فامن له لوط وقال اني مهاجر الى ربي انه هو العزيز الحكيم",
+    "bengali": "অতঃপর লূত তার উপর বিশ্বাস স্থাপন করল। আর ইবরাহীম বলল, ‘আমি আমার রবের দিকে হিজরত করছি। নিশ্চয় তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_26.mp3"
+        }
+    }
+}

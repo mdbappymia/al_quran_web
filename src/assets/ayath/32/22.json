@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 22,
+    "english": "And who does more wrong than the one who is reminded of Allah’s revelations then turns away from them? We will surely inflict punishment upon the wicked.",
+    "arabic1": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ",
+    "arabic2": "ومن اظلم ممن ذكر بايات ربه ثم اعرض عنها انا من المجرمين منتقمون",
+    "bengali": "আর তার চেয়ে বড় যালিম আর কে, যাকে স্বীয় রবের আয়াতসমূহের মাধ্যমে উপদেশ দেয়ার পর তা থেকে মুখ ফিরিয়ে নেয়। নিশ্চয় আমি অপরাধীদের কাছ থেকে প্রতিশোধ গ্রহণকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_22.mp3"
+        }
+    }
+}

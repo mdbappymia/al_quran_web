@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 116,
+    "english": "They threatened, “If you do not desist, O  Noah, you will surely be stoned ˹to death˺.”",
+    "arabic1": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+    "arabic2": "قالوا لئن لم تنته يا نوح لتكونن من المرجومين",
+    "bengali": "তারা বলল, ‘হে নূহ, তুমি যদি বিরত না হও তবে অবশ্যই তুমি প্রস্তরাঘাতে নিহতদের অন্তর্ভুক্ত হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_116.mp3"
+        }
+    }
+}

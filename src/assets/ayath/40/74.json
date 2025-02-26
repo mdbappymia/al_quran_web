@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 74,
+    "english": "with Allah?” They will cry, “They have ˹all˺ failed us. In fact, we did not invoke anything ˹real˺ before.” This is how Allah leaves the disbelievers to stray.",
+    "arabic1": "مِن دُونِ ٱللَّهِ ۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًٔا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَـٰفِرِينَ",
+    "arabic2": "من دون الله قالوا ضلوا عنا بل لم نكن ندعو من قبل شيئا كذلك يضل الله الكافرين",
+    "bengali": "আল্লাহ ছাড়া’? তারা বলবে, ‘তারা তো আমাদের কাছ থেকে উধাও হয়ে গেছে’, বরং এর পূর্বে আমরা কোন কিছুকে আহবান করিনি’। এভাবেই আল্লাহ কাফিরদেরকে পথভ্রষ্ট করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_74.mp3"
+        }
+    }
+}

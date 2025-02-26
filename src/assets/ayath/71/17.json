@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 17,
+    "english": "Allah ˹alone˺ caused you to grow from the earth like a plant.",
+    "arabic1": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+    "arabic2": "والله انبتكم من الارض نباتا",
+    "bengali": "‘আর আল্লাহ তোমাদেরকে উদগত করেছেন মাটি থেকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_17.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 34,
+    "english": "Surely those who disbelieve, hinder ˹others˺ from the Way of Allah, and then die as disbelievers; Allah will never forgive them.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+    "arabic2": "ان الذين كفروا وصدوا عن سبيل الله ثم ماتوا وهم كفار فلن يغفر الله لهم",
+    "bengali": "নিশ্চয়ই যারা কুফরী করেছে এবং আল্লাহর পথে বাধা দিয়েছে। তারপর কাফির অবস্থায়ই মারা গেছে, আল্লাহ কখনই তাদের ক্ষমা করবেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_34.mp3"
+        }
+    }
+}

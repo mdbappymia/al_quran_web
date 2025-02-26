@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 36,
+    "english": "If We give people a taste of mercy, they become prideful ˹because˺ of it. But if they are afflicted with an evil for what their hands have done, they instantly fall into despair.",
+    "arabic1": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ رَحْمَةً فَرِحُوا۟ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+    "arabic2": "واذا اذقنا الناس رحمة فرحوا بها وان تصبهم سيئة بما قدمت ايديهم اذا هم يقنطون",
+    "bengali": "আর আমি যখন মানুষকে রহমতের স্বাদ আস্বাদন করাই তখন তারা তাতে আনন্দিত হয়। আর যদি তাদের কৃতকর্মের কারণে তাদের উপর অকল্যাণ পৌঁছে তখন তারা হতাশ হয়ে পড়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_36.mp3"
+        }
+    }
+}

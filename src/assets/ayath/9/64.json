@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 64,
+    "english": "The hypocrites fear that a sûrah should be revealed about them, exposing what is in their hearts. Say, ˹O Prophet,˺ “Keep mocking! Allah will definitely bring to light what you fear.”",
+    "arabic1": "يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ",
+    "arabic2": "يحذر المنافقون ان تنزل عليهم سورة تنبئهم بما في قلوبهم قل استهزئوا ان الله مخرج ما تحذرون",
+    "bengali": "মুনাফিকরা ভয় করে যে, তাদের বিষয়ে এমন একটি সূরা অবতীর্ণ হবে, যা তাদের অন্তরের বিষয়গুলি জানিয়ে দেবে। বল, ‘তোমরা উপহাস করতে থাক। নিশ্চয় আল্লাহ বের করবেন, তোমরা যা ভয় করছ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_64.mp3"
+        }
+    }
+}

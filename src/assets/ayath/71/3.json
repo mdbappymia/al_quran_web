@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 3,
+    "english": "worship Allah ˹alone˺, fear Him, and obey me.",
+    "arabic1": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+    "arabic2": "ان اعبدوا الله واتقوه واطيعون",
+    "bengali": "যে, তোমরা আল্লাহর ‘ইবাদাত কর, তাঁকে ভয় কর এবং আমার আনুগত্য কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_3.mp3"
+        }
+    }
+}

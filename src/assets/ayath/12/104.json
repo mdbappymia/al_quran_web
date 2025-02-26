@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 104,
+    "english": "even though you are not asking them for a reward for this ˹Quran˺. It is only a reminder to the whole world.",
+    "arabic1": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+    "arabic2": "وما تسالهم عليه من اجر ان هو الا ذكر للعالمين",
+    "bengali": "আর তুমি এর উপর তাদের কাছে কোন প্রতিদান চাও না, এ তো (কুরআন) সমগ্র সৃষ্টির জন্য উপদেশমাত্র।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_104.mp3"
+        }
+    }
+}

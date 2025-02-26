@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kawthar",
+    "surahNameArabic": "الكوثر",
+    "surahNameArabicLong": "سورة الكوثر",
+    "surahNameTranslation": "Abundance",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 108,
+    "ayahNo": 3,
+    "english": "Only the one who hates you is truly cut off ˹from any goodness˺.",
+    "arabic1": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "arabic2": "ان شانئك هو الابتر",
+    "bengali": "নিশ্চয় তোমার প্রতি শত্রুতা পোষণকারীই নির্বংশ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/108_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/108_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/108_3.mp3"
+        }
+    }
+}

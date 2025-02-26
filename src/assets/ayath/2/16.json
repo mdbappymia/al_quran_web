@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 16,
+    "english": "They are the ones who trade guidance for misguidance. But this trade is profitless, and they are not ˹rightly˺ guided.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمْ وَمَا كَانُوا۟ مُهْتَدِينَ",
+    "arabic2": "اولئك الذين اشتروا الضلالة بالهدى فما ربحت تجارتهم وما كانوا مهتدين",
+    "bengali": "এরাই তারা, যারা হিদায়াতের বিনিময়ে পথভ্রষ্টতা ক্রয় করেছে। কিন্তু তাদের ব্যবসা লাভজনক হয়নি এবং তারা হিদায়াতপ্রাপ্ত ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_16.mp3"
+        }
+    }
+}

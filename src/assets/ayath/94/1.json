@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 1,
+    "english": "Have We not uplifted your heart for you ˹O Prophet˺",
+    "arabic1": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "arabic2": "الم نشرح لك صدرك",
+    "bengali": "আমি কি তোমার জন্য তোমার বক্ষ প্রশস্ত করিনি?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_1.mp3"
+        }
+    }
+}

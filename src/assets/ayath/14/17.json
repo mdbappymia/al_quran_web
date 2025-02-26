@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 17,
+    "english": "which they will sip with difficulty, and can hardly swallow. Death will overwhelm them from every side, yet they will not ˹be able to˺ die. Awaiting them still is harsher torment.",
+    "arabic1": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌ",
+    "arabic2": "يتجرعه ولا يكاد يسيغه وياتيه الموت من كل مكان وما هو بميت ومن ورائه عذاب غليظ",
+    "bengali": "সে তা গিলতে চাইবে এবং প্রায় সহজে সে তা গিলতে পারবে না। আর তার কাছে সকল স্থান থেকে মৃত্যু ধেঁয়ে আসবে, অথচ সে মরবে না। আর এর পরেও রয়েছে কঠিন আযাব ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_17.mp3"
+        }
+    }
+}

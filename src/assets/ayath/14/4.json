@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 4,
+    "english": "We have not sent a messenger except in the language of his people to clarify ˹the message˺ for them. Then Allah leaves whoever He wills to stray and guides whoever He wills. And He is the Almighty, All-Wise.",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "وما ارسلنا من رسول الا بلسان قومه ليبين لهم فيضل الله من يشاء ويهدي من يشاء وهو العزيز الحكيم",
+    "bengali": "আর আমি প্রত্যেক রাসূলকে তার কওমের ভাষাতেই পাঠিয়েছি, যাতে সে তাদের কাছে বর্ণনা দেয়, সুতরাং আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং যাকে ইচ্ছা সঠিক পথ দেখান। আর তিনি পরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_4.mp3"
+        }
+    }
+}

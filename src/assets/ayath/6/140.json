@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 140,
+    "english": "Lost indeed are those who have murdered their own children foolishly out of ignorance and have forbidden what Allah has provided for them—falsely attributing lies to Allah. They have certainly strayed and are not ˹rightly˺ guided.",
+    "arabic1": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَـٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ ۚ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+    "arabic2": "قد خسر الذين قتلوا اولادهم سفها بغير علم وحرموا ما رزقهم الله افتراء على الله قد ضلوا وما كانوا مهتدين",
+    "bengali": "অবশ্যই তারা ক্ষতিগ্রস্ত হয়েছে যারা তাদের সন্তানদেরকে নির্বুদ্ধিতাবশত হত্যা করেছে না জেনে এবং আল্লাহর উপর মিথ্যা অপবাদস্বরূপ আল্লাহ তাদেরকে যে রিয্ক দিয়েছেন তা হারাম করেছে। অবশ্যই তারা পথভ্রষ্ট হয়েছে এবং তারা হিদায়াতপ্রাপ্ত হয়নি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_140.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_140.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_140.mp3"
+        }
+    }
+}

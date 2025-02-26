@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 109,
+    "english": "And follow what is revealed to you, and be patient until Allah passes His judgment. For He is the Best of Judges.",
+    "arabic1": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+    "arabic2": "واتبع ما يوحى اليك واصبر حتى يحكم الله وهو خير الحاكمين",
+    "bengali": "আর তোমার নিকট যে ওহী পাঠানো হচ্ছে, তুমি তার অনুসরণ কর এবং সবর কর, যতক্ষণ না আল্লাহ ফয়সালা করেন। আর তিনিই উত্তম ফয়সালাকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_109.mp3"
+        }
+    }
+}

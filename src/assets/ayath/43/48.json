@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 48,
+    "english": "although every sign We showed them was greater than the one before. Ultimately, We seized them with torments so that they might return ˹to the Right Path˺.",
+    "arabic1": "وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَـٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "وما نريهم من اية الا هي اكبر من اختها واخذناهم بالعذاب لعلهم يرجعون",
+    "bengali": "আমি তাদের যে নিদর্শনই দেখাইনা কেন তা ছিল তার অনুরূপ নিদর্শন অপেক্ষা শ্রেষ্ঠতর। আর আমি তাদেরকে আযাবের মাধ্যমে পাকড়াও করলাম, যাতে তারা ফিরে আসে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_48.mp3"
+        }
+    }
+}

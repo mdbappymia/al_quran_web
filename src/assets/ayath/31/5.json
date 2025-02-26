@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 5,
+    "english": "It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.",
+    "arabic1": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "اولئك على هدى من ربهم واولئك هم المفلحون",
+    "bengali": "তারাই তাদের রবের পক্ষ থেকে হিদায়াতের ওপর এবং তারাই সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_5.mp3"
+        }
+    }
+}

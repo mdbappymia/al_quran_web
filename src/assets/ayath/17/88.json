@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 88,
+    "english": "Say, ˹O Prophet,˺ “If ˹all˺ humans and jinn were to come together to produce the equivalent of this Quran, they could not produce its equal, no matter how they supported each other.”",
+    "arabic1": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+    "arabic2": "قل لئن اجتمعت الانس والجن على ان ياتوا بمثل هذا القران لا ياتون بمثله ولو كان بعضهم لبعض ظهيرا",
+    "bengali": "বল, ‘যদি মানুষ ও জিন এ কুরআনের অনুরূপ হাযির করার জন্য একত্রিত হয়, তবুও তারা এর অনুরূপ হাযির করতে পারবে না যদিও তারা একে অপরের সাহায্যকারী হয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_88.mp3"
+        }
+    }
+}

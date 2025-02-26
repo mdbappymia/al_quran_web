@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 24,
+    "english": "˹But˺ on that Day the residents of Paradise will have the best settlement and the finest place to rest.",
+    "arabic1": "أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
+    "arabic2": "اصحاب الجنة يومئذ خير مستقرا واحسن مقيلا",
+    "bengali": "সেদিন জান্নাতবাসীরা বাসস্থান হিসেবে উত্তম এবং বিশ্রামস্থল হিসেবে উৎকৃষ্ট অবস্থায় থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_24.mp3"
+        }
+    }
+}

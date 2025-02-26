@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 79,
+    "english": "Have they not seen the birds glide in the open sky? None holds them up except Allah. Surely in this are signs for those who believe.",
+    "arabic1": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "الم يروا الى الطير مسخرات في جو السماء ما يمسكهن الا الله ان في ذلك لايات لقوم يؤمنون",
+    "bengali": "তারা কি আকাশে (উড়ন্ত অবস্থায়) নিয়োজিত পাখিগুলোর দিকে তাকায় না? আল্লাহ ছাড়া কেউ তাদেরকে ধরে রাখে না। নিশ্চয় তাতে নিদর্শনবলী রয়েছে সেই কওমের জন্য যারা বিশ্বাস করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_79.mp3"
+        }
+    }
+}

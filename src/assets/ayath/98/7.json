@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Bayyina",
+    "surahNameArabic": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameTranslation": "The Evidence",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 98,
+    "ayahNo": 7,
+    "english": "Indeed, those who believe and do good—they are the best of ˹all˺ beings.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات اولئك هم خير البرية",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে ও সৎকাজ করেছে তারাই সৃষ্টির সর্বোৎকৃষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/98_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/98_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/98_7.mp3"
+        }
+    }
+}

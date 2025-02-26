@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 15,
+    "english": "near which is the Garden of ˹Eternal˺ Residence—",
+    "arabic1": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+    "arabic2": "عندها جنة الماوى",
+    "bengali": "যার কাছে জান্নাতুল মা’ওয়া* অবস্থিত। \n* ফেরেশতা, শহীদদের রূহ ও মুত্তাকীদের অবস্থানস্থল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_15.mp3"
+        }
+    }
+}

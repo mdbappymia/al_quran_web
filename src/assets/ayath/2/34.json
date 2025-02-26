@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 34,
+    "english": "And ˹remember˺ when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who refused and acted arrogantly, becoming unfaithful.",
+    "arabic1": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "واذ قلنا للملائكة اسجدوا لادم فسجدوا الا ابليس ابى واستكبر وكان من الكافرين",
+    "bengali": "আর যখন আমি ফেরেশতাদেরকে বললাম, ‘তোমরা আদমকে সিজদা কর’। তখন তারা সিজদা করল, ইবলীস ছাড়া। সে অস্বীকার করল এবং অহঙ্কার করল। আর সে হল কাফিরদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_34.mp3"
+        }
+    }
+}

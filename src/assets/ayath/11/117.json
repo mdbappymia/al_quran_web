@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 117,
+    "english": "And your Lord ˹O Prophet˺ would never destroy a society unjustly while its people were acting rightly.",
+    "arabic1": "وَمَا كَانَ رَبُّكَ لِيُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ",
+    "arabic2": "وما كان ربك ليهلك القرى بظلم واهلها مصلحون",
+    "bengali": "আর তোমার রব এমন নন যে, তিনি অন্যায়ভাবে জনপদসমূহ ধ্বংস করে দেবেন, অথচ তার অধিবাসীরা সংশোধনকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_117.mp3"
+        }
+    }
+}

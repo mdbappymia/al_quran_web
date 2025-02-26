@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 53,
+    "english": "They ask you ˹O Prophet˺, “Is this true?” Say, “Yes, by my Lord! Most certainly it is true! And you will have no escape.”",
+    "arabic1": "۞ وَيَسْتَنۢبِـُٔونَكَ أَحَقٌّ هُوَ ۖ قُلْ إِى وَرَبِّىٓ إِنَّهُۥ لَحَقٌّ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+    "arabic2": "ويستنبئونك احق هو قل اي وربي انه لحق وما انتم بمعجزين",
+    "bengali": "আর তারা তোমার কাছে জানতে চায়, ‘তা কি সত্য’? বল, ‘হ্যাঁ, আমার রবের কসম! নিশ্চয় তা সত্য এবং তোমরা পরাস্তকারী নও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_53.mp3"
+        }
+    }
+}

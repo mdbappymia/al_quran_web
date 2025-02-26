@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 5,
+    "english": "Is all this ˹not˺ a sufficient oath for those who have sense?",
+    "arabic1": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+    "arabic2": "هل في ذلك قسم لذي حجر",
+    "bengali": "এর মধ্যে কি বোধশক্তিসম্পন্ন ব্যক্তির জন্য কসম আছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_5.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 43,
+    "english": "O  Mary! Be devout to your Lord, prostrate yourself ˹in prayer˺ and bow along with those who bow down.”",
+    "arabic1": "يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+    "arabic2": "يا مريم اقنتي لربك واسجدي واركعي مع الراكعين",
+    "bengali": "‘হে মারইয়াম, তোমার রবের জন্য অনুগত হও। আর সিজদা কর এবং রুকূকারীদের সাথে রুকূ কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_43.mp3"
+        }
+    }
+}

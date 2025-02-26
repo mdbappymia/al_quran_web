@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 97,
+    "english": "Did the people of those societies feel secure that Our punishment would not come upon them by night while they were asleep?",
+    "arabic1": "أَفَأَمِنَ أَهْلُ ٱلْقُرَىٰٓ أَن يَأْتِيَهُم بَأْسُنَا بَيَـٰتًا وَهُمْ نَآئِمُونَ",
+    "arabic2": "افامن اهل القرى ان ياتيهم باسنا بياتا وهم نائمون",
+    "bengali": "জনপদগুলোর অধিবাসীরা কি রাতের বেলা তাদের কাছে আমার আযাব এসে যাওয়া থেকে নিরাপদ হয়ে গিয়েছে যখন তারা ঘুমিয়ে থাকবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_97.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_97.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_97.mp3"
+        }
+    }
+}

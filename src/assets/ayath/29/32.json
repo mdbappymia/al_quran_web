@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 32,
+    "english": "He said, “But Lot is there!” They responded, “We know best who is there. We will certainly save him and his family—except his wife, who is one of the doomed.”",
+    "arabic1": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَـٰبِرِينَ",
+    "arabic2": "قال ان فيها لوطا قالوا نحن اعلم بمن فيها لننجينه واهله الا امراته كانت من الغابرين",
+    "bengali": "ইবরাহীম বলল, ‘নিশ্চয় সেখানে লূত আছে।’ তারা বলল, ‘আমরা ভালই জানি সেখানে কারা আছে, আমরা অবশ্যই তাকে ও তার পরিবারকে রক্ষা করব; তবে তার স্ত্রীকে নয়, সে হবে পিছনে পড়ে থাকা লোকদের একজন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_32.mp3"
+        }
+    }
+}

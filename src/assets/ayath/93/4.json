@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 4,
+    "english": "And the next life is certainly far better for you than this one.",
+    "arabic1": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+    "arabic2": "وللاخرة خير لك من الاولى",
+    "bengali": "আর অবশ্যই তোমার জন্য পরবর্তী সময় পূর্ববর্তী সময়ের চেয়ে উত্তম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/93_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/93_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/93_4.mp3"
+        }
+    }
+}

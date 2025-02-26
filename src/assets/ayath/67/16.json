@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 16,
+    "english": "Do you feel secure that the One Who is in heaven will not cause the earth to swallow you up as it quakes violently?",
+    "arabic1": "ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ",
+    "arabic2": "اامنتم من في السماء ان يخسف بكم الارض فاذا هي تمور",
+    "bengali": "যিনি আসমানে আছেন,* তিনি তোমাদের সহ যমীন ধসিয়ে দেয়া থেকে কি তোমরা নিরাপদ হয়ে গেছ, অতঃপর আকস্মিকভাবে তা থর থর করে কাঁপতে থাকবে? \n*‘যিনি আসমানে আছেন’ দ্বারা আল্লাহকে বুঝানো হয়েছে। এর দ্বারা আল্লাহ যে আসমানে আছেন, তা প্রমাণিত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_16.mp3"
+        }
+    }
+}

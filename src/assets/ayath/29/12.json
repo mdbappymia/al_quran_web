@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 12,
+    "english": "The disbelievers say to the believers, “˹Just˺ follow our way, and we will bear ˹the burden of˺ your sins.” But they would never ˹want to˺ bear any of the believers’ sins. They are simply lying.",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَمَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "وقال الذين كفروا للذين امنوا اتبعوا سبيلنا ولنحمل خطاياكم وما هم بحاملين من خطاياهم من شيء انهم لكاذبون",
+    "bengali": "আর কাফিররা মুমিনদেরকে বলে, ‘তোমরা আমাদের পথ অনুসরণ কর এবং যেন আমরা তোমাদের পাপ বহন করি।’ অথচ তারা তাদের পাপের কিছুই বহন করবে না। নিশ্চয় তারা মিথ্যাবাদী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_12.mp3"
+        }
+    }
+}

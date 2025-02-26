@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 13,
+    "english": "Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺ “Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "ام يقولون افتراه قل فاتوا بعشر سور مثله مفتريات وادعوا من استطعتم من دون الله ان كنتم صادقين",
+    "bengali": "নাকি তারা বলে, ‘সে এটা রটনা করেছে’? বল, ‘তাহলে তোমরা এর অনুরূপ দশটি সূরা বানিয়ে নিয়ে আস এবং আল্লাহ ছাড়া যাকে পার ডেকে আন, যদি তোমরা সত্যবাদী হও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_13.mp3"
+        }
+    }
+}

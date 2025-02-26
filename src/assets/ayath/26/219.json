@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 219,
+    "english": "as well as your movements ˹in prayer˺ along with ˹fellow˺ worshippers.",
+    "arabic1": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ",
+    "arabic2": "وتقلبك في الساجدين",
+    "bengali": "‘এবং সিজদাকারীদের মধ্যে তোমার উঠাবসা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_219.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_219.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_219.mp3"
+        }
+    }
+}

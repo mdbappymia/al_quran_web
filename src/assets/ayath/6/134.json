@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 134,
+    "english": "Indeed, what you have been promised will certainly come to pass. And you will have no escape.",
+    "arabic1": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+    "arabic2": "ان ما توعدون لات وما انتم بمعجزين",
+    "bengali": "নিশ্চয় তোমাদেরকে যে ওয়াদা দেয়া হচ্ছে, তা অবশ্যই আসবে এবং (এ ব্যাপারে তাঁকে) তোমরা অক্ষম করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_134.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_134.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_134.mp3"
+        }
+    }
+}

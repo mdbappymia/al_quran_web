@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 33,
+    "english": "They responded, “We are a people of strength and great ˹military˺ might, but the decision is yours, so decide what you will command.”",
+    "arabic1": "قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ",
+    "arabic2": "قالوا نحن اولو قوة واولو باس شديد والامر اليك فانظري ماذا تامرين",
+    "bengali": "তারা বলল, ‘আমরা শক্তিশালী ও কঠোর যোদ্ধা, আর সিদ্ধান্ত আপনার কাছেই। অতএব চিন্তা করে দেখুন, আপনি কী নির্দেশ দেবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_33.mp3"
+        }
+    }
+}

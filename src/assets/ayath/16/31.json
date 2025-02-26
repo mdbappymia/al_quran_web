@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 31,
+    "english": "the Gardens of Eternity which they will enter, under which rivers flow. In it they will have whatever they desire. This is how Allah rewards the righteous—",
+    "arabic1": "جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ",
+    "arabic2": "جنات عدن يدخلونها تجري من تحتها الانهار لهم فيها ما يشاءون كذلك يجزي الله المتقين",
+    "bengali": "স্থায়ী জান্নাতসমূহ যাতে তারা প্রবেশ করবে, যার তলদেশে প্রবাহিত হচ্ছে নহরসমূহ। তারা চাইবে, তাদের জন্য তার মধ্যে তাই থাকবে। এভাবেই আল্লাহ মুত্তাকীদের প্রতিদান দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_31.mp3"
+        }
+    }
+}

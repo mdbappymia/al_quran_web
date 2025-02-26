@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 26,
+    "english": "O children of Adam! We have provided for you clothing to cover your nakedness and as an adornment. However, the best clothing is righteousness. This is one of Allah’s bounties, so perhaps you will be mindful.",
+    "arabic1": "يَـٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا ۖ وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+    "arabic2": "يا بني ادم قد انزلنا عليكم لباسا يواري سواتكم وريشا ولباس التقوى ذلك خير ذلك من ايات الله لعلهم يذكرون",
+    "bengali": "হে বনী আদম, আমি তো তোমাদের জন্য পোশাক অবতীর্ণ করেছি, যা তোমাদের লজ্জাস্থান ঢাকবে এবং যা সৌন্দর্যস্বরূপ। আর তাকওয়ার পোশাক, তা উত্তম। এগুলো আল্লাহর আয়াতসমূহের অন্তর্ভুক্ত। যাতে তারা উপদেশ গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_26.mp3"
+        }
+    }
+}

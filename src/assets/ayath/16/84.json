@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 84,
+    "english": "˹Consider, O  Prophet,˺ the Day We will call ˹a prophet as˺ a witness from every faith-community. Then the disbelievers will neither be allowed to plead nor appease ˹their Lord˺.",
+    "arabic1": "وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا۟ وَلَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic2": "ويوم نبعث من كل امة شهيدا ثم لا يؤذن للذين كفروا ولا هم يستعتبون",
+    "bengali": "আর স্মরণ কর, যেদিন আমি প্রত্যেক উম্মত থেকে সাক্ষী উত্থিত করব। তারপর যারা কুফরী করেছে, তাদেরকে (ওযর পেশের) অনুমতি দেয়া হবে না এবং (আল্লাহকে) সন্তুষ্ট করতেও তাদেরকে বলা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_84.mp3"
+        }
+    }
+}

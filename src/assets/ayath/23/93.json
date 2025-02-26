@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 93,
+    "english": "Say, ˹O Prophet,˺ “My Lord! Should You show me what they are threatened with",
+    "arabic1": "قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ",
+    "arabic2": "قل رب اما تريني ما يوعدون",
+    "bengali": "বল, ‘হে আমার রব, যে বিষয়ে তাদেরকে ওয়াদা দেয়া হচ্ছে তা যদি আমাকে দেখাতে চান,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_93.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_93.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_93.mp3"
+        }
+    }
+}

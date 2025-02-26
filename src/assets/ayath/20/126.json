@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 126,
+    "english": "Allah will respond, “It is so, just as Our revelations came to you and you neglected them, so Today you are neglected.”",
+    "arabic1": "قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَـٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+    "arabic2": "قال كذلك اتتك اياتنا فنسيتها وكذلك اليوم تنسى",
+    "bengali": "তিনি বলবেন, ‘এমনিভাবেই তোমার নিকট আমার নিদর্শনাবলী এসেছিল, কিন্তু তুমি তা ভুলে গিয়েছিলে এবং সেভাবেই আজ তোমাকে ভুলে যাওয়া হল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_126.mp3"
+        }
+    }
+}

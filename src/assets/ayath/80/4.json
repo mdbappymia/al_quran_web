@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 4,
+    "english": "or he may be mindful, benefitting from the reminder.",
+    "arabic1": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+    "arabic2": "او يذكر فتنفعه الذكرى",
+    "bengali": "অথবা উপদেশ গ্রহণ করত, ফলে সে উপদেশ তার উপকারে আসত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_4.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 16,
+    "english": "Do not rush your tongue trying to memorize ˹a revelation of˺ the Quran.",
+    "arabic1": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+    "arabic2": "لا تحرك به لسانك لتعجل به",
+    "bengali": "কুরআন তাড়াতাড়ি আয়ত্ত করার উদ্দেশ্যে তুমি তোমার জিহবাকে দ্রুত আন্দোলিত করো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_16.mp3"
+        }
+    }
+}

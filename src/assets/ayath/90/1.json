@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 1,
+    "english": "I do swear by this city ˹of Mecca˺—",
+    "arabic1": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+    "arabic2": "لا اقسم بهذا البلد",
+    "bengali": "আমি কসম করছি এই নগরীর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/90_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/90_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/90_1.mp3"
+        }
+    }
+}

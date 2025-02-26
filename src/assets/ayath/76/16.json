@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 16,
+    "english": "crystalline silver, filled precisely as desired.",
+    "arabic1": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+    "arabic2": "قوارير من فضة قدروها تقديرا",
+    "bengali": "রূপার ন্যায় শুভ্র স্ফটিক পাত্র; যার পরিমাপ তারা নির্ধারণ করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_16.mp3"
+        }
+    }
+}

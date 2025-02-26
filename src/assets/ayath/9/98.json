@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 98,
+    "english": "And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing.",
+    "arabic1": "وَمِنَ ٱلْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "ومن الاعراب من يتخذ ما ينفق مغرما ويتربص بكم الدوائر عليهم دائرة السوء والله سميع عليم",
+    "bengali": "আর বেদুঈনদের কেউ কেউ যা (আল্লাহর পথে) ব্যয় করে, তা জরিমানা গণ্য করে এবং তোমাদের দুর্বিপাকের প্রতীক্ষায় থাকে। দুর্বিপাক তাদের উপরই এবং আল্লাহ সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_98.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_98.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_98.mp3"
+        }
+    }
+}

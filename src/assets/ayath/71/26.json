@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 26,
+    "english": "Noah had prayed, “My Lord! Do not leave a single disbeliever on earth.",
+    "arabic1": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+    "arabic2": "وقال نوح رب لا تذر على الارض من الكافرين ديارا",
+    "bengali": "আর নূহ বলল, ‘হে আমার রব! যমীনের উপর কোন কাফিরকে অবশিষ্ট রাখবেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_26.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 27,
+    "english": "Then when they see the torment drawing near, the faces of the disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you claimed would never come.”",
+    "arabic1": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+    "arabic2": "فلما راوه زلفة سيئت وجوه الذين كفروا وقيل هذا الذي كنتم به تدعون",
+    "bengali": "অতঃপর তারা যখন তা* আসন্ন দেখতে পাবে, তখন কাফিরদের চেহারা মলিন হয়ে যাবে এবং বলা হবে, ‘এটাই হল তা, যা তোমরা দাবী করছিলে’। \n*কিয়ামতের শাস্তি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_27.mp3"
+        }
+    }
+}

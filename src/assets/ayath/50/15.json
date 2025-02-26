@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 15,
+    "english": "Were We incapable of creating ˹them˺ the first time? In fact, they are in doubt about ˹their˺ re-creation.",
+    "arabic1": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ",
+    "arabic2": "افعيينا بالخلق الاول بل هم في لبس من خلق جديد",
+    "bengali": "আমি কি প্রথমবার সৃষ্টি করেই ক্লান্ত হয়ে পড়েছি? বরং তারা নতুন সৃষ্টির বিষয়ে সন্দেহে নিপতিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_15.mp3"
+        }
+    }
+}

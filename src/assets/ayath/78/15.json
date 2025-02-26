@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 15,
+    "english": "producing by it grain and ˹various˺ plants",
+    "arabic1": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+    "arabic2": "لنخرج به حبا ونباتا",
+    "bengali": "যাতে তা দিয়ে আমি শস্য ও উদ্ভিদ উৎপন্ন করতে পারি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_15.mp3"
+        }
+    }
+}

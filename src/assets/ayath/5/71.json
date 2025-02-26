@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 71,
+    "english": "They thought there would be no consequences, so they turned a blind eye and a deaf ear. Yet Allah turned to them in forgiveness ˹after their repentance˺, but again many became blind and deaf. And Allah is All-Seeing of what they do.",
+    "arabic1": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+    "arabic2": "وحسبوا الا تكون فتنة فعموا وصموا ثم تاب الله عليهم ثم عموا وصموا كثير منهم والله بصير بما يعملون",
+    "bengali": "আর তারা ভেবেছে যে, কোন বিপর্যয় হবে না। ফলে তারা অন্ধ ও বধির হয়ে গিয়েছে। অতঃপর আল্লাহ তাদের তাওবা কবূল করেছেন। অতঃপর তাদের অনেকে অন্ধ ও বধির হয়ে গিয়েছে। আর তারা যা আমল করে আল্লাহ তার দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_71.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_71.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_71.mp3"
+        }
+    }
+}

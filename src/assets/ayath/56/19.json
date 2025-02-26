@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 19,
+    "english": "that will cause them neither headache nor intoxication.",
+    "arabic1": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+    "arabic2": "لا يصدعون عنها ولا ينزفون",
+    "bengali": "তা পানে না তাদের মাথা ব্যথা করবে, আর না তারা মাতাল হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_19.mp3"
+        }
+    }
+}

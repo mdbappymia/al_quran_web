@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 20,
+    "english": "For, indeed, if they find out about you, they will stone you ˹to death˺, or force you back into their faith, and then you will never succeed.”",
+    "arabic1": "إِنَّهُمْ إِن يَظْهَرُوا۟ عَلَيْكُمْ يَرْجُمُوكُمْ أَوْ يُعِيدُوكُمْ فِى مِلَّتِهِمْ وَلَن تُفْلِحُوٓا۟ إِذًا أَبَدًا",
+    "arabic2": "انهم ان يظهروا عليكم يرجموكم او يعيدوكم في ملتهم ولن تفلحوا اذا ابدا",
+    "bengali": "‘নিশ্চয় তারা যদি তোমাদের ব্যাপারে জেনে যায়, তাহলে তারা তোমাদেরকে পাথর মেরে হত্যা করবে অথবা তোমাদেরকে তাদের ধর্মে ফিরিয়ে নিয়ে যাবে। আর তখন তোমরা কোনভাবেই সফল হবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_20.mp3"
+        }
+    }
+}

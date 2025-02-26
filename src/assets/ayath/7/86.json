@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 86,
+    "english": "And do not lie in ambush on every road—threatening and hindering those who believe in Allah from His Path and striving to make it ˹appear˺ crooked. Remember when you were few, then He increased you in number. And consider the fate of the corruptors!",
+    "arabic1": "وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+    "arabic2": "ولا تقعدوا بكل صراط توعدون وتصدون عن سبيل الله من امن به وتبغونها عوجا واذكروا اذ كنتم قليلا فكثركم وانظروا كيف كان عاقبة المفسدين",
+    "bengali": "‘আর যারা তাঁর প্রতি ঈমান এনেছে তাদেরকে ভয় দেখাতে, আল্লাহর পথ থেকে বাধা দিতে এবং তাতে বক্রতা অনুসন্ধান করতে তোমরা প্রতিটি পথে বসে থেকো না’। আর স্মরণ কর, যখন তোমরা ছিলে কম, অতঃপর তিনি তোমাদেরকে অধিক করেছেন এবং দেখ, কিরূপ হয়েছে ফাসাদকারীদের পরিণতি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_86.mp3"
+        }
+    }
+}

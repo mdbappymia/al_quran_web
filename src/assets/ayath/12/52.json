@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 52,
+    "english": "From this, Joseph should know that I did not speak dishonestly about him in his absence, for Allah certainly does not guide the scheming of the dishonest.",
+    "arabic1": "ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ",
+    "arabic2": "ذلك ليعلم اني لم اخنه بالغيب وان الله لا يهدي كيد الخائنين",
+    "bengali": "এটি এ জন্য যে, যাতে সে জানতে পারে, আমি তার অনুপস্থিতিতে তার সাথে বিশ্বাসঘাতকতা করিনি। আর আল্লাহ অবশ্যই বিশ্বাসঘাতকদের চক্রান্ত লক্ষ্যে পৌঁছতে দেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_52.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 39,
+    "english": "˹Allah said,˺ “This is Our gift, so give or withhold ˹as you wish˺, never to be called to account.”",
+    "arabic1": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+    "arabic2": "هذا عطاؤنا فامنن او امسك بغير حساب",
+    "bengali": "এটি আমার অনুগ্রহ। অতএব তুমি এটি অন্যের জন্য খরচ কর অথবা নিজের জন্য রেখে দাও, এর কোন হিসাব দিতে হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_39.mp3"
+        }
+    }
+}

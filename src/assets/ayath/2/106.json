@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 106,
+    "english": "If We ever abrogate a verse or cause it to be forgotten, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?",
+    "arabic1": "۞ مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ أَوْ مِثْلِهَآ ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "ما ننسخ من اية او ننسها نات بخير منها او مثلها الم تعلم ان الله على كل شيء قدير",
+    "bengali": "আমি যে আয়াত রহিত করি কিংবা ভুলিয়ে দেই, তার চেয়ে উত্তম কিংবা তার মত আনয়ন করি। তুমি কি জান না যে, আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_106.mp3"
+        }
+    }
+}

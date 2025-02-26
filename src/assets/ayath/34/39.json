@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 39,
+    "english": "Say, ˹O Prophet,˺ “Surely ˹it is˺ my Lord ˹Who˺ gives abundant or limited provisions to whoever He wills of His servants. And whatever you spend in charity, He will compensate ˹you˺ for it. For He is the Best Provider.”",
+    "arabic1": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "arabic2": "قل ان ربي يبسط الرزق لمن يشاء من عباده ويقدر له وما انفقتم من شيء فهو يخلفه وهو خير الرازقين",
+    "bengali": "বল, ‘নিশ্চয় আমার রব তাঁর বান্দাদের মধ্যে যার জন্য ইচ্ছা রিয্ক প্রশস্ত করেন এবং সঙ্কুচিত করেন। আর তোমরা যা কিছু আল্লাহর জন্য ব্যয় কর তিনি তার বিনিময় দেবেন এবং তিনিই উত্তম রিয্কদাতা।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_39.mp3"
+        }
+    }
+}

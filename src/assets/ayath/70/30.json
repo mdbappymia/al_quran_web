@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 30,
+    "english": "except with their wives or those ˹bondwomen˺ in their possession, for then they are free from blame",
+    "arabic1": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+    "arabic2": "الا على ازواجهم او ما ملكت ايمانهم فانهم غير ملومين",
+    "bengali": "তবে তাদের স্ত্রী ও তাদের ডান হাত যাদের মালিক হয়েছে সে দাসীগণের ক্ষেত্র ছাড়া। তাহলে তারা সে ক্ষেত্রে নিন্দনীয় হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_30.mp3"
+        }
+    }
+}

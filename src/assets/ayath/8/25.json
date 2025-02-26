@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 25,
+    "english": "Beware of a trial that will not only affect the wrongdoers among you. And know that Allah is severe in punishment.",
+    "arabic1": "وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً ۖ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+    "arabic2": "واتقوا فتنة لا تصيبن الذين ظلموا منكم خاصة واعلموا ان الله شديد العقاب",
+    "bengali": "আর তোমরা ভয় কর ফিতনাকে* যা তোমাদের মধ্য থেকে বিশেষভাবে শুধু যালিমদের উপরই আপতিত হবে না। আর জেনে রাখ, নিশ্চয় আল্লাহ আযাব প্রদানে কঠোর। \n* ফিতনা (فتنة)একটি ব্যাপক অর্থবোধক শব্দ; যা বিপদ, কষ্ট, পরীক্ষা, গযব, আযাব, দাঙ্গা, গোলযোগ, সম্মোহন, আকর্ষণ, শির্ক, কুফর, নির্যাতন ইত্যাদি অর্থে ব্যবহৃত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_25.mp3"
+        }
+    }
+}

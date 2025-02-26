@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 108,
+    "english": "and say, ‘Glory be to our Lord! Surely the promise of our Lord has been fulfilled.’",
+    "arabic1": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+    "arabic2": "ويقولون سبحان ربنا ان كان وعد ربنا لمفعولا",
+    "bengali": "আর তারা বলে, ‘পবিত্র মহান আমাদের রব! আমাদের রবের ওয়াদা অবশ্যই কার্যকর হয়ে থাকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_108.mp3"
+        }
+    }
+}

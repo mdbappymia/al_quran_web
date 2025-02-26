@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 40,
+    "english": "Do you not know that the kingdom of the heavens and the earth belongs to Allah ˹alone˺? He punishes whoever He wills and forgives whoever He wills. And Allah is Most Capable of everything.",
+    "arabic1": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "الم تعلم ان الله له ملك السماوات والارض يعذب من يشاء ويغفر لمن يشاء والله على كل شيء قدير",
+    "bengali": "তুমি কি জান না যে, নিশ্চয় আল্লাহ, তাঁর জন্যই আসমানসমূহ ও যমীনের রাজত্ব, তিনি যাকে ইচ্ছা আযাব দেন এবং যাকে ইচ্ছা ক্ষমা করেন, আর আল্লাহ সব কিছুর উপর ক্ষমতাবান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_40.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 83,
+    "english": "He cried, “No! Your souls must have tempted you to do something ˹evil˺. So ˹I am left with nothing but˺ beautiful patience! I trust Allah will return them all to me. Surely He ˹alone˺ is the All-Knowing, All-Wise.”",
+    "arabic1": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+    "arabic2": "قال بل سولت لكم انفسكم امرا فصبر جميل عسى الله ان ياتيني بهم جميعا انه هو العليم الحكيم",
+    "bengali": "সে বলল, ‘বরং তোমাদের নাফ্স তোমাদের জন্য একটি গল্প সাজিয়েছে, সুতরাং (আমার করণীয় হচ্ছে) সুন্দর ধৈর্য। আশা করি, আল্লাহ তাদের সকলকে আমার কাছে ফিরিয়ে আনবেন, নিশ্চয়ই তিনি সর্বজ্ঞ, প্রজ্ঞাময়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_83.mp3"
+        }
+    }
+}

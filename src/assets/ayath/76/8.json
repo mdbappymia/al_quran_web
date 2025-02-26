@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 8,
+    "english": "and give food—despite their desire for it—to the poor, the orphan, and the captive",
+    "arabic1": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+    "arabic2": "ويطعمون الطعام على حبه مسكينا ويتيما واسيرا",
+    "bengali": "তারা খাদ্যের প্রতি আসক্তি থাকা সত্ত্বেও মিসকীন, ইয়াতীম ও বন্দীকে খাদ্য দান করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_8.mp3"
+        }
+    }
+}

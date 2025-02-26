@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 53,
+    "english": "˹They prayed to Allah,˺ “Our Lord! We believe in Your revelations and follow the messenger, so count us among those who bear witness.”",
+    "arabic1": "رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "ربنا امنا بما انزلت واتبعنا الرسول فاكتبنا مع الشاهدين",
+    "bengali": "হে আমাদের রব, আপনি যা নাযিল করেছেন তার প্রতি আমরা ঈমান এনেছি এবং আমরা রাসূলের অনুসরণ করেছি। অতএব, আমাদেরকে সাক্ষ্যদাতাদের তালিকাভুক্ত করুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_53.mp3"
+        }
+    }
+}

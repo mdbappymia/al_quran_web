@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 58,
+    "english": "Or say, upon seeing the torment, ‘If only I had a second chance, I would have been one of the good-doers.’",
+    "arabic1": "أَوْ تَقُولَ حِينَ تَرَى ٱلْعَذَابَ لَوْ أَنَّ لِى كَرَّةً فَأَكُونَ مِنَ ٱلْمُحْسِنِينَ",
+    "arabic2": "او تقول حين ترى العذاب لو ان لي كرة فاكون من المحسنين",
+    "bengali": "অথবা আযাব প্রত্যক্ষ করার সময় যাতে কাউকে একথাও বলতে না হয়, ‘যদি একবার ফিরে যাওয়ার সুযোগ আমার হত, তাহলে আমি মুমিনদের অন্তর্ভুক্ত হতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_58.mp3"
+        }
+    }
+}

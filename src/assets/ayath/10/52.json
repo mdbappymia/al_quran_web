@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 52,
+    "english": "Then the wrongdoers will be told, “Taste the torment of eternity! Are you not rewarded except for what you used to commit?”",
+    "arabic1": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ",
+    "arabic2": "ثم قيل للذين ظلموا ذوقوا عذاب الخلد هل تجزون الا بما كنتم تكسبون",
+    "bengali": "তারপর যারা যুলম করেছে তাদের বলা হবে, স্থায়ী আযাব আস্বাদন কর। তোমরা যা অর্জন করতে তোমাদেরকে কেবল তারই প্রতিদান দেয়া হচ্ছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_52.mp3"
+        }
+    }
+}

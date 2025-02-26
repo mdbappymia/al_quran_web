@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 7,
+    "english": "Surely, what you are promised will come to pass.",
+    "arabic1": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+    "arabic2": "انما توعدون لواقع",
+    "bengali": "তোমাদেরকে যা কিছুর ওয়াদা দেয়া হয়েছে তা অবশ্যই ঘটবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_7.mp3"
+        }
+    }
+}

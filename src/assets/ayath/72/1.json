@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 1,
+    "english": "Say, ˹O Prophet,˺ “It has been revealed to me that a group of jinn listened ˹to the Quran,˺ and said ˹to their fellow jinn˺: ‘Indeed, we have heard a wondrous recitation.",
+    "arabic1": " قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+    "arabic2": "قل اوحي الي انه استمع نفر من الجن فقالوا انا سمعنا قرانا عجبا",
+    "bengali": "বল, ‘আমার প্রতি ওহী করা হয়েছে যে, নিশ্চয় জিনদের একটি দল মনোযোগ সহকারে শুনেছে। অতঃপর বলেছে, ‘আমরা তো এক বিস্ময়কর কুরআন শুনেছি,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_1.mp3"
+        }
+    }
+}

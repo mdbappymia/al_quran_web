@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 3,
+    "english": "which weighed so heavily on your back",
+    "arabic1": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+    "arabic2": "الذي انقض ظهرك",
+    "bengali": "যা তোমার পিঠ ভেঙ্গে দিচ্ছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 56,
+    "english": "All authority on that Day is for Allah ˹alone˺. He will judge between them. So those who believe and do good will be in the Gardens of Bliss.",
+    "arabic1": "ٱلْمُلْكُ يَوْمَئِذٍ لِّلَّهِ يَحْكُمُ بَيْنَهُمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+    "arabic2": "الملك يومئذ لله يحكم بينهم فالذين امنوا وعملوا الصالحات في جنات النعيم",
+    "bengali": "সে দিনের বাদশাহী আল্লাহরই। তিনিই তাদের মধ্যে বিচার করবেন। সুতরাং যারা ঈমান আনে ও সৎকর্ম করে, তারা নিআমতপূর্ণ জান্নাতসমূহে অবস্থান করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_56.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 32,
+    "english": "all as ˹a means of˺ sustenance for you and your animals.",
+    "arabic1": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+    "arabic2": "متاعا لكم ولانعامكم",
+    "bengali": "তোমাদের ও তোমাদের চতুষ্পদ জন্তুগুলোর জীবনোপকরণস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_32.mp3"
+        }
+    }
+}

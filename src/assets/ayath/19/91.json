@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 91,
+    "english": "in protest of attributing children to the Most Compassionate.",
+    "arabic1": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ وَلَدًا",
+    "arabic2": "ان دعوا للرحمن ولدا",
+    "bengali": "কারণ তারা পরম করুণাময়ের সন্তান আছে বলে দাবী করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_91.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_91.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_91.mp3"
+        }
+    }
+}

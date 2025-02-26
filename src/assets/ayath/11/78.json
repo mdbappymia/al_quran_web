@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 78,
+    "english": "And ˹the men of˺ his people—who were used to shameful deeds—came to him rushing. He pleaded, “O my people! Here are my daughters ˹for marriage˺—they are pure for you. So fear Allah, and do not humiliate me by disrespecting my guests. Is there not ˹even˺ a single right-minded man among you?”",
+    "arabic1": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
+    "arabic2": "وجاءه قومه يهرعون اليه ومن قبل كانوا يعملون السيئات قال يا قوم هؤلاء بناتي هن اطهر لكم فاتقوا الله ولا تخزون في ضيفي اليس منكم رجل رشيد",
+    "bengali": "আর তার কওম তার কাছে ছুটে আসল এবং ইতঃপূর্বে তারা মন্দ কাজ করত। সে বলল, ‘হে আমার কওম, এরা আমার মেয়ে, তারা তোমাদের জন্য পবিত্র। সুতরাং তোমরা আল্লাহকে ভয় কর এবং আমার মেহমানদের ব্যাপারে তোমরা আমাকে অপমানিত করো না। তোমাদের মধ্যে কি কোন সুবোধ ব্যক্তি নেই’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_78.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 17,
+    "english": "Allah only accepts the repentance of those who commit evil ignorantly ˹or recklessly˺ then repent soon after—Allah will pardon them. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَـٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "arabic2": "انما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فاولئك يتوب الله عليهم وكان الله عليما حكيما",
+    "bengali": "নিশ্চয় তাওবা কবূল করা আল্লাহর জিম্মায় তাদের জন্য, যারা অজ্ঞতাবশত মন্দ কাজ করে। তারপর শীঘ্রই তাওবা করে। অতঃপর আল্লাহ এদের তাওবা কবুল করবেন আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_17.mp3"
+        }
+    }
+}

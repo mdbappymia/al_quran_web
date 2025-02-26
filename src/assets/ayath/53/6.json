@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 6,
+    "english": "and great perfection, who once rose to ˹his˺ true form",
+    "arabic1": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+    "arabic2": "ذو مرة فاستوى",
+    "bengali": "প্রজ্ঞার অধিকারী*। অতঃপর সে স্থির হয়েছিল, \n* জিবরীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_6.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 160,
+    "english": "We forbade the Jews certain foods that had been lawful to them for their wrongdoing, and for hindering many from the Way of Allah",
+    "arabic1": "فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَـٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا",
+    "arabic2": "فبظلم من الذين هادوا حرمنا عليهم طيبات احلت لهم وبصدهم عن سبيل الله كثيرا",
+    "bengali": "সুতরাং ইয়াহূদীদের যুলমের কারণে আমি তাদের উপর উত্তম খাবারগুলো হারাম করেছিলাম, যা তাদের জন্য হালাল করা হয়েছিল এবং আল্লাহর রাস্তা থেকে অনেককে তাদের বাধা প্রদানের কারণে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_160.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_160.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_160.mp3"
+        }
+    }
+}

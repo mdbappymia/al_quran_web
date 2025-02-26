@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 23,
+    "english": "It was that ˹false˺ assumption you entertained about your Lord that has brought about your doom, so you have become losers.”",
+    "arabic1": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَـٰسِرِينَ",
+    "arabic2": "وذلكم ظنكم الذي ظننتم بربكم ارداكم فاصبحتم من الخاسرين",
+    "bengali": "আর তোমাদের এ ধারণা যা তোমরা তোমাদের রব সম্পর্কে পোষণ করতে, তাই তোমাদের ধ্বংস করেছে। ফলে তোমরা ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হয়ে গেলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_23.mp3"
+        }
+    }
+}

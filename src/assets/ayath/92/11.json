@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 11,
+    "english": "And their wealth will be of no benefit to them when they tumble ˹into Hell˺.",
+    "arabic1": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+    "arabic2": "وما يغني عنه ماله اذا تردى",
+    "bengali": "আর তার সম্পদ তার কোন কাজে আসবে না, যখন সে অধঃপতিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_11.mp3"
+        }
+    }
+}

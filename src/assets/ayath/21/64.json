@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 64,
+    "english": "So they came back to their senses, saying ˹to one another˺, “You yourselves are truly the wrongdoers!”",
+    "arabic1": "فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "فرجعوا الى انفسهم فقالوا انكم انتم الظالمون",
+    "bengali": "তখন তারা নিজদের দিকে ফিরে গেল* এবং একে অন্যকে বলতে লাগল, ‘তোমরাই তো যালিম’। \n* এ বাক্যের অর্থ ‘তারা মনে মনে চিন্তা করল তারা বিবেক বুদ্ধি খাটাল’ ও হতে পারে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_64.mp3"
+        }
+    }
+}

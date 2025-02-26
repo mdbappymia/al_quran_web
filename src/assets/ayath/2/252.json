@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 252,
+    "english": "These are Allah’s revelations which We recite to you ˹O Prophet˺ in truth. And you are truly one of the messengers.",
+    "arabic1": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+    "arabic2": "تلك ايات الله نتلوها عليك بالحق وانك لمن المرسلين",
+    "bengali": "এগুলো আল্লাহর আয়াত, যা আমি তোমার উপর যথাযথভাবে তিলাওয়াত করি। আর নিশ্চয় তুমি রাসূলগণের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_252.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_252.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_252.mp3"
+        }
+    }
+}

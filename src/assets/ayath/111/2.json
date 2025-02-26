@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Masad",
+    "surahNameArabic": "المسد",
+    "surahNameArabicLong": "سورة المسد",
+    "surahNameTranslation": "The Palm Fibre",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 111,
+    "ayahNo": 2,
+    "english": "Neither his wealth nor ˹worldly˺ gains will benefit him.",
+    "arabic1": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "arabic2": "ما اغنى عنه ماله وما كسب",
+    "bengali": "তার ধন-সম্পদ এবং যা সে অর্জন করেছে তা তার কাজে আসবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/111_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/111_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/111_2.mp3"
+        }
+    }
+}

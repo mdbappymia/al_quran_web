@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 29,
+    "english": "So when I have fashioned him and had a spirit of My Own ˹creation˺ breathed into him, fall down in prostration to him.”",
+    "arabic1": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+    "arabic2": "فاذا سويته ونفخت فيه من روحي فقعوا له ساجدين",
+    "bengali": "‘অতএব যখন আমি তাকে পূর্ণাঙ্গ রূপ দেব এবং তার মধ্যে আমার রূহ ফুঁকে দেব, তখন তোমরা তার জন্য সিজদাবনত হও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_29.mp3"
+        }
+    }
+}

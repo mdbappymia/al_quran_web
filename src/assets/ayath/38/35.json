@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 35,
+    "english": "He prayed, “My Lord! Forgive me, and grant me an authority that will never be matched by anyone after me. You are indeed the Giver ˹of all bounties˺.”",
+    "arabic1": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ ۖ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+    "arabic2": "قال رب اغفر لي وهب لي ملكا لا ينبغي لاحد من بعدي انك انت الوهاب",
+    "bengali": "সুলাইমান বলল, ‘হে আমার রব, আমাকে ক্ষমা করুন এবং আমাকে এমন এক রাজত্ব দান করুন যা আমার পর আর কারও জন্যই প্রযোজ্য হবে না। নিশ্চয়ই আপনি বড়ই দানশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_35.mp3"
+        }
+    }
+}

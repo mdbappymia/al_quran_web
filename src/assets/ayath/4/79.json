@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 79,
+    "english": "Whatever good befalls you is from Allah and whatever evil befalls you is from yourself. We have sent you ˹O Prophet˺ as a messenger to ˹all˺ people. And Allah is sufficient as a Witness.",
+    "arabic1": "مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ ۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ ۚ وَأَرْسَلْنَـٰكَ لِلنَّاسِ رَسُولًا ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+    "arabic2": "ما اصابك من حسنة فمن الله وما اصابك من سيئة فمن نفسك وارسلناك للناس رسولا وكفى بالله شهيدا",
+    "bengali": "তোমার কাছে যে কল্যাণ পৌঁছে তা আল্লাহর পক্ষ থেকে, আর যে অকল্যাণ তোমার কাছে পৌঁছে তা তোমার নিজের পক্ষ থেকে। আর আমি তোমাকে মানুষের জন্য রাসূলরূপে প্রেরণ করেছি এবং সাক্ষী হিসেবে আল্লাহ যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_79.mp3"
+        }
+    }
+}

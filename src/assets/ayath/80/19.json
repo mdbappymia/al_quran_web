@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 19,
+    "english": "He created them from a sperm-drop, and ordained their development.",
+    "arabic1": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+    "arabic2": "من نطفة خلقه فقدره",
+    "bengali": "শুক্র বিন্দু থেকে তিনি তাকে সৃষ্টি করেছেন। অতঃপর তাকে সুগঠিত করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_19.mp3"
+        }
+    }
+}

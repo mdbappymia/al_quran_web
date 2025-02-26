@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 10,
+    "english": "a servant ˹of Ours˺ from praying?",
+    "arabic1": "عَبْدًا إِذَا صَلَّىٰٓ",
+    "arabic2": "عبدا اذا صلى",
+    "bengali": "এক বান্দাকে, যখন সে সালাত আদায় করে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_10.mp3"
+        }
+    }
+}

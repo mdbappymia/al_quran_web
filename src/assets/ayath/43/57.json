@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 57,
+    "english": "When the son of Mary was cited as an example ˹in argument˺, your people ˹O Prophet˺ broke into ˹joyful˺ applause.",
+    "arabic1": "۞ وَلَمَّا ضُرِبَ ٱبْنُ مَرْيَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ",
+    "arabic2": "ولما ضرب ابن مريم مثلا اذا قومك منه يصدون",
+    "bengali": "আর যখনই মারইয়াম পুত্রকে দৃষ্টান্তস্বরূপ পেশ করা হয়, তখন তোমার কওম শোরগোল শুরু করে দেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_57.mp3"
+        }
+    }
+}

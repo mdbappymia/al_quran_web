@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 95,
+    "english": "It is impossible for a society which We have destroyed to ever rise again",
+    "arabic1": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَـٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+    "arabic2": "وحرام على قرية اهلكناها انهم لا يرجعون",
+    "bengali": "আর আমি যে জনপদকে ধ্বংস করেছি তার সম্পর্কে নিষেধাজ্ঞা রয়েছে যে, তার অধিবাসীবৃন্দ আর ফিরে আসবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_95.mp3"
+        }
+    }
+}

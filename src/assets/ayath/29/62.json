@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 62,
+    "english": "Allah gives abundant or limited provisions to whoever He wills of His servants. Surely Allah has ˹full˺ knowledge of everything.",
+    "arabic1": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "الله يبسط الرزق لمن يشاء من عباده ويقدر له ان الله بكل شيء عليم",
+    "bengali": "আল্লাহ তাঁর বান্দাদের মধ্যে যার জন্য ইচ্ছা করেন রিয্ক প্রশস্ত করে দেন এবং যার জন্য ইচ্ছা সীমিত করে দেন। নিশ্চয় আল্লাহ সকল বিষয়ে সম্যক অবগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_62.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 85,
+    "english": "O  my people! Give full measure and weigh with justice. Do not defraud people of their property, nor go about spreading corruption in the land.",
+    "arabic1": "وَيَـٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+    "arabic2": "ويا قوم اوفوا المكيال والميزان بالقسط ولا تبخسوا الناس اشياءهم ولا تعثوا في الارض مفسدين",
+    "bengali": "‘আর হে আমার কওম, মাপ ও ওযন পূর্ণ কর ইনসাফের সাথে এবং মানুষকে তাদের পণ্য কম দিও না; আর যমীনে ফাসাদ সৃষ্টি করে বেড়িও না,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_85.mp3"
+        }
+    }
+}

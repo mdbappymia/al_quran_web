@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 92,
+    "english": "Joseph said, “There is no blame on you today. May Allah forgive you! He is the Most Merciful of the merciful!",
+    "arabic1": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "arabic2": "قال لا تثريب عليكم اليوم يغفر الله لكم وهو ارحم الراحمين",
+    "bengali": "সে বলল, ‘আজ তোমাদের উপর কোন ভৎর্সনা নেই, আল্লাহ তোমাদের ক্ষমা করুন। আর তিনি সবচেয়ে বেশি দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_92.mp3"
+        }
+    }
+}

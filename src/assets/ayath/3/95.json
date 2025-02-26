@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 95,
+    "english": "Say, ˹O Prophet,˺ “Allah has declared the truth. So follow the Way of Abraham, the upright—who was not a polytheist.”",
+    "arabic1": "قُلْ صَدَقَ ٱللَّهُ ۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "قل صدق الله فاتبعوا ملة ابراهيم حنيفا وما كان من المشركين",
+    "bengali": "বল, ‘আল্লাহ সত্য বলেছেন। সুতরাং তোমরা ইবরাহীমের মিল্লাতের অনুসরণ কর একনিষ্ঠভাবে। আর সে মুশরিকদের অন্তর্ভুক্ত ছিল না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_95.mp3"
+        }
+    }
+}

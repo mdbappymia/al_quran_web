@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 132,
+    "english": "They said, “No matter what sign you may bring to deceive us, we will never believe in you.”",
+    "arabic1": "وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
+    "arabic2": "وقالوا مهما تاتنا به من اية لتسحرنا بها فما نحن لك بمؤمنين",
+    "bengali": "আর তারা বলল, ‘তুমি আমাদেরকে যাদু করার জন্য যে কোন নিদর্শন আমাদের কাছে নিয়ে আস না কেন আমরা তো তোমার প্রতি ঈমান আনব না।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_132.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_132.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_132.mp3"
+        }
+    }
+}

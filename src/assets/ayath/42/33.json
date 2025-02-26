@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 33,
+    "english": "If He wills, He can calm the wind, leaving the ships motionless on the water. Surely in this are signs for whoever is steadfast, grateful.",
+    "arabic1": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+    "arabic2": "ان يشا يسكن الريح فيظللن رواكد على ظهره ان في ذلك لايات لكل صبار شكور",
+    "bengali": "তিনি যদি চান বাতাসকে থামিয়ে দিতে পারেন। ফলে জাহাজগুলো সমুদ্রপৃষ্ঠে গতিহীন হয়ে পড়বে। নিশ্চয় এতে পরম ধৈর্যশীল ও কৃতজ্ঞ ব্যক্তির জন্য অনেক নিদর্শন রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_33.mp3"
+        }
+    }
+}

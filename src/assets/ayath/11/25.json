@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 25,
+    "english": "Surely We sent Noah to his people. ˹He said,˺ “Indeed, I am sent to you with a clear warning",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+    "arabic2": "ولقد ارسلنا نوحا الى قومه اني لكم نذير مبين",
+    "bengali": "আর অবশ্যই আমি নূহকে প্রেরণ করেছিলাম তার কওমের কাছে (এই বার্তা দিয়ে) যে, ‘আমি তোমাদের জন্য স্পষ্ট সতর্ককারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_25.mp3"
+        }
+    }
+}

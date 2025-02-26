@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 13,
+    "english": "He responded, “It would truly sadden me if you took him away with you, and I fear that a wolf may devour him while you are negligent of him.”",
+    "arabic1": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَـٰفِلُونَ",
+    "arabic2": "قال اني ليحزنني ان تذهبوا به واخاف ان ياكله الذئب وانتم عنه غافلون",
+    "bengali": "সে বলল, ‘নিশ্চয় এটা আমাকে কষ্ট দেবে যে, তোমরা তাকে নিয়ে যাবে এবং আমি আশঙ্কা করি, নেকড়ে তাকে খেয়ে ফেলবে, যখন তোমরা তার ব্যাপারে গাফিল থাকবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_13.mp3"
+        }
+    }
+}

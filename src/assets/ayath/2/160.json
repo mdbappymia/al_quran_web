@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 160,
+    "english": "As for those who repent, mend their ways, and let the truth be known, they are the ones to whom I will turn ˹in forgiveness˺, for I am the Accepter of Repentance, Most Merciful.",
+    "arabic1": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَـٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "arabic2": "الا الذين تابوا واصلحوا وبينوا فاولئك اتوب عليهم وانا التواب الرحيم",
+    "bengali": "তারা ছাড়া, যারা তাওবা করেছে, শুধরে নিয়েছে এবং স্পষ্টভাবে বর্ণনা করেছে। অতএব, আমি তাদের তাওবা কবূল করব। আর আমি তাওবা কবূলকারী, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_160.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_160.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_160.mp3"
+        }
+    }
+}

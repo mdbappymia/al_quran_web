@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 36,
+    "english": "And if you are tempted by Satan, then seek refuge with Allah. Indeed, He ˹alone˺ is the All-Hearing, All-Knowing.",
+    "arabic1": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَـٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ ۖ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "واما ينزغنك من الشيطان نزغ فاستعذ بالله انه هو السميع العليم",
+    "bengali": "আর যদি শয়তানের পক্ষ থেকে কোন কুমন্ত্রণা কখনো তোমাকে প্ররোচিত করে, তাহলে তুমি আল্লাহর নিকট আশ্রয় প্রার্থনা করবে। নিশ্চয়ই তিনি সর্বশ্রোতা, সর্বজ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_36.mp3"
+        }
+    }
+}

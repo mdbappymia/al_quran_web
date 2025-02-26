@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 53,
+    "english": "And He is the One Who merges the two bodies of water: one fresh and palatable and the other salty and bitter, placing between them a barrier they cannot cross.",
+    "arabic1": "۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا",
+    "arabic2": "وهو الذي مرج البحرين هذا عذب فرات وهذا ملح اجاج وجعل بينهما برزخا وحجرا محجورا",
+    "bengali": "আর তিনিই দু’টো সাগরকে একসাথে প্রবাহিত করেছেন। একটি সুপেয় সুস্বাদু, অপরটি লবণাক্ত ক্ষারবিশিষ্ট এবং তিনি এতদোভয়ের মাঝখানে একটি অন্তরায় ও একটি অনতিক্রম্য সীমানা স্থাপন করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_53.mp3"
+        }
+    }
+}

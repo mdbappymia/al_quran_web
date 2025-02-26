@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 4,
+    "english": "Condemned are the makers of the ditch—",
+    "arabic1": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+    "arabic2": "قتل اصحاب الاخدود",
+    "bengali": "ধ্বংস হয়েছে গর্তের অধিপতিরা,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_4.mp3"
+        }
+    }
+}

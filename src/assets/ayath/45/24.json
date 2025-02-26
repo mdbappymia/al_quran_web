@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 24,
+    "english": "And they argue, “There is nothing beyond our worldly life. We die; others are born. And nothing destroys us but ˹the passage of˺ time.” Yet they have no knowledge ˹in support˺ of this ˹claim˺. They only speculate.",
+    "arabic1": "وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+    "arabic2": "وقالوا ما هي الا حياتنا الدنيا نموت ونحيا وما يهلكنا الا الدهر وما لهم بذلك من علم ان هم الا يظنون",
+    "bengali": "আর তারা বলে, ‘দুনিয়ার জীবনই আমাদের একমাত্র জীবন। আমরা মরি ও বাঁচি এখানেই। আর কাল-ই কেবল আমাদেরকে ধ্বংস করে।’ বস্তুত এ বিষয়ে তাদের কোন জ্ঞান নেই। তারা শুধু ধারণাই করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_24.mp3"
+        }
+    }
+}

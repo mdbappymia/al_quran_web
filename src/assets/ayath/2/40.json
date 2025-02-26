@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 40,
+    "english": "O children of Israel! Remember My favours upon you. Fulfil your covenant and I will fulfil Mine, and stand in awe of Me ˹alone˺.",
+    "arabic1": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّـٰىَ فَٱرْهَبُونِ",
+    "arabic2": "يا بني اسرائيل اذكروا نعمتي التي انعمت عليكم واوفوا بعهدي اوف بعهدكم واياي فارهبون",
+    "bengali": "হে বনী ইসরাঈল, তোমরা আমার নিআমতকে স্মরণ কর, যে নিআমত আমি তোমাদেরকে দিয়েছি এবং তোমরা আমার অঙ্গীকার পূর্ণ কর, তাহলে আমি তোমাদের অঙ্গীকার পূর্ণ করব। আর কেবল আমাকেই ভয় কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_40.mp3"
+        }
+    }
+}

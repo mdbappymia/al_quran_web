@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 17,
+    "english": "No soul can imagine what delights are kept in store for them as a reward for what they used to do.",
+    "arabic1": "فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "فلا تعلم نفس ما اخفي لهم من قرة اعين جزاء بما كانوا يعملون",
+    "bengali": "অতঃপর কোন ব্যক্তি জানে না তাদের জন্য চোখ জুড়ানো কী জিনিস লুকিয়ে রাখা হয়েছে, তারা যা করত, তার বিনিময়স্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_17.mp3"
+        }
+    }
+}

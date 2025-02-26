@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 51,
+    "english": "This is ˹the reward˺ for what your hands have done. And Allah is never unjust to ˹His˺ creation.”",
+    "arabic1": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "ذلك بما قدمت ايديكم وان الله ليس بظلام للعبيد",
+    "bengali": "তোমাদের হাত আগে যা প্রেরণ করেছে সে কারণে এ পরিণাম। আর নিশ্চয় আল্লাহ বান্দাদের প্রতি যুলমকারী নন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_51.mp3"
+        }
+    }
+}

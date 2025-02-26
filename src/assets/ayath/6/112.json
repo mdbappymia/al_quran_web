@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 112,
+    "english": "And so We have made for every prophet enemies—devilish humans and jinn—whispering to one another with elegant words of deception. Had it been your Lord’s Will, they would not have done such a thing. So leave them and their deceit",
+    "arabic1": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+    "arabic2": "وكذلك جعلنا لكل نبي عدوا شياطين الانس والجن يوحي بعضهم الى بعض زخرف القول غرورا ولو شاء ربك ما فعلوه فذرهم وما يفترون",
+    "bengali": "আর এভাবেই আমি প্রত্যেক নবীর শত্রু করেছি মানুষ ও জিনের মধ্য থেকে শয়তানদেরকে, তারা প্রতারণার উদ্দেশ্যে একে অপরকে চাকচিক্যপূর্ণ কথার কুমন্ত্রণা দেয় এবং তোমার রব যদি চাইতেন, তবে তারা তা করত না। সুতরাং তুমি তাদেরকে ও তারা যে মিথ্যা রটায়, তা ত্যাগ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_112.mp3"
+        }
+    }
+}

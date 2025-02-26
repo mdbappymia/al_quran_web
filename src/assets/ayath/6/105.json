@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 105,
+    "english": "And so We vary our signs to the extent that they will say, “You have studied ˹previous scriptures˺,” and We make this ˹Quran˺ clear for people who know.",
+    "arabic1": "وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "وكذلك نصرف الايات وليقولوا درست ولنبينه لقوم يعلمون",
+    "bengali": "আর এভাবেই আমি নানাভাবে আয়াতসমূহ বিস্তারিত বর্ণনা করি এবং যাতে তারা বলে, তুমি পাঠ করেছ এবং আমি যাতে বর্ণনা করি, এ কুরআন এমন কওমের জন্য যারা জানে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_105.mp3"
+        }
+    }
+}

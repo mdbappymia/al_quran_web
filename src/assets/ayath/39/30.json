@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 30,
+    "english": "You ˹O Prophet˺ will certainly die, and they will die too.",
+    "arabic1": "إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ",
+    "arabic2": "انك ميت وانهم ميتون",
+    "bengali": "নিশ্চয় তুমি মরণশীল এবং তারাও মরণশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_30.mp3"
+        }
+    }
+}

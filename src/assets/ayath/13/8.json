@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 8,
+    "english": "Allah knows what every female bears and what increases and decreases in the wombs. And with Him everything is determined with precision.",
+    "arabic1": "ٱللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ",
+    "arabic2": "الله يعلم ما تحمل كل انثى وما تغيض الارحام وما تزداد وكل شيء عنده بمقدار",
+    "bengali": "আল্লাহ জানেন যা প্রতিটি নারী গর্ভে ধারণ করে এবং গর্ভাশয়ে যা কমে ও বাড়ে। আর তাঁর নিকট প্রতিটি বস্তু নির্দিষ্ট পরিমাণে রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_8.mp3"
+        }
+    }
+}

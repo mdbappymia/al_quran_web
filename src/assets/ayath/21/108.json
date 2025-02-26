@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 108,
+    "english": "Say, “What has been revealed to me is this: ‘Your God is only One God.’ Will you then submit?”",
+    "arabic1": "قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ",
+    "arabic2": "قل انما يوحى الي انما الهكم اله واحد فهل انتم مسلمون",
+    "bengali": "বল, ‘আমার প্রতি ওহী প্রেরণ করা হয় যে, তোমাদের ইলাহ একক ইলাহ। সুতরাং তোমরা কি আত্মসমর্পণকারী হবে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_108.mp3"
+        }
+    }
+}

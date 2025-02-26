@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 66,
+    "english": "They will be too dumbstruck on that Day to ask one another ˹for answers˺.",
+    "arabic1": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَآءَلُونَ",
+    "arabic2": "فعميت عليهم الانباء يومئذ فهم لا يتساءلون",
+    "bengali": "অতঃপর সেদিন সকল সংবাদ তাদের কাছ থেকে গোপন হয়ে যাবে, তখন তারা পরস্পরকে জিজ্ঞাসা করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_66.mp3"
+        }
+    }
+}

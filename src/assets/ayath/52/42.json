@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 42,
+    "english": "Or do they intend to scheme ˹against the Prophet˺? Then it is the disbelievers who will fall victim to ˹their˺ schemes.",
+    "arabic1": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+    "arabic2": "ام يريدون كيدا فالذين كفروا هم المكيدون",
+    "bengali": "নাকি তারা ষড়যন্ত্র করতে চায়? অতএব যারা কুফরী করে তারাই হবে ষড়যন্ত্রের শিকার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_42.mp3"
+        }
+    }
+}

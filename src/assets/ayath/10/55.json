@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 55,
+    "english": "Surely to Allah belongs whatever is in the heavens and the earth. Surely Allah’s promise is ˹always˺ true, but most of them do not know.",
+    "arabic1": "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ أَلَآ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "الا ان لله ما في السماوات والارض الا ان وعد الله حق ولكن اكثرهم لا يعلمون",
+    "bengali": "জেনে রাখ, নিশ্চয় আসমানসমূহ ও যমীনে যা আছে, তা আল্লাহরই। জেনে রাখ, নিশ্চয় আল্লাহর ওয়াদা সত্য, কিন্তু তাদের অধিকাংশই জানে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_55.mp3"
+        }
+    }
+}

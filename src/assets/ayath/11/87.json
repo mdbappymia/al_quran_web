@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 87,
+    "english": "They asked ˹sarcastically˺, “O Shu’aib! Does your prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”",
+    "arabic1": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+    "arabic2": "قالوا يا شعيب اصلاتك تامرك ان نترك ما يعبد اباؤنا او ان نفعل في اموالنا ما نشاء انك لانت الحليم الرشيد",
+    "bengali": "তারা বলল, ‘হে শু‘আইব, তোমার সালাত কি তোমাকে এই নির্দেশ প্রদান করে যে, আমাদের পিতৃপুরুষগণ যাদের ইবাদাত করত, আমরা তাদের ত্যাগ করি? অথবা আমাদের সম্পদে আমরা ইচ্ছামত যা করি তাও (ত্যাগ করি?) তুমি তো বেশ সহনশীল সুবোধ’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_87.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_87.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_87.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 110,
+    "english": "He ˹fully˺ knows what is ahead of them and what is behind them, but they cannot encompass Him in ˹their˺ knowledge.",
+    "arabic1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًا",
+    "arabic2": "يعلم ما بين ايديهم وما خلفهم ولا يحيطون به علما",
+    "bengali": "তিনি তাদের আগের ও পরের সব কিছুই জানেন, কিন্তু তারা জ্ঞান দিয়ে তাঁকে বেষ্টন করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_110.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 50,
+    "english": "with garments of tar, and their faces covered with flames.",
+    "arabic1": "سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ",
+    "arabic2": "سرابيلهم من قطران وتغشى وجوههم النار",
+    "bengali": "তাদের পোশাক হবে আলকাতরার* এবং আগুন তাদের চেহারাসমূহকে ঢেকে ফেলবে। \n* قطران হচ্ছে এমন আলকাতরা, যাতে দ্রুত আগুন দাউ দাউ করে জ্বলে উঠে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_50.mp3"
+        }
+    }
+}

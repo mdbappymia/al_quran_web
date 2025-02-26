@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 1,
+    "english": "Blessed is the One in Whose Hands rests all authority. And He is Most Capable of everything.",
+    "arabic1": " تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "تبارك الذي بيده الملك وهو على كل شيء قدير",
+    "bengali": "বরকতময় তিনি যার হাতে সর্বময় কর্তৃত্ব। আর তিনি সব কিছুর উপর সর্বশক্তিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_1.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 85,
+    "english": "They ask you ˹O Prophet˺ about the spirit. Say, “Its nature is known only to my Lord, and you ˹O humanity˺ have been given but little knowledge.”",
+    "arabic1": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+    "arabic2": "ويسالونك عن الروح قل الروح من امر ربي وما اوتيتم من العلم الا قليلا",
+    "bengali": "আর তারা তোমাকে রূহ সম্পর্কে প্রশ্ন করে। বল, ‘রূহ আমার রবের আদেশ থেকে, আর তোমাদেরকে জ্ঞান থেকে অতি সামান্যই দেয়া হয়েছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_85.mp3"
+        }
+    }
+}

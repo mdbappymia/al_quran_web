@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 16,
+    "english": "placing the moon within them as a ˹reflected˺ light, and the sun as a ˹radiant˺ lamp?",
+    "arabic1": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+    "arabic2": "وجعل القمر فيهن نورا وجعل الشمس سراجا",
+    "bengali": "আর এগুলোর মধ্যে চাঁদকে সৃষ্টি করেছেন আলো আর সূর্যকে সৃষ্টি করেছেন প্রদীপরূপে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_16.mp3"
+        }
+    }
+}

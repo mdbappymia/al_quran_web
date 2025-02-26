@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 156,
+    "english": "Or do you have ˹any˺ compelling proof?",
+    "arabic1": "أَمْ لَكُمْ سُلْطَـٰنٌ مُّبِينٌ",
+    "arabic2": "ام لكم سلطان مبين",
+    "bengali": "নাকি তোমাদের কোন সুস্পষ্ট দলীল- প্রমাণ আছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_156.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_156.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_156.mp3"
+        }
+    }
+}

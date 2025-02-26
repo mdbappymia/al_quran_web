@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 4,
+    "english": "We certainly know what the earth consumes of them ˹after their death˺, and with us is a well-preserved Record.",
+    "arabic1": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ",
+    "arabic2": "قد علمنا ما تنقص الارض منهم وعندنا كتاب حفيظ",
+    "bengali": "অবশ্যই আমি জানি মাটি তাদের থেকে যতটুকু ক্ষয় করে। আর আমার কাছে আছে অধিক সংরক্ষণকারী কিতাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_4.mp3"
+        }
+    }
+}

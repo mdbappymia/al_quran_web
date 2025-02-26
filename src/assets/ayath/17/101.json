@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 101,
+    "english": "We surely gave Moses nine clear signs. ˹You, O  Prophet, can˺ ask the Children of Israel. When Moses came to them, Pharaoh said to him, “I really think that you, O  Moses, are bewitched.”",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًا",
+    "arabic2": "ولقد اتينا موسى تسع ايات بينات فاسال بني اسرائيل اذ جاءهم فقال له فرعون اني لاظنك يا موسى مسحورا",
+    "bengali": "আর আমি মূসাকে নয়টি স্পষ্ট নিদর্শন দিয়েছিলাম, সুতরাং তুমি বনী ইসরাঈলকে জিজ্ঞাসা কর, যখন সে তাদের কাছে আসল তখন ফির‘আউন তাকে বলল, ‘হে মূসা, আমিতো ধারণা করি তুমি যাদুগ্রস্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_101.mp3"
+        }
+    }
+}

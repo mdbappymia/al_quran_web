@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 35,
+    "english": "It is not for Allah to take a son! Glory be to Him. When He decrees a matter, He simply tells it, “Be!” And it is!",
+    "arabic1": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ ۖ سُبْحَـٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "arabic2": "ما كان لله ان يتخذ من ولد سبحانه اذا قضى امرا فانما يقول له كن فيكون",
+    "bengali": "সন্তান গ্রহণ করা আল্লাহর কাজ নয়। তিনি পবিত্র-মহান। তিনি যখন কোন বিষয়ের সিদ্ধান্ত গ্রহণ করেন তখন তদুদ্দেশ্যে শুধু বলেন, ‘হও’, অমনি তা হয়ে যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_35.mp3"
+        }
+    }
+}

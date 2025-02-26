@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 33,
+    "english": "He replied, “It is not for me to prostrate to a human You created from sounding clay moulded from black mud.”",
+    "arabic1": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+    "arabic2": "قال لم اكن لاسجد لبشر خلقته من صلصال من حما مسنون",
+    "bengali": "সে বলল, ‘আমি তো এমন নই যে, একজন মানুষকে আমি সিজদা করব, যাকে আপনি সৃষ্টি করেছেন শুকনো ঠনঠনে কালচে মাটি থেকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_33.mp3"
+        }
+    }
+}

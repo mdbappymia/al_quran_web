@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 48,
+    "english": "As I distance myself from ˹all of˺ you and from whatever you invoke besides Allah, I will ˹continue to˺ call upon my Lord ˹alone˺, trusting that I will never be disappointed in invoking my Lord.”",
+    "arabic1": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّا",
+    "arabic2": "واعتزلكم وما تدعون من دون الله وادعو ربي عسى الا اكون بدعاء ربي شقيا",
+    "bengali": "‘আর আমি তোমাদের ও আল্লাহ ছাড়া যাদের ইবাদাত তোমরা কর তাদের পরিত্যাগ করছি এবং আমি আমার রবের ইবাদাত করছি। আশা করি আমার রবের ইবাদাত করে আমি ব্যর্থ হব না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_48.mp3"
+        }
+    }
+}

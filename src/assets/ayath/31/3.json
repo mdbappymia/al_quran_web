@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 3,
+    "english": "˹It is˺ a guide and mercy for the good-doers—",
+    "arabic1": "هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ",
+    "arabic2": "هدى ورحمة للمحسنين",
+    "bengali": "সৎকর্মশীলদের জন্য হিদায়াত ও রহমতস্বরূপ,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 5,
+    "english": "the Most Compassionate, ˹Who is˺ established on the Throne.",
+    "arabic1": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+    "arabic2": "الرحمن على العرش استوى",
+    "bengali": "পরম করুণাময় আরশের ওপর উঠেছেন* । \n* এ আয়াতে আল্লাহর একটি ক্রিয়াবাচক গুণ সাব্যস্ত করা হয়েছে। সেটি হচ্ছে استواء বা আরশের উপর উঠা। ইমাম মালেককে এ গুণ সম্পর্কে জিজ্ঞাসা করা হলে তিনি বলেন, استواء এর অর্থ জানা আছে। তবে তার ধরন (كيفيت) জানা নেই। এর প্রতি ঈমান রাখা ওয়াজিব এবং ধরন সম্পর্কে জিজ্ঞাসা করা বিদআত। এ নীতিটি আল্লাহর সকল গুণের ক্ষেত্রে প্রযোজ্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_5.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 1,
+    "english": "Has the news of the Overwhelming Event reached you ˹O Prophet˺?",
+    "arabic1": " هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+    "arabic2": "هل اتاك حديث الغاشية",
+    "bengali": "কিয়ামতের সংবাদ কি তোমার কাছে এসেছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_1.mp3"
+        }
+    }
+}

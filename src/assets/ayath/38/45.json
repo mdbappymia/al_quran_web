@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 45,
+    "english": "And remember Our servants: Abraham, Isaac, and Jacob—the men of strength and insight.",
+    "arabic1": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ",
+    "arabic2": "واذكر عبادنا ابراهيم واسحاق ويعقوب اولي الايدي والابصار",
+    "bengali": "আর স্মরণ কর আমার বান্দা ইবরাহীম, ইসহাক ও ইয়া‘কূবকে। তারা ছিল শক্তিমান ও সূক্ষ্মদর্শী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_45.mp3"
+        }
+    }
+}

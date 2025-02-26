@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 44,
+    "english": "When they became oblivious to warnings, We showered them with everything they desired. But just as they became prideful of what they were given, We seized them by surprise, then they instantly fell into despair!",
+    "arabic1": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَـٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ",
+    "arabic2": "فلما نسوا ما ذكروا به فتحنا عليهم ابواب كل شيء حتى اذا فرحوا بما اوتوا اخذناهم بغتة فاذا هم مبلسون",
+    "bengali": "অতঃপর তাদেরকে যে উপদেশ দেয়া হয়েছিল, তারা যখন তা ভুলে গেল, আমি তাদের উপর সব কিছুর দরজা খুলে দিলাম। অবশেষে যখন তাদেরকে যা প্রদান করা হয়েছিল তার কারণে তারা উৎফুল্ল হল, আমি হঠাৎ তাদেরকে পাকড়াও করলাম। ফলে তখন তারা হতাশ হয়ে গেল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_44.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 5,
+    "english": "To Him belongs the kingdom of the heavens and the earth. And to Allah all matters are returned.",
+    "arabic1": "لَّهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "له ملك السماوات والارض والى الله ترجع الامور",
+    "bengali": "আসমানসমূহ ও যমীনের রাজত্ব তাঁরই এবং আল্লাহরই দিকে সকল বিষয় প্রত্যাবর্তিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_5.mp3"
+        }
+    }
+}

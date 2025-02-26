@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 40,
+    "english": "who will be visited by a humiliating torment ˹in this life˺ and overwhelmed by an everlasting punishment ˹in the next˺.”",
+    "arabic1": "مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "من ياتيه عذاب يخزيه ويحل عليه عذاب مقيم",
+    "bengali": "কার উপর লাঞ্ছনাদায়ক আযাব আসবে এবং কার উপর স্থায়ী আযাব আপতিত হবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_40.mp3"
+        }
+    }
+}

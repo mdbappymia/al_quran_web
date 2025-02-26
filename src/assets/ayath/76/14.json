@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 14,
+    "english": "The Garden’s shade will be right above them, and its fruit will be made very easy to reach.",
+    "arabic1": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا",
+    "arabic2": "ودانية عليهم ظلالها وذللت قطوفها تذليلا",
+    "bengali": "তাদের উপর সন্নিহিত থাকবে উদ্যানের ছায়া এবং তার ফলমূলের থোকাসমূহ তাদের সম্পূর্ণ আয়ত্তাধীন করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_14.mp3"
+        }
+    }
+}

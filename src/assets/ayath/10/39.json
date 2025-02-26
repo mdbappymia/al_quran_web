@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 39,
+    "english": "In fact, they ˹hastily˺ rejected the Book without comprehending it and before the fulfilment of its warnings. Similarly, those before them were in denial. See then what was the end of the wrongdoers!",
+    "arabic1": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ",
+    "arabic2": "بل كذبوا بما لم يحيطوا بعلمه ولما ياتهم تاويله كذلك كذب الذين من قبلهم فانظر كيف كان عاقبة الظالمين",
+    "bengali": "বরং তারা যে ব্যাপারে পূর্ণ জ্ঞান লাভ করেনি, তা তারা অস্বীকার করেছে এবং এখনও তার পরিণতি তাদের কাছে আসেনি। এভাবেই তারা অস্বীকার করেছিল, যারা ছিল তাদের পূর্বে। সুতরাং তুমি লক্ষ্য কর, কেমন ছিল যালিমদের পরিণাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_39.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 20,
+    "english": "but seeking the pleasure of their Lord, the Most High.",
+    "arabic1": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+    "arabic2": "الا ابتغاء وجه ربه الاعلى",
+    "bengali": "কেবল তার মহান রবের সন্তুষ্টির প্রত্যাশায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_20.mp3"
+        }
+    }
+}

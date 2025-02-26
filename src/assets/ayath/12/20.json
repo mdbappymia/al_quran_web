@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 20,
+    "english": "They ˹later˺ sold him for a cheap price, just a few silver coins—only wanting to get rid of him.",
+    "arabic1": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+    "arabic2": "وشروه بثمن بخس دراهم معدودة وكانوا فيه من الزاهدين",
+    "bengali": "আর তারা তাকে অতি নগণ্য মূল্যে কয়েক দিরহামের বিনিময়ে বিক্রি করে দিল এবং তারা তার ব্যাপারে ছিল অনাগ্রহী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_20.mp3"
+        }
+    }
+}

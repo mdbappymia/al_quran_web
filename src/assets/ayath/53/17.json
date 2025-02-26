@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 17,
+    "english": "The ˹Prophet’s˺ sight never wandered, nor did it overreach.",
+    "arabic1": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+    "arabic2": "ما زاغ البصر وما طغى",
+    "bengali": "তার দৃষ্টি এদিক-সেদিক যায়নি এবং সীমাও অতিক্রম করেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_17.mp3"
+        }
+    }
+}

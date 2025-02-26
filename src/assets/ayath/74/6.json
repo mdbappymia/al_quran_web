@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 6,
+    "english": "Do not do a favour expecting more ˹in return˺.",
+    "arabic1": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+    "arabic2": "ولا تمنن تستكثر",
+    "bengali": "আর অধিক পাওয়ার আশায় দান করো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_6.mp3"
+        }
+    }
+}

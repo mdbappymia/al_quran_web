@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 23,
+    "english": "urging ˹their followers˺, ‘Do not abandon your idols—especially Wadd, Suwâ’, Yaghûth, Ya’ûq, and Nasr.’",
+    "arabic1": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+    "arabic2": "وقالوا لا تذرن الهتكم ولا تذرن ودا ولا سواعا ولا يغوث ويعوق ونسرا",
+    "bengali": "আর তারা বলে, ‘তোমরা তোমাদের উপাস্যদের বর্জন করো না; বর্জন করো না ওয়াদ, সুওয়া‘, ইয়াগূছ, ইয়া‘ঊক ও নাসরকে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_23.mp3"
+        }
+    }
+}

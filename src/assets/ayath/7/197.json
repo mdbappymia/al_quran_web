@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 197,
+    "english": "But those ˹false gods˺ you call besides Him can neither help you nor even themselves.”",
+    "arabic1": "وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+    "arabic2": "والذين تدعون من دونه لا يستطيعون نصركم ولا انفسهم ينصرون",
+    "bengali": "আর তাঁকে ছাড়া তোমরা যাদেরকে ডাক তারা তোমাদেরকে সাহায্য করতে পারে না এবং তারা নিজদেরকেও সাহায্য করতে পারে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_197.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_197.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_197.mp3"
+        }
+    }
+}

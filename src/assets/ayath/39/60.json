@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 60,
+    "english": "On the Day of Judgment you will see those who lied about Allah with their faces gloomy. Is Hell not a ˹fitting˺ home for the arrogant?",
+    "arabic1": "وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ",
+    "arabic2": "ويوم القيامة ترى الذين كذبوا على الله وجوههم مسودة اليس في جهنم مثوى للمتكبرين",
+    "bengali": "আর যারা আল্লাহর প্রতি মিথ্যারোপ করে কিয়ামতের দিন তুমি তাদের চেহারাগুলো কালো দেখতে পাবে। অহঙ্কারীদের বাসস্থান জাহান্নামের মধ্যে নয় কি?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_60.mp3"
+        }
+    }
+}

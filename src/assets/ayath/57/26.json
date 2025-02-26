@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 26,
+    "english": "And indeed, We sent Noah and Abraham and reserved prophethood and revelation for their descendants. Some of them are ˹rightly˺ guided, while most are rebellious.",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ",
+    "arabic2": "ولقد ارسلنا نوحا وابراهيم وجعلنا في ذريتهما النبوة والكتاب فمنهم مهتد وكثير منهم فاسقون",
+    "bengali": "আর আমি তো নূহ ও ইবরাহীমকে রাসূলরূপে পাঠিয়েছিলাম এবং তাদের বংশধরদের মধ্যে নবুওয়াত ও কিতাব দিয়েছিলাম। তারপর তাদের মধ্যে কেউ কেউ সঠিক পথ অবলম্বনকারী ছিল, আর তাদের অধিকাংশই ছিল ফাসিক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_26.mp3"
+        }
+    }
+}

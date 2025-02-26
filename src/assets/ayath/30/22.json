@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 22,
+    "english": "And one of His signs is the creation of the heavens and the earth, and the diversity of your languages and colours. Surely in this are signs for those of ˹sound˺ knowledge.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّلْعَـٰلِمِينَ",
+    "arabic2": "ومن اياته خلق السماوات والارض واختلاف السنتكم والوانكم ان في ذلك لايات للعالمين",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে আসমান ও যমীনের সৃষ্টি এবং তোমাদের ভাষা ও তোমাদের বর্ণের ভিন্নতা। নিশ্চয় এর মধ্যে নিদর্শনাবলী রয়েছে জ্ঞানীদের জন্য ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_22.mp3"
+        }
+    }
+}

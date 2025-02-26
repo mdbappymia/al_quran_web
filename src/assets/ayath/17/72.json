@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 72,
+    "english": "But whoever is blind ˹to the truth˺ in this ˹world˺ will be blind in the Hereafter, and ˹even˺ far more astray from the ˹Right˺ Way.",
+    "arabic1": "وَمَن كَانَ فِى هَـٰذِهِۦٓ أَعْمَىٰ فَهُوَ فِى ٱلْـَٔاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا",
+    "arabic2": "ومن كان في هذه اعمى فهو في الاخرة اعمى واضل سبيلا",
+    "bengali": "আর যে ব্যক্তি এখানে অন্ধ সে আখিরাতেও অন্ধ এবং অধিকতর পথভ্রষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_72.mp3"
+        }
+    }
+}

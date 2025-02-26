@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 39,
+    "english": "˹We˺ also ˹destroyed˺ Korah, Pharaoh, and Hamân. Indeed, Moses had come to them with clear proofs, but they behaved arrogantly in the land. Yet they could not escape ˹Us˺.",
+    "arabic1": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ",
+    "arabic2": "وقارون وفرعون وهامان ولقد جاءهم موسى بالبينات فاستكبروا في الارض وما كانوا سابقين",
+    "bengali": "আর কারূন, ফির‘আউন ও হামানকে (আমি ধ্বংস করেছি) এবং অবশ্যই তাদের কাছে মূসা গিয়েছিল প্রমানাদিসহ। অতঃপর তারা যমীনে অহংকার করেছিল; এতদ্সত্ত্বেও তারা (আমার আযাব) এড়াতে পারেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_39.mp3"
+        }
+    }
+}

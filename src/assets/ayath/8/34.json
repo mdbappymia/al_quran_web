@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 34,
+    "english": "And why should Allah not punish them while they hinder pilgrims from the Sacred Mosque, claiming to be its rightful guardians? None has the right to guardianship except those mindful ˹of Allah˺, but most pagans do not know.",
+    "arabic1": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ ۚ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "وما لهم الا يعذبهم الله وهم يصدون عن المسجد الحرام وما كانوا اولياءه ان اولياؤه الا المتقون ولكن اكثرهم لا يعلمون",
+    "bengali": "আর তাদের কী আছে যে, আল্লাহ তাদেরকে আযাব দেবেন না? অথচ তারা মসজিদুল হারাম থেকে বাধা প্রদান করে, আর তারা এর অভিভাবকও নয়। তার অভিভাবক তো শুধু মুত্তাকীগণ; কিন্তু তাদের অধিকাংশ জানে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_34.mp3"
+        }
+    }
+}

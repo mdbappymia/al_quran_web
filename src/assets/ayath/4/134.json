@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 134,
+    "english": "Whoever desires the reward of this world, then ˹let them know that˺ with Allah are the rewards of this world and the Hereafter. And Allah is All-Hearing, All-Seeing.",
+    "arabic1": "مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًا",
+    "arabic2": "من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والاخرة وكان الله سميعا بصيرا",
+    "bengali": "যে দুনিয়ার প্রতিদান চায় তবে আল্লাহর কাছে দুনিয়া ও আখিরাতের প্রতিদান রয়েছে। আর আল্লাহ সর্বশ্রোতা, সর্বদ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_134.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_134.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_134.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 16,
+    "english": "the Day all will appear ˹before Allah˺. Nothing about them will be hidden from Him. ˹He will ask,˺ “Who does all authority belong to this Day? To Allah—the One, the Supreme!",
+    "arabic1": "يَوْمَ هُم بَـٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ",
+    "arabic2": "يوم هم بارزون لا يخفى على الله منهم شيء لمن الملك اليوم لله الواحد القهار",
+    "bengali": "যে দিন লোকেরা প্রকাশ হয়ে পড়বে। সে দিন আল্লাহর নিকট তাদের কিছুই গোপন থাকবে না। ‘আজ রাজত্ব কার’? প্রবল প্রতাপশালী এক আল্লাহর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_16.mp3"
+        }
+    }
+}

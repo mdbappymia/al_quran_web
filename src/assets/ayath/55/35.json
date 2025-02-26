@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 35,
+    "english": "Flames of fire and ˹molten˺ copper will be sent against you, and you will not be able to defend one another.",
+    "arabic1": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+    "arabic2": "يرسل عليكما شواظ من نار ونحاس فلا تنتصران",
+    "bengali": "তোমাদের উভয়ের প্রতি প্রেরণ করা হবে অগ্নিশিখা ও কালো ধোঁয়া, তখন তোমরা প্রতিরোধ করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_35.mp3"
+        }
+    }
+}

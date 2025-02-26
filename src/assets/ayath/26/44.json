@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 44,
+    "english": "So they cast down their ropes and staffs, saying, “By Pharaoh’s might, it is we who will surely prevail.”",
+    "arabic1": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَـٰلِبُونَ",
+    "arabic2": "فالقوا حبالهم وعصيهم وقالوا بعزة فرعون انا لنحن الغالبون",
+    "bengali": "অতঃপর তারা তাদের রশি ও লাঠি নিক্ষেপ করল এবং বলল, ‘ফির‘আউনের মর্যাদার কসম! অবশ্যই আমরা বিজয়ী হব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_44.mp3"
+        }
+    }
+}

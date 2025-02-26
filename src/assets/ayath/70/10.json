@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 10,
+    "english": "And no close friend will ask ˹about˺ their friends",
+    "arabic1": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+    "arabic2": "ولا يسال حميم حميما",
+    "bengali": "আর অন্তরঙ্গ বন্ধু অন্তরঙ্গ বন্ধুকে জিজ্ঞাসা করবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_10.mp3"
+        }
+    }
+}

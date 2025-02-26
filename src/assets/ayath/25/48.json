@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 48,
+    "english": "And He is the One Who sends the winds ushering in His mercy, and We send down pure rain from the sky",
+    "arabic1": "وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا",
+    "arabic2": "وهو الذي ارسل الرياح بشرا بين يدي رحمته وانزلنا من السماء ماء طهورا",
+    "bengali": "আর তিনিই তাঁর রহমতের প্রাক্কালে সুসংবাদস্বরূপ বায়ু পাঠিয়েছেন এবং আমি আকাশ থেকে পবিত্র পানি বর্ষণ করেছি,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_48.mp3"
+        }
+    }
+}

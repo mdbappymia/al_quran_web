@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 2,
+    "english": "Allah, to Whom belongs whatever is in the heavens and whatever is on the earth. And woe to the disbelievers because of a severe torment!",
+    "arabic1": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌ لِّلْكَـٰفِرِينَ مِنْ عَذَابٍ شَدِيدٍ",
+    "arabic2": "الله الذي له ما في السماوات وما في الارض وويل للكافرين من عذاب شديد",
+    "bengali": "আল্লাহর (পথ), আসমানসমূহ ও যমীনের সব কিছুই যার মালিকানায় এবং কাফিরদের জন্য রয়েছে কঠিন আযাবের দুর্ভোগ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_2.mp3"
+        }
+    }
+}

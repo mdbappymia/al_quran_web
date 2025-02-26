@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 12,
+    "english": "It is certainly upon Us ˹alone˺ to show ˹the way to˺ guidance.",
+    "arabic1": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+    "arabic2": "ان علينا للهدى",
+    "bengali": "নিশ্চয় পথ প্রদর্শন করাই আমার দায়িত্ব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_12.mp3"
+        }
+    }
+}

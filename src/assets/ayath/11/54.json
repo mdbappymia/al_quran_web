@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 54,
+    "english": "All we can say is that some of our gods have possessed you with evil.” He said, “I call Allah to witness, and you too bear witness, that I ˹totally˺ reject whatever you associate",
+    "arabic1": "إِن نَّقُولُ إِلَّا ٱعْتَرَىٰكَ بَعْضُ ءَالِهَتِنَا بِسُوٓءٍ ۗ قَالَ إِنِّىٓ أُشْهِدُ ٱللَّهَ وَٱشْهَدُوٓا۟ أَنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+    "arabic2": "ان نقول الا اعتراك بعض الهتنا بسوء قال اني اشهد الله واشهدوا اني بريء مما تشركون",
+    "bengali": "‘আমরা তো কেবল বলছি যে, ‘আমাদের কোন কোন উপাস্য তোমাকে অমঙ্গল দ্বারা আক্রান্ত করেছে’। সে বলল, ‘নিশ্চয় আমি আল্লাহকে সাক্ষী রাখছি আর তোমরা সাক্ষী থাক যে, আমি অবশ্যই তা থেকে মুক্ত যাকে তোমরা শরীক কর,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_54.mp3"
+        }
+    }
+}

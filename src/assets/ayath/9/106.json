@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 106,
+    "english": "And some others are left for Allah’s decision, either to punish them or turn to them in mercy. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "واخرون مرجون لامر الله اما يعذبهم واما يتوب عليهم والله عليم حكيم",
+    "bengali": "আর আল্লাহর আদেশের অপেক্ষায় অপর কিছু লোকের সিদ্ধান্ত পিছিয়ে দেয়া হলো। তিনি তাদেরকে আযাব দেবেন নয়তো তাদের তাওবা কবূল করবেন। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_106.mp3"
+        }
+    }
+}

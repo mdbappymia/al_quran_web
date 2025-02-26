@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 53,
+    "english": "And indeed, We gave Moses ˹true˺ guidance, and made the Children of Israel inherit the Scripture—",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْهُدَىٰ وَأَوْرَثْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ",
+    "arabic2": "ولقد اتينا موسى الهدى واورثنا بني اسرائيل الكتاب",
+    "bengali": "আর অবশ্যই আমি মূসাকে হিদায়াত দান করেছিলাম এবং বনী ইসরাঈলকে কিতাবের উত্তরাধিকারী করেছিলাম,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_53.mp3"
+        }
+    }
+}

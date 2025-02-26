@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 26,
+    "english": "They turn others away from the Prophet and distance themselves as well. They ruin none but themselves, yet they fail to perceive it.",
+    "arabic1": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+    "arabic2": "وهم ينهون عنه ويناون عنه وان يهلكون الا انفسهم وما يشعرون",
+    "bengali": "আর তারা তার থেকে নিষেধ করে এবং তার থেকে দূরে থাকে। আর তারা ধ্বংস করে কেবল নিজদেরকে, অথচ তারা অনুভব করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_26.mp3"
+        }
+    }
+}

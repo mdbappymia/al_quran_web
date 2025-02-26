@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 5,
+    "english": "When it is said to them, “Come! The Messenger of Allah will pray for you to be forgiven,” they turn their heads ˹in disgust˺, and you see them ˹O Prophet˺ turn away in arrogance.",
+    "arabic1": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+    "arabic2": "واذا قيل لهم تعالوا يستغفر لكم رسول الله لووا رءوسهم ورايتهم يصدون وهم مستكبرون",
+    "bengali": "আর তাদেরকে যখন বলা হয় এস, আল্লাহর রাসূল তোমাদের জন্য ক্ষমা প্রার্থনা করবেন, তখন তারা তাদের মাথা নাড়ে*। আর তুমি তাদেরকে দেখতে পাবে, অহঙ্কারবশত বিমুখ হয়ে চলে যেতে। \n*তারা অস্বীকার স্বরূপ মাথা নাড়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/63_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/63_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/63_5.mp3"
+        }
+    }
+}

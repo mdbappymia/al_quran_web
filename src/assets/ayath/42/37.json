@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 37,
+    "english": "who avoid major sins and shameful deeds, and forgive when angered;",
+    "arabic1": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+    "arabic2": "والذين يجتنبون كبائر الاثم والفواحش واذا ما غضبوا هم يغفرون",
+    "bengali": "আর যারা গুরুতর পাপ ও অশ্লীল কার্যকলাপ থেকে বেঁচে থাকে এবং যখন রাগান্বিত হয় তখন তারা ক্ষমা করে দেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_37.mp3"
+        }
+    }
+}

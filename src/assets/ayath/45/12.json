@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 12,
+    "english": "Allah is the One Who has subjected the sea for you so that ships may sail upon it by His command, and that you may seek His bounty, and that perhaps you will be grateful.",
+    "arabic1": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic2": "الله الذي سخر لكم البحر لتجري الفلك فيه بامره ولتبتغوا من فضله ولعلكم تشكرون",
+    "bengali": "আল্লাহ, যিনি সমুদ্রকে তোমাদের কল্যাণে নিয়োজিত করেছেন যাতে তাঁরই আদেশক্রমে তাতে নৌযানসমূহ চলাচল করতে পারে এবং যাতে তোমরা তাঁর অনুগ্রহ সন্ধান করে বেড়াতে পার এবং যাতে তোমরা শোকর আদায় করতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_12.mp3"
+        }
+    }
+}

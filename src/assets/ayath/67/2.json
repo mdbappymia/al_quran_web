@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 2,
+    "english": "˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.",
+    "arabic1": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+    "arabic2": "الذي خلق الموت والحياة ليبلوكم ايكم احسن عملا وهو العزيز الغفور",
+    "bengali": "যিনি মৃত্যু ও জীবন সৃষ্টি করেছেন যাতে তিনি তোমাদেরকে পরীক্ষা করতে পারেন যে, কে তোমাদের মধ্যে আমলের দিক থেকে উত্তম। আর তিনি মহাপরাক্রমশালী, অতিশয় ক্ষমাশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_2.mp3"
+        }
+    }
+}

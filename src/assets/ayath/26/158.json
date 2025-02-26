@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 158,
+    "english": "So the punishment overtook them. Surely in this is a sign. Yet most of them would not believe.",
+    "arabic1": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic2": "فاخذهم العذاب ان في ذلك لاية وما كان اكثرهم مؤمنين",
+    "bengali": "অতএব আযাব তাদেরকে পাকড়াও করল, নিশ্চয়ই এতে নিদর্শন রয়েছে, আর তাদের অধিকাংশ মুমিন ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_158.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_158.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_158.mp3"
+        }
+    }
+}

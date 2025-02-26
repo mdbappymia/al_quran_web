@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 91,
+    "english": "˹He was told,˺ “Now ˹you believe˺? But you always disobeyed and were one of the corruptors.",
+    "arabic1": "ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ",
+    "arabic2": "الان وقد عصيت قبل وكنت من المفسدين",
+    "bengali": "‘এখন অথচ ইতঃপূর্বে তুমি নাফরমানী করেছ, আর তুমি ছিলে ফাসাদকারীদের অন্তর্ভুক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_91.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_91.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_91.mp3"
+        }
+    }
+}

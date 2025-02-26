@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 25,
+    "english": "We never sent a messenger before you ˹O Prophet˺ without revealing to him: “There is no god ˹worthy of worship˺ except Me, so worship Me ˹alone˺.”",
+    "arabic1": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ",
+    "arabic2": "وما ارسلنا من قبلك من رسول الا نوحي اليه انه لا اله الا انا فاعبدون",
+    "bengali": "আর তোমার পূর্বে এমন কোন রাসূল আমি পাঠাইনি যার প্রতি আমি এই ওহী নাযিল করিনি যে, ‘আমি ছাড়া কোন (সত্য) ইলাহ নেই; সুতরাং তোমরা আমার ইবাদাত কর।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_25.mp3"
+        }
+    }
+}

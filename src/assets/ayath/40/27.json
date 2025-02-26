@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 27,
+    "english": "Moses replied, “I seek refuge in my Lord and your Lord from every arrogant person who does not believe in the Day of Reckoning.”",
+    "arabic1": "وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ",
+    "arabic2": "وقال موسى اني عذت بربي وربكم من كل متكبر لا يؤمن بيوم الحساب",
+    "bengali": "মূসা বলল, ‘আমি আমার রব ও তোমাদের রবের কাছে আশ্রয় প্রার্থনা করছি প্রত্যেক অহঙ্কারী থেকে, যে বিচার দিনের প্রতি ঈমান রাখে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_27.mp3"
+        }
+    }
+}

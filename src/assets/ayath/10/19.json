@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 19,
+    "english": "Humanity was once nothing but a single community ˹of believers˺, but then they differed. Had it not been for a prior decree from your Lord, their differences would have been settled ˹at once˺.",
+    "arabic1": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "وما كان الناس الا امة واحدة فاختلفوا ولولا كلمة سبقت من ربك لقضي بينهم فيما فيه يختلفون",
+    "bengali": "আর মানুষ তো এক উম্মতই ছিল। পরে তারা বিভক্ত হয়ে পড়ল। আর তোমার রবের পক্ষ থেকে বাণী বিগত না হলে তাদের মধ্যে মীমাংসা হয়ে যেত, যা নিয়ে তারা মতবিরোধ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_19.mp3"
+        }
+    }
+}

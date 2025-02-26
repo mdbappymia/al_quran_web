@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 17,
+    "english": "Had We intended to take ˹some˺ amusement, We could have found it in Our presence, if that had been Our Will.",
+    "arabic1": "لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَـٰهُ مِن لَّدُنَّآ إِن كُنَّا فَـٰعِلِينَ",
+    "arabic2": "لو اردنا ان نتخذ لهوا لاتخذناه من لدنا ان كنا فاعلين",
+    "bengali": "আমি যদি খেলার উপকরণ গ্রহণ করতে চাইতাম, তবে আমার কাছে যা আছে তা দিয়েই করতাম। কিন্তু আমি তা করিনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_17.mp3"
+        }
+    }
+}

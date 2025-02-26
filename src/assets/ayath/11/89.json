@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 89,
+    "english": "O  my people! Do not let your opposition to me lead you to a fate similar to that of the people of Noah, or Hûd, or Ṣâliḥ. And the people of Lot are not far from you.",
+    "arabic1": "وَيَـٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَـٰلِحٍ ۚ وَمَا قَوْمُ لُوطٍ مِّنكُم بِبَعِيدٍ",
+    "arabic2": "ويا قوم لا يجرمنكم شقاقي ان يصيبكم مثل ما اصاب قوم نوح او قوم هود او قوم صالح وما قوم لوط منكم ببعيد",
+    "bengali": "‘আর হে আমার কওম, আমার সাথে বৈরিতা তোমাদেরকে যেন এমন কাজে প্ররোচিত না করে যার ফলে তোমাদের সেরূপ আযাব আসবে যেরূপ এসেছিল নূহের কওমের উপর অথবা হূদের কওমের উপর অথবা সালিহের কওমের উপর। আর লূতের কওম তো তোমাদের থেকে দূরে নয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_89.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_89.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_89.mp3"
+        }
+    }
+}

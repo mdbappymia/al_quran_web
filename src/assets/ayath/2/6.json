@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 6,
+    "english": "As for those who persist in disbelief, it is the same whether you warn them or not—they will never believe.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "ان الذين كفروا سواء عليهم اانذرتهم ام لم تنذرهم لا يؤمنون",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে, তুমি তাদেরকে সতর্ক কর কিংবা না কর, উভয়ই তাদের জন্য বরাবর, তারা ঈমান আনবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_6.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 28,
+    "english": "And patiently stick with those who call upon their Lord morning and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring the luxuries of this worldly life. And do not obey those whose hearts We have made heedless of Our remembrance, who follow ˹only˺ their desires and whose state is ˹total˺ loss.",
+    "arabic1": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا",
+    "arabic2": "واصبر نفسك مع الذين يدعون ربهم بالغداة والعشي يريدون وجهه ولا تعد عيناك عنهم تريد زينة الحياة الدنيا ولا تطع من اغفلنا قلبه عن ذكرنا واتبع هواه وكان امره فرطا",
+    "bengali": "আর তুমি নিজকে ধৈর্যশীল রাখ তাদের সাথে, যারা সকাল-সন্ধ্যায় তাদের রবকে ডাকে, তাঁর সন্তুষ্টির উদ্দেশে, এবং দুনিয়ার জীবনের সৌন্দর্য কামনা করে তোমার দু’চোখ যেন তাদের থেকে ঘুরে না যায়। আর ওই ব্যক্তির আনুগত্য করো না, যার অন্তরকে আমি আমার যিকির থেকে গাফেল করে দিয়েছি এবং যে তার প্রবৃত্তির অনুসরণ করেছে এবং যার কর্ম বিনষ্ট হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_28.mp3"
+        }
+    }
+}

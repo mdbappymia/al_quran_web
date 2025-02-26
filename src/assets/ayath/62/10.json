@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jumu'a",
+    "surahNameArabic": "الجمعة",
+    "surahNameArabicLong": "سورة الجمعة",
+    "surahNameTranslation": "Friday",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 62,
+    "ayahNo": 10,
+    "english": "Once the prayer is over, disperse throughout the land and seek the bounty of Allah. And remember Allah often so you may be successful.",
+    "arabic1": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "فاذا قضيت الصلاة فانتشروا في الارض وابتغوا من فضل الله واذكروا الله كثيرا لعلكم تفلحون",
+    "bengali": "অতঃপর যখন সালাত সমাপ্ত হবে তখন তোমরা পৃথিবীতে ছড়িয়ে পড় আর আল্লাহর অনুগ্রহ হতে অনুসন্ধান কর এবং আল্লাহকে বেশি বেশি স্মরণ কর, যাতে তোমরা সফল হতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/62_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/62_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/62_10.mp3"
+        }
+    }
+}

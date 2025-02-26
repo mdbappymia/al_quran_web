@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 12,
+    "english": "when the most wicked of them was roused ˹to kill the she-camel˺.",
+    "arabic1": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+    "arabic2": "اذ انبعث اشقاها",
+    "bengali": "যখন তাদের সর্বাধিক হতভাগা ব্যক্তিটি তৎপর হয়ে উঠল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_12.mp3"
+        }
+    }
+}

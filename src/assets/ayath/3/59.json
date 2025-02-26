@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 59,
+    "english": "Indeed, the example of Jesus in the sight of Allah is like that of Adam. He created him from dust, then said to him, “Be!” And he was!",
+    "arabic1": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+    "arabic2": "ان مثل عيسى عند الله كمثل ادم خلقه من تراب ثم قال له كن فيكون",
+    "bengali": "নিশ্চয় আল্লাহর নিকট ঈসার দৃষ্টান্ত আদমের মত, তিনি তাকে মাটি দ্বারা সৃষ্টি করেছেন। অতঃপর তাকে বললেন, ‘হও’, ফলে সে হয়ে গেল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_59.mp3"
+        }
+    }
+}

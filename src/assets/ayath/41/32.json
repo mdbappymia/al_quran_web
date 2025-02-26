@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 32,
+    "english": "an accommodation from the All-Forgiving, Most Merciful ˹Lord˺.”",
+    "arabic1": "نُزُلًا مِّنْ غَفُورٍ رَّحِيمٍ",
+    "arabic2": "نزلا من غفور رحيم",
+    "bengali": "পরম ক্ষমাশীল ও অসীম দয়ালু আল্লাহর পক্ষ থেকে আপ্যায়নস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_32.mp3"
+        }
+    }
+}

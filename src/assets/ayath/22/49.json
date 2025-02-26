@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 49,
+    "english": "Say, ˹O Prophet,˺ “O humanity! I am only sent to you with a clear warning.",
+    "arabic1": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌ مُّبِينٌ",
+    "arabic2": "قل يا ايها الناس انما انا لكم نذير مبين",
+    "bengali": "বল, ‘হে মানুষ, আমি তো কেবল তোমাদের জন্য সুস্পষ্ট সতর্ককারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_49.mp3"
+        }
+    }
+}

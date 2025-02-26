@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 14,
+    "english": "˹For˺ your Lord is truly vigilant.",
+    "arabic1": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+    "arabic2": "ان ربك لبالمرصاد",
+    "bengali": "নিশ্চয় তোমার রব ঘাঁটিতেই।* \n*مرصاد অর্থ ঘাঁটি, যেখানে কোন লোক তার শত্রুর অজান্তে তার অপেক্ষায় ওঁত পেতে থাকে এবং শত্রুকে বাগে পেয়েই আক্রমণ করে। এখানে আল্লাহর ক্ষেত্রে শব্দটি সতর্ক দৃষ্টি রাখা, অর্থে ব্যবহৃত হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_14.mp3"
+        }
+    }
+}

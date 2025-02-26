@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 161,
+    "english": "Surely you ˹pagans˺ and whatever ˹idols˺ you worship",
+    "arabic1": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+    "arabic2": "فانكم وما تعبدون",
+    "bengali": "নিশ্চয় তোমরা এবং তোমরা যাদের ইবাদাত কর তারা-",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_161.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_161.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_161.mp3"
+        }
+    }
+}

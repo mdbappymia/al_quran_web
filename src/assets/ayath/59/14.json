@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 14,
+    "english": "Even united, they would not ˹dare˺ fight against you except ˹from˺ within fortified strongholds or from behind walls. Their malice for each other is intense: you think they are united, yet their hearts are divided. That is because they are a people with no ˹real˺ understanding.",
+    "arabic1": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+    "arabic2": "لا يقاتلونكم جميعا الا في قرى محصنة او من وراء جدر باسهم بينهم شديد تحسبهم جميعا وقلوبهم شتى ذلك بانهم قوم لا يعقلون",
+    "bengali": "তারা সম্মিলিতিভাবে তোমাদের বিরুদ্ধে যুদ্ধ করবে না তবে সুরক্ষিত জনপদের মধ্যে অবস্থান করে বা দেয়ালের পেছন হতে; তারা নিজেরা নিজেদেরকে প্রবল শক্তিধর মনে করে; তুমি তাদেরকে ঐক্যবদ্ধ মনে করছ অথচ তাদের অন্তরসমূহ বিচ্ছিন্ন। এটি এজন্য যে, তারা নির্বোধ সম্প্রদায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_14.mp3"
+        }
+    }
+}

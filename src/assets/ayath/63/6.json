@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 6,
+    "english": "It is the same whether you pray for their forgiveness or not, Allah will not forgive them. Surely Allah does not guide the rebellious people.",
+    "arabic1": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic2": "سواء عليهم استغفرت لهم ام لم تستغفر لهم لن يغفر الله لهم ان الله لا يهدي القوم الفاسقين",
+    "bengali": "তুমি তাদের জন্য ক্ষমা প্রার্থনা কর অথবা না কর, উভয়টি তাদের ক্ষেত্রে সমান। আল্লাহ তাদেরকে কখনো ক্ষমা করবেন না। অবশ্যই আল্লাহ পাপাচারী সম্প্রদায়কে হেদায়াত দেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/63_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/63_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/63_6.mp3"
+        }
+    }
+}

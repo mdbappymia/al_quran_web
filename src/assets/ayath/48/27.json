@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 27,
+    "english": "Indeed, Allah will fulfil His Messenger’s vision in all truth: Allah willing, you will surely enter the Sacred Mosque, in security—˹some with˺ heads shaved and ˹others with˺ hair shortened—without fear. He knew what you did not know, so He first granted you the triumph at hand.",
+    "arabic1": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+    "arabic2": "لقد صدق الله رسوله الرؤيا بالحق لتدخلن المسجد الحرام ان شاء الله امنين محلقين رءوسكم ومقصرين لا تخافون فعلم ما لم تعلموا فجعل من دون ذلك فتحا قريبا",
+    "bengali": "অবশ্যই আল্লাহ তাঁর রাসূলকে স্বপ্নটি যথাযথভাবে সত্যে পরিণত করে দিয়েছেন। তোমরা ইনশাআল্লাহ নিরাপদে তোমাদের মাথা মুন্ডন করে এবং চুল ছেঁটে নির্ভয়ে আল-মাসজিদুল হারামে অবশ্যই প্রবেশ করবে। অতঃপর আল্লাহ জেনেছেন যা তোমরা জানতে না। সুতরাং এ ছাড়াও তিনি দিলেন এক নিকটবর্তী বিজয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_27.mp3"
+        }
+    }
+}

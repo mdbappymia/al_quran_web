@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 48,
+    "english": "They will be presented before your Lord in rows, ˹and the deniers will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the first time, although you ˹always˺ claimed that We would never appoint a time for your return.”",
+    "arabic1": "وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍۭ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا",
+    "arabic2": "وعرضوا على ربك صفا لقد جئتمونا كما خلقناكم اول مرة بل زعمتم الن نجعل لكم موعدا",
+    "bengali": "আর তাদেরকে তোমার রবের সামনে উপস্থিত করা হবে কাতারবদ্ধ করে। (আল্লাহ বলবেন) ‘তোমরা আমার কাছে এসেছ তেমনভাবে, যেমন আমি তোমাদেরকে প্রথমবার সৃষ্টি করেছিলাম; বরং তোমরা তো ভেবেছিলে আমি তোমাদের জন্য কোন প্রতিশ্রুত মুহূর্ত রাখিনি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_48.mp3"
+        }
+    }
+}

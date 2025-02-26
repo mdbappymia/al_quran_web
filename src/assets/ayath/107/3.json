@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maa'un",
+    "surahNameArabic": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameTranslation": "Almsgiving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 107,
+    "ayahNo": 3,
+    "english": "and does not encourage the feeding of the poor.",
+    "arabic1": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "arabic2": "ولا يحض على طعام المسكين",
+    "bengali": "আর মিসকীনকে খাদ্যদানে উৎসাহ দেয় না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/107_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/107_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/107_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 16,
+    "english": "They will have layers of fire above and below them. That is what Allah warns His servants with. So fear Me, O  My servants!",
+    "arabic1": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ",
+    "arabic2": "لهم من فوقهم ظلل من النار ومن تحتهم ظلل ذلك يخوف الله به عباده يا عباد فاتقون",
+    "bengali": "তাদের জন্য তাদের উপরের দিকে থাকবে আগুনের আচ্ছাদন আর তাদের নিচের দিকেও থাকবে (আগুনের) আচ্ছাদন; এদ্বারা আল্লাহ তাঁর বান্দাদেরকে ভয় দেখান। ‘হে আমার বান্দারা, তোমরা আমাকেই ভয় কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_16.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 37,
+    "english": "who will certainly hinder them from the ˹Right˺ Way while they think they are ˹rightly˺ guided.",
+    "arabic1": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+    "arabic2": "وانهم ليصدونهم عن السبيل ويحسبون انهم مهتدون",
+    "bengali": "আর নিশ্চয় তারাই (শয়তান) মানুষদেরকে আল্লাহর পথ থেকে বাধা দেয়। অথচ মানুষ মনে করে তারা হিদায়াতপ্রাপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_37.mp3"
+        }
+    }
+}

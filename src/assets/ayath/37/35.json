@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 35,
+    "english": "For whenever it was said to them ˹in the world˺, “There is no god ˹worthy of worship˺ except Allah,” they acted arrogantly",
+    "arabic1": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
+    "arabic2": "انهم كانوا اذا قيل لهم لا اله الا الله يستكبرون",
+    "bengali": "তাদেরকে যখন বলা হত, ‘আল্লাহ ছাড়া কোন (সত্য) ইলাহ নেই’, তখন নিশ্চয় তারা অহঙ্কার করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_35.mp3"
+        }
+    }
+}

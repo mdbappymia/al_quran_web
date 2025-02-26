@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 12,
+    "english": "spreading much corruption there.",
+    "arabic1": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+    "arabic2": "فاكثروا فيها الفساد",
+    "bengali": "অতঃপর তারা সেখানে বিপর্যয় বাড়িয়ে দিয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_12.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 12,
+    "english": "And ˹He is the One˺ Who created all ˹things in˺ pairs, and made for you ships and animals to ride",
+    "arabic1": "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَـٰمِ مَا تَرْكَبُونَ",
+    "arabic2": "والذي خلق الازواج كلها وجعل لكم من الفلك والانعام ما تركبون",
+    "bengali": "আর যিনি সব কিছুই জোড়া জোড়া সৃষ্টি করেছেন এবং তিনি তোমাদের জন্য নৌযান ও গৃহপালিত জন্তু সৃষ্টি করেছেন, যাতে তোমরা আরোহণ কর,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_12.mp3"
+        }
+    }
+}

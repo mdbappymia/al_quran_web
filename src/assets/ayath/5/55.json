@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 55,
+    "english": "Your only guardians are Allah, His Messenger, and fellow believers—who establish prayer and pay alms-tax with humility.",
+    "arabic1": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+    "arabic2": "انما وليكم الله ورسوله والذين امنوا الذين يقيمون الصلاة ويؤتون الزكاة وهم راكعون",
+    "bengali": "তোমাদের বন্ধু কেবল আল্লাহ, তাঁর রাসূল ও মুমিনগণ, যারা সালাত কায়েম করে এবং যাকাত প্রদান করে বিনীত হয়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_55.mp3"
+        }
+    }
+}

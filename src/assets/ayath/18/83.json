@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 83,
+    "english": "They ask you ˹O Prophet˺ about Ⱬul-Qarnain. Say, “I will relate to you something of his narrative.”",
+    "arabic1": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ ۖ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+    "arabic2": "ويسالونك عن ذي القرنين قل ساتلو عليكم منه ذكرا",
+    "bengali": "আর তারা তোমাকে যুলকারনাইন সম্পর্কে জিজ্ঞাসা করছে। বল, ‘আমি এখন তার সম্পর্কে তোমাদের নিকট বর্ণনা দিচ্ছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_83.mp3"
+        }
+    }
+}

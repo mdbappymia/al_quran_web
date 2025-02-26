@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 8,
+    "english": "So We destroyed those who were far mightier than these ˹Meccans˺. The examples of ˹their˺ predecessors have ˹already˺ been related.",
+    "arabic1": "فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ",
+    "arabic2": "فاهلكنا اشد منهم بطشا ومضى مثل الاولين",
+    "bengali": "ফলে তাদের চেয়েও শক্তিতে প্রবলদেরকে আমি ধ্বংস করে দিয়েছিলাম। আর পূর্ববর্তীদের দৃষ্টান্ত অতীত হয়ে গেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_8.mp3"
+        }
+    }
+}

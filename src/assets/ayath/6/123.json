@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 123,
+    "english": "And so We have placed in every society the most wicked to conspire in it. Yet they plot only against themselves, but they fail to perceive it.",
+    "arabic1": "وَكَذَٰلِكَ جَعَلْنَا فِى كُلِّ قَرْيَةٍ أَكَـٰبِرَ مُجْرِمِيهَا لِيَمْكُرُوا۟ فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنفُسِهِمْ وَمَا يَشْعُرُونَ",
+    "arabic2": "وكذلك جعلنا في كل قرية اكابر مجرميها ليمكروا فيها وما يمكرون الا بانفسهم وما يشعرون",
+    "bengali": "আর এভাবে আমি প্রতিটি জনপদে তার অপরাধীদের সর্দারদেরকে ছেড়ে দিয়েছি, যাতে তারা সেখানে চক্রান্ত করে। আর তারা শুধু নিজেদের সাথেই চক্রান্ত করে অথচ তারা উপলব্ধি করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_123.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_123.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_123.mp3"
+        }
+    }
+}

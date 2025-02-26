@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 5,
+    "english": "Our Lord! Do not subject us to the persecution of the disbelievers. Forgive us, our Lord! You ˹alone˺ are truly the Almighty, All-Wise.”",
+    "arabic1": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "arabic2": "ربنا لا تجعلنا فتنة للذين كفروا واغفر لنا ربنا انك انت العزيز الحكيم",
+    "bengali": "হে আমাদের রব, আপনি আমাদেরকে কাফিরদের উৎপীড়নের পাত্র বানাবেন না। হে আমাদের রব, আপনি আমাদের ক্ষমা করে দিন। নিশ্চয় আপনি মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/60_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/60_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/60_5.mp3"
+        }
+    }
+}

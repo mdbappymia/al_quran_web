@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 15,
+    "english": "To Allah ˹alone˺ bow down ˹in submission˺ all those in the heavens and the earth—willingly or unwillingly—as do their shadows, morning and evening.",
+    "arabic1": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَـٰلُهُم بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ ۩",
+    "arabic2": "ولله يسجد من في السماوات والارض طوعا وكرها وظلالهم بالغدو والاصال",
+    "bengali": "আর আল্লাহর জন্যই আসমানসমূহ ও যমীনের সবকিছু অনুগত ও বাধ্য হয়ে সিজদা করে এবং সকাল ও সন্ধ্যায় তাদের ছায়াগুলোও।[সাজদাহ]",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_15.mp3"
+        }
+    }
+}

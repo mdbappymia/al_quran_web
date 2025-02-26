@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 64,
+    "english": "Surely Allah ˹alone˺ is my Lord and your Lord, so worship Him ˹alone˺. This is the Straight Path.”",
+    "arabic1": "إِنَّ ٱللَّهَ هُوَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+    "arabic2": "ان الله هو ربي وربكم فاعبدوه هذا صراط مستقيم",
+    "bengali": "‘নিশ্চয় আল্লাহ, তিনিই আমার রব ও তোমাদের রব। অতএব তাঁর ইবাদাত কর; এটিই সরল পথ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_64.mp3"
+        }
+    }
+}

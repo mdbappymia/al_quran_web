@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 60,
+    "english": "Some said, “We heard a young man, called Abraham, speaking ˹ill˺ of them.”",
+    "arabic1": "قَالُوا۟ سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ",
+    "arabic2": "قالوا سمعنا فتى يذكرهم يقال له ابراهيم",
+    "bengali": "তাদের কেউ কেউ বলল, ‘আমরা শুনেছি এক যুবক এই মূর্তিগুলোর সমালোচনা করে। তাকে বলা হয় ইবরাহীম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_60.mp3"
+        }
+    }
+}

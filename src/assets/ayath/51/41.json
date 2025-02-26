@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 41,
+    "english": "And in ˹the story of˺ ’Âd ˹was another lesson,˺ when We sent against them the devastating wind.",
+    "arabic1": "وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ",
+    "arabic2": "وفي عاد اذ ارسلنا عليهم الريح العقيم",
+    "bengali": "আর ‘আদ জাতির ঘটনায়ও (নিদর্শন রয়েছে), যখন আমি তাদের উপর প্রেরণ করেছিলাম অমঙ্গলজনক বায়ু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_41.mp3"
+        }
+    }
+}

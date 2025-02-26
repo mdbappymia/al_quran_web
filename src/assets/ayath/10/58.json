@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 58,
+    "english": "Say, ˹O Prophet,˺ “In Allah’s grace and mercy let them rejoice. That is far better than whatever ˹wealth˺ they amass.”",
+    "arabic1": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+    "arabic2": "قل بفضل الله وبرحمته فبذلك فليفرحوا هو خير مما يجمعون",
+    "bengali": "বল, ‘আল্লাহর অনুগ্রহ ও রহমতে। সুতরাং এ নিয়েই যেন তারা খুশি হয়’। এটি যা তারা জমা করে তা থেকে উত্তম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_58.mp3"
+        }
+    }
+}

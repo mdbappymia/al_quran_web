@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 9,
+    "english": "Before them, the people of Noah denied ˹the truth˺ and rejected Our servant, calling ˹him˺ insane. And he was intimidated.",
+    "arabic1": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ",
+    "arabic2": "كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر",
+    "bengali": "তাদের পূর্বে নূহের কওমও অস্বীকার করেছিল। তারা আমার বান্দাকে অস্বীকার করেছিল এবং বলেছিল, ‘পাগল’। আর তাকে হুমকি দেয়া হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_9.mp3"
+        }
+    }
+}

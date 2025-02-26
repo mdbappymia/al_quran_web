@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 148,
+    "english": "In the absence of Moses, his people made from their ˹golden˺ jewellery an idol of a calf that made a lowing sound. Did they not see that it could neither speak to them nor guide them to the ˹Right˺ Path? Still they took it as a god and were wrongdoers.",
+    "arabic1": "وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ ۚ أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ۘ ٱتَّخَذُوهُ وَكَانُوا۟ ظَـٰلِمِينَ",
+    "arabic2": "واتخذ قوم موسى من بعده من حليهم عجلا جسدا له خوار الم يروا انه لا يكلمهم ولا يهديهم سبيلا اتخذوه وكانوا ظالمين",
+    "bengali": "আর মূসার কওম তার (বের হওয়ার) পরে তাদের অলংকারাদি দিয়ে বানিয়ে নিল একটি গো বাছুর- দেহ, তার ছিল গরুর আওয়ায। তারা কি দেখল না যে, এটা তো তাদের সাথে কথা বলে না এবং তাদের পথ দেখায় না? তারা তাকে গ্রহণ করল এবং তারা ছিল যালিম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_148.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_148.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_148.mp3"
+        }
+    }
+}

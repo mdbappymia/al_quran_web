@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 65,
+    "english": "Say, ˹O Prophet,˺ “None in the heavens and the earth has knowledge of the unseen except Allah. Nor do they know when they will be resurrected.",
+    "arabic1": "قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+    "arabic2": "قل لا يعلم من في السماوات والارض الغيب الا الله وما يشعرون ايان يبعثون",
+    "bengali": "বল, ‘আল্লাহ ছাড়া আসমানসমূহে ও যমীনে যারা আছে তারা গায়েব জানে না। আর কখন তাদেরকে পুনরুত্থিত করা হবে তা তারা অনুভব করতে পারে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_65.mp3"
+        }
+    }
+}

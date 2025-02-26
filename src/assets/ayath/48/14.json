@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 14,
+    "english": "To Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He forgives whoever He wills, and punishes whoever He wills. And Allah is All-Forgiving, Most Merciful.",
+    "arabic1": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+    "arabic2": "ولله ملك السماوات والارض يغفر لمن يشاء ويعذب من يشاء وكان الله غفورا رحيما",
+    "bengali": "আসমানসমূহ ও যমীনের সার্বভৌমত্ব আল্লাহর; তিনি যাকে ইচ্ছা ক্ষমা করেন, আর যাকে ইচ্ছা শাস্তি দেন। আর আল্লাহ অতি ক্ষমাশীল, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_14.mp3"
+        }
+    }
+}

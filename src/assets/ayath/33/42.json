@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 42,
+    "english": "and glorify Him morning and evening.",
+    "arabic1": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+    "arabic2": "وسبحوه بكرة واصيلا",
+    "bengali": "আর সকাল-সন্ধ্যায় তাঁর পবিত্রতা ঘোষণা কর কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_42.mp3"
+        }
+    }
+}

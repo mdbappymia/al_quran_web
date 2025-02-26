@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 121,
+    "english": "Those We have given the Book follow it as it should be followed. It is they who ˹truly˺ believe in it. As for those who reject it, it is they who are the losers.",
+    "arabic1": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "الذين اتيناهم الكتاب يتلونه حق تلاوته اولئك يؤمنون به ومن يكفر به فاولئك هم الخاسرون",
+    "bengali": "যাদেরকে আমি কিতাব দিয়েছি, তারা তা পাঠ করে যথার্থভাবে। তারাই তার প্রতি ঈমান আনে। আর যে তা অস্বীকার করে, তারাই ক্ষতিগ্রস্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_121.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_121.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_121.mp3"
+        }
+    }
+}

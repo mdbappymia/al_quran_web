@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 8,
+    "english": "And if We delay their punishment until an appointed time, they will definitely say, “What is holding it back?” Indeed, on the Day it overtakes them, it will not be averted from them, and they will be overwhelmed by what they used to ridicule.",
+    "arabic1": "وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "ولئن اخرنا عنهم العذاب الى امة معدودة ليقولن ما يحبسه الا يوم ياتيهم ليس مصروفا عنهم وحاق بهم ما كانوا به يستهزئون",
+    "bengali": "আর যদি আমি নির্দিষ্ট সময় পর্যন্ত তাদের থেকে আযাব বিলম্বিত করি, তবে তারা অবশ্যই বলবে, ‘কোন্ বস্তু তাকে ঠেকিয়ে রাখল’? সাবধান ! যেদিন তাদের উপর তা নেমে আসবে, সেদিন তাদের থেকে তা ফেরানো হবে না এবং তারা যা নিয়ে উপহাস করত, তাদেরকে তা ঘিরে ফেলবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_8.mp3"
+        }
+    }
+}

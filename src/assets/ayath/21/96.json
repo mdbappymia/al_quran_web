@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 96,
+    "english": "until ˹after˺ Gog and Magog have broken loose ˹from the barrier˺, swarming down from every hill",
+    "arabic1": "حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ",
+    "arabic2": "حتى اذا فتحت ياجوج وماجوج وهم من كل حدب ينسلون",
+    "bengali": "অবশেষে যখন ইয়া’জূজ ও মা’জূজকে মুক্তি দেয়া হবে, আর তারা প্রতিটি উঁচু ভূমি হতে ছুটে আসবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_96.mp3"
+        }
+    }
+}

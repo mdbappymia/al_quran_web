@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 82,
+    "english": "Ask ˹the people of˺ the land where we were and the caravan we travelled with. We are certainly telling the truth.’”",
+    "arabic1": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَـٰدِقُونَ",
+    "arabic2": "واسال القرية التي كنا فيها والعير التي اقبلنا فيها وانا لصادقون",
+    "bengali": "‘আর যে জনপদে আমরা ছিলাম তাকে জিজ্ঞাসা করুন এবং যে কাফেলার সাথে আমরা এসেছি তাদেরকেও, আর অবশ্যই আমরা সত্যবাদী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_82.mp3"
+        }
+    }
+}

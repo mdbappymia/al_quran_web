@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 16,
+    "english": "He said, “For leaving me to stray I will lie in ambush for them on Your Straight Path.",
+    "arabic1": "قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ",
+    "arabic2": "قال فبما اغويتني لاقعدن لهم صراطك المستقيم",
+    "bengali": "সে বলল, ‘আপনি আমাকে পথভ্রষ্ট করেছেন, সে কারণে অবশ্যই আমি তাদের জন্য আপনার সোজা পথে বসে থাকব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_16.mp3"
+        }
+    }
+}

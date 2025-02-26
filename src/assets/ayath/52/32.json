@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 32,
+    "english": "Or do their ˹intelligent˺ minds prompt them to this ˹paradox˺? Or are they ˹just˺ a transgressing people?",
+    "arabic1": "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+    "arabic2": "ام تامرهم احلامهم بهذا ام هم قوم طاغون",
+    "bengali": "তাদের বিবেক কি তাদেরকে এ আদেশ দেয়, না তারা সীমালংঘনকারী কওম?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_32.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taariq",
+    "surahNameArabic": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameTranslation": "The Morning Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 17,
+    "surahNo": 86,
+    "ayahNo": 10,
+    "english": "Then one will have neither power nor ˹any˺ helper.",
+    "arabic1": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+    "arabic2": "فما له من قوة ولا ناصر",
+    "bengali": "অতএব তার কোন শক্তি থাকবে না। আর সাহায্যকারীও না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/86_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/86_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/86_10.mp3"
+        }
+    }
+}

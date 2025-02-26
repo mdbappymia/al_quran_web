@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 19,
+    "english": "Have you not seen that Allah created the heavens and the earth for a reason? If He wills, He can eliminate you and produce a new creation.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+    "arabic2": "الم تر ان الله خلق السماوات والارض بالحق ان يشا يذهبكم ويات بخلق جديد",
+    "bengali": "তুমি কি দেখ না যে, আল্লাহ আসমানসমূহ এবং যমীন সৃষ্টি করেছেন যথাযথভাবে? তিনি ইচ্ছা করলে তোমাদেরকে নিশ্চি‎হ্ন করতে পারেন এবং অস্তিত্বে আনতে পারেন নতুন সৃষ্টি ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_19.mp3"
+        }
+    }
+}

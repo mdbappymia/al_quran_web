@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 56,
+    "english": "that We hasten to ˹honour˺ them ˹with˺ all kinds of good? No! They are not aware.",
+    "arabic1": "نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ",
+    "arabic2": "نسارع لهم في الخيرات بل لا يشعرون",
+    "bengali": "(তা দ্বারা) আমি তাদের কল্যাণে দ্রুত এগিয়ে নিয়ে যাচ্ছি; বরং তারা উপলদ্ধি করতে পারছে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_56.mp3"
+        }
+    }
+}

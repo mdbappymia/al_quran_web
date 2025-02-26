@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 129,
+    "english": "But if they turn away, then say, ˹O Prophet,˺ “Allah is sufficient for me. There is no god ˹worthy of worship˺ except Him. In Him I put my trust. And He is the Lord of the Mighty Throne.”",
+    "arabic1": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+    "arabic2": "فان تولوا فقل حسبي الله لا اله الا هو عليه توكلت وهو رب العرش العظيم",
+    "bengali": "অতঃপর যদি তারা বিমুখ হয়, তবে বল, ‘আমার জন্য আল্লাহই যথেষ্ট, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। আমি তাঁরই উপর তাওয়াক্কুল করেছি। আর তিনিই মহাআরশের রব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_129.mp3"
+        }
+    }
+}

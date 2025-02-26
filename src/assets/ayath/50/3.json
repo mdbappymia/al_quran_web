@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 3,
+    "english": "˹Will we be returned to life,˺ when we are dead and reduced to dust? Such a return is impossible.”",
+    "arabic1": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+    "arabic2": "ااذا متنا وكنا ترابا ذلك رجع بعيد",
+    "bengali": "‘আমরা যখন মারা যাব এবং মাটিতে পরিণত হব তখনো কি (আমরা পুনরুত্থিত হব)? এ ফিরে যাওয়া সুদূরপরাহত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_3.mp3"
+        }
+    }
+}

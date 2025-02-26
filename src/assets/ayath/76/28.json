@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 28,
+    "english": "It is We Who created them and perfected their ˹physical˺ form. But if We will, We can easily replace them with others.",
+    "arabic1": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+    "arabic2": "نحن خلقناهم وشددنا اسرهم واذا شئنا بدلنا امثالهم تبديلا",
+    "bengali": "আমিই তাদেরকে সৃষ্টি করেছি এবং তাদের গ্রন্থি শক্ত করে দিয়েছি আর আমি চাইলে তাদের স্থানে তাদের মত (মানুষ) দিয়ে পরিবর্তন করে দিতে পারি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_28.mp3"
+        }
+    }
+}

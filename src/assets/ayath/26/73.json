@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 73,
+    "english": "Or can they benefit or harm you?”",
+    "arabic1": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
+    "arabic2": "او ينفعونكم او يضرون",
+    "bengali": "‘অথবা তারা কি তোমাদের উপকার কিংবা ক্ষতি করতে পারে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_73.mp3"
+        }
+    }
+}

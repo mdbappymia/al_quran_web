@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 16,
+    "english": "And so We revealed this ˹Quran˺ as clear verses. And Allah certainly guides whoever He wills.",
+    "arabic1": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ ءَايَـٰتٍۭ بَيِّنَـٰتٍ وَأَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ",
+    "arabic2": "وكذلك انزلناه ايات بينات وان الله يهدي من يريد",
+    "bengali": "এভাবেই আমি সুস্পষ্ট আয়াতরূপে তা (কুরআন) নাযিল করেছি। আর আল্লাহ নিঃসন্দেহে যাকে ইচ্ছা হিদায়াত দান করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_16.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 49,
+    "english": "But if the truth is in their favour, they come to him, fully submitting.",
+    "arabic1": "وَإِن يَكُن لَّهُمُ ٱلْحَقُّ يَأْتُوٓا۟ إِلَيْهِ مُذْعِنِينَ",
+    "arabic2": "وان يكن لهم الحق ياتوا اليه مذعنين",
+    "bengali": "কিন্তু যদি সত্য তাদের পক্ষে থাকে, তাহলে তারা তার কাছে একান্ত বিনীতভাবে ছুটে আসে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_49.mp3"
+        }
+    }
+}

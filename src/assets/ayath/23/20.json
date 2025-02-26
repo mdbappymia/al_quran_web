@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 20,
+    "english": "as well as ˹olive˺ trees which grow at Mount Sinai, providing oil and a condiment to eat.",
+    "arabic1": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْـَٔاكِلِينَ",
+    "arabic2": "وشجرة تخرج من طور سيناء تنبت بالدهن وصبغ للاكلين",
+    "bengali": "আর এক বৃক্ষ যা সিনাই পাহাড় হতে উদগত হয়, যা আহারকারীদের জন্য তেল ও তরকারী উৎপন্ন করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_20.mp3"
+        }
+    }
+}

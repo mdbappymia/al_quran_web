@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 78,
+    "english": "Observe the prayer from the decline of the sun until the darkness of the night and the dawn prayer, for certainly the dawn prayer is witnessed ˹by angels˺.",
+    "arabic1": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+    "arabic2": "اقم الصلاة لدلوك الشمس الى غسق الليل وقران الفجر ان قران الفجر كان مشهودا",
+    "bengali": "সূর্য হেলে পড়ার সময় থেকে রাতের অন্ধকার পর্যন্ত সালাত কায়েম কর এবং ফজরের কুরআন*। নিশ্চয় ফজরের কুরআন (ফেরেশতাদের) উপস্থিতির সময়।** \n*‘ফজরের কুরআন’ দ্বারা উদ্দেশ্য ফজরের সালাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_78.mp3"
+        }
+    }
+}

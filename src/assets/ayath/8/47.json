@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 47,
+    "english": "Do not be like those ˹pagans˺ who left their homes arrogantly, only to be seen by people and to hinder others from Allah’s Path. And Allah is Fully Aware of what they do.",
+    "arabic1": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ خَرَجُوا۟ مِن دِيَـٰرِهِم بَطَرًا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۚ وَٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+    "arabic2": "ولا تكونوا كالذين خرجوا من ديارهم بطرا ورئاء الناس ويصدون عن سبيل الله والله بما يعملون محيط",
+    "bengali": "আর তোমরা তাদের মত হয়ো না, যারা তাদের ঘর থেকে অহঙ্কার ও লোক দেখানোর উদ্দেশ্যে বের হয়েছে এবং আল্লাহর রাস্তায় বাধা প্রদান করে, আর তারা যা করে, আল্লাহ তা পরিবেষ্টন করে আছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_47.mp3"
+        }
+    }
+}

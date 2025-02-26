@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 4,
+    "english": "He will forgive your sins, and delay your end until the appointed time. Indeed, when the time set by Allah comes, it cannot be delayed, if only you knew!”",
+    "arabic1": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "يغفر لكم من ذنوبكم ويؤخركم الى اجل مسمى ان اجل الله اذا جاء لا يؤخر لو كنتم تعلمون",
+    "bengali": "‘তিনি তোমাদের জন্য তোমাদের পাপসমূহ ক্ষমা করবেন এবং তোমাদেরকে নির্দিষ্ট সময় পর্যন্ত অবকাশ দেবেন; আল্লাহর নির্ধারিত সময় আসলে কিছুতেই তা বিলম্বিত করা হয় না, যদি তোমরা জানতে’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_4.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 56,
+    "english": "Whoever allies themselves with Allah, His Messenger, and fellow believers, then it is certainly Allah’s party that will prevail.",
+    "arabic1": "وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُوا۟ فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَـٰلِبُونَ",
+    "arabic2": "ومن يتول الله ورسوله والذين امنوا فان حزب الله هم الغالبون",
+    "bengali": "আর যে আল্লাহ, তাঁর রাসূল ও মুমিনদের সাথে বন্ধুত্ব করে, তবে নিশ্চয় আল্লাহর দলই বিজয়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_56.mp3"
+        }
+    }
+}

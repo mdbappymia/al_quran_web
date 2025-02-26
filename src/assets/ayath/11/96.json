@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 96,
+    "english": "Indeed, We sent Moses with Our signs and compelling proof",
+    "arabic1": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "ولقد ارسلنا موسى باياتنا وسلطان مبين",
+    "bengali": "আর আমি মূসাকে আমার আয়াতসমূহ* ও স্পষ্ট প্রমাণ দিয়ে পাঠিয়েছি, \n* এখানে ‘আয়াত’ বলতে তাওরাতকে বুঝানো হয়েছে এবং স্পষ্ট প্রমাণ দ্বারা আল্লাহর দেয়া বিশেষ নিদর্শনসমূহ বুঝানো হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_96.mp3"
+        }
+    }
+}

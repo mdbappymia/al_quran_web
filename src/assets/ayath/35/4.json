@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 4,
+    "english": "If you are rejected by them, so too were messengers before you. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "وان يكذبوك فقد كذبت رسل من قبلك والى الله ترجع الامور",
+    "bengali": "আর যদি তারা তোমাকে মিথ্যাবাদী বলে, তবে তোমার পূর্বের রাসূলগণকেও মিথ্যাবাদী বলা হয়েছিল। আর সকল বিষয় আল্লাহর-ই কাছে ফিরিয়ে নেয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_4.mp3"
+        }
+    }
+}

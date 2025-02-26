@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 35,
+    "english": "and ornaments ˹of gold˺. Yet all this is no more than a ˹fleeting˺ enjoyment in this worldly life. ˹But˺ the Hereafter with your Lord is ˹only˺ for those mindful ˹of Him˺.",
+    "arabic1": "وَزُخْرُفًا ۚ وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَٱلْـَٔاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
+    "arabic2": "وزخرفا وان كل ذلك لما متاع الحياة الدنيا والاخرة عند ربك للمتقين",
+    "bengali": "আর তাদের জন্য স্বর্ণনির্মিত এর সব কয়টিই দুনিয়ার জীবনের ভোগ-সামগ্রী। আর আখিরাত তো তোমার রবের কাছে মুত্তাকীদের জন্য ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_35.mp3"
+        }
+    }
+}

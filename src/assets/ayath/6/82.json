@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 82,
+    "english": "It is ˹only˺ those who are faithful and do not tarnish their faith with falsehood who are guaranteed security and are ˹rightly˺ guided.",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+    "arabic2": "الذين امنوا ولم يلبسوا ايمانهم بظلم اولئك لهم الامن وهم مهتدون",
+    "bengali": "যারা ঈমান এনেছে এবং নিজ ঈমানকে যুলমের সাথে সংমিশ্রণ করেনি, তাদের জন্যই নিরাপত্তা এবং তারাই হিদায়াতপ্রাপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_82.mp3"
+        }
+    }
+}

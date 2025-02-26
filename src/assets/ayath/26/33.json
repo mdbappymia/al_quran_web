@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 33,
+    "english": "Then he drew his hand ˹out of his collar˺ and it was ˹shining˺ white for all to see.",
+    "arabic1": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+    "arabic2": "ونزع يده فاذا هي بيضاء للناظرين",
+    "bengali": "আর সে তার হাত বের করল, ফলে তা তৎক্ষণাৎ দর্শকদের সামনে উজ্জ্বল-সাদা হয়ে দেখা দিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_33.mp3"
+        }
+    }
+}

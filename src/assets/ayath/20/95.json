@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 95,
+    "english": "Moses then asked, “What did you think you were doing, O  Sâmiri?”",
+    "arabic1": "قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ",
+    "arabic2": "قال فما خطبك يا سامري",
+    "bengali": "মূসা বলল, ‘হে সামেরী! তোমার কী অবস্থা’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_95.mp3"
+        }
+    }
+}

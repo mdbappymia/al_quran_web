@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 151,
+    "english": "Since We have sent you a messenger from among yourselves—reciting to you Our revelations, purifying you, teaching you the Book and wisdom, and teaching you what you never knew—",
+    "arabic1": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+    "arabic2": "كما ارسلنا فيكم رسولا منكم يتلو عليكم اياتنا ويزكيكم ويعلمكم الكتاب والحكمة ويعلمكم ما لم تكونوا تعلمون",
+    "bengali": "যেভাবে আমি তোমাদের মধ্যে একজন রাসূল প্রেরণ করেছি তোমাদের মধ্য থেকে, যে তোমাদের কাছে আমার আয়াতসমূহ তিলাওয়াত করে, তোমাদেরকে পবিত্র করে এবং কিতাব ও হিকমত শিক্ষা দেয়। আর তোমাদেরকে শিক্ষা দেয় এমন কিছু যা তোমরা জানতে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_151.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_151.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_151.mp3"
+        }
+    }
+}

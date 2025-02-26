@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 96,
+    "english": "Say, “Sufficient is Allah as a Witness between me and you. He is certainly All-Knowing, All-Seeing of His servants.”",
+    "arabic1": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+    "arabic2": "قل كفى بالله شهيدا بيني وبينكم انه كان بعباده خبيرا بصيرا",
+    "bengali": "বল, ‘আল্লাহই যথেষ্ট আমার ও তোমাদের মধ্যে স্বাক্ষী হিসেবে; নিশ্চয় তিনি তাঁর বান্দাদের ব্যাপারে পূর্ণ জ্ঞাত, পূর্ণ দ্রষ্টা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_96.mp3"
+        }
+    }
+}

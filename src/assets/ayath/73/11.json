@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 11,
+    "english": "And leave to Me the deniers—the people of luxury—and bear with them for a little while.",
+    "arabic1": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+    "arabic2": "وذرني والمكذبين اولي النعمة ومهلهم قليلا",
+    "bengali": "আর ছেড়ে দাও আমাকে এবং বিলাস সামগ্রীর অধিকারী মিথ্যারোপকারীদেরকে। আর তাদেরকে কিছুকাল অবকাশ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_11.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 12,
+    "english": "The truth is: you thought that the Messenger and the believers would never return to their families again. And that was made appealing in your hearts. You harboured evil thoughts ˹about Allah˺, and ˹so˺ became a doomed people.”",
+    "arabic1": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+    "arabic2": "بل ظننتم ان لن ينقلب الرسول والمؤمنون الى اهليهم ابدا وزين ذلك في قلوبكم وظننتم ظن السوء وكنتم قوما بورا",
+    "bengali": "বরং তোমরা মনে করেছিলে রাসূল ও মুমিনরা তাদের পরিবারের কাছে কখনো ফিরে আসবে না; আর এটি তোমাদের অন্তরে শোভিত করে দেয়া হয়েছিল; আর তোমরা মন্দ ধারণা করেছিলে এবং তোমরা ছিলে ধংসোম্মুখ কওম ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_12.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 78,
+    "english": "The disbelievers among the Children of Israel were condemned in the revelations of David and Jesus, son of Mary. That was for their disobedience and violations.",
+    "arabic1": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+    "arabic2": "لعن الذين كفروا من بني اسرائيل على لسان داوود وعيسى ابن مريم ذلك بما عصوا وكانوا يعتدون",
+    "bengali": "বনী ইসরাঈলের মধ্যে যারা কুফরী করেছে তাদেরকে দাঊদ ও মারইয়াম পুত্র ঈসার মুখে লা‘নত করা হয়েছে। তা এ কারণে যে, তারা অবাধ্য হয়েছে এবং তারা সীমালঙ্ঘন করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_78.mp3"
+        }
+    }
+}

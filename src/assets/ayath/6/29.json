@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 29,
+    "english": "They insisted, “There is nothing beyond this worldly life and we will never be resurrected.”",
+    "arabic1": "وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+    "arabic2": "وقالوا ان هي الا حياتنا الدنيا وما نحن بمبعوثين",
+    "bengali": "আর তারা বলেছিল, ‘আমাদের এ দুনিয়ার জীবন ছাড়া কিছু নেই এবং আমরা পুনরুজ্জীবিত হব না।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_29.mp3"
+        }
+    }
+}

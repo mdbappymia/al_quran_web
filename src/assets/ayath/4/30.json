@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 30,
+    "english": "And whoever does this sinfully and unjustly, We will burn them in the Fire. That is easy for Allah.",
+    "arabic1": "وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+    "arabic2": "ومن يفعل ذلك عدوانا وظلما فسوف نصليه نارا وكان ذلك على الله يسيرا",
+    "bengali": "আর যে ঐ কাজ করবে সীমালঙ্ঘন ও অন্যায়ভাবে, আমি অচিরেই তাকে আগুনে প্রবেশ করাব। আর সেটি হবে আল্লাহর উপর সহজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_30.mp3"
+        }
+    }
+}

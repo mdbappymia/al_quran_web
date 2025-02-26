@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taariq",
+    "surahNameArabic": "الطارق",
+    "surahNameArabicLong": "سورة الطارق",
+    "surahNameTranslation": "The Morning Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 17,
+    "surahNo": 86,
+    "ayahNo": 2,
+    "english": "And what will make you realize what the nightly star is?",
+    "arabic1": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+    "arabic2": "وما ادراك ما الطارق",
+    "bengali": "আর কিসে তোমাকে জানাবে রাতে আগমনকারী কী?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/86_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/86_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/86_2.mp3"
+        }
+    }
+}

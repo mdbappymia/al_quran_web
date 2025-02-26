@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 131,
+    "english": "In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him. Surely all is destined by Allah. Yet most of them did not know.",
+    "arabic1": "فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَـٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَـٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic2": "فاذا جاءتهم الحسنة قالوا لنا هذه وان تصبهم سيئة يطيروا بموسى ومن معه الا انما طائرهم عند الله ولكن اكثرهم لا يعلمون",
+    "bengali": "অতঃপর যখন তাদের কাছে কল্যাণ আসত, তখন তারা বলত, ‘এটা আমাদের জন্য।’ আর যখন তাদের কাছে অকল্যাণ পৌঁছত তখন তারা মূসা ও তার সঙ্গীদেরকে অশুভলক্ষুণে মনে করত। তাদের কল্যাণ-অকল্যাণ তো আল্লাহর কাছে। কিন্তু তাদের অধিকাংশ জানে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_131.mp3"
+        }
+    }
+}

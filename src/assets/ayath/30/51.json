@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 51,
+    "english": "Then if We send a ˹harsh˺ wind which they see withering ˹their˺ crops, they will definitely deny ˹old favours˺ right after.",
+    "arabic1": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَّظَلُّوا۟ مِنۢ بَعْدِهِۦ يَكْفُرُونَ",
+    "arabic2": "ولئن ارسلنا ريحا فراوه مصفرا لظلوا من بعده يكفرون",
+    "bengali": "আর যদি আমি এমন বাতাস প্রেরণ করি যার ফলে তারা শস্যকে হলুদ রঙের দেখতে পায়। তখন তো তারা অকৃতজ্ঞ হয়ে পড়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_51.mp3"
+        }
+    }
+}

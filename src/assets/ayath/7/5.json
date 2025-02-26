@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 5,
+    "english": "Their only cry—when overwhelmed by Our torment—was, “We have indeed been wrongdoers.”",
+    "arabic1": "فَمَا كَانَ دَعْوَىٰهُمْ إِذْ جَآءَهُم بَأْسُنَآ إِلَّآ أَن قَالُوٓا۟ إِنَّا كُنَّا ظَـٰلِمِينَ",
+    "arabic2": "فما كان دعواهم اذ جاءهم باسنا الا ان قالوا انا كنا ظالمين",
+    "bengali": "সুতরাং যখন তাদের নিকট আমার আযাব এসেছে, তখন তাদের দাবী কেবল এই ছিল যে, তারা বলল, ‘নিশ্চয় আমরা যালিম ছিলাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_5.mp3"
+        }
+    }
+}

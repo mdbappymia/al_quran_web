@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 27,
+    "english": "Do you not see that Allah sends down rain from the sky with which We bring forth fruits of different colours? And in the mountains are streaks of varying shades of white, red, and raven black;",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ",
+    "arabic2": "الم تر ان الله انزل من السماء ماء فاخرجنا به ثمرات مختلفا الوانها ومن الجبال جدد بيض وحمر مختلف الوانها وغرابيب سود",
+    "bengali": "তুমি কি দেখনি আল্লাহ আসমান থেকে পানি বর্ষণ করেন, তারপর তা দিয়ে আমি বিচিত্র বর্ণের ফলমূল উৎপাদন করি আর পাহাড়ের মধ্যে রয়েছে নানা বর্ণের শুভ্র ও লাল পথ এবং (কিছু) মিশকালো।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_27.mp3"
+        }
+    }
+}

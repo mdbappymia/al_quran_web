@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 62,
+    "english": "How ˹horrible˺ will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”",
+    "arabic1": "فَكَيْفَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَـٰنًا وَتَوْفِيقًا",
+    "arabic2": "فكيف اذا اصابتهم مصيبة بما قدمت ايديهم ثم جاءوك يحلفون بالله ان اردنا الا احسانا وتوفيقا",
+    "bengali": "সুতরাং তখন কেমন হবে, যখন তাদের উপর কোন মুসীবত আসবে, সেই কারণে যা তাদের হাত পূর্বেই প্রেরণ করেছে? তারপর তারা আল্লাহর নামে শপথ করা অবস্থায় তোমার কাছে আসবে যে, আমরা কল্যাণ ও সম্প্রীতি ভিন্ন অন্য কিছু চাইনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_62.mp3"
+        }
+    }
+}

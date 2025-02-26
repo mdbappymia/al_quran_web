@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 175,
+    "english": "They are the ones who trade guidance for misguidance and forgiveness for punishment. How persistent are they in pursuit of the Fire!",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ",
+    "arabic2": "اولئك الذين اشتروا الضلالة بالهدى والعذاب بالمغفرة فما اصبرهم على النار",
+    "bengali": "তারাই হিদায়াতের পরিবর্তে পথভ্রষ্টতা এবং মাগফিরাতের পরিবর্তে আযাব ক্রয় করেছে। আগুনের উপর তারা কতই না ধৈর্যশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_175.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_175.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_175.mp3"
+        }
+    }
+}

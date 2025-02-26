@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 1,
+    "english": "When the sky splits open",
+    "arabic1": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+    "arabic2": "اذا السماء انفطرت",
+    "bengali": "যখন আসমান বিদীর্ণ হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/82_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/82_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/82_1.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 58,
+    "english": "We can surely meet you with similar magic. So set for us an appointment that neither of us will fail to keep, in a central place.”",
+    "arabic1": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى",
+    "arabic2": "فلناتينك بسحر مثله فاجعل بيننا وبينك موعدا لا نخلفه نحن ولا انت مكانا سوى",
+    "bengali": "‘তাহলে আমরা অবশ্যই তোমার নিকট অনুরূপ যাদু নিয়ে আসব। সুতরাং একটা মধ্যবর্তী স্থানে আমাদের ও তোমার মিলিত হওয়ার জন্য একটি সময় নির্ধারণ কর, যা আমরাও লঙ্ঘন করব না, তুমিও করবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_58.mp3"
+        }
+    }
+}

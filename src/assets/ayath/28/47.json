@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 47,
+    "english": "Also so they would not say, if struck by an affliction for what their hands have done: “Our Lord! If only You had sent us a messenger, we would have followed Your revelations and become believers.”",
+    "arabic1": "وَلَوْلَآ أَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا۟ رَبَّنَا لَوْلَآ أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ ءَايَـٰتِكَ وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولولا ان تصيبهم مصيبة بما قدمت ايديهم فيقولوا ربنا لولا ارسلت الينا رسولا فنتبع اياتك ونكون من المؤمنين",
+    "bengali": "তাদের কৃতকর্মের কারণে তাদের উপর কোন বিপদ আসলে তারা যাতে বলতে না পারে, ‘হে আমাদের রব, আপনি আমাদের কাছে কোন রাসূল পাঠালেন না কেন? তাহলে আমরা আপনার আয়াতসমূহ অনুসরণ করতাম আর আমরা মুমিনদের অন্তর্ভুর্ক্ত হতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_47.mp3"
+        }
+    }
+}

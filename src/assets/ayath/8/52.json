@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 52,
+    "english": "Their fate is that of the people of Pharaoh and those before them—they all disbelieved in Allah’s signs, so Allah seized them for their sins. Indeed, Allah is All-Powerful, severe in punishment.",
+    "arabic1": "كَدَأْبِ ءَالِ فِرْعَوْنَ ۙ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ ٱللَّهَ قَوِىٌّ شَدِيدُ ٱلْعِقَابِ",
+    "arabic2": "كداب ال فرعون والذين من قبلهم كفروا بايات الله فاخذهم الله بذنوبهم ان الله قوي شديد العقاب",
+    "bengali": "ফিরআউন বংশ ও তাদের পূর্বের লোকদের আচরণের মত তারা আল্লাহর আয়াতসমূহ অস্বীকার করেছে, ফলে তাদের পাপের কারণে আল্লাহ তাদেরকে পাকড়াও করেছেন। নিশ্চয় আল্লাহ শক্তিশালী, কঠিন আযাবদাতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_52.mp3"
+        }
+    }
+}

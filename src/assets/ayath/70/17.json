@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 17,
+    "english": "It will summon whoever turned their backs ˹on Allah˺ and turned away ˹from the truth˺",
+    "arabic1": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+    "arabic2": "تدعو من ادبر وتولى",
+    "bengali": "জাহান্নাম তাকে ডাকবে যে পৃষ্ঠ প্রদর্শন করেছিল এবং মুখ ফিরিয়ে নিয়েছিল ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_17.mp3"
+        }
+    }
+}

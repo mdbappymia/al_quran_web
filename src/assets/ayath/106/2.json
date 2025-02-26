@@ -1,0 +1,28 @@
+{
+    "surahName": "Quraish",
+    "surahNameArabic": "قريش",
+    "surahNameArabicLong": "سورة قريش",
+    "surahNameTranslation": "Quraysh",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 106,
+    "ayahNo": 2,
+    "english": "secure in their trading caravan ˹to Yemen˺ in the winter and ˹Syria˺ in the summer—",
+    "arabic1": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+    "arabic2": "ايلافهم رحلة الشتاء والصيف",
+    "bengali": "শীত ও গ্রীষ্মের সফরে তারা অভ্যস্ত হওয়ায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/106_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/106_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/106_2.mp3"
+        }
+    }
+}

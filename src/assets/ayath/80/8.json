@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 8,
+    "english": "But as for the one who came to you, eager ˹to learn˺",
+    "arabic1": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+    "arabic2": "واما من جاءك يسعى",
+    "bengali": "পক্ষান্তরে যে তোমার কাছে ছুটে আসল,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_8.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 11,
+    "english": "Have you ˹O Prophet˺ not seen the hypocrites who say to their fellow disbelievers from the People of the Book, “If you are expelled, we will certainly leave with you, and We will never obey anyone against you. And if you are fought against, we will surely help you.”? But Allah bears witness that they are truly liars.",
+    "arabic1": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic2": "الم تر الى الذين نافقوا يقولون لاخوانهم الذين كفروا من اهل الكتاب لئن اخرجتم لنخرجن معكم ولا نطيع فيكم احدا ابدا وان قوتلتم لننصرنكم والله يشهد انهم لكاذبون",
+    "bengali": "তুমি কি মুনাফিকদেরকে দেখনি যারা আহলে কিতাবের মধ্য হতে তাদের কাফির ভাইদেরকে বলে, ‘তোমাদেরকে বের করে দেয়া হলে আমরাও তোমাদের সাথে অবশ্য বেরিয়ে যাব এবং তোমাদের ব্যাপারে আমরা কখনোই কারো আনুগত্য করব না। আর তোমাদের সাথে যুদ্ধ করা হলে আমরা অবশ্যই তোমাদেরকে সাহায্য করব।’ আর আল্লাহ সাক্ষ্য দিচ্ছেন যে, তারা মিথ্যাবাদী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_11.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 15,
+    "english": "Indeed, We have sent to you a messenger as a witness over you, just as We sent a messenger to Pharaoh.",
+    "arabic1": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
+    "arabic2": "انا ارسلنا اليكم رسولا شاهدا عليكم كما ارسلنا الى فرعون رسولا",
+    "bengali": "নিশ্চয় আমি তোমাদের জন্য স্বাক্ষীস্বরূপ তোমাদের কাছে রাসূল পাঠিয়েছি যেমনিভাবে ফির‘আউনের কাছে রাসূল পাঠিয়েছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_15.mp3"
+        }
+    }
+}

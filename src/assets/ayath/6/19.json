@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 19,
+    "english": "Ask ˹them, O  Prophet˺, “Who is the best witness?” Say, “Allah is! He is a Witness between me and you. And this Quran has been revealed to me so that, with it, I may warn you and whoever it reaches. Do you ˹pagans˺ testify that there are other gods besides Allah?” ˹Then˺ say, “I will never testify ˹to this˺!” ˹And˺ say, “There is only One God. And I totally reject whatever ˹idols˺ you associate with Him.”",
+    "arabic1": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+    "arabic2": "قل اي شيء اكبر شهادة قل الله شهيد بيني وبينكم واوحي الي هذا القران لانذركم به ومن بلغ ائنكم لتشهدون ان مع الله الهة اخرى قل لا اشهد قل انما هو اله واحد وانني بريء مما تشركون",
+    "bengali": "বল, ‘সাক্ষ্য হিসেবে সবচেয়ে বড় বস্তু কী?’ বল, ‘আল্লাহ সাক্ষী আমার ও তোমাদের মধ্যে। আর এ কুরআন আমার কাছে ওহী করে পাঠানো হয়েছে যেন তোমাদেরকে ও যার কাছে এটা পৌঁছবে তাদেরকে এর মাধ্যমে আমি সতর্ক করি। তোমরাই কি সাক্ষ্য দাও যে, আল্লাহর সাথে রয়েছে অন্যান্য উপাস্য? বল, ‘আমি সাক্ষ্য দেই না’। বল, ‘তিনি কেবল এক ইলাহ আর তোমরা যা শরীক কর আমি নিশ্চয়ই তা থেকে মুক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_19.mp3"
+        }
+    }
+}

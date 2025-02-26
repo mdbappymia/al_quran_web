@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 2,
+    "english": "To Him belongs the kingdom of the heavens and the earth. He gives life and causes death. And He is Most Capable of everything.",
+    "arabic1": "لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "arabic2": "له ملك السماوات والارض يحيي ويميت وهو على كل شيء قدير",
+    "bengali": "আসমানসমূহ ও যমীনের রাজত্ব তাঁরই। তিনিই জীবন দেন এবং তিনিই মৃত্যু দেন। আর তিনি সকল কিছুর উপর সর্বশক্তিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_2.mp3"
+        }
+    }
+}

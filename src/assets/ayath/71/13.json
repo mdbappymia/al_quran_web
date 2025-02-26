@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 13,
+    "english": "What is the matter with you that you are not in awe of the Majesty of Allah",
+    "arabic1": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+    "arabic2": "ما لكم لا ترجون لله وقارا",
+    "bengali": "‘তোমাদের কী হল, তোমরা আল্লাহর শ্রেষ্ঠত্বের পরোয়া করছ না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_13.mp3"
+        }
+    }
+}

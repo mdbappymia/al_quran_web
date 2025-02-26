@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 62,
+    "english": "he said, “You are surely an unfamiliar people!”",
+    "arabic1": "قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ",
+    "arabic2": "قال انكم قوم منكرون",
+    "bengali": "সে বলল, ‘তোমরা তো অপরিচিত লোক’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_62.mp3"
+        }
+    }
+}

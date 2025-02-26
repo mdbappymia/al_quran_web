@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 71,
+    "english": "He said, “You will certainly be subjected to your Lord’s torment and wrath. Do you dispute with me regarding the so-called gods which you and your forefathers have made up—a practice Allah has never authorized? Then wait! I too am waiting with you.”",
+    "arabic1": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ ۖ أَتُجَـٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+    "arabic2": "قال قد وقع عليكم من ربكم رجس وغضب اتجادلونني في اسماء سميتموها انتم واباؤكم ما نزل الله بها من سلطان فانتظروا اني معكم من المنتظرين",
+    "bengali": "সে বলল, ‘নিশ্চয় তোমাদের উপর তোমাদের রবের পক্ষ থেকে আযাব ও ক্রোধ পতিত হয়েছে। তোমরা কি এমন নামসমূহের ব্যাপারে আমার সাথে বিবাদ করছ, যার নামকরণ করেছ তোমরা ও তোমাদের পিতৃপুরুষরা, যার ব্যাপারে আল্লাহ কোন প্রমাণ নাযিল করেননি? সুতরাং তোমরা অপেক্ষা কর। আমিও তোমাদের সাথে অপেক্ষা করছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_71.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_71.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_71.mp3"
+        }
+    }
+}

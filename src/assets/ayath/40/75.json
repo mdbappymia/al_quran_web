@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 75,
+    "english": "˹They will be told,˺ “This ˹punishment˺ is for being prideful on earth unjustly and for acting arrogantly.",
+    "arabic1": "ذَٰلِكُم بِمَا كُنتُمْ تَفْرَحُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَمْرَحُونَ",
+    "arabic2": "ذلكم بما كنتم تفرحون في الارض بغير الحق وبما كنتم تمرحون",
+    "bengali": "এটা এ জন্য যে, তোমরা যমীনে অযথা উল্লাস করতে এবং এজন্য যে, তোমরা অহঙ্কার করতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_75.mp3"
+        }
+    }
+}

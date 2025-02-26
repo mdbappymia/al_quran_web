@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 14,
+    "english": "It is they who will be the residents of Paradise, staying there forever, as a reward for what they used to do.",
+    "arabic1": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ خَـٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اولئك اصحاب الجنة خالدين فيها جزاء بما كانوا يعملون",
+    "bengali": "তারাই জান্নাতের অধিবাসী, তাতে তারা স্থায়ীভাবে থাকবে, তারা যা আমল করত তার পুরস্কারস্বরূপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_14.mp3"
+        }
+    }
+}

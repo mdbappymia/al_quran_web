@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 71,
+    "english": "Yet they worship besides Allah that for which He has sent down no authority, and of which they have no knowledge. The wrongdoers will have no helper.",
+    "arabic1": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌ ۗ وَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ",
+    "arabic2": "ويعبدون من دون الله ما لم ينزل به سلطانا وما ليس لهم به علم وما للظالمين من نصير",
+    "bengali": "আর তারা আল্লাহর পরিবর্তে এমন কিছুর ইবাদাত করে, যে সম্পর্কে তিনি কোন প্রমাণ নাযিল করেননি এবং যে ব্যাপারে তাদেরও কোন জ্ঞান নেই। আর যালিমদের কোন সাহায্যকারী নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_71.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_71.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_71.mp3"
+        }
+    }
+}

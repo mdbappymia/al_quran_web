@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 7,
+    "english": "once they think they are self-sufficient.",
+    "arabic1": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+    "arabic2": "ان راه استغنى",
+    "bengali": "কেননা সে নিজকে মনে করে স্বয়ংসম্পূর্ণ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_7.mp3"
+        }
+    }
+}

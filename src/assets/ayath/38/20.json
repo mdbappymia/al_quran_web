@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 20,
+    "english": "We strengthened his kingship, and gave him wisdom and sound judgment.",
+    "arabic1": "وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ",
+    "arabic2": "وشددنا ملكه واتيناه الحكمة وفصل الخطاب",
+    "bengali": "আর আমি তার রাজত্বকে সুদৃঢ় করেছিলাম এবং তাকে প্রজ্ঞা ও ফয়সালাকারী বাগ্মিতা দিয়েছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_20.mp3"
+        }
+    }
+}

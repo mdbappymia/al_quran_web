@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 53,
+    "english": "They challenge you ˹O Prophet˺ to hasten the punishment. Had it not been for a time already set, the punishment would have certainly come to them ˹at once˺. But it will definitely take them by surprise when they least expect it.",
+    "arabic1": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ ۚ وَلَوْلَآ أَجَلٌ مُّسَمًّى لَّجَآءَهُمُ ٱلْعَذَابُ وَلَيَأْتِيَنَّهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "ويستعجلونك بالعذاب ولولا اجل مسمى لجاءهم العذاب ولياتينهم بغتة وهم لا يشعرون",
+    "bengali": "আর তারা তোমাকে আযাব ত্বরান্বিত করতে বলে। যদি নির্ধারিত সময় না থাকত, তবে তাদের উপর অবশ্যই আযাব আসত এবং তা আকস্মিকভাবে তাদের উপর আসবেই। অথচ তারা টেরও পাবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_53.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 108,
+    "english": "They try to hide ˹their deception˺ from people, but they can never hide it from Allah—in Whose presence they plot by night what is displeasing to Him. And Allah is Fully Aware of what they do.",
+    "arabic1": "يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+    "arabic2": "يستخفون من الناس ولا يستخفون من الله وهو معهم اذ يبيتون ما لا يرضى من القول وكان الله بما يعملون محيطا",
+    "bengali": "তারা মানুষের কাছ থেকে লুকাতে চায়, আর আল্লাহর কাছ থেকে লুকাতে চায় না। অথচ তিনি তাদের সাথেই থাকেন যখন তারা রাতে এমন কথার পরিকল্পনা করে যা তিনি পছন্দ করেন না। আর আল্লাহ তারা যা করে তা পরিবেষ্টন করে আছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_108.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 141,
+    "english": "The people of Thamûd rejected the messengers",
+    "arabic1": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ",
+    "arabic2": "كذبت ثمود المرسلين",
+    "bengali": "সামূদ জাতি রাসুলদেরকে অস্বীকার করেছিল,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_141.mp3"
+        }
+    }
+}

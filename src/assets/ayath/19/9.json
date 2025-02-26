@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 9,
+    "english": "An angel replied, “So will it be! Your Lord says, ‘It is easy for Me, just as I created you before, when you were nothing!’”",
+    "arabic1": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+    "arabic2": "قال كذلك قال ربك هو علي هين وقد خلقتك من قبل ولم تك شيئا",
+    "bengali": "সে (ফেরেশতা) বলল, ‘এভাবেই’। তোমার রব বলেছেন, ‘এটা আমার জন্য সহজ। আমি তো ইতঃপূর্বে তোমাকে সৃষ্টি করেছি, তখন তুমি কিছুই ছিলে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_9.mp3"
+        }
+    }
+}

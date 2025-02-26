@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 48,
+    "english": "They had already sought to spread discord before and devised every ˹possible˺ plot against you ˹O Prophet˺, until the truth came and Allah’s Will prevailed—much to their dismay.",
+    "arabic1": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَـٰرِهُونَ",
+    "arabic2": "لقد ابتغوا الفتنة من قبل وقلبوا لك الامور حتى جاء الحق وظهر امر الله وهم كارهون",
+    "bengali": "অবশ্য তারা ইতঃপূর্বে ফিতনা অনুসন্ধান করেছিল এবং তোমার কাজগুলো পালটে দিয়েছিল, অবশেষে হকের আগমন ঘটল এবং আল্লাহর দীন বিজয়ী হল, অথচ তারা ছিল অপছন্দকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_48.mp3"
+        }
+    }
+}

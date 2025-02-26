@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Falaq",
+    "surahNameArabic": "الفلق",
+    "surahNameArabicLong": "سورة الفلق",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 113,
+    "ayahNo": 1,
+    "english": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of the daybreak",
+    "arabic1": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "arabic2": "قل اعوذ برب الفلق",
+    "bengali": "বল, ‘আমি আশ্রয় প্রার্থনা করছি ঊষার রবের কাছে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/113_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/113_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/113_1.mp3"
+        }
+    }
+}

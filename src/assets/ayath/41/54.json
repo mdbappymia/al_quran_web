@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 54,
+    "english": "They are truly in doubt of the meeting with their Lord! ˹But˺ He is indeed Fully Aware of everything.",
+    "arabic1": "أَلَآ إِنَّهُمْ فِى مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ ۗ أَلَآ إِنَّهُۥ بِكُلِّ شَىْءٍ مُّحِيطٌۢ",
+    "arabic2": "الا انهم في مرية من لقاء ربهم الا انه بكل شيء محيط",
+    "bengali": "জেনে রাখ, নিশ্চয় তারা তাদের রবের সাক্ষাতের বিষয়ে সন্দেহে রয়েছে; জেনে রাখ, নিশ্চয় তিনি সবকিছুকে পরিবেষ্টন করে আছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_54.mp3"
+        }
+    }
+}

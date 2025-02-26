@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 22,
+    "english": "Whenever they try to escape from Hell—out of anguish—they will be forced back into it, ˹and will be told,˺ “Taste the torment of burning!”",
+    "arabic1": "كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "كلما ارادوا ان يخرجوا منها من غم اعيدوا فيها وذوقوا عذاب الحريق",
+    "bengali": "যখনই তারা যন্ত্রণাকাতর হয়ে তা থেকে বের হয়ে আসতে চাইবে, তখনই তাদেরকে তাতে ফিরিয়ে দেয়া হবে এবং বলা হবে, দহন-যন্ত্রণা আস্বাদন কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_22.mp3"
+        }
+    }
+}

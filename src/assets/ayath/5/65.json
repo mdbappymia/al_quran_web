@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 65,
+    "english": "Had the People of the Book only been faithful and mindful ˹of Allah˺, We would have certainly absolved them of their sins and admitted them into the Gardens of Bliss.",
+    "arabic1": "وَلَوْ أَنَّ أَهْلَ ٱلْكِتَـٰبِ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَكَفَّرْنَا عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأَدْخَلْنَـٰهُمْ جَنَّـٰتِ ٱلنَّعِيمِ",
+    "arabic2": "ولو ان اهل الكتاب امنوا واتقوا لكفرنا عنهم سيئاتهم ولادخلناهم جنات النعيم",
+    "bengali": "আর যদি কিতাবীরা ঈমান আনত এবং তাকওয়া অবলম্বন করত তবে অবশ্যই আমি তাদের থেকে পাপগুলো দূর করে দিতাম এবং অবশ্যই তাদেরকে আরামদায়ক জান্নাতসমূহে প্রবেশ করাতাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_65.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 28,
+    "english": "He said, “O my people! Consider if I stand on a clear proof from my Lord and He has blessed me with a mercy from Himself, which you fail to see. Should we ˹then˺ force it on you against your will?",
+    "arabic1": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَءَاتَىٰنِى رَحْمَةً مِّنْ عِندِهِۦ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنتُمْ لَهَا كَـٰرِهُونَ",
+    "arabic2": "قال يا قوم ارايتم ان كنت على بينة من ربي واتاني رحمة من عنده فعميت عليكم انلزمكموها وانتم لها كارهون",
+    "bengali": "সে বলল, ‘হে আমার কওম, তোমরা কি মনে কর, যদি আমি আমার রবের পক্ষ থেকে প্রেরিত প্রমাণের উপর প্রতিষ্ঠিত হই এবং তিনি আমাকে তাঁর পক্ষ থেকে রহমত দিয়ে থাকেন, আর তা তোমাদের কাছে গোপন রাখা হয়, তবে কি আমি তোমাদের উপর তোমাদের অপছন্দ হওয়া সত্ত্বেও তা চাপিয়ে দেব’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_28.mp3"
+        }
+    }
+}

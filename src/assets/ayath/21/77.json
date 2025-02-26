@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 77,
+    "english": "And We made him prevail over those who had rejected Our signs. They were truly an evil people, so We drowned them all.",
+    "arabic1": "وَنَصَرْنَـٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ فَأَغْرَقْنَـٰهُمْ أَجْمَعِينَ",
+    "arabic2": "ونصرناه من القوم الذين كذبوا باياتنا انهم كانوا قوم سوء فاغرقناهم اجمعين",
+    "bengali": "আর আমি তাকে সেই সম্প্রদায়ের বিরুদ্ধে সাহায্য করেছিলাম, যারা আমার আয়াতসমূহকে অস্বীকার করেছিল। তারা ছিল এক মন্দ কওম। তাই আমি তাদের সকলকেই পানিতে ডুবিয়ে মেরেছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_77.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_77.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_77.mp3"
+        }
+    }
+}

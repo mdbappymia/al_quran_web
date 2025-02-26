@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 222,
+    "english": "They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified. When they purify themselves, then you may approach them in the manner specified by Allah. Surely Allah loves those who always turn to Him in repentance and those who purify themselves.”",
+    "arabic1": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+    "arabic2": "ويسالونك عن المحيض قل هو اذى فاعتزلوا النساء في المحيض ولا تقربوهن حتى يطهرن فاذا تطهرن فاتوهن من حيث امركم الله ان الله يحب التوابين ويحب المتطهرين",
+    "bengali": "আর তারা তোমাকে হায়েয সম্পর্কে প্রশ্ন করে। বল, তা কষ্ট। সুতরাং তোমরা হায়েযকালে স্ত্রীদের থেকে দূরে থাক এবং তারা পবিত্র না হওয়া পর্যন্ত তাদের নিকটবর্তী হয়ো না। অতঃপর যখন তারা পবিত্র হবে তখন তাদের নিকট আস, যেভাবে আল্লাহ তোমাদেরকে নির্দেশ দিয়েছেন। নিশ্চয় আল্লাহ তাওবাকারীদেরকে ভালবাসেন এবং ভালবাসেন অধিক পবিত্রতা অর্জনকারীদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_222.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_222.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_222.mp3"
+        }
+    }
+}

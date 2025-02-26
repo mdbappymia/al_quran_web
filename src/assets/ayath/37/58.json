@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 58,
+    "english": "˹Then he will ask his fellow believers,˺ “Can you imagine that we will never die",
+    "arabic1": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+    "arabic2": "افما نحن بميتين",
+    "bengali": "(জান্নাতবাসী ব্যক্তি বলবে) ‘তাহলে আমরা কি আর মরব না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_58.mp3"
+        }
+    }
+}

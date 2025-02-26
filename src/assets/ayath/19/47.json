@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 47,
+    "english": "Abraham responded, “Peace be upon you! I will pray to my Lord for your forgiveness. He has truly been Most Gracious to me.",
+    "arabic1": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّىٓ ۖ إِنَّهُۥ كَانَ بِى حَفِيًّا",
+    "arabic2": "قال سلام عليك ساستغفر لك ربي انه كان بي حفيا",
+    "bengali": "ইবরাহীম বলল, ‘তোমার প্রতি সালাম। আমি আমার রবের কাছে তোমার জন্য ক্ষমা চাইব। নিশ্চয় তিনি আমার প্রতি বড়ই অনুগ্রহশীল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_47.mp3"
+        }
+    }
+}

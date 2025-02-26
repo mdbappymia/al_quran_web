@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 4,
+    "english": "Surely Allah loves those who fight in His cause in ˹solid˺ ranks as if they were one concrete structure.",
+    "arabic1": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌ",
+    "arabic2": "ان الله يحب الذين يقاتلون في سبيله صفا كانهم بنيان مرصوص",
+    "bengali": "নিশ্চয় আল্লাহ তাদেরকে ভালবাসেন, যারা তাঁর পথে সারিবদ্ধ হয়ে যুদ্ধ করে যেন তারা সীসা ঢালা প্রাচীর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/61_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/61_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/61_4.mp3"
+        }
+    }
+}

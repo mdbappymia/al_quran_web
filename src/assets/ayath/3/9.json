@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 9,
+    "english": "Our Lord! You will certainly gather all humanity for the ˹promised˺ Day—about which there is no doubt. Surely Allah does not break His promise.”",
+    "arabic1": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+    "arabic2": "ربنا انك جامع الناس ليوم لا ريب فيه ان الله لا يخلف الميعاد",
+    "bengali": "হে আমাদের রব, নিশ্চয় আপনি মানুষকে সমবেত করবেন এমন একদিন, যাতে কোন সন্দেহ নেই। নিশ্চয় আল্লাহ প্রতিশ্রুতি ভঙ্গ করেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_9.mp3"
+        }
+    }
+}

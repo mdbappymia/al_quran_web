@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 20,
+    "english": "And they argue, “Had the Most Compassionate willed, we would have never worshipped them.” They have no knowledge ˹in support˺ of this ˹claim˺. They do nothing but lie.",
+    "arabic1": "وَقَالُوا۟ لَوْ شَآءَ ٱلرَّحْمَـٰنُ مَا عَبَدْنَـٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَخْرُصُونَ",
+    "arabic2": "وقالوا لو شاء الرحمن ما عبدناهم ما لهم بذلك من علم ان هم الا يخرصون",
+    "bengali": "তারা আর বলে, ‘পরম করুণাময় আল্লাহ ইচ্ছা করলে আমরা এদের ইবাদাত করতাম না’, এ বিষয়ে তাদের কোন জ্ঞান নেই। তারা শুধু মনগড়া কথা বলছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_20.mp3"
+        }
+    }
+}

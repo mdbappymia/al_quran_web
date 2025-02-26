@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 8,
+    "english": "Then I certainly called them openly",
+    "arabic1": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+    "arabic2": "ثم اني دعوتهم جهارا",
+    "bengali": "‘তারপর আমি তাদেরকে প্রকাশ্যে আহবান করেছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_8.mp3"
+        }
+    }
+}

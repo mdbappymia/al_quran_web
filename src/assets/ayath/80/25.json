@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 25,
+    "english": "how We pour down rain in abundance",
+    "arabic1": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+    "arabic2": "انا صببنا الماء صبا",
+    "bengali": "নিশ্চয় আমি প্রচুর পরিমাণে পানি বর্ষণ করি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_25.mp3"
+        }
+    }
+}

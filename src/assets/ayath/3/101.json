@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 101,
+    "english": "How can you disbelieve when Allah’s revelations are recited to you and His Messenger is in your midst? Whoever holds firmly to Allah is surely guided to the Straight Path.",
+    "arabic1": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "وكيف تكفرون وانتم تتلى عليكم ايات الله وفيكم رسوله ومن يعتصم بالله فقد هدي الى صراط مستقيم",
+    "bengali": "আর কিভাবে তোমরা কুফরী কর, অথচ তোমাদের কাছে আল্লাহর আয়াতসমূহ তিলাওয়াত করা হচ্ছে এবং তোমাদের মধ্যে রয়েছে তাঁর রাসূল। আর যে ব্যক্তি আল্লাহকে দৃঢ়ভাবে ধারণ করবে তাকে অবশ্যই সরল পথের দিশা দেয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_101.mp3"
+        }
+    }
+}

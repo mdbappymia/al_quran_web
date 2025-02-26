@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 14,
+    "english": "when He truly created you in stages ˹of development˺?",
+    "arabic1": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+    "arabic2": "وقد خلقكم اطوارا",
+    "bengali": "‘অথচ তিনি তোমাদেরকে নানা স্তরে সৃষ্টি করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_14.mp3"
+        }
+    }
+}

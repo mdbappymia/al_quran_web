@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 7,
+    "english": "Did He not find you unguided then guided you?",
+    "arabic1": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+    "arabic2": "ووجدك ضالا فهدى",
+    "bengali": "আর তিনি তোমাকে পেয়েছেন পথ না জানা অবস্থায়। অতঃপর তিনি পথনির্দেশ দিয়েছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/93_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/93_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/93_7.mp3"
+        }
+    }
+}

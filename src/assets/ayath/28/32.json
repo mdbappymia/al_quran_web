@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 32,
+    "english": "Now put your hand through ˹the opening of˺ your collar, it will come out ˹shining˺ white, unblemished. And cross your arms tightly to calm your fears. These are two proofs from your Lord to Pharaoh and his chiefs. They have truly been a rebellious people.”",
+    "arabic1": "ٱسْلُكْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ وَٱضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ ٱلرَّهْبِ ۖ فَذَٰنِكَ بُرْهَـٰنَانِ مِن رَّبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+    "arabic2": "اسلك يدك في جيبك تخرج بيضاء من غير سوء واضمم اليك جناحك من الرهب فذانك برهانان من ربك الى فرعون وملئه انهم كانوا قوما فاسقين",
+    "bengali": "‘তোমার হাত তোমার বগলে রাখ, এটা ত্রুটিমুক্ত অবস্থায় শুভ্রোজ্জ্বল হয়ে বেরিয়ে আসবে। আর ভয় থেকে রক্ষার জন্য তোমার হাত তোমার নিজের দিকে মিলাও। অতঃপর এ দু’টো তোমার রবের পক্ষ থেকে দু’টি প্রমাণ, ফির‘আউন ও তার পারিষদবর্গের জন্য। নিশ্চয় তারা ফাসিক কওম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_32.mp3"
+        }
+    }
+}

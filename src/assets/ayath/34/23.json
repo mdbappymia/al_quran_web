@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 23,
+    "english": "No intercession will be of any benefit with Him, except by those granted permission by Him. ˹At last,˺ when the dread ˹of Judgment Day˺ is relieved from their hearts ˹because they are permitted to intercede˺, they will ˹excitedly˺ ask ˹the angels˺, “What has your Lord ˹just˺ said?” The angels will reply, “The truth! And He is the Most High, All-Great.”",
+    "arabic1": "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ ۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا۟ ٱلْحَقَّ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ",
+    "arabic2": "ولا تنفع الشفاعة عنده الا لمن اذن له حتى اذا فزع عن قلوبهم قالوا ماذا قال ربكم قالوا الحق وهو العلي الكبير",
+    "bengali": "আর আল্লাহ যাকে অনুমতি দেবেন সে ছাড়া তাঁর কাছে কোন সুপারিশ কারো উপকার করবে না। অবশেষে যখন তাদের অন্তর থেকে ভয় বিদূরিত হবে তখন তারা বলবে, ‘তোমাদের রব কী বলেছেন’? তারা বলবে, ‘সত্যই বলেছেন’ এবং তিনি সুমহান ও সবচেয়ে বড়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_23.mp3"
+        }
+    }
+}

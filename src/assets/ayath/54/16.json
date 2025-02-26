@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 16,
+    "english": "Then how ˹dreadful˺ were My punishment and warnings!",
+    "arabic1": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+    "arabic2": "فكيف كان عذابي ونذر",
+    "bengali": "অতএব আমার আযাব ও ভয় প্রদর্শন কেমন ছিল?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_16.mp3"
+        }
+    }
+}

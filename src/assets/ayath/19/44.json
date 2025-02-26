@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 44,
+    "english": "O  dear father! Do not worship Satan. Surely Satan is ever rebellious against the Most Compassionate.",
+    "arabic1": "يَـٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَـٰنَ ۖ إِنَّ ٱلشَّيْطَـٰنَ كَانَ لِلرَّحْمَـٰنِ عَصِيًّا",
+    "arabic2": "يا ابت لا تعبد الشيطان ان الشيطان كان للرحمن عصيا",
+    "bengali": "‘হে আমার পিতা, তুমি শয়তানের ইবাদাত করো না। নিশ্চয় শয়তান হল পরম করুণাময়ের অবাধ্য’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_44.mp3"
+        }
+    }
+}

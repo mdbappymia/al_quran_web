@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 74,
+    "english": "And to Lot We gave wisdom and knowledge, and delivered him from the society engrossed in shameful practices. They were certainly an evil, rebellious people.",
+    "arabic1": "وَلُوطًا ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَـٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى كَانَت تَّعْمَلُ ٱلْخَبَـٰٓئِثَ ۗ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ فَـٰسِقِينَ",
+    "arabic2": "ولوطا اتيناه حكما وعلما ونجيناه من القرية التي كانت تعمل الخبائث انهم كانوا قوم سوء فاسقين",
+    "bengali": "আর লূতকে আমি প্রজ্ঞা ও জ্ঞান দান করেছিলাম। আমি তাকে এমন এক জনপদ থেকে উদ্ধার করেছিলাম, যার অধিবাসীরা অশ্লীল কাজে লিপ্ত ছিল। তারা ছিল এক মন্দ ও পাপাচারী কওম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_74.mp3"
+        }
+    }
+}

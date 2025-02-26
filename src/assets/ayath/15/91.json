@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 91,
+    "english": "who ˹now˺ accept parts of the Quran, rejecting others.",
+    "arabic1": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+    "arabic2": "الذين جعلوا القران عضين",
+    "bengali": "যারা কুরআনকে বিভিন্ন অংশে ভাগ করেছিল।* \n* ‘বিভিন্ন অংশে ভাগ করেছিল, অর্থাৎ কুরআনকে তারা বিভিন্ন নামে ও বিভিন্ন অভিধায় চি‎‎হ্নত করত, যেমন কেউ বলত, এটি যাদু, কেউ বলত, কবিতা, আবার কেউ বলত, গণকদের গণনা ইত্যাদি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_91.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_91.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_91.mp3"
+        }
+    }
+}

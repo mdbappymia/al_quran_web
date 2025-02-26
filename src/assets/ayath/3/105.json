@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 105,
+    "english": "And do not be like those who split ˹into sects˺ and differed after clear proofs had come to them. It is they who will suffer a tremendous punishment.",
+    "arabic1": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "ولا تكونوا كالذين تفرقوا واختلفوا من بعد ما جاءهم البينات واولئك لهم عذاب عظيم",
+    "bengali": "আর তোমরা তাদের মত হয়ো না, যারা বিভক্ত হয়েছে এবং মতবিরোধ করেছে তাদের নিকট স্পষ্ট নিদর্শনসমূহ আসার পর। আর তাদের জন্যই রয়েছে কঠোর আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_105.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 19,
+    "english": "Then it is surely upon Us to make it clear ˹to you˺.",
+    "arabic1": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+    "arabic2": "ثم ان علينا بيانه",
+    "bengali": "তারপর তার বর্ণনার দায়িত্ব আমারই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_19.mp3"
+        }
+    }
+}

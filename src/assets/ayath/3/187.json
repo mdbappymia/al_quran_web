@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 187,
+    "english": "˹Remember, O  Prophet,˺ when Allah took the covenant of those who were given the Scripture to make it known to people and not hide it, yet they cast it behind their backs and traded it for a fleeting gain. What a miserable profit!",
+    "arabic1": "وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ",
+    "arabic2": "واذ اخذ الله ميثاق الذين اوتوا الكتاب لتبيننه للناس ولا تكتمونه فنبذوه وراء ظهورهم واشتروا به ثمنا قليلا فبئس ما يشترون",
+    "bengali": "আর স্মরণ কর, যখন আল্লাহ কিতাবপ্রাপ্তদের অঙ্গীকার নিয়েছিলেন যে, ‘অবশ্যই তোমরা তা মানুষের নিকট স্পষ্টভাবে বর্ণনা করবে এবং তা গোপন করবে না’। কিন্তু তারা তা তাদের পেছনে ফেলে দেয় এবং তা বিক্রি করে তুচ্ছ মূল্যে। অতএব তারা যা ক্রয় করে, তা কতইনা মন্দ!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_187.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_187.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_187.mp3"
+        }
+    }
+}

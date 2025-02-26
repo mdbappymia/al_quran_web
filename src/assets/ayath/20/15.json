@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 15,
+    "english": "The Hour is sure to come. My Will is to keep it hidden, so that every soul may be rewarded according to their efforts.",
+    "arabic1": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ",
+    "arabic2": "ان الساعة اتية اكاد اخفيها لتجزى كل نفس بما تسعى",
+    "bengali": "‘নিশ্চয় কিয়ামত আসবে; আমি তা গোপন রাখতে চাই যাতে প্রত্যেককে স্বীয় চেষ্টা-সাধনা অনুযায়ী প্রতিদান দেয়া যায়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_15.mp3"
+        }
+    }
+}

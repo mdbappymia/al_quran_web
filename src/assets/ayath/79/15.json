@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 15,
+    "english": "Has the story of Moses reached you ˹O Prophet˺?",
+    "arabic1": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+    "arabic2": "هل اتاك حديث موسى",
+    "bengali": "মূসার বৃত্তান্ত তোমার কাছে পৌঁছেছে কি?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_15.mp3"
+        }
+    }
+}

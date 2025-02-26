@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 30,
+    "english": "Yet Cain convinced himself to kill his brother, so he killed him—becoming a loser.",
+    "arabic1": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+    "arabic2": "فطوعت له نفسه قتل اخيه فقتله فاصبح من الخاسرين",
+    "bengali": "সুতরাং তার নফস তাকে বশ করল তার ভাইকে হত্যা করতে। ফলে সে তাকে হত্যা করল এবং ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_30.mp3"
+        }
+    }
+}

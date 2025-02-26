@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 149,
+    "english": "Wherever you are ˹O Prophet˺, turn your face towards the Sacred Mosque. This is certainly the truth from your Lord. And Allah is never unaware of what you ˹all˺ do.",
+    "arabic1": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic2": "ومن حيث خرجت فول وجهك شطر المسجد الحرام وانه للحق من ربك وما الله بغافل عما تعملون",
+    "bengali": "আর তুমি যেখান থেকেই বের হও, তোমার চেহারা মাসজিদুল হারামের দিকে ফিরাও। আর নিশ্চয় তা সত্য তোমার রবের পক্ষ থেকে এবং তোমরা যা কর, আল্লাহ তা থেকে গাফিল নন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_149.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_149.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_149.mp3"
+        }
+    }
+}

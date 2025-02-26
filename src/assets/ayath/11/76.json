@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 76,
+    "english": "˹The angels said,˺ “O Abraham! Plead no more! Your Lord’s decree has already come, and they will certainly be afflicted with a punishment that cannot be averted!”",
+    "arabic1": "يَـٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَـٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍ",
+    "arabic2": "يا ابراهيم اعرض عن هذا انه قد جاء امر ربك وانهم اتيهم عذاب غير مردود",
+    "bengali": "হে ইবরাহীম, তুমি এ থেকে বিরত হও। নিশ্চয় তোমার রবের সিদ্ধান্ত এসে গেছে এবং নিশ্চয় তাদের উপর আসবে আযাব, যা প্রতিহত হবার নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_76.mp3"
+        }
+    }
+}

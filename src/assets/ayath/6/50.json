@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 50,
+    "english": "Say, ˹O Prophet,˺ “I do not say to you that I possess Allah’s treasuries or know the unseen, nor do I claim to be an angel. I only follow what is revealed to me.” Say, “Are those blind ˹to the truth˺ equal to those who can see? Will you not then reflect?”",
+    "arabic1": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+    "arabic2": "قل لا اقول لكم عندي خزائن الله ولا اعلم الغيب ولا اقول لكم اني ملك ان اتبع الا ما يوحى الي قل هل يستوي الاعمى والبصير افلا تتفكرون",
+    "bengali": "বল, ‘তোমাদেরকে আমি বলি না, আমার কাছে আল্লাহর ভান্ডারসমূহ রয়েছে এবং আমি গায়েব জানি না এবং তোমাদেরকে বলি না, নিশ্চয় আমি ফেরেশতা। আমি কেবল তাই অনুসরণ করি যা আমার কাছে ওহী প্রেরণ করা হয়’। বল, ‘অন্ধ আর চক্ষুষ্মান কি সমান হতে পারে? অতএব তোমরা কি চিন্তা করবে না?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_50.mp3"
+        }
+    }
+}

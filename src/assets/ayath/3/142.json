@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 142,
+    "english": "Do you think you will enter Paradise without Allah proving which of you ˹truly˺ struggled ˹for His cause˺ and patiently endured?",
+    "arabic1": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّـٰبِرِينَ",
+    "arabic2": "ام حسبتم ان تدخلوا الجنة ولما يعلم الله الذين جاهدوا منكم ويعلم الصابرين",
+    "bengali": "তোমরা কি মনে কর যে, তোমরা জান্নাতে প্রবেশ করবে? অথচ আল্লাহ এখনো জানেননি তাদেরকে যারা তোমাদের মধ্য থেকে জিহাদ করেছে এবং জানেননি ধৈর্যশীলদেরকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_142.mp3"
+        }
+    }
+}

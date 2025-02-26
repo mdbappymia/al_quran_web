@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 204,
+    "english": "Do they ˹really˺ seek to hasten Our torment?",
+    "arabic1": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+    "arabic2": "افبعذابنا يستعجلون",
+    "bengali": "তাহলে কি তারা আমার আযাব ত্বরান্বিত করতে চায়?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_204.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_204.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_204.mp3"
+        }
+    }
+}

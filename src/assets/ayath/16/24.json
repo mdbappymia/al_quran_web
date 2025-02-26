@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 24,
+    "english": "And when it is said to them, “What has your Lord revealed?” They say, “Ancient fables!”",
+    "arabic1": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "واذا قيل لهم ماذا انزل ربكم قالوا اساطير الاولين",
+    "bengali": "আর যখন তাদের বলা হয়, ‘তোমাদের রব কী নাযিল করেছেন’? তারা বলে, ‘পূর্ববর্তীদের কল্পকাহিনী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_24.mp3"
+        }
+    }
+}

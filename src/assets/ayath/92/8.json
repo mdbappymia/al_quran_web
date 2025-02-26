@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 8,
+    "english": "And as for the one who is stingy, indifferent ˹to Allah˺",
+    "arabic1": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+    "arabic2": "واما من بخل واستغنى",
+    "bengali": "আর যে কার্পণ্য করেছে এবং নিজকে স্বয়ংসম্পূর্ণ মনে করেছে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_8.mp3"
+        }
+    }
+}

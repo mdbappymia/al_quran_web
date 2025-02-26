@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 106,
+    "english": "Pharaoh said, “If you have come with a sign, then bring it if what you say is true.”",
+    "arabic1": "قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "قال ان كنت جئت باية فات بها ان كنت من الصادقين",
+    "bengali": "সে বলল, ‘তুমি যদি কোন আয়াত নিয়ে আস তবে তা পেশ কর, যদি তুমি সত্যবাদীদের অন্তর্ভুক্ত হও।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_106.mp3"
+        }
+    }
+}

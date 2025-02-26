@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 29,
+    "english": "I want to let you bear your sin against me along with your other sins, then you will be one of those destined to the Fire. And that is the reward of the wrongdoers.”",
+    "arabic1": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَـٰبِ ٱلنَّارِ ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+    "arabic2": "اني اريد ان تبوء باثمي واثمك فتكون من اصحاب النار وذلك جزاء الظالمين",
+    "bengali": "‘নিশ্চয় আমি চাই যে, তুমি আমার ও তোমার পাপ নিয়ে ফিরে যাও, ফলে তুমি আগুনের অধিবাসী হও। আর সেটিই হচ্ছে যালিমদের প্রতিদান’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_29.mp3"
+        }
+    }
+}

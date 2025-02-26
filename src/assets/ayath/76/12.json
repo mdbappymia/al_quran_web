@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 12,
+    "english": "and reward them for their perseverance with a Garden ˹in Paradise˺ and ˹garments of˺ silk.",
+    "arabic1": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+    "arabic2": "وجزاهم بما صبروا جنة وحريرا",
+    "bengali": "আর তারা যে ধৈর্যধারণ করেছিল তার পরিণামে তিনি তাদেরকে জান্নাত ও রেশমী বস্ত্রের পুরস্কার প্রদান করবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_12.mp3"
+        }
+    }
+}

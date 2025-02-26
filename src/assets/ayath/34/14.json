@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 14,
+    "english": "When We decreed Solomon’s death, nothing indicated to the ˹subjected˺ jinn that he was dead except the termites eating away his staff. So when he collapsed, the jinn realized that if they had ˹really˺ known the unseen, they would not have remained in ˹such˺ humiliating servitude.",
+    "arabic1": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+    "arabic2": "فلما قضينا عليه الموت ما دلهم على موته الا دابة الارض تاكل منساته فلما خر تبينت الجن ان لو كانوا يعلمون الغيب ما لبثوا في العذاب المهين",
+    "bengali": "তারপর যখন আমি সুলাইমানের মৃত্যুর ফয়সালা করলাম তখন মাটির পোকা জিনদেরকে তার মৃত্যু সম্পর্কে অবহিত করল, যা তার লাঠি খাচ্ছিল। অতঃপর যখন সে পড়ে গেল তখন জিনরা বুঝতে পারল যে, তারা যদি গায়েব জানত তাহলে তারা লাঞ্ছনাদায়ক আযাবে থাকত না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_14.mp3"
+        }
+    }
+}

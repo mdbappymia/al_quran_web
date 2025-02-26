@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 12,
+    "english": "˹It was later said,˺ “O John! Hold firmly to the Scriptures.” And We granted him wisdom while ˹he was still˺ a child",
+    "arabic1": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّا",
+    "arabic2": "يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا",
+    "bengali": "‘হে ইয়াহইয়া, তুমি কিতাবটিকে দৃঢ়ভাবে আঁকড়ে ধর’। আমি তাকে শৈশবেই প্রজ্ঞা* দান করেছি। \n* এখানে ‘হুকম’ বলতে হিকমাত বা প্রজ্ঞা বুঝানো হয়েছে। কারো মতে, তা হল ইলম ও আমল। কেউ বলেছেন, নবুওয়াত বা আকল। ইমাম শওকানী বলেন, উল্লেখিত প্রতিটি বিষয় ‘হুকম’ দ্বারা উদ্দেশ্য হতে পারে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_12.mp3"
+        }
+    }
+}

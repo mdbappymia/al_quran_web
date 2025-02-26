@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mumtahana",
+    "surahNameArabic": "الممتحنة",
+    "surahNameArabicLong": "سورة الممتحنة",
+    "surahNameTranslation": "She that is to be examined",
+    "revelationPlace": "Madina",
+    "totalAyah": 13,
+    "surahNo": 60,
+    "ayahNo": 2,
+    "english": "If they gain the upper hand over you, they would be your ˹open˺ enemies, unleashing their hands and tongues to harm you, and wishing that you would abandon faith.",
+    "arabic1": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءً وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+    "arabic2": "ان يثقفوكم يكونوا لكم اعداء ويبسطوا اليكم ايديهم والسنتهم بالسوء وودوا لو تكفرون",
+    "bengali": "তারা যদি তোমাদেরকে বাগে পায় তবে তোমাদের শত্রু হবে এবং মন্দ নিয়ে তোমাদের দিকে তাদের হাত ও যবান বাড়াবে; তারা কামনা করে যদি তোমরা কুফরি করতে!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/60_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/60_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/60_2.mp3"
+        }
+    }
+}

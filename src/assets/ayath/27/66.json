@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 66,
+    "english": "No! Their knowledge of the Hereafter amounts to ignorance. In fact, they are in doubt about it. In truth, they are ˹totally˺ blind to it.",
+    "arabic1": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْـَٔاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ",
+    "arabic2": "بل ادارك علمهم في الاخرة بل هم في شك منها بل هم منها عمون",
+    "bengali": "বরং আখিরাত সম্পর্কে তাদের জ্ঞান নিঃশেষ হয়েছে। বরং সে বিষয়ে তারা সন্দেহে আছে; বরং এ ব্যাপারে তারা অন্ধ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_66.mp3"
+        }
+    }
+}

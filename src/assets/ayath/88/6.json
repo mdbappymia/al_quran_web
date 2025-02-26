@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 6,
+    "english": "They will have no food except a foul, thorny shrub",
+    "arabic1": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+    "arabic2": "ليس لهم طعام الا من ضريع",
+    "bengali": "তাদের জন্য কাঁটাবিশিষ্ট গুল্ম ছাড়া কোন খাদ্য থাকবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_6.mp3"
+        }
+    }
+}

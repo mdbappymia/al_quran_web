@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 75,
+    "english": "And there are some who had made a vow to Allah: “If He gives us from His bounty, we will surely spend in charity and be of the righteous.”",
+    "arabic1": "۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "ومنهم من عاهد الله لئن اتانا من فضله لنصدقن ولنكونن من الصالحين",
+    "bengali": "আর তাদের মধ্যে কতক আল্লাহর সাথে অঙ্গীকার করে যে, যদি আল্লাহ তার স্বীয় অনুগ্রহে আমাদের দান করেন, আমরা অবশ্যই দান-খয়রাত করব এবং অবশ্যই আমরা নেককারদের অন্তর্ভুক্ত হব ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_75.mp3"
+        }
+    }
+}

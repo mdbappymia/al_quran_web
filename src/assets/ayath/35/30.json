@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 30,
+    "english": "so that He will reward them in full and increase them out of His grace. He is truly All-Forgiving, Most Appreciative.",
+    "arabic1": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ ۚ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+    "arabic2": "ليوفيهم اجورهم ويزيدهم من فضله انه غفور شكور",
+    "bengali": "যাতে তিনি তাদেরকে তাদের পূর্ণ প্রতিফল দান করেন এবং নিজ অনুগ্রহে তাদেরকে আরো বাড়িয়ে দেন। নিশ্চয় তিনি অতি ক্ষমাশীল, মহাগুণগ্রাহী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_30.mp3"
+        }
+    }
+}

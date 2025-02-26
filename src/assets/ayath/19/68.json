@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 68,
+    "english": "By your Lord ˹O Prophet˺! We will surely gather them along with the devils, and then set them around Hell on their knees.",
+    "arabic1": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَـٰطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا",
+    "arabic2": "فوربك لنحشرنهم والشياطين ثم لنحضرنهم حول جهنم جثيا",
+    "bengali": "অতএব তোমার রবের কসম, আমি অবশ্যই তাদেরকে ও শয়তানদেরকে সমবেত করব, অতঃপর জাহান্নামের চারপাশে নতজানু অবস্থায় তাদেরকে হাযির করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_68.mp3"
+        }
+    }
+}

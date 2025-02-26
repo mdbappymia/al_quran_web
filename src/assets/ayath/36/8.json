@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 8,
+    "english": "˹It is as if˺ We have put shackles around their necks up to their chins, so their heads are forced up",
+    "arabic1": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+    "arabic2": "انا جعلنا في اعناقهم اغلالا فهي الى الاذقان فهم مقمحون",
+    "bengali": "নিশ্চয় আমি তাদের গলায় বেড়ি পরিয়ে দিয়েছি এবং তা চিবুক পর্যন্ত। ফলে তারা ঊর্ধ্বমুখী হয়ে আছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_8.mp3"
+        }
+    }
+}

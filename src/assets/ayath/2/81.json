@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 81,
+    "english": "But no! Those who commit evil and are engrossed in sin will be the residents of the Fire. They will be there forever.",
+    "arabic1": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَـٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "بلى من كسب سيئة واحاطت به خطيئته فاولئك اصحاب النار هم فيها خالدون",
+    "bengali": "হাঁ, যে মন্দ উপার্জন করবে এবং তার পাপ তাকে বেষ্টন করে নেবে, তারাই আগুনের অধিবাসী। তারা সেখানে হবে স্থায়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_81.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_81.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_81.mp3"
+        }
+    }
+}

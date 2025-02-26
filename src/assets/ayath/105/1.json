@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 1,
+    "english": "Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?",
+    "arabic1": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "arabic2": "الم تر كيف فعل ربك باصحاب الفيل",
+    "bengali": "তুমি কি দেখনি তোমার রব হাতীওয়ালাদের সাথে কী করেছিলেন?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/105_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/105_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/105_1.mp3"
+        }
+    }
+}

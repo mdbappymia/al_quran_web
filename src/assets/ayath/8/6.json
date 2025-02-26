@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 6,
+    "english": "They disputed with you about the truth after it had been made clear, as if they were being driven to death with their eyes wide open.",
+    "arabic1": "يُجَـٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+    "arabic2": "يجادلونك في الحق بعدما تبين كانما يساقون الى الموت وهم ينظرون",
+    "bengali": "তারা তোমার সাথে সত্য সম্পর্কে বিতর্ক করছে তা স্পষ্ট হয়ে যাওয়ার পর। যেন তাদেরকে মৃত্যুর দিকে হাঁকিয়ে নেয়া হচ্ছে, আর তারা তা দেখছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_6.mp3"
+        }
+    }
+}

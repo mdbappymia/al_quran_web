@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 42,
+    "english": "Say, ˹O Prophet,˺ “Had there been other gods besides Him—as they claim—then they would have certainly sought a way to ˹challenge˺ the Lord of the Throne.”",
+    "arabic1": "قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًا",
+    "arabic2": "قل لو كان معه الهة كما يقولون اذا لابتغوا الى ذي العرش سبيلا",
+    "bengali": "বল, ‘তাঁর সাথে যদি আরো উপাস্য থাকত, যেমন তারা বলে, তবে তারা আরশের অধিপতি পর্যন্ত পৌঁছার পথ তালাশ করত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_42.mp3"
+        }
+    }
+}

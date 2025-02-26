@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 52,
+    "english": "So do not yield to the disbelievers, but strive diligently against them with this ˹Quran˺.",
+    "arabic1": "فَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَجَـٰهِدْهُم بِهِۦ جِهَادًا كَبِيرًا",
+    "arabic2": "فلا تطع الكافرين وجاهدهم به جهادا كبيرا",
+    "bengali": "সুতরাং তুমি কাফিরদের আনুগত্য করো না এবং তুমি কুরআনের সাহায্যে তাদের বিরুদ্ধে কঠোর সংগ্রাম কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_52.mp3"
+        }
+    }
+}

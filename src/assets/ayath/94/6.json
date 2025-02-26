@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 6,
+    "english": "Surely with ˹that˺ hardship comes ˹more˺ ease.",
+    "arabic1": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    "arabic2": "ان مع العسر يسرا",
+    "bengali": "নিশ্চয় কষ্টের সাথেই রয়েছে সুখ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_6.mp3"
+        }
+    }
+}

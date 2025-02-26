@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 8,
+    "english": "Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺ “If I have done so, then there is nothing whatsoever you can do to save me from Allah. He knows best what ˹slurs˺ you indulge about it. Sufficient is He as a Witness between you and me. And He is the All-Forgiving, Most Merciful.”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "arabic2": "ام يقولون افتراه قل ان افتريته فلا تملكون لي من الله شيئا هو اعلم بما تفيضون فيه كفى به شهيدا بيني وبينكم وهو الغفور الرحيم",
+    "bengali": "তবে কি তারা বলে যে, ‘সে এটা নিজে উদ্ভাবন করেছে’? বল, ‘যদি আমি এটা উদ্ভাবন করে থাকি, তবে তোমরা আমাকে আল্লাহর (আযাব) থেকে বাঁচাতে সামান্য কিছুরও মালিক নও। তোমরা যে বিষয়ে আলোচনায় মত্ত আছ, তিনি সে বিষয়ে সম্যক অবগত। আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে তিনিই যথেষ্ট। আর তিনি অতি ক্ষমাশীল, পরম দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_8.mp3"
+        }
+    }
+}

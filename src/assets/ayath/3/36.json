@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 36,
+    "english": "When she delivered, she said, “My Lord! I have given birth to a girl,”—and Allah fully knew what she had delivered—“and the male is not like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the accursed.”",
+    "arabic1": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+    "arabic2": "فلما وضعتها قالت رب اني وضعتها انثى والله اعلم بما وضعت وليس الذكر كالانثى واني سميتها مريم واني اعيذها بك وذريتها من الشيطان الرجيم",
+    "bengali": "অতঃপর সে যখন তা প্রসব করল, বলল, ‘হে আমার রব, নিশ্চয় আমি তা প্রসব করেছি কন্যারূপে’। আর আল্লাহই ভাল জানেন সে যা প্রসব করেছে তা সম্পর্কে। ‘আর পুত্র সন্তান কন্যা সন্তানের মত নয় এবং নিশ্চয় আমি তার নাম রেখেছি মারইয়াম। আর নিশ্চয় আমি তাকে ও তার সন্তানদেরকে বিতাড়িত শয়তান থেকে আপনার আশ্রয় দিচ্ছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_36.mp3"
+        }
+    }
+}

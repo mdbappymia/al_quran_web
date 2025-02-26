@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 33,
+    "english": "And so your Lord’s decree has been proven true against the rebellious—that they will never believe.",
+    "arabic1": "كَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ فَسَقُوٓا۟ أَنَّهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "كذلك حقت كلمت ربك على الذين فسقوا انهم لا يؤمنون",
+    "bengali": "এমনিভাবে তোমার রবের বাণী সত্য বলে সাব্যস্ত হয়েছে তাদের উপর, যারা অবাধ্য হয়েছে, যে তারা ঈমান আনবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_33.mp3"
+        }
+    }
+}

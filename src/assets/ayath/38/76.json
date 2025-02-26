@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 76,
+    "english": "He replied, “I am better than he is: You created me from fire and him from clay.”",
+    "arabic1": "قَالَ أَنَا۠ خَيْرٌ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+    "arabic2": "قال انا خير منه خلقتني من نار وخلقته من طين",
+    "bengali": "সে বলল, ‘আমি তার চেয়ে শ্রেষ্ঠ। আপনি আমাকে সৃষ্টি করেছেন অগ্নি থেকে আর তাকে সৃষ্টি করেছেন মাটি থেকে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_76.mp3"
+        }
+    }
+}

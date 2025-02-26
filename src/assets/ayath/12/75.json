@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 75,
+    "english": "Joseph’s brothers responded, “The price will be ˹the enslavement of˺ the one in whose bag the cup is found. That is how we punish the wrongdoers.”",
+    "arabic1": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّـٰلِمِينَ",
+    "arabic2": "قالوا جزاؤه من وجد في رحله فهو جزاؤه كذلك نجزي الظالمين",
+    "bengali": "তারা বলল, ‘তার শাস্তি হবে, যার মালপত্রের ভিতর ওটি পাওয়া যাবে, সে-ই হবে তার বিনিময়। এভাবেই আমরা যালেমদেরকে শাস্তি দিয়ে থাকি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_75.mp3"
+        }
+    }
+}

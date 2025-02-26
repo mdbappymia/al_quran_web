@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 44,
+    "english": "Those who believe in Allah and the Last Day do not ask for exemption from striving with their wealth and their lives. And Allah has perfect knowledge of those who are mindful ˹of Him˺.",
+    "arabic1": "لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+    "arabic2": "لا يستاذنك الذين يؤمنون بالله واليوم الاخر ان يجاهدوا باموالهم وانفسهم والله عليم بالمتقين",
+    "bengali": "যারা আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে, তারা তোমার কাছে তাদের মাল ও জান দিয়ে জিহাদ করা থেকে বিরত থাকার অনুমতি চায় না, আর আল্লাহ মুত্তাকীদের সম্পর্কে পূর্ণ জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_44.mp3"
+        }
+    }
+}

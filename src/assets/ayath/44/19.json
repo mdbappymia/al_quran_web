@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 19,
+    "english": "And do not be arrogant with Allah. I have certainly come to you with a compelling proof.",
+    "arabic1": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "وان لا تعلوا على الله اني اتيكم بسلطان مبين",
+    "bengali": "‘আর আল্লাহর বিরুদ্ধে ঔদ্ধত্য প্রকাশ করো না। নিশ্চয় আমি তোমাদের কাছে সুস্পষ্ট প্রমাণ নিয়ে আসব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_19.mp3"
+        }
+    }
+}

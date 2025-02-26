@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dhuhaa",
+    "surahNameArabic": "الضحى",
+    "surahNameArabicLong": "سورة الضحى",
+    "surahNameTranslation": "The Morning Hours",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 93,
+    "ayahNo": 8,
+    "english": "And did He not find you needy then satisfied your needs?",
+    "arabic1": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+    "arabic2": "ووجدك عائلا فاغنى",
+    "bengali": "তিনি তোমাকে পেয়েছেন নিঃস্ব। অতঃপর তিনি সমৃদ্ধ করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/93_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/93_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/93_8.mp3"
+        }
+    }
+}

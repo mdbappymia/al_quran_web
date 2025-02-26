@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 56,
+    "english": "As for those who disbelieve, I will subject them to a severe punishment in this life and the Hereafter, and they will have no helpers.",
+    "arabic1": "فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ",
+    "arabic2": "فاما الذين كفروا فاعذبهم عذابا شديدا في الدنيا والاخرة وما لهم من ناصرين",
+    "bengali": "অতঃপর যারা কুফরী করেছে, আমি তাদেরকে কঠিন আযাব দেব দুনিয়া ও আখিরাতে, আর তাদের কোন সাহায্যকারী নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_56.mp3"
+        }
+    }
+}

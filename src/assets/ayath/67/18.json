@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 18,
+    "english": "And certainly those before them denied ˹as well˺, then how severe was My response!",
+    "arabic1": "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
+    "arabic2": "ولقد كذب الذين من قبلهم فكيف كان نكير",
+    "bengali": "আর অবশ্যই তাদের পূর্ববর্তীরাও অস্বীকার করেছিল। ফলে কেমন ছিল আমার প্রত্যাখ্যান (এর শাস্তি)?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_18.mp3"
+        }
+    }
+}

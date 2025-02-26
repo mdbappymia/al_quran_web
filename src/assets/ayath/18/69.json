@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 69,
+    "english": "Moses assured ˹him˺, “You will find me patient, Allah willing, and I will not disobey any of your orders.”",
+    "arabic1": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+    "arabic2": "قال ستجدني ان شاء الله صابرا ولا اعصي لك امرا",
+    "bengali": "সে বলল, ‘ইনশাআল্লাহ, আপনি আমাকে ধৈর্যশীল পাবেন এবং কোন বিষয়ে আমি আপনার অবাধ্য হব না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_69.mp3"
+        }
+    }
+}

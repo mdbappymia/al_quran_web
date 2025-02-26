@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 77,
+    "english": "Do people not see that We have created them from a sperm-drop, then—behold!—they openly challenge ˹Us˺?",
+    "arabic1": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+    "arabic2": "اولم ير الانسان انا خلقناه من نطفة فاذا هو خصيم مبين",
+    "bengali": "মানুষ কি দেখেনি যে, আমি তাকে সৃষ্টি করেছি শুক্রবিন্দু থেকে? অথচ সে (বনে যায়) একজন প্রকাশ্য কুটতর্ককারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_77.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_77.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_77.mp3"
+        }
+    }
+}

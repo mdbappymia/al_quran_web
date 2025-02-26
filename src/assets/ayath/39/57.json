@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 57,
+    "english": "Or ˹a soul will˺ say, ‘If only Allah had guided me, I would have certainly been one of the righteous.’",
+    "arabic1": "أَوْ تَقُولَ لَوْ أَنَّ ٱللَّهَ هَدَىٰنِى لَكُنتُ مِنَ ٱلْمُتَّقِينَ",
+    "arabic2": "او تقول لو ان الله هداني لكنت من المتقين",
+    "bengali": "অথবা যাতে কাউকে একথাও বলতে না হয়, ‘আল্লাহ যদি আমাকে হিদায়াত দিতেন তাহলে অবশ্যই আমি মুত্তাকীদের অন্তর্ভুক্ত হতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_57.mp3"
+        }
+    }
+}

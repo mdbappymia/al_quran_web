@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 51,
+    "english": "And mention in the Book ˹O Prophet, the story of˺ Moses. He was truly a chosen man, and was a messenger and a prophet.",
+    "arabic1": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا",
+    "arabic2": "واذكر في الكتاب موسى انه كان مخلصا وكان رسولا نبيا",
+    "bengali": "আর স্মরণ কর এই কিতাবে মূসাকে। অবশ্যই সে ছিল মনোনীত এবং সে ছিল রাসূল, নবী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_51.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 131,
+    "english": "This ˹sending of the messengers˺ is because your Lord would never destroy a society for their wrongdoing while its people are unaware ˹of the truth˺.",
+    "arabic1": "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَـٰفِلُونَ",
+    "arabic2": "ذلك ان لم يكن ربك مهلك القرى بظلم واهلها غافلون",
+    "bengali": "তা এই কারণে যে, তোমার রব যুলমের কারণে জনপদসমূহকে ধ্বংস করেন না তার অধিবাসীরা গাফিল থাকা অবস্থায় ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_131.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_131.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_131.mp3"
+        }
+    }
+}

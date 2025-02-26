@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 29,
+    "english": "There is no blame on you if you enter public places where there is something of benefit for you. And Allah knows what you reveal and what you conceal.",
+    "arabic1": "لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا۟ بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَـٰعٌ لَّكُمْ ۚ وَٱللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+    "arabic2": "ليس عليكم جناح ان تدخلوا بيوتا غير مسكونة فيها متاع لكم والله يعلم ما تبدون وما تكتمون",
+    "bengali": "যে ঘরে কেউ বাস করে না, তাতে তোমাদের কোন ভোগসামগ্রী থাকলে, সেখানে তোমাদের প্রবেশে কোন পাপ হবে না। আর আল্লাহ জানেন যা তোমরা প্রকাশ কর আর যা তোমরা গোপন কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_29.mp3"
+        }
+    }
+}

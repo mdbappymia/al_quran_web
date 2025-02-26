@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 34,
+    "english": "Do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Honour ˹your˺ pledges, for you will surely be accountable for them.",
+    "arabic1": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۚ وَأَوْفُوا۟ بِٱلْعَهْدِ ۖ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+    "arabic2": "ولا تقربوا مال اليتيم الا بالتي هي احسن حتى يبلغ اشده واوفوا بالعهد ان العهد كان مسئولا",
+    "bengali": "আর তোমরা ইয়াতীমের সম্পদের কাছে যেয়ো না সুন্দরতম পন্থা* ছাড়া, যতক্ষণ না সে বয়সের পূর্ণতায় উপনীত হয়। আর অঙ্গীকার পূর্ণ কর, নিশ্চয় অঙ্গীকার সম্পর্কে জিজ্ঞাসাবাদ করা হবে। \n* অর্থাৎ তার সম্পদ বৃদ্ধি, তার নিজের খরচ এবং দরিদ্র হলে বেতন গ্রহণ বৈধ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_34.mp3"
+        }
+    }
+}

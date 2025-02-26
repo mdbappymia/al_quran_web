@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 19,
+    "english": "Do you ˹pagans˺ consider providing the pilgrims with water and maintaining the Sacred Mosque as equal to believing in Allah and the Last Day and struggling in the cause of Allah? They are not equal in Allah’s sight. And Allah does not guide the wrongdoing people.",
+    "arabic1": "۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "اجعلتم سقاية الحاج وعمارة المسجد الحرام كمن امن بالله واليوم الاخر وجاهد في سبيل الله لا يستوون عند الله والله لا يهدي القوم الظالمين",
+    "bengali": "তোমরা কি হাজীদের পানি পান করান ও মসজিদুল হারাম আবাদ করাকে ঐ ব্যক্তির মত বিবেচনা কর, যে আল্লাহ ও শেষ দিনের প্রতি ঈমান এনেছে এবং আল্লাহর পথে জিহাদ করেছে। তারা আল্লাহর কাছে বরাবর নয়। আর আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_19.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 41,
+    "english": "˹Then˺ Solomon said, “Disguise her throne for her so we may see whether she will recognize ˹it˺ or she will not be able to.”",
+    "arabic1": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+    "arabic2": "قال نكروا لها عرشها ننظر اتهتدي ام تكون من الذين لا يهتدون",
+    "bengali": "সুলাইমান বলল, ‘তোমরা তার জন্য তার সিংহাসনের আকার-আকৃতি পরিবর্তন করে দাও। দেখব সে সঠিক দিশা পায় নাকি তাদের অন্তর্ভুক্ত হয়ে পড়ে, যারা সঠিক দিশা পায় না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_41.mp3"
+        }
+    }
+}

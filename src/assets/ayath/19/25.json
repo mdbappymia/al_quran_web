@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 25,
+    "english": "And shake the trunk of this palm tree towards you, it will drop fresh, ripe dates upon you.",
+    "arabic1": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَـٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+    "arabic2": "وهزي اليك بجذع النخلة تساقط عليك رطبا جنيا",
+    "bengali": "‘আর তুমি খেজুর গাছের কান্ড ধরে তোমার দিকে নাড়া দাও, তাহলে তা তোমার উপর তাজা-পাকা খেজুর ফেলবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_25.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 33,
+    "english": "Joseph prayed, “My Lord! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”",
+    "arabic1": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ",
+    "arabic2": "قال رب السجن احب الي مما يدعونني اليه والا تصرف عني كيدهن اصب اليهن واكن من الجاهلين",
+    "bengali": "সে (ইউসুফ) বলল, ‘হে আমার রব, তারা আমাকে যে কাজের প্রতি আহবান করছে তা থেকে কারাগারই আমার নিকট অধিক প্রিয়। আর যদি আপনি আমার থেকে তাদের চক্রান্ত প্রতিহত না করেন তবে আমি তাদের প্রতি আকৃষ্ট হয়ে পড়ব এবং আমি মূর্খদের অন্তর্ভুক্ত হব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_33.mp3"
+        }
+    }
+}

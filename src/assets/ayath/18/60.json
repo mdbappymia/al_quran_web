@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 60,
+    "english": "And ˹remember˺ when Moses said to his young assistant, “I will never give up until I reach the junction of the two seas, even if I travel for ages.”",
+    "arabic1": "وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًا",
+    "arabic2": "واذ قال موسى لفتاه لا ابرح حتى ابلغ مجمع البحرين او امضي حقبا",
+    "bengali": "আর স্মরণ কর, যখন মূসা তার সহচর যুবকটিকে বলল, আমি চলতে থাকব যতক্ষণ না দুই সমুদ্রের মিলনস্থলে উপনীত হব কিংবা দীর্ঘ সময় কাটিয়ে দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_60.mp3"
+        }
+    }
+}

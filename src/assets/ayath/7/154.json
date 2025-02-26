@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 154,
+    "english": "When Moses’ anger subsided, he took up the Tablets whose text contained guidance and mercy for those who stand in awe of their Lord.",
+    "arabic1": "وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ ۖ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+    "arabic2": "ولما سكت عن موسى الغضب اخذ الالواح وفي نسختها هدى ورحمة للذين هم لربهم يرهبون",
+    "bengali": "আর যখন মূসার ক্রোধ থেমে গেল তখন সে ফলকগুলো তুলে নিল। তার লেখাতে ছিল হিদায়াত ও রহমত, তাদের জন্য যারা নিজদের রবকেই ভয় করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_154.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_154.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_154.mp3"
+        }
+    }
+}

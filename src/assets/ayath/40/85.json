@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 85,
+    "english": "But their faith was of no benefit to them when they saw Our torment. This has ˹always˺ been Allah’s way ˹of dealing˺ with His ˹wicked˺ servants. Then and there the disbelievers were in ˹total˺ loss.",
+    "arabic1": "فَلَمْ يَكُ يَنفَعُهُمْ إِيمَـٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا ۖ سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ فِى عِبَادِهِۦ ۖ وَخَسِرَ هُنَالِكَ ٱلْكَـٰفِرُونَ",
+    "arabic2": "فلم يك ينفعهم ايمانهم لما راوا باسنا سنت الله التي قد خلت في عباده وخسر هنالك الكافرون",
+    "bengali": "সুতরাং তারা যখন আমার আযাব দেখল তখন তাদের ঈমান তাদের কোন উপকার করল না। এটা আল্লাহর বিধান, তাঁর বান্দাদের মধ্যে চলে আসছে। আর তখনই কাফিররা ক্ষতিগ্রস্ত হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_85.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_85.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_85.mp3"
+        }
+    }
+}

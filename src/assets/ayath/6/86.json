@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 86,
+    "english": "˹We also guided˺ Ishmael, Elisha, Jonah, and Lot, favouring each over other people ˹of their time˺.",
+    "arabic1": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "واسماعيل واليسع ويونس ولوطا وكلا فضلنا على العالمين",
+    "bengali": "আর ইসমাঈল, আল ইয়াসা‘, ইউনুস ও লূতকে। প্রত্যেককে আমি সৃষ্টিকুলের উপর শ্রেষ্ঠত্ব দান করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_86.mp3"
+        }
+    }
+}

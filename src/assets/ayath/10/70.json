@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 70,
+    "english": "˹It is only˺ a brief enjoyment in this world, then to Us is their return, then We will make them taste the severe punishment for their disbelief.",
+    "arabic1": "مَتَـٰعٌ فِى ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ ٱلْعَذَابَ ٱلشَّدِيدَ بِمَا كَانُوا۟ يَكْفُرُونَ",
+    "arabic2": "متاع في الدنيا ثم الينا مرجعهم ثم نذيقهم العذاب الشديد بما كانوا يكفرون",
+    "bengali": "(তাদের জন্য) দুনিয়াতে রয়েছে ভোগসামগ্রী। অতঃপর আমারই কাছে তাদের প্রত্যাবর্তন। তারপর আমি তাদেরকে কঠিন আযাব আস্বাদন করাব, তারা যে কুফরী করত তার কারণে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_70.mp3"
+        }
+    }
+}

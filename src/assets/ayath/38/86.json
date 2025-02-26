@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 86,
+    "english": "Say, ˹O Prophet,˺ “I do not ask you for any reward for this ˹Quran˺, nor do I pretend to be someone I am not.",
+    "arabic1": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+    "arabic2": "قل ما اسالكم عليه من اجر وما انا من المتكلفين",
+    "bengali": "বল, ‘এর বিনিময়ে আমি তোমাদের কাছে কোন প্রতিদান চাই না আর আমি ভানকারীদের অন্তর্ভুক্ত নই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_86.mp3"
+        }
+    }
+}

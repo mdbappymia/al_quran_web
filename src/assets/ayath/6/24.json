@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 24,
+    "english": "See how they will lie about themselves and how those ˹gods˺ they fabricated will fail them!",
+    "arabic1": "ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "انظر كيف كذبوا على انفسهم وضل عنهم ما كانوا يفترون",
+    "bengali": "দেখ, তারা কীভাবে মিথ্যা বলেছে নিজদের উপর, তারা যে মিথ্যা রটনা করত, তা তাদের থেকে হারিয়ে গেল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_24.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 45,
+    "english": "So leave them until they face their Day in which they will be struck dead—",
+    "arabic1": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+    "arabic2": "فذرهم حتى يلاقوا يومهم الذي فيه يصعقون",
+    "bengali": "অতএব, তাদেরকে ছেড়ে দাও সেদিন পর্যন্ত যেদিন তারা ধ্বংস হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_45.mp3"
+        }
+    }
+}

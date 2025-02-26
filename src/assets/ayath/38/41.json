@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 41,
+    "english": "And remember Our servant Job, when he cried out to his Lord, “Satan has afflicted me with distress and suffering.”",
+    "arabic1": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍ وَعَذَابٍ",
+    "arabic2": "واذكر عبدنا ايوب اذ نادى ربه اني مسني الشيطان بنصب وعذاب",
+    "bengali": "আর স্মরণ কর আমার বান্দা আইউবকে, যখন সে তার রবকে ডেকে বলেছিল, ‘শয়তান তো আমাকে কষ্ট ও আযাবের ছোঁয়া দিয়েছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_41.mp3"
+        }
+    }
+}

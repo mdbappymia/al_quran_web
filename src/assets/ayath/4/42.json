@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 42,
+    "english": "On that Day, those who denied ˹Allah˺ and disobeyed the Messenger will wish they were reduced to dust. And they will never be able to hide anything from Allah.",
+    "arabic1": "يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا",
+    "arabic2": "يومئذ يود الذين كفروا وعصوا الرسول لو تسوى بهم الارض ولا يكتمون الله حديثا",
+    "bengali": "যারা কুফরী করেছে এবং রাসূলের অবাধ্য হয়েছে তারা সেদিন কামনা করবে, যদি যমীনকে তাদের সাথে (মিশিয়ে) সমান করে দেয়া হত, আর তারা আল্লাহর কাছে কোন কথা গোপন করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_42.mp3"
+        }
+    }
+}

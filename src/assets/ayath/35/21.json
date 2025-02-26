@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 21,
+    "english": "nor the ˹scorching˺ heat and the ˹cool˺ shade.",
+    "arabic1": "وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ",
+    "arabic2": "ولا الظل ولا الحرور",
+    "bengali": "আর সমান নয় ছায়া ও রৌদ্র,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_21.mp3"
+        }
+    }
+}

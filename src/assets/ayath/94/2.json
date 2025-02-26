@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 2,
+    "english": "relieved you of the burden",
+    "arabic1": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "arabic2": "ووضعنا عنك وزرك",
+    "bengali": "আর আমি নামিয়ে দিয়েছি তোমার থেকে তোমার বোঝা,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_2.mp3"
+        }
+    }
+}

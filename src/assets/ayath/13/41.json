@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 41,
+    "english": "Do they not see that We gradually reduce their land from its borders? Allah decides—none can reverse His decision. And He is swift in reckoning.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا ۚ وَٱللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِۦ ۚ وَهُوَ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "اولم يروا انا ناتي الارض ننقصها من اطرافها والله يحكم لا معقب لحكمه وهو سريع الحساب",
+    "bengali": "তারা কি দেখে না, আমি যমীনকে চতুর্দিক থেকে সংকীর্ণ করে আনছি। আর আল্লাহই হুকুম করেন এবং তাঁর হুকুম প্রত্যাখ্যান করার কেউ নেই এবং তিনিই দ্রুত হিসাব গ্রহণকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_41.mp3"
+        }
+    }
+}

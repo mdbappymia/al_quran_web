@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 19,
+    "english": "Have they not seen how Allah originates the creation then resurrects it? That is certainly easy for Allah.",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ كَيْفَ يُبْدِئُ ٱللَّهُ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥٓ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+    "arabic2": "اولم يروا كيف يبدئ الله الخلق ثم يعيده ان ذلك على الله يسير",
+    "bengali": "তারা কি দেখে না, আল্লাহ কিভাবে সৃষ্টির সূচনা করেন? তারপর তিনি তার পুনরাবৃত্তি করবেন। নিশ্চয় এটি আল্লাহর জন্য সহজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_19.mp3"
+        }
+    }
+}

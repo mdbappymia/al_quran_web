@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 81,
+    "english": "And He ˹is the One Who˺ will cause me to die, and then bring me back to life.",
+    "arabic1": "وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ",
+    "arabic2": "والذي يميتني ثم يحيين",
+    "bengali": "‘আর যিনি আমার মৃত্যু ঘটাবেন তারপর আমাকে জীবিত করবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_81.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_81.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_81.mp3"
+        }
+    }
+}

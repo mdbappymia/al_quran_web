@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 142,
+    "english": "Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.",
+    "arabic1": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةً وَفَرْشًا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "arabic2": "ومن الانعام حمولة وفرشا كلوا مما رزقكم الله ولا تتبعوا خطوات الشيطان انه لكم عدو مبين",
+    "bengali": "আর চতুষ্পদ জন্তু থেকে (কিছুকে সৃষ্টি করেছেন) বোঝা বহনকারী ও ক্ষুদ্রাকৃতির। তোমরা আহার কর তা থেকে, যা আল্লাহ তোমাদেরকে রিয্ক দিয়েছেন এবং শয়তানের পদাঙ্ক অনুসরণ করো না। নিশ্চয় সে তোমাদের জন্য স্পষ্ট শত্রু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_142.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_142.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_142.mp3"
+        }
+    }
+}

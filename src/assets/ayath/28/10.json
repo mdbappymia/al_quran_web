@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 10,
+    "english": "And the heart of Moses’ mother ached so much that she almost gave away his identity, had We not reassured her heart in order for her to have faith ˹in Allah’s promise˺.",
+    "arabic1": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَـٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "واصبح فؤاد ام موسى فارغا ان كادت لتبدي به لولا ان ربطنا على قلبها لتكون من المؤمنين",
+    "bengali": "আর মূসার মায়ের অন্তর বিচলিত হয়ে উঠেছিল। সে তো তার পরিচয় প্রকাশ করেই দিত, যদি আমি তার অন্তরকে দৃঢ় করে না দিতাম, যাতে সে আস্থাশীলদের অন্তর্ভুক্ত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_10.mp3"
+        }
+    }
+}

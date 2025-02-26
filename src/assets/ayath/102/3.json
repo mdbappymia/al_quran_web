@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "ayahNo": 3,
+    "english": "But no! You will soon come to know.",
+    "arabic1": "كَلَّا سَوْفَ تَعْلَمُونَ",
+    "arabic2": "كلا سوف تعلمون",
+    "bengali": "কখনো নয়, শীঘ্রই তোমরা জানবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/102_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/102_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/102_3.mp3"
+        }
+    }
+}

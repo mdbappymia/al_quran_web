@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 7,
+    "english": "watching what they had ˹ordered to be˺ done to the believers",
+    "arabic1": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+    "arabic2": "وهم على ما يفعلون بالمؤمنين شهود",
+    "bengali": "আর তারা মুমিনদের সাথে যা করছিল তার প্রত্যক্ষদর্শী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_7.mp3"
+        }
+    }
+}

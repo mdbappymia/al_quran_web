@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 106,
+    "english": "˹O Prophet!˺ Follow what is revealed to you from your Lord—there is no god ˹worthy of worship˺ except Him—and turn away from the polytheists.",
+    "arabic1": "ٱتَّبِعْ مَآ أُوحِىَ إِلَيْكَ مِن رَّبِّكَ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ",
+    "arabic2": "اتبع ما اوحي اليك من ربك لا اله الا هو واعرض عن المشركين",
+    "bengali": "তুমি অনুসরণ কর তার, তোমার প্রতি যা ওহী প্রেরণ করা হয়েছে তোমার রবের পক্ষ থেকে। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। আর মুশরিকদের থেকে তুমি বিমুখ থাক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_106.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_106.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_106.mp3"
+        }
+    }
+}

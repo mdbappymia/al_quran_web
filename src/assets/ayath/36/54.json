@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 54,
+    "english": "On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do.",
+    "arabic1": "فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "فاليوم لا تظلم نفس شيئا ولا تجزون الا ما كنتم تعملون",
+    "bengali": "সুতরাং আজ কাউকেই কোন যুলম করা হবে না এবং তোমরা যা আমল করছিলে শুধু তারই প্রতিদান তোমাদের দেয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_54.mp3"
+        }
+    }
+}

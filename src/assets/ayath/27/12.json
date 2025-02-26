@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 12,
+    "english": "Now put your hand through ˹the opening of˺ your collar, it will come out ˹shining˺ white, unblemished. ˹These are two˺ of nine signs for Pharaoh and his people. They have truly been a rebellious people.”",
+    "arabic1": "وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ۖ فِى تِسْعِ ءَايَـٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ",
+    "arabic2": "وادخل يدك في جيبك تخرج بيضاء من غير سوء في تسع ايات الى فرعون وقومه انهم كانوا قوما فاسقين",
+    "bengali": "‘আর তুমি তোমার হাত বগলে প্রবেশ করাও, তা দোষমুক্ত শুভ্র অবস্থায় বের হয়ে আসবে। ফির‘আউন ও তার সম্প্রদায়ের কাছে আনীত নয়টি নিদর্শনের অন্তর্ভুক্ত। নিশ্চয় তারা ছিল ফাসিক সম্প্রদায়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_12.mp3"
+        }
+    }
+}

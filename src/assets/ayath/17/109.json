@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 109,
+    "english": "And they fall down upon their faces weeping, and it increases them in humility.”",
+    "arabic1": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+    "arabic2": "ويخرون للاذقان يبكون ويزيدهم خشوعا",
+    "bengali": "‘আর তারা কাঁদতে কাঁদতে লুটিয়ে পড়ে এবং এটা তাদের বিনয় বৃদ্ধি করে’।[সাজদাহ]",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_109.mp3"
+        }
+    }
+}

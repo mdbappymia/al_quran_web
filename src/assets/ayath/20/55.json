@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 55,
+    "english": "From the earth We created you, and into it We will return you, and from it We will bring you back again.",
+    "arabic1": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+    "arabic2": "منها خلقناكم وفيها نعيدكم ومنها نخرجكم تارة اخرى",
+    "bengali": "মাটি থেকেই আমি তোমাদেরকে সৃষ্টি করেছি, মাটিতেই আমি তোমাদেরকে ফিরিয়ে নেব এবং মাটি থেকেই তোমাদেরকে পুনরায় বের করে আনব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_55.mp3"
+        }
+    }
+}

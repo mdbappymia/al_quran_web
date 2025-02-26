@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 239,
+    "english": "If you are in danger, pray on foot or while riding. But when you are safe, ˹take time to˺ remember Allah for teaching you what you did not know.",
+    "arabic1": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+    "arabic2": "فان خفتم فرجالا او ركبانا فاذا امنتم فاذكروا الله كما علمكم ما لم تكونوا تعلمون",
+    "bengali": "কিন্তু যদি তোমরা ভয় কর, তবে হেঁটে কিংবা আরোহণ করে (আদায় করে নাও)। এরপর যখন নিরাপদ হবে তখন আল্লাহকে স্মরণ কর, যেভাবে তিনি তোমাদেরকে শিখিয়েছেন, যা তোমরা জানতে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_239.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_239.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_239.mp3"
+        }
+    }
+}

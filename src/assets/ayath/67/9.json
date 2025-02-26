@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 9,
+    "english": "They will reply, “Yes, a warner did come to us, but we denied and said, ‘Allah has revealed nothing. You are extremely astray.’”",
+    "arabic1": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ كَبِيرٍ",
+    "arabic2": "قالوا بلى قد جاءنا نذير فكذبنا وقلنا ما نزل الله من شيء ان انتم الا في ضلال كبير",
+    "bengali": "তারা বলবে, ‘হ্যাঁ, আমাদের নিকট সতর্ককারী এসেছিল। তখন আমরা (তাদেরকে) মিথ্যাবাদী আখ্যায়িত করেছিলাম এবং বলেছিলাম, ‘আল্লাহ কিছুই নাযিল করেননি। তোমরা তো ঘোর বিভ্রান্তিতে রয়েছ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_9.mp3"
+        }
+    }
+}

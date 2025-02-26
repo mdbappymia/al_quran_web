@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 100,
+    "english": "Is it not clear to those who take over the land after ˹the destruction of˺ its former residents that—if We will—We can punish them ˹too˺ for their sins and seal their hearts so they will not hear ˹the truth˺?",
+    "arabic1": "أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ",
+    "arabic2": "اولم يهد للذين يرثون الارض من بعد اهلها ان لو نشاء اصبناهم بذنوبهم ونطبع على قلوبهم فهم لا يسمعون",
+    "bengali": "যমীনের অধিবাসীদের (চলে যাবার) পর যারা তার উত্তরাধিকারী হয়, তাদের কাছে কি এ কথা পরিষ্কার হয়নি যে, আমি যদি চাই, তাদের পাপের কারণে তাদেরকে শাস্তি দিতে পারি? আর আমি মোহর মেরে দেই তাদের হৃদয়ে। অতঃপর তারা শোনে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_100.mp3"
+        }
+    }
+}

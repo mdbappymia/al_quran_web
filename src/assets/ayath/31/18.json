@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 18,
+    "english": "“And do not turn your nose up to people, nor walk pridefully upon the earth. Surely Allah does not like whoever is arrogant, boastful.",
+    "arabic1": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+    "arabic2": "ولا تصعر خدك للناس ولا تمش في الارض مرحا ان الله لا يحب كل مختال فخور",
+    "bengali": "‘আর তুমি মানুষের দিক থেকে তোমার মুখ ফিরিয়ে নিয়ো না। আর যমীনে দম্ভভরে চলাফেরা করো না; নিশ্চয় আল্লাহ কোন দাম্ভিক, অহঙ্কারীকে পছন্দ করেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_18.mp3"
+        }
+    }
+}

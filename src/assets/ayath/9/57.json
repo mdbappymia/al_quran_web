@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 57,
+    "english": "If only they could find a refuge, or a cave, or any hiding-place, they would rush headlong towards it.",
+    "arabic1": "لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَـٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ",
+    "arabic2": "لو يجدون ملجا او مغارات او مدخلا لولوا اليه وهم يجمحون",
+    "bengali": "যদি তারা কোন আশ্রয়স্থল, বা কোন গুহা অথবা লুকিয়ে থাকার কোন প্রবেশস্থল পেত, তবে তারা সেদিকেই দৌড়ে পালাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_57.mp3"
+        }
+    }
+}

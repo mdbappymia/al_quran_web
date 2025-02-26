@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 178,
+    "english": "I am truly a trustworthy messenger to you.",
+    "arabic1": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+    "arabic2": "اني لكم رسول امين",
+    "bengali": "‘নিশ্চয় আমি তোমাদের জন্য এক বিশ্বস্ত রাসূল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_178.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_178.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_178.mp3"
+        }
+    }
+}

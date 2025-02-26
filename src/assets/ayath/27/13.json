@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 13,
+    "english": "But when Our enlightening signs came to them, they said, “This is pure magic.”",
+    "arabic1": "فَلَمَّا جَآءَتْهُمْ ءَايَـٰتُنَا مُبْصِرَةً قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+    "arabic2": "فلما جاءتهم اياتنا مبصرة قالوا هذا سحر مبين",
+    "bengali": "তারপর যখন আমার নিদর্শনগুলো দৃশ্যমান হয়ে তাদের কাছে আসল, তখন তারা বলল, এটা তো সুস্পষ্ট যাদু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_13.mp3"
+        }
+    }
+}

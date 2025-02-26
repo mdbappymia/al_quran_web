@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 21,
+    "english": "So Moses left the city in a state of fear and caution, praying, “My Lord! Deliver me from the wrongdoing people.”",
+    "arabic1": "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فخرج منها خائفا يترقب قال رب نجني من القوم الظالمين",
+    "bengali": "তখন সে ভীত প্রতীক্ষারত অবস্থায় শহর থেকে বেরিয়ে পড়ল। বলল, ‘হে আমার রব, আপনি যালিম কওম থেকে আমাকে রক্ষা করুন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_21.mp3"
+        }
+    }
+}

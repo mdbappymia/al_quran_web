@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 6,
+    "english": "He merges the night into day and the day into night. And He knows best what is ˹hidden˺ in the heart.",
+    "arabic1": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+    "arabic2": "يولج الليل في النهار ويولج النهار في الليل وهو عليم بذات الصدور",
+    "bengali": "তিনি রাতকে দিনের মধ্যে প্রবেশ করান এবং দিনকে রাতের মধ্যে প্রবেশ করান। আর তিনি অন্তরসমূহের বিষয়াদি সম্পর্কে সম্যক অবগত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_6.mp3"
+        }
+    }
+}

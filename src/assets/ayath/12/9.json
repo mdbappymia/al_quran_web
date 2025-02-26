@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 9,
+    "english": "Kill Joseph or cast him out to some ˹distant˺ land so that our father’s attention will be only ours, then after that you may ˹repent and˺ become righteous people!”",
+    "arabic1": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَـٰلِحِينَ",
+    "arabic2": "اقتلوا يوسف او اطرحوه ارضا يخل لكم وجه ابيكم وتكونوا من بعده قوما صالحين",
+    "bengali": "‘তোমরা ইউসুফকে হত্যা কর অথবা তাকে কোন যমীনে ফেলে আস, তাহলে তোমাদের পিতার আনুকূল্য কেবল তোমাদের জন্য থাকবে এবং তোমরা সৎ লোক হয়ে যাবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_9.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 44,
+    "english": "You were not there ˹O Prophet˺ on the western side of the mountain when We entrusted the Commandments to Moses, nor were you present ˹in his time˺.",
+    "arabic1": "وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّـٰهِدِينَ",
+    "arabic2": "وما كنت بجانب الغربي اذ قضينا الى موسى الامر وما كنت من الشاهدين",
+    "bengali": "আর (হে নবী) আমি যখন মূসাকে বিধান দিয়েছিলাম তখন তুমি (তূর পাহাড়ের) পশ্চিম পার্শে উপস্থিত ছিলে না। আর তুমি প্রত্যক্ষদর্শীদের অন্তর্ভুক্তও ছিলে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_44.mp3"
+        }
+    }
+}

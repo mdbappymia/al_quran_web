@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 6,
+    "english": "and to establish them in the land; and through them show Pharaoh, Hamân, and their soldiers ˹the fulfilment of˺ what they feared.",
+    "arabic1": "وَنُمَكِّنَ لَهُمْ فِى ٱلْأَرْضِ وَنُرِىَ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا۟ يَحْذَرُونَ",
+    "arabic2": "ونمكن لهم في الارض ونري فرعون وهامان وجنودهما منهم ما كانوا يحذرون",
+    "bengali": "আর যমীনে তাদেরকে ক্ষমতায় অধিষ্ঠিত করতে এবং ফির‘আউন, হামান ও তাদের সৈন্যদেরকে দেখিয়ে দিতে, যা তারা তাদের কাছ থেকে আশঙ্কা করছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_6.mp3"
+        }
+    }
+}

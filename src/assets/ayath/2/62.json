@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 62,
+    "english": "Indeed, the believers, Jews, Christians, and Sabians—whoever ˹truly˺ believes in Allah and the Last Day and does good will have their reward with their Lord. And there will be no fear for them, nor will they grieve.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَـٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "arabic2": "ان الذين امنوا والذين هادوا والنصارى والصابئين من امن بالله واليوم الاخر وعمل صالحا فلهم اجرهم عند ربهم ولا خوف عليهم ولا هم يحزنون",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে, যারা ইয়াহূদী হয়েছে এবং নাসারা ও সাবিঈরা* -(তাদের মধ্যে) যারা ঈমান এনেছে আল্লাহ ও শেষ দিনের প্রতি এবং নেক কাজ করেছে - তবে তাদের জন্য রয়েছে তাদের রবের নিকট তাদের প্রতিদান। আর তাদের কোন ভয় নেই এবং তারা দুঃখিতও হবে না। \n*সাবিঈ- বিভিন্ন গ্রহ-নক্ষত্রের পূজারী মতান্তরে ফেরেশতাদের উপাসনাকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_62.mp3"
+        }
+    }
+}

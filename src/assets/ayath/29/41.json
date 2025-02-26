@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 41,
+    "english": "The parable of those who take protectors other than Allah is that of a spider spinning a shelter. And the flimsiest of all shelters is certainly that of a spider, if only they knew.",
+    "arabic1": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ ۖ لَوْ كَانُوا۟ يَعْلَمُونَ",
+    "arabic2": "مثل الذين اتخذوا من دون الله اولياء كمثل العنكبوت اتخذت بيتا وان اوهن البيوت لبيت العنكبوت لو كانوا يعلمون",
+    "bengali": "যারা আল্লাহ ছাড়া বহু অভিভাবক গ্রহণ করে, তাদের দৃষ্টান্ত মাকড়সার ন্যায়, যে ঘর বানায় এবং নিশ্চয় সবচাইতে দুর্বল ঘর হল মাকড়সার ঘর, যদি তারা জানত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_41.mp3"
+        }
+    }
+}

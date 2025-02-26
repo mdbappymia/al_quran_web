@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 18,
+    "english": "In fact, We hurl the truth against falsehood, leaving it crushed, and it quickly vanishes. And woe be to you for what you claim!",
+    "arabic1": "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَـٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ",
+    "arabic2": "بل نقذف بالحق على الباطل فيدمغه فاذا هو زاهق ولكم الويل مما تصفون",
+    "bengali": "বরং আমি মিথ্যার উপর সত্য নিক্ষেপ করি; ফলে তা মিথ্যাকে চূর্ণ-বিচূর্ণ করে দেয় এবং নিমিষেই তা বিলুপ্ত হয়। আর তোমাদের জন্য রয়েছে দুর্ভোগ তোমরা যা বলছ তার জন্য ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_18.mp3"
+        }
+    }
+}

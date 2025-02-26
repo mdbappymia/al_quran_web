@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 44,
+    "english": "If they were to see a ˹deadly˺ piece of the sky fall down ˹upon them˺, still they would say, “˹This is just˺ a pile of clouds.”",
+    "arabic1": "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ",
+    "arabic2": "وان يروا كسفا من السماء ساقطا يقولوا سحاب مركوم",
+    "bengali": "আর কোন আকাশখন্ড ভেঙ্গে পড়তে দেখলে তারা বলবে, ‘এটি তো এক পুঞ্জীভূত মেঘ’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_44.mp3"
+        }
+    }
+}

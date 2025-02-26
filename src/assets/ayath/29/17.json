@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 17,
+    "english": "You worship besides Allah nothing but idols, simply creating lies ˹about them˺. Those you worship besides Allah certainly cannot give you any provision. So seek provision from Allah ˹alone˺, worship Him, and be grateful to Him. To Him you will ˹all˺ be returned.",
+    "arabic1": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَـٰنًا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ ۖ إِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "انما تعبدون من دون الله اوثانا وتخلقون افكا ان الذين تعبدون من دون الله لا يملكون لكم رزقا فابتغوا عند الله الرزق واعبدوه واشكروا له اليه ترجعون",
+    "bengali": "‘তোমরা তো আল্লাহকে বাদ দিয়ে মূর্তিগুলোর পূজা করছ এবং মিথ্যা বানাচ্ছ। নিশ্চয় তোমরা আল্লাহ ছাড়া যাদের উপাসনা কর তারা তোমাদের জন্য রিয্ক-এর মালিক নয়। তাই আল্লাহর কাছে রিয্ক তালাশ কর, তাঁর ইবাদাত কর এবং তাঁর প্রতি কৃতজ্ঞতা প্রকাশ কর। তাঁরই কাছে তোমরা প্রত্যাবর্তিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_17.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 104,
+    "english": "And Moses said, “O Pharaoh! I am truly a messenger from the Lord of all worlds",
+    "arabic1": "وَقَالَ مُوسَىٰ يَـٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "وقال موسى يا فرعون اني رسول من رب العالمين",
+    "bengali": "মূসা বলল, ‘হে ফির‘আউন, আমি তো সকল সৃষ্টির রবের পক্ষ থেকে রাসূল।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_104.mp3"
+        }
+    }
+}

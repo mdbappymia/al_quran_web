@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 31,
+    "english": "We are your supporters in this worldly life and in the Hereafter. There you will have whatever your souls desire, and there you will have whatever you ask for:",
+    "arabic1": "نَحْنُ أَوْلِيَآؤُكُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ",
+    "arabic2": "نحن اولياؤكم في الحياة الدنيا وفي الاخرة ولكم فيها ما تشتهي انفسكم ولكم فيها ما تدعون",
+    "bengali": "‘আমরা দুনিয়ার জীবনে তোমাদের বন্ধু এবং আখিরাতেও। সেখানে তোমাদের জন্য থাকবে যা তোমাদের মন চাইবে এবং সেখানে তোমাদের জন্য আরো থাকবে যা তোমরা দাবী করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_31.mp3"
+        }
+    }
+}

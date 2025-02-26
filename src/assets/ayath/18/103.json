@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 103,
+    "english": "Say, ˹O Prophet,˺ “Shall we inform you of who will lose the most deeds?",
+    "arabic1": "قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَـٰلًا",
+    "arabic2": "قل هل ننبئكم بالاخسرين اعمالا",
+    "bengali": "বল, ‘আমি কি তোমাদেরকে এমন লোকদের কথা জানাব, যারা আমলের দিক থেকে সবচেয়ে বেশী ক্ষতিগ্রস্ত’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_103.mp3"
+        }
+    }
+}

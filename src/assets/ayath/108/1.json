@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kawthar",
+    "surahNameArabic": "الكوثر",
+    "surahNameArabicLong": "سورة الكوثر",
+    "surahNameTranslation": "Abundance",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 108,
+    "ayahNo": 1,
+    "english": "Indeed, We have granted you ˹O Prophet˺ abundant goodness.",
+    "arabic1": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+    "arabic2": "انا اعطيناك الكوثر",
+    "bengali": "নিশ্চয় আমি তোমাকে আল-কাউসার দান করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/108_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/108_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/108_1.mp3"
+        }
+    }
+}

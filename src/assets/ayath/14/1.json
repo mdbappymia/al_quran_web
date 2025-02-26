@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 1,
+    "english": "Alif-Lãm-Ra. ˹This is˺ a Book which We have revealed to you ˹O Prophet˺ so that you may lead people out of darkness and into light, by the Will of their Lord, to the Path of the Almighty, the Praiseworthy—",
+    "arabic1": " الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+    "arabic2": "الر كتاب انزلناه اليك لتخرج الناس من الظلمات الى النور باذن ربهم الى صراط العزيز الحميد",
+    "bengali": "আলিফ-লাম-রা; এই কিতাব, যা আমি তোমার প্রতি নাযিল করেছি, যাতে তুমি মানুষকে তাদের রবের অনুমতিক্রমে অন্ধকার থেকে আলোর দিকে বের করে আন, পরাক্রমশালী সর্বপ্রশংসিতের পথের দিকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_1.mp3"
+        }
+    }
+}

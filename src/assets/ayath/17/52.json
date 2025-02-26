@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 52,
+    "english": "On the Day He will call you, you will ˹instantly˺ respond by praising Him, thinking you had remained ˹in the world˺ only for a little while.",
+    "arabic1": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا",
+    "arabic2": "يوم يدعوكم فتستجيبون بحمده وتظنون ان لبثتم الا قليلا",
+    "bengali": "‘যেদিন তিনি তোমাদেরকে ডাকবেন, তখন তাঁর প্রশংসার সাথে তোমরা সাড়া দেবে। আর তোমরা ধারণা করবে, অল্প সময়ই তোমরা অবস্থান করেছিলে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_52.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 52,
+    "english": "For whoever obeys Allah and His Messenger, and fears Allah and is mindful of Him, then it is they who will ˹truly˺ triumph.",
+    "arabic1": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخْشَ ٱللَّهَ وَيَتَّقْهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+    "arabic2": "ومن يطع الله ورسوله ويخش الله ويتقه فاولئك هم الفائزون",
+    "bengali": "আর যে কেউ আল্লাহ ও তাঁর রাসূলের আনুগত্য করে, আল্লাহকে ভয় করে এবং তাঁর তাকওয়া অবলম্বন করে, তারাই কৃতকার্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_52.mp3"
+        }
+    }
+}

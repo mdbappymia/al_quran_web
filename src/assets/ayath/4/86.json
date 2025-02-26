@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 86,
+    "english": "And when you are greeted, respond with a better greeting or at least similarly. Surely Allah is a ˹vigilant˺ Reckoner of all things.",
+    "arabic1": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+    "arabic2": "واذا حييتم بتحية فحيوا باحسن منها او ردوها ان الله كان على كل شيء حسيبا",
+    "bengali": "আর যখন তোমাদেরকে সালাম দেয়া হবে তখন তোমরা তার চেয়ে উত্তম সালাম দেবে। অথবা জবাবে তাই দেবে। নিশ্চয় আল্লাহ সব বিষয়ে পূর্ণ হিসাবকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_86.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_86.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_86.mp3"
+        }
+    }
+}

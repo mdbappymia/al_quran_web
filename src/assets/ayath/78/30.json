@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naba",
+    "surahNameArabic": "النبإ",
+    "surahNameArabicLong": "سورة النبأ",
+    "surahNameTranslation": "The Announcement",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 78,
+    "ayahNo": 30,
+    "english": "˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”",
+    "arabic1": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+    "arabic2": "فذوقوا فلن نزيدكم الا عذابا",
+    "bengali": "সুতরাং তোমরা স্বাদ গ্রহণ কর। আর আমি তো কেবল তোমাদের আযাবই বৃদ্ধি করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/78_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/78_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/78_30.mp3"
+        }
+    }
+}

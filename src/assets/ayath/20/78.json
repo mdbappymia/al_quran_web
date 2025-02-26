@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 78,
+    "english": "Then Pharaoh pursued them with his soldiers—but how overwhelming were the waters that submerged them!",
+    "arabic1": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+    "arabic2": "فاتبعهم فرعون بجنوده فغشيهم من اليم ما غشيهم",
+    "bengali": "তারপর ফির‘আউন তার সেনাবাহিনী সহ তাদের পিছু নিল। অতঃপর সমুদ্র তাদেরকে সম্পূর্ণরূপে নিমজ্জিত করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_78.mp3"
+        }
+    }
+}

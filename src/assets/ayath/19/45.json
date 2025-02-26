@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 45,
+    "english": "O  dear father! I truly fear that you will be touched by a torment from the Most Compassionate, and become Satan’s companion ˹in Hell˺.”",
+    "arabic1": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَـٰنِ فَتَكُونَ لِلشَّيْطَـٰنِ وَلِيًّا",
+    "arabic2": "يا ابت اني اخاف ان يمسك عذاب من الرحمن فتكون للشيطان وليا",
+    "bengali": "‘হে আমার পিতা, আমি আশংকা করছি যে, পরম করুণাময়ের (পক্ষ থেকে) তোমাকে আযাব স্পর্শ করবে, ফলে তুমি শয়তানের সঙ্গী হয়ে যাবে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_45.mp3"
+        }
+    }
+}

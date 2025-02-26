@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 22,
+    "english": "You are not ˹there˺ to compel them ˹to believe˺.",
+    "arabic1": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+    "arabic2": "لست عليهم بمصيطر",
+    "bengali": "তুমি তাদের উপর শক্তি প্রয়োগকারী নও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_22.mp3"
+        }
+    }
+}

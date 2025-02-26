@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 9,
+    "english": "It is certainly We Who have revealed the Reminder, and it is certainly We Who will preserve it.",
+    "arabic1": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ",
+    "arabic2": "انا نحن نزلنا الذكر وانا له لحافظون",
+    "bengali": "নিশ্চয় আমি কুরআন* নাযিল করেছি, আর আমিই তার হেফাযতকারী। \n* الذكر দ্বারা উদ্দেশ্য কুরআন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_9.mp3"
+        }
+    }
+}

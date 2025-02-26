@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 37,
+    "english": "Among His signs are the day and the night, the sun and the moon. Do not prostrate to the sun or the moon, but prostrate to Allah, Who created them ˹all˺, if you ˹truly˺ worship Him ˹alone˺.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ ۚ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+    "arabic2": "ومن اياته الليل والنهار والشمس والقمر لا تسجدوا للشمس ولا للقمر واسجدوا لله الذي خلقهن ان كنتم اياه تعبدون",
+    "bengali": "আর তাঁর নিদর্শনসমূহের মধ্যে রয়েছে রাত ও দিন, সূর্য ও চাঁদ । তোমরা না সূর্যকে সিজদা করবে, না চাঁদকে। আর তোমরা আল্লাহকে সিজদা কর যিনি এগুলো সৃষ্টি করেছেন, যদি তোমরা কেবলমাত্র তাঁরই ইবাদাত কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_37.mp3"
+        }
+    }
+}

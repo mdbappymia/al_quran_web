@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 66,
+    "english": "So let them be ungrateful for all We have given them, and ˹let them˺ enjoy themselves ˹for now˺! For they will soon know.",
+    "arabic1": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ وَلِيَتَمَتَّعُوا۟ ۖ فَسَوْفَ يَعْلَمُونَ",
+    "arabic2": "ليكفروا بما اتيناهم وليتمتعوا فسوف يعلمون",
+    "bengali": "যাতে আমি তাদেরকে যা দিয়েছি, তা তারা অস্বীকার করতে পারে এবং তারা যেন ভোগ-বিলাসে মত্ত থাকতে পারে। অতঃপর শীঘ্রই তারা জানতে পারবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_66.mp3"
+        }
+    }
+}

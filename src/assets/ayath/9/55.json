@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 55,
+    "english": "So let neither their wealth nor children impress you ˹O Prophet˺. Allah only intends to torment them through these things in this worldly life, then their souls will depart while they are disbelievers.",
+    "arabic1": "فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ",
+    "arabic2": "فلا تعجبك اموالهم ولا اولادهم انما يريد الله ليعذبهم بها في الحياة الدنيا وتزهق انفسهم وهم كافرون",
+    "bengali": "অতএব তোমাকে যেন মুগ্ধ না করে তাদের ধন-সম্পদ এবং সন্তানাদি, আল্লাহ এর দ্বারা কেবল তাদের আযাব দিতে চান দুনিয়ার জীবনে এবং তাদের জান বের হবে কাফির অবস্থায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_55.mp3"
+        }
+    }
+}

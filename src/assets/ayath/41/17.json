@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 17,
+    "english": "As for Thamûd, We showed them guidance, but they preferred blindness over guidance. So the blast of a disgracing punishment overtook them for what they used to commit.",
+    "arabic1": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "واما ثمود فهديناهم فاستحبوا العمى على الهدى فاخذتهم صاعقة العذاب الهون بما كانوا يكسبون",
+    "bengali": "আর সামূদ সম্প্রদায়, আমি তাদেরকে সঠিক পথের নির্দেশনা দিয়েছিলাম; কিন্তু তারা সঠিক পথে চলার পরিবর্তে অন্ধ পথে চলাই পছন্দ করেছিল। ফলে তাদের অর্জনের কারণেই লাঞ্ছনাদায়ক আযাবের বজ্রাঘাত তাদেরকে পাকড়াও করল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_17.mp3"
+        }
+    }
+}

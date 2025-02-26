@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 22,
+    "english": "Say, ˹O Prophet,˺ “Call upon those you claim ˹to be divine˺ besides Allah. They do not possess ˹even˺ an atom’s weight either in the heavens or the earth, nor do they have any share in ˹governing˺ them. Nor is any of them a helper to Him.”",
+    "arabic1": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ",
+    "arabic2": "قل ادعوا الذين زعمتم من دون الله لا يملكون مثقال ذرة في السماوات ولا في الارض وما لهم فيهما من شرك وما له منهم من ظهير",
+    "bengali": "বল, ‘তোমরা আল্লাহ ছাড়া যাদেরকে ইলাহ মনে করতে তাদেরকে আহবান কর। তারা আসমানসমূহ ও যমীনের মধ্যে অণু পরিমাণ কোন কিছুর মালিক নয়। আর এ দু’য়ের মধ্যে তাদের কোন অংশীদারিত্ব নেই এবং তাদের মধ্য থেকে কেউ তাঁর সাহায্যকারীও নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_22.mp3"
+        }
+    }
+}

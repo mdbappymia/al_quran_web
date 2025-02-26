@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 15,
+    "english": "Peace be upon him the day he was born, and the day of his death, and the day he will be raised back to life!",
+    "arabic1": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+    "arabic2": "وسلام عليه يوم ولد ويوم يموت ويوم يبعث حيا",
+    "bengali": "আর তার উপর শান্তি, যেদিন সে জন্মেছে এবং যেদিন সে মারা যাবে আর যেদিন তাকে জীবিত অবস্থায় উঠানো হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_15.mp3"
+        }
+    }
+}

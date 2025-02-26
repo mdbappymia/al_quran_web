@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 60,
+    "english": "So be patient, for the promise of Allah certainly is true. And do not be disturbed by those who have no sure faith.",
+    "arabic1": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+    "arabic2": "فاصبر ان وعد الله حق ولا يستخفنك الذين لا يوقنون",
+    "bengali": "অতএব, তুমি সবর কর। নিশ্চয় আল্লাহর ওয়াদা হক। আর যারা দৃঢ়ভাবে বিশ্বাস করে না তারা যেন তোমাকে অস্থির করতে না পারে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_60.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_60.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_60.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 16,
+    "english": "And ˹remember˺ when Abraham said to his people, “Worship Allah, and fear Him. This is better for you, if only you knew.",
+    "arabic1": "وَإِبْرَٰهِيمَ إِذْ قَالَ لِقَوْمِهِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "وابراهيم اذ قال لقومه اعبدوا الله واتقوه ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "আর (স্মরণ কর) ইবরাহীমকে, যখন সে তার কওমকে বলেছিল, ‘তোমরা আল্লাহর ইবাদাত কর এবং তাঁর তাকওয়া অবলম্বন কর; এটি তোমাদের জন্য কল্যাণকর, যদি তোমরা জান’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_16.mp3"
+        }
+    }
+}

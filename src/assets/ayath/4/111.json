@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 111,
+    "english": "And whoever commits a sin—it is only to their own loss. Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "arabic2": "ومن يكسب اثما فانما يكسبه على نفسه وكان الله عليما حكيما",
+    "bengali": "আর যে পাপ কামাই করবে, বস্ত্তত, সেতো নিজের বিরুদ্ধেই তা কামাই করবে। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_111.mp3"
+        }
+    }
+}

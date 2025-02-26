@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 4,
+    "english": "previously, as a guide for people, and ˹also˺ revealed the Standard ˹to distinguish between right and wrong˺. Surely those who reject Allah’s revelations will suffer a severe torment. For Allah is Almighty, capable of punishment.",
+    "arabic1": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+    "arabic2": "من قبل هدى للناس وانزل الفرقان ان الذين كفروا بايات الله لهم عذاب شديد والله عزيز ذو انتقام",
+    "bengali": "ইতঃপূর্বে মানুষের জন্য হিদায়াতস্বরূপ। আর তিনি ফুরকান নাযিল করেছেন। নিশ্চয় যারা অস্বীকার করে আল্লাহর আয়াতসমূহ, তাদের জন্যই রয়েছে কঠিন আযাব। আর আল্লাহ পরাক্রমশালী, প্রতিশোধগ্রহণকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_4.mp3"
+        }
+    }
+}

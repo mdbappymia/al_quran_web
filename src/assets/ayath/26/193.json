@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 193,
+    "english": "which the trustworthy spirit ˹Gabriel˺ brought down",
+    "arabic1": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+    "arabic2": "نزل به الروح الامين",
+    "bengali": "বিশ্বস্ত আত্মা* এটা নিয়ে অবতরণ করেছে। \n* এখানে 'বিশ্বস্ত আত্মা'দ্বারা জিবরীল (আ:) কে বুঝানো হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_193.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_193.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_193.mp3"
+        }
+    }
+}

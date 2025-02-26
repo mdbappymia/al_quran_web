@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 29,
+    "english": "It was he who truly made me stray from the Reminder after it had reached me.” And Satan has always betrayed humanity.",
+    "arabic1": "لَّقَدْ أَضَلَّنِى عَنِ ٱلذِّكْرِ بَعْدَ إِذْ جَآءَنِى ۗ وَكَانَ ٱلشَّيْطَـٰنُ لِلْإِنسَـٰنِ خَذُولًا",
+    "arabic2": "لقد اضلني عن الذكر بعد اذ جاءني وكان الشيطان للانسان خذولا",
+    "bengali": "‘অবশ্যই সে তো আমাকে উপদেশবাণী থেকে বিভ্রান্ত করেছিল, আমার কাছে তা আসার পর। আর শয়তান তো মানুষের জন্য চরম প্রতারক’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_29.mp3"
+        }
+    }
+}

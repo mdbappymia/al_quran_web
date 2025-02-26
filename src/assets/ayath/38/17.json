@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 17,
+    "english": "Be patient ˹O Prophet˺ with what they say. And remember Our servant, David, the man of strength. Indeed, he ˹constantly˺ turned ˹to Allah˺.",
+    "arabic1": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُۥدَ ذَا ٱلْأَيْدِ ۖ إِنَّهُۥٓ أَوَّابٌ",
+    "arabic2": "اصبر على ما يقولون واذكر عبدنا داوود ذا الايد انه اواب",
+    "bengali": "তারা যা বলে সে ব্যাপারে তুমি ধৈর্যধারণ কর এবং আমার শক্তিশালী বান্দা দাঊদকে স্মরণ কর; সে ছিল অধিক আল্লাহ অভিমুখী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_17.mp3"
+        }
+    }
+}

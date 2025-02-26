@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 147,
+    "english": "Why should Allah punish you if you are grateful and faithful? Allah is ever Appreciative, All-Knowing.",
+    "arabic1": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ ۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+    "arabic2": "ما يفعل الله بعذابكم ان شكرتم وامنتم وكان الله شاكرا عليما",
+    "bengali": "যদি তোমরা কৃতজ্ঞতা প্রকাশ কর এবং ঈমান আন তাহলে তোমাদেরকে আযাব দিয়ে আল্লাহ কী করবেন? আল্লাহ পুরস্কার দানকারী, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_147.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_147.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_147.mp3"
+        }
+    }
+}

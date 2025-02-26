@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 8,
+    "english": "then he approached ˹the Prophet˺, coming so close",
+    "arabic1": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+    "arabic2": "ثم دنا فتدلى",
+    "bengali": "তারপর সে নিকটবর্তী হল, অতঃপর আরো কাছে এল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_8.mp3"
+        }
+    }
+}

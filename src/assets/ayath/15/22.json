@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 22,
+    "english": "We send fertilizing winds, and bring down rain from the sky for you to drink. It is not you who hold its reserves.",
+    "arabic1": "وَأَرْسَلْنَا ٱلرِّيَـٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَـٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَـٰزِنِينَ",
+    "arabic2": "وارسلنا الرياح لواقح فانزلنا من السماء ماء فاسقيناكموه وما انتم له بخازنين",
+    "bengali": "আর আমি বায়ুকে ঊর্বরকারীরূপে প্রেরণ করি অতঃপর আসমান থেকে বৃষ্টি বর্ষণ করি এবং তা তোমাদের পান করাই। তবে তোমরা তার সংরক্ষণকারী নও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_22.mp3"
+        }
+    }
+}

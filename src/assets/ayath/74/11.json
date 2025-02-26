@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 11,
+    "english": "And leave to me ˹O Prophet˺ the one I created all by Myself",
+    "arabic1": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+    "arabic2": "ذرني ومن خلقت وحيدا",
+    "bengali": "আমাকে এবং যাকে আমি সৃষ্টি করেছি তাকে একাকী ছেড়ে দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_11.mp3"
+        }
+    }
+}

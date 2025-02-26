@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 78,
+    "english": "He is the One Who created for you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.",
+    "arabic1": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+    "arabic2": "وهو الذي انشا لكم السمع والابصار والافئدة قليلا ما تشكرون",
+    "bengali": "আর তিনিই তোমাদের জন্য কান, চোখসমূহ ও অন্তরসমূহ সৃষ্টি করেছেন; তোমরা কমই কৃতজ্ঞতা প্রকাশ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_78.mp3"
+        }
+    }
+}

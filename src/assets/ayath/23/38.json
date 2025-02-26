@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 38,
+    "english": "He is no more than a man who has fabricated a lie about Allah, and we will never believe in him.”",
+    "arabic1": "إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ",
+    "arabic2": "ان هو الا رجل افترى على الله كذبا وما نحن له بمؤمنين",
+    "bengali": "‘সে শুধু এক ব্যক্তি যে আল্লাহর উপর মিথ্যা আরোপ করেছে; আর আমরা তাঁর প্রতি ঈমান আনয়নকারী নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_38.mp3"
+        }
+    }
+}

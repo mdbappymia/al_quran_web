@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 6,
+    "english": "So turn away from them ˹O Prophet˺. ˹And wait for˺ the Day ˹when˺ the caller will summon ˹them˺ for something horrifying.",
+    "arabic1": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+    "arabic2": "فتول عنهم يوم يدع الداع الى شيء نكر",
+    "bengali": "অতএব তুমি তাদের থেকে মুখ ফিরিয়ে নাও, সেদিন আহবানকারী আহবান করবে এক বিভীষিকাময় বিষয়ের দিকে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_6.mp3"
+        }
+    }
+}

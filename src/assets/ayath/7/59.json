@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 59,
+    "english": "Indeed, We sent Noah to his people. He said, “O my people! Worship Allah—you have no other god except Him. I truly fear for you the torment of a tremendous Day.”",
+    "arabic1": "لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "arabic2": "لقد ارسلنا نوحا الى قومه فقال يا قوم اعبدوا الله ما لكم من اله غيره اني اخاف عليكم عذاب يوم عظيم",
+    "bengali": "আমি তো নূহকে তার কওমের নিকট প্রেরণ করেছি। অতঃপর সে বলেছে, ‘হে আমার কওম, তোমরা আল্লাহর ইবাদাত কর। তিনি ছাড়া তোমাদের কোন (সত্য) ইলাহ নেই। নিশ্চয় আমি তোমাদের মহাদিনের আযাবের ভয় করছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_59.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 47,
+    "english": "Say, “If I had ever asked you for a reward, you could keep it. My reward is only from Allah. And He is a Witness over all things.”",
+    "arabic1": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "arabic2": "قل ما سالتكم من اجر فهو لكم ان اجري الا على الله وهو على كل شيء شهيد",
+    "bengali": "বল, ‘আমি তোমাদের কাছে কোন প্রতিদান চাইনি, বরং তা তোমাদেরই। আমার প্রতিদান তো কেবল আল্লাহর নিকট এবং তিনি সব কিছুর উপরই সাক্ষী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_47.mp3"
+        }
+    }
+}

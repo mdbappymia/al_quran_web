@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 103,
+    "english": "Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺.",
+    "arabic1": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّمَنْ خَافَ عَذَابَ ٱلْـَٔاخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ",
+    "arabic2": "ان في ذلك لاية لمن خاف عذاب الاخرة ذلك يوم مجموع له الناس وذلك يوم مشهود",
+    "bengali": "নিশ্চয় এতে রয়েছে নিদর্শন তার জন্য যে আখিরাতের আযাবকে ভয় করে। সেটি এমন একটি দিন, যেদিন সকল মানুষকে সমবেত করা হবে এবং সেটি এমন এক দিন, যেদিন সবাই হাযির হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_103.mp3"
+        }
+    }
+}

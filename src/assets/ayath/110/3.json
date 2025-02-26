@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nasr",
+    "surahNameArabic": "النصر",
+    "surahNameArabicLong": "سورة النصر",
+    "surahNameTranslation": "Divine Support",
+    "revelationPlace": "Madina",
+    "totalAyah": 3,
+    "surahNo": 110,
+    "ayahNo": 3,
+    "english": "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance.",
+    "arabic1": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+    "arabic2": "فسبح بحمد ربك واستغفره انه كان توابا",
+    "bengali": "তখন তুমি তোমার রবের সপ্রশংস তাসবীহ পাঠ কর এবং তাঁর কাছে ক্ষমা চাও নিশ্চয় তিনি তাওবা কবূলকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/110_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/110_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/110_3.mp3"
+        }
+    }
+}

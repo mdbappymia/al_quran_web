@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "ayahNo": 8,
+    "english": "And as for those whose scale is light",
+    "arabic1": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "arabic2": "واما من خفت موازينه",
+    "bengali": "আর যার পাল্লা হালকা হবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/101_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/101_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/101_8.mp3"
+        }
+    }
+}

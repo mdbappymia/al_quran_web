@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 30,
+    "english": "As for those who believe and do good, We certainly never deny the reward of those who are best in deeds.",
+    "arabic1": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+    "arabic2": "ان الذين امنوا وعملوا الصالحات انا لا نضيع اجر من احسن عملا",
+    "bengali": "নিশ্চয় যারা ঈমান এনেছে এবং সৎকাজ করেছে, নিশ্চয় আমি এমন কারো প্রতিদান নষ্ট করব না, যে সুকর্ম করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_30.mp3"
+        }
+    }
+}

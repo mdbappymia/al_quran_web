@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 34,
+    "english": "Joseph already came to you earlier with clear proofs, yet you never ceased to doubt what he came to you with. When he died you said, ‘Allah will never send a messenger after him.’ This is how Allah leaves every transgressor and doubter to stray—",
+    "arabic1": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ",
+    "arabic2": "ولقد جاءكم يوسف من قبل بالبينات فما زلتم في شك مما جاءكم به حتى اذا هلك قلتم لن يبعث الله من بعده رسولا كذلك يضل الله من هو مسرف مرتاب",
+    "bengali": "আর অবশ্যই পূর্বে তোমাদের কাছে সুস্পষ্ট প্রমাণাদিসহ ইউসুফ এসেছিল, সে যা নিয়ে তোমাদের কাছে এসেছিল তা নিয়ে তোমরা সন্দেহে স্থির ছিলে; এমনকি যখন সে মারা গেল তখন তোমরা বললে, ‘আল্লাহ তার পরে কখনো কোন রাসূল পাঠাবেন না’। যে সীমালংঘনকারী, সংশয়বাদী, আল্লাহ তাকে এভাবেই পথভ্রষ্ট করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_34.mp3"
+        }
+    }
+}

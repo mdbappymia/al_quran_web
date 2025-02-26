@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 54,
+    "english": "And ˹remember˺ Lot, when he rebuked ˹the men of˺ his people, “Do you commit that shameful deed while you can see ˹one another˺?",
+    "arabic1": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ",
+    "arabic2": "ولوطا اذ قال لقومه اتاتون الفاحشة وانتم تبصرون",
+    "bengali": "আর স্মরণ কর লূতের কথা, যখন সে তার কওমকে বলেছিল, ‘তোমরা কেন অশ্লীল কাজ করছ, অথচ তা তোমরা ভালভাবে প্রত্যক্ষ করছ’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_54.mp3"
+        }
+    }
+}

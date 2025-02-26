@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 7,
+    "english": "We inspired the mother of Moses: “Nurse him, but when you fear for him, put him then into the river, and do not fear or grieve. We will certainly return him to you, and make him one of the messengers.”",
+    "arabic1": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+    "arabic2": "واوحينا الى ام موسى ان ارضعيه فاذا خفت عليه فالقيه في اليم ولا تخافي ولا تحزني انا رادوه اليك وجاعلوه من المرسلين",
+    "bengali": "আর আমি মূসার মায়ের প্রতি নির্দেশ পাঠালাম, ‘তুমি তাকে দুধ পান করাও। অতঃপর যখন তুমি তার ব্যাপারে আশঙ্কা করবে, তখন তাকে দরিয়ায় নিক্ষেপ করবে। আর তুমি ভয় করবে না এবং চিন্তা করবে না। নিশ্চয় আমি তাকে তোমার কাছে ফিরিয়ে দেব এবং তাকে রাসূলদের অন্তর্ভুক্ত করব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_7.mp3"
+        }
+    }
+}

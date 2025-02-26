@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "ayahNo": 5,
+    "english": "Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺.",
+    "arabic1": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+    "arabic2": "كلا لو تعلمون علم اليقين",
+    "bengali": "কখনো নয়, তোমরা যদি নিশ্চিত জ্ঞানে জানতে!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/102_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/102_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/102_5.mp3"
+        }
+    }
+}

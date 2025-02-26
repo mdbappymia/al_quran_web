@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 23,
+    "english": "Then the pains of labour drove her to the trunk of a palm tree. She cried, “Alas! I wish I had died before this, and was a thing long forgotten!”",
+    "arabic1": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَـٰلَيْتَنِى مِتُّ قَبْلَ هَـٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
+    "arabic2": "فاجاءها المخاض الى جذع النخلة قالت يا ليتني مت قبل هذا وكنت نسيا منسيا",
+    "bengali": "অতঃপর প্রসব-বেদনা তাকে খেজুর গাছের কান্ডের কাছে নিয়ে এলো। সে বলল, ‘হায়! এর আগেই যদি আমি মরে যেতাম এবং সম্পূর্ণরূপে বিস্মৃত হতাম’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_23.mp3"
+        }
+    }
+}

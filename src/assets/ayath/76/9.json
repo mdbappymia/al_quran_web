@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 9,
+    "english": "˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.",
+    "arabic1": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+    "arabic2": "انما نطعمكم لوجه الله لا نريد منكم جزاء ولا شكورا",
+    "bengali": "তারা বলে,‘আমরা তো আল্লাহর সন্তুষ্টির উদ্দেশ্যে তোমাদেরকে খাদ্য দান করি। আমরা তোমাদের থেকে কোন প্রতিদান চাই না এবং কোন শোকরও না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_9.mp3"
+        }
+    }
+}

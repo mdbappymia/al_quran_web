@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Bayyina",
+    "surahNameArabic": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameTranslation": "The Evidence",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 98,
+    "ayahNo": 3,
+    "english": "containing upright commandments.",
+    "arabic1": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+    "arabic2": "فيها كتب قيمة",
+    "bengali": "তাতে রয়েছে সঠিক বিধিবদ্ধ বিধান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/98_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/98_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/98_3.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Asr",
+    "surahNameArabic": "العصر",
+    "surahNameArabicLong": "سورة العصر",
+    "surahNameTranslation": "The Declining Day, Epoch",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 103,
+    "ayahNo": 1,
+    "english": "By the ˹passage of˺ time!",
+    "arabic1": " وَٱلْعَصْرِ",
+    "arabic2": "والعصر",
+    "bengali": "সময়ের কসম,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/103_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/103_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/103_1.mp3"
+        }
+    }
+}

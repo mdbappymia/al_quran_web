@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 45,
+    "english": "those who hindered ˹others˺ from Allah’s Way, strived to make it ˹appear˺ crooked, and disbelieved in the Hereafter.”",
+    "arabic1": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْـَٔاخِرَةِ كَـٰفِرُونَ",
+    "arabic2": "الذين يصدون عن سبيل الله ويبغونها عوجا وهم بالاخرة كافرون",
+    "bengali": "‘যারা আল্লাহর পথে বাধা প্রদান করত এবং তাতে বক্রতা সন্ধান করত এবং তারা ছিল আখিরাতকে অস্বীকারকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_45.mp3"
+        }
+    }
+}

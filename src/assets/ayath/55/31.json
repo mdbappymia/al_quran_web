@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 31,
+    "english": "We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!",
+    "arabic1": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+    "arabic2": "سنفرغ لكم ايه الثقلان",
+    "bengali": "হে মানুষ ও জিন, আমি অচিরেই তোমাদের (হিসাব-নিকাশ গ্রহণের) প্রতি মনোনিবেশ করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_31.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 78,
+    "english": "They appealed, “O Chief Minister! He has a very old father, so take one of us instead. We surely see you as one of the good-doers.”",
+    "arabic1": "قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+    "arabic2": "قالوا يا ايها العزيز ان له ابا شيخا كبيرا فخذ احدنا مكانه انا نراك من المحسنين",
+    "bengali": "তারা বলল, ‘হে আযীয, তার পিতা বড় বৃদ্ধ, আপনি তার স্থলে আমাদের একজনকে নিন, আমরা তো আপনাকে দেখছি সৎকর্মশীলদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_78.mp3"
+        }
+    }
+}

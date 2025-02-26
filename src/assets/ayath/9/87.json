@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 87,
+    "english": "They preferred to stay behind with the helpless, and their hearts have been sealed so they do not comprehend.",
+    "arabic1": "رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+    "arabic2": "رضوا بان يكونوا مع الخوالف وطبع على قلوبهم فهم لا يفقهون",
+    "bengali": "তারা পেছনে থাকা লোকদের সাথে থাকা বেছে নিল এবং তাদের অন্তরসমূহের উপর মোহর এঁটে দেয়া হল, ফলে তারা বুঝতে পারে না ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_87.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_87.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_87.mp3"
+        }
+    }
+}

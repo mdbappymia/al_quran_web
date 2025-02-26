@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 13,
+    "english": "Why did they not produce four witnesses? Now, since they have failed to produce witnesses, they are ˹truly˺ liars in the sight of Allah.",
+    "arabic1": "لَّوْلَا جَآءُو عَلَيْهِ بِأَرْبَعَةِ شُهَدَآءَ ۚ فَإِذْ لَمْ يَأْتُوا۟ بِٱلشُّهَدَآءِ فَأُو۟لَـٰٓئِكَ عِندَ ٱللَّهِ هُمُ ٱلْكَـٰذِبُونَ",
+    "arabic2": "لولا جاءوا عليه باربعة شهداء فاذ لم ياتوا بالشهداء فاولئك عند الله هم الكاذبون",
+    "bengali": "তারা কেন এ ব্যাপারে চারজন সাক্ষী নিয়ে আসল না? সুতরাং যখন তারা সাক্ষী নিয়ে আসেনি, তখন তারাই আল্লাহর কাছে মিথ্যাবাদী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_13.mp3"
+        }
+    }
+}

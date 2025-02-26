@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 9,
+    "english": "that he was only two arms-lengths away or even less.",
+    "arabic1": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+    "arabic2": "فكان قاب قوسين او ادنى",
+    "bengali": "তখন সে নৈকট্য ছিল দু’ ধনুকের পরিমাণ, অথবা তারও কম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_9.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fajr",
+    "surahNameArabic": "الفجر",
+    "surahNameArabicLong": "سورة الفجر",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 89,
+    "ayahNo": 23,
+    "english": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+    "arabic1": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+    "arabic2": "وجيء يومئذ بجهنم يومئذ يتذكر الانسان وانى له الذكرى",
+    "bengali": "আর সেদিন জাহান্নামকে উপস্থিত করা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু সেই স্মরণ তার কী উপকারে আসবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/89_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/89_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/89_23.mp3"
+        }
+    }
+}

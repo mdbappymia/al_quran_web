@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 9,
+    "english": "then He fashioned them and had a spirit of His Own ˹creation˺ breathed into them. And He gave you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.",
+    "arabic1": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+    "arabic2": "ثم سواه ونفخ فيه من روحه وجعل لكم السمع والابصار والافئدة قليلا ما تشكرون",
+    "bengali": "তারপর তিনি তাকে সুঠাম করেছেন এবং তাতে নিজের রূহ থেকে ফুঁকে দিয়েছেন। আর তিনি তোমাদের জন্য কান, চোখ ও অন্তরসমূহ সৃষ্টি করেছেন। তোমরা খুব সামান্যই কৃতজ্ঞতা প্রকাশ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_9.mp3"
+        }
+    }
+}

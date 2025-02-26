@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 35,
+    "english": "So endure patiently, as did the Messengers of Firm Resolve. And do not ˹seek to˺ hasten ˹the torment˺ for the deniers. On the Day they see what they have been threatened with, it will be as if they had only stayed ˹in this world˺ for an hour of a day. ˹This is˺ a ˹sufficient˺ warning! Then, will anyone be destroyed except the rebellious people?",
+    "arabic1": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ",
+    "arabic2": "فاصبر كما صبر اولو العزم من الرسل ولا تستعجل لهم كانهم يوم يرون ما يوعدون لم يلبثوا الا ساعة من نهار بلاغ فهل يهلك الا القوم الفاسقون",
+    "bengali": "অতএব তুমি ধৈর্যধারণ কর, যেমন ধৈর্যধারণ করেছিল সুদৃঢ় সংকল্পের অধিকারী রাসূলগণ। আর তাদের জন্য তাড়াহুড়া করো না। তাদেরকে যে বিষয়ে সতর্ক করা হয়েছিল, যেদিন তারা তা প্রত্যক্ষ করবে, মনে হবে তারা পৃথিবীতে এক দিনের কিছু সময় অবস্থান করেছে। সুতরাং এটা এক ঘোষণা, তাই পাপাচারী কওমকেই ধ্বংস করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_35.mp3"
+        }
+    }
+}

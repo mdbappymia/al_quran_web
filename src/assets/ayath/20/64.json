@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 64,
+    "english": "So orchestrate your plan, then come forward in ˹perfect˺ ranks. And whoever prevails today will certainly be successful.”",
+    "arabic1": "فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّا ۚ وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ",
+    "arabic2": "فاجمعوا كيدكم ثم ائتوا صفا وقد افلح اليوم من استعلى",
+    "bengali": "‘কাজেই তোমরা তোমাদের কলা-কৌশল জমা কর। তারপর তোমরা সবাই সারিবদ্ধভাবে আস। আর আজ যে বিজয়ী হবে, সে-ই সফল হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_64.mp3"
+        }
+    }
+}

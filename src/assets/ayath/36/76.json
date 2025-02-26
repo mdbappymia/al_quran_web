@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 76,
+    "english": "So do not let their words grieve you ˹O Prophet˺. Indeed, We ˹fully˺ know what they conceal and what they reveal.",
+    "arabic1": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+    "arabic2": "فلا يحزنك قولهم انا نعلم ما يسرون وما يعلنون",
+    "bengali": "সুতরাং তাদের কথা তোমাকে যেন চিন্তিত না করে, নিশ্চয় আমি জানি তারা যা গোপন করে এবং যা প্রকাশ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_76.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 1,
+    "english": "Alif-Lãm-Mĩm.",
+    "arabic1": " الٓمٓ",
+    "arabic2": "الم",
+    "bengali": "আলিফ-লাম-মীম।* \n*এ অক্ষরগুলো কুরআনের একটি মু‘জিযা- যার প্রকৃত অর্থ একমাত্র আল্লাহই জানেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_1.mp3"
+        }
+    }
+}

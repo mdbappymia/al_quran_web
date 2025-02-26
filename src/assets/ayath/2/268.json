@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 268,
+    "english": "The Devil threatens you with ˹the prospect of˺ poverty and bids you to the shameful deed ˹of stinginess˺, while Allah promises you forgiveness and ˹great˺ bounties from Him. And Allah is All-Bountiful, All-Knowing.",
+    "arabic1": "ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "arabic2": "الشيطان يعدكم الفقر ويامركم بالفحشاء والله يعدكم مغفرة منه وفضلا والله واسع عليم",
+    "bengali": "শয়তান তোমাদেরকে দরিদ্রতার প্রতিশ্রুতি দেয় এবং অশ্লীল কাজের আদেশ করে। আর আল্লাহ তোমাদেরকে তার পক্ষ থেকে ক্ষমা ও অনুগ্রহের প্রতিশ্রুতি দেন। আর আল্লাহ প্রাচুর্যময়, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_268.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_268.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_268.mp3"
+        }
+    }
+}

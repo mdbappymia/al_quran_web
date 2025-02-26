@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 82,
+    "english": "Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.",
+    "arabic1": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَـٰفًا كَثِيرًا",
+    "arabic2": "افلا يتدبرون القران ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا",
+    "bengali": "তারা কি কুরআন নিয়ে গবেষণা করে না? আর যদি তা আল্লাহ ছাড়া অন্য কারো পক্ষ থেকে হত, তবে অবশ্যই তারা এতে অনেক বৈপরীত্য দেখতে পেত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_82.mp3"
+        }
+    }
+}

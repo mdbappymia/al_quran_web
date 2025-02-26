@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 12,
+    "english": "˹O Prophet!˺ Tell the disbelievers, “Soon you will be overpowered and driven to Hell—what an evil place to rest!”",
+    "arabic1": "قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ ٱلْمِهَادُ",
+    "arabic2": "قل للذين كفروا ستغلبون وتحشرون الى جهنم وبئس المهاد",
+    "bengali": "তুমি কাফিরদেরকে বল, ‘তোমরা অচিরেই পরাজিত হবে এবং তোমাদেরকে জাহান্নামের দিকে সমবেত করা হবে। আর সেটি কতইনা নিকৃষ্ট আবাসস্থল’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_12.mp3"
+        }
+    }
+}

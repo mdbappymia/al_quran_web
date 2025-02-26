@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saff",
+    "surahNameArabic": "الصف",
+    "surahNameArabicLong": "سورة الصف",
+    "surahNameTranslation": "The Ranks",
+    "revelationPlace": "Madina",
+    "totalAyah": 14,
+    "surahNo": 61,
+    "ayahNo": 11,
+    "english": "˹It is to˺ have faith in Allah and His Messenger, and strive in the cause of Allah with your wealth and your lives. That is best for you, if only you knew.",
+    "arabic1": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "تؤمنون بالله ورسوله وتجاهدون في سبيل الله باموالكم وانفسكم ذلكم خير لكم ان كنتم تعلمون",
+    "bengali": "তোমরা আল্লাহর প্রতি ও তাঁর রাসূলের প্রতি ঈমান আনবে এবং তোমরা তোমাদের ধন-সম্পদ ও জীবন দিয়ে আল্লাহর পথে জিহাদ করবে। এটাই তোমাদের জন্য কল্যাণকর, যদি তোমরা জানতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/61_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/61_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/61_11.mp3"
+        }
+    }
+}

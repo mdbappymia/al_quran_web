@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 58,
+    "english": "Indeed, We have made this ˹Quran˺ easy in your own language ˹O Prophet˺ so perhaps they will be mindful.",
+    "arabic1": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+    "arabic2": "فانما يسرناه بلسانك لعلهم يتذكرون",
+    "bengali": "অতঃপর আমি তো তোমার ভাষায় কুরআনকে সহজ করে দিয়েছি, যাতে তারা উপদেশ গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_58.mp3"
+        }
+    }
+}

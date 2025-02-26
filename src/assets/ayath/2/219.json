@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 219,
+    "english": "They ask you ˹O Prophet˺ about intoxicants and gambling. Say, “There is great evil in both, as well as some benefit for people—but the evil outweighs the benefit.” They ˹also˺ ask you ˹O Prophet˺ what they should donate. Say, “Whatever you can spare.” This is how Allah makes His revelations clear to you ˹believers˺, so perhaps you may reflect",
+    "arabic1": "۞ يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ ۖ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَـٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا ۗ وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+    "arabic2": "يسالونك عن الخمر والميسر قل فيهما اثم كبير ومنافع للناس واثمهما اكبر من نفعهما ويسالونك ماذا ينفقون قل العفو كذلك يبين الله لكم الايات لعلكم تتفكرون",
+    "bengali": "তারা তোমাকে মদ ও জুয়া সম্পর্কে জিজ্ঞাসা করে। বল, এ দু’টোয় রয়েছে বড় পাপ ও মানুষের জন্য উপকার। আর তার পাপ তার উপকারিতার চেয়ে অধিক বড়। আর তারা তোমাকে জিজ্ঞাসা করে, তারা কী ব্যয় করবে। বল, ‘যা প্রয়োজনের অতিরিক্ত’। এভাবে আল্লাহ তোমাদের জন্য আয়াতসমূহ স্পষ্টভাবে বর্ণনা করেন, যাতে তোমরা চিন্তা কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_219.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_219.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_219.mp3"
+        }
+    }
+}

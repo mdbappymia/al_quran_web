@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 19,
+    "english": "Indeed, We sent against them a furious wind, on a day of unrelenting misery",
+    "arabic1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+    "arabic2": "انا ارسلنا عليهم ريحا صرصرا في يوم نحس مستمر",
+    "bengali": "নিশ্চয় আমি তাদের ওপর পাঠিয়েছিলাম প্রচন্ড শীতল ঝড়ো হাওয়া, অব্যাহত এক অমঙ্গল দিনে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_19.mp3"
+        }
+    }
+}

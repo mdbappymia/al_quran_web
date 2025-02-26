@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "ayahNo": 6,
+    "english": "On that Day people will proceed in separate groups to be shown ˹the consequences of˺ their deeds.",
+    "arabic1": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+    "arabic2": "يومئذ يصدر الناس اشتاتا ليروا اعمالهم",
+    "bengali": "সেদিন মানুষ বিক্ষিপ্তভাবে বের হয়ে আসবে যাতে দেখানো যায় তাদেরকে তাদের নিজদের কৃতকর্ম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/99_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/99_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/99_6.mp3"
+        }
+    }
+}

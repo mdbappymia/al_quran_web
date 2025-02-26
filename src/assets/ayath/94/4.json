@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 4,
+    "english": "and elevated your renown for you?",
+    "arabic1": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "arabic2": "ورفعنا لك ذكرك",
+    "bengali": "আর আমি তোমার (মর্যাদার) জন্য তোমার স্মরণকে সমুন্নত করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_4.mp3"
+        }
+    }
+}

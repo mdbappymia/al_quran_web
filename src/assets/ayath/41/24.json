@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 24,
+    "english": "Even if they endure patiently, the Fire will ˹always˺ be their home. And if they ˹beg to˺ appease ˹their Lord˺, they will never be allowed to.",
+    "arabic1": "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًى لَّهُمْ ۖ وَإِن يَسْتَعْتِبُوا۟ فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ",
+    "arabic2": "فان يصبروا فالنار مثوى لهم وان يستعتبوا فما هم من المعتبين",
+    "bengali": "অতঃপর যদি তারা ধৈর্যধারণ করে তবে আগুনই হবে তাদের আবাস এবং যদি তারা আল্লাহকে সন্তুষ্ট করতে চায়, তবুও তারা আল্লাহর সন্তোষপ্রাপ্তদের অন্তর্ভুক্ত হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_24.mp3"
+        }
+    }
+}

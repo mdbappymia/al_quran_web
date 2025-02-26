@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 44,
+    "english": "Still they persisted in defying the commands of their Lord, so they were overtaken by a ˹mighty˺ blast while they were looking on.",
+    "arabic1": "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ",
+    "arabic2": "فعتوا عن امر ربهم فاخذتهم الصاعقة وهم ينظرون",
+    "bengali": "অতঃপর তারা তাদের রবের আদেশ সম্পর্কে ঔদ্ধত্য প্রকাশ করল। ফলে বজ্রাঘাত তাদেরকে পাকড়াও করল, আর তারা তা দেখছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_44.mp3"
+        }
+    }
+}

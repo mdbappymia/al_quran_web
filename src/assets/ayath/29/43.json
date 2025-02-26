@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 43,
+    "english": "These are the parables We set forth for humanity, but none will understand them except the people of knowledge.",
+    "arabic1": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ",
+    "arabic2": "وتلك الامثال نضربها للناس وما يعقلها الا العالمون",
+    "bengali": "আর এসব দৃষ্টান্ত আমি মানুষের জন্য পেশ করি; আর জ্ঞানী লোকেরা ছাড়া কেউ তা বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_43.mp3"
+        }
+    }
+}

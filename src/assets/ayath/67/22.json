@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 22,
+    "english": "Who is ˹rightly˺ guided: the one who crawls facedown or the one who walks upright on the Straight Path?",
+    "arabic1": "أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "افمن يمشي مكبا على وجهه اهدى امن يمشي سويا على صراط مستقيم",
+    "bengali": "যে ব্যক্তি উপুড় হয়ে মুখের উপর ভর দিয়ে চলে সে কি অধিক হিদায়াতপ্রাপ্ত নাকি সেই ব্যক্তি যে সোজা হয়ে সরল পথে চলে ?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_22.mp3"
+        }
+    }
+}

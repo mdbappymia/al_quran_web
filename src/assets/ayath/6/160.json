@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 160,
+    "english": "Whoever comes with a good deed will be rewarded tenfold. But whoever comes with a bad deed will be punished for only one. None will be wronged.",
+    "arabic1": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "من جاء بالحسنة فله عشر امثالها ومن جاء بالسيئة فلا يجزى الا مثلها وهم لا يظلمون",
+    "bengali": "যে সৎকাজ নিয়ে এসেছে, তার জন্য হবে তার দশ গুণ। আর যে অসৎকাজ নিয়ে এসেছে, তাকে অনুরূপই প্রতিদান দেয়া হবে এবং তাদেরকে যুলম করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_160.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_160.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_160.mp3"
+        }
+    }
+}

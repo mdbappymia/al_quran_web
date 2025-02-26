@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 35,
+    "english": "But I will certainly send him a gift, and see what ˹response˺ my envoys will return with.”",
+    "arabic1": "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ",
+    "arabic2": "واني مرسلة اليهم بهدية فناظرة بم يرجع المرسلون",
+    "bengali": "‘আর নিশ্চয় আমি তাদের কাছে উপঢৌকন পাঠাচ্ছি, তারপর দেখি দূতেরা কী নিয়ে ফিরে আসে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_35.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 84,
+    "english": "And do not ever offer ˹funeral˺ prayers for any of their dead, nor stand by their grave ˹at burial˺, for they have lost faith in Allah and His Messenger and died rebellious.",
+    "arabic1": "وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ ۖ إِنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَـٰسِقُونَ",
+    "arabic2": "ولا تصل على احد منهم مات ابدا ولا تقم على قبره انهم كفروا بالله ورسوله وماتوا وهم فاسقون",
+    "bengali": "আর তাদের মধ্যে যে মারা গিয়েছে, তার উপর তুমি জানাযা পড়বে না এবং তার কবরের উপর দাঁড়াবে না। নিশ্চয় তারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছে এবং তারা ফাসিক অবস্থায় মারা গিয়েছে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_84.mp3"
+        }
+    }
+}

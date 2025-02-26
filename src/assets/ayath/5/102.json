@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 102,
+    "english": "Some people before you asked such questions then denied their answers.",
+    "arabic1": "قَدْ سَأَلَهَا قَوْمٌ مِّن قَبْلِكُمْ ثُمَّ أَصْبَحُوا۟ بِهَا كَـٰفِرِينَ",
+    "arabic2": "قد سالها قوم من قبلكم ثم اصبحوا بها كافرين",
+    "bengali": "তোমাদের পূর্বে একটি কওম এরূপ প্রশ্ন করেছিল; তারপর তারা এর কারণে কাফির হয়ে গেল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_102.mp3"
+        }
+    }
+}

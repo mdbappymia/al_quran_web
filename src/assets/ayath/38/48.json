@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 48,
+    "english": "Also remember Ishmael, Elisha, and Ⱬul-Kifl. All are among the best.",
+    "arabic1": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+    "arabic2": "واذكر اسماعيل واليسع وذا الكفل وكل من الاخيار",
+    "bengali": "আরো স্মরণ কর ইসমাঈল, আল-ইয়াসা‘আ ও যুল-কিফলের কথা। এরা প্রত্যেকেই ছিল সর্বোত্তমদের অন্তর্ভুক্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_48.mp3"
+        }
+    }
+}

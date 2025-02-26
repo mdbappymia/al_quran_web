@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 164,
+    "english": "When some of ˹the righteous among˺ them questioned ˹their fellow Sabbath-keepers˺, “Why do you ˹bother to˺ warn those ˹Sabbath-breakers˺ who will either be destroyed or severely punished by Allah?” They replied, “Just to be free from your Lord’s blame, and so perhaps they may abstain.”",
+    "arabic1": "وَإِذْ قَالَتْ أُمَّةٌ مِّنْهُمْ لِمَ تَعِظُونَ قَوْمًا ۙ ٱللَّهُ مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَابًا شَدِيدًا ۖ قَالُوا۟ مَعْذِرَةً إِلَىٰ رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ",
+    "arabic2": "واذ قالت امة منهم لم تعظون قوما الله مهلكهم او معذبهم عذابا شديدا قالوا معذرة الى ربكم ولعلهم يتقون",
+    "bengali": "আর স্মরণ কর, যখন তাদের একদল বলল, ‘তোমরা কেন উপদেশ দিচ্ছ এমন কওমকে, যাদেরকে আল্লাহ ধ্বংস করবেন অথবা কঠিন আযাব দেবেন’? তারা বলল, ‘তোমাদের রবের নিকট ওযর পেশ করার উদ্দেশ্যে। আশা করা যায় তারা সাবধান হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_164.mp3"
+        }
+    }
+}

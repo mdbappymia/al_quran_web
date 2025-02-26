@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 127,
+    "english": "This is how We reward whoever transgresses and does not believe in the revelations of their Lord. And the punishment of the Hereafter is far more severe and more lasting.",
+    "arabic1": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَـٰتِ رَبِّهِۦ ۚ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَدُّ وَأَبْقَىٰٓ",
+    "arabic2": "وكذلك نجزي من اسرف ولم يؤمن بايات ربه ولعذاب الاخرة اشد وابقى",
+    "bengali": "আর এভাবেই আমি প্রতিফল দান করি তাকে, যে বাড়াবাড়ি করে এবং তার রবের নিদর্শনাবলীতে ঈমান আনে না। আর আখিরাতের আযাব তো অবশ্যই কঠোরতর ও অধিকতর স্থায়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_127.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 18,
+    "english": "Then He will return you to it, and then simply bring you forth ˹again˺.",
+    "arabic1": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+    "arabic2": "ثم يعيدكم فيها ويخرجكم اخراجا",
+    "bengali": "‘তারপর তিনি তোমাদেরকে তাতে ফিরিয়ে নেবেন এবং নিশ্চিতভাবে তোমাদেরকে পুনরুত্থিত করবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_18.mp3"
+        }
+    }
+}

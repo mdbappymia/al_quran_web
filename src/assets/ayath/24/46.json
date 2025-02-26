@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 46,
+    "english": "We have indeed sent down revelations clarifying ˹the truth˺. But Allah ˹only˺ guides whoever He wills to the Straight Path.",
+    "arabic1": "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ ۚ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "لقد انزلنا ايات مبينات والله يهدي من يشاء الى صراط مستقيم",
+    "bengali": "অবশ্যই আমি সুস্পষ্ট আয়াতসমূহ নাযিল করেছি। আর আল্লাহ যাকে ইচ্ছা সরল সঠিক পথ দেখান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_46.mp3"
+        }
+    }
+}

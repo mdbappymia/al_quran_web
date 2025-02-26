@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 65,
+    "english": "˹Allah added,˺ “You will truly have no authority over My ˹faithful˺ servants.” And sufficient is your Lord as a Guardian.",
+    "arabic1": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَـٰنٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+    "arabic2": "ان عبادي ليس لك عليهم سلطان وكفى بربك وكيلا",
+    "bengali": "নিশ্চয় আমার বান্দাদের উপর তোমার কোন ক্ষমতা নেই। কর্মবিধায়ক হিসেবে তোমার রবই যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_65.mp3"
+        }
+    }
+}

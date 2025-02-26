@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 135,
+    "english": "The Jews and Christians each say, “Follow our faith to be ˹rightly˺ guided.” Say, ˹O Prophet,˺ “No! We follow the faith of Abraham, the upright—who was not a polytheist.”",
+    "arabic1": "وَقَالُوا۟ كُونُوا۟ هُودًا أَوْ نَصَـٰرَىٰ تَهْتَدُوا۟ ۗ قُلْ بَلْ مِلَّةَ إِبْرَٰهِـۧمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "وقالوا كونوا هودا او نصارى تهتدوا قل بل ملة ابراهيم حنيفا وما كان من المشركين",
+    "bengali": "আর তারা বলে, ‘তোমরা ইয়াহূদী কিংবা নাসারা হয়ে যাও, হিদায়াত পেয়ে যাবে’। বল, ‘বরং আমরা ইবরাহীমের মিল্লাতের অনুসরণ করি, যে একনিষ্ঠ ছিল এবং যে মুশরিকদের অন্তর্ভুক্ত ছিল না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_135.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_135.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_135.mp3"
+        }
+    }
+}

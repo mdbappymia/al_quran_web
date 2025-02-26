@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 69,
+    "english": "Cast what is in your right hand, and it will swallow up what they have made, for what they have made is no more than a magic trick. And magicians can never succeed wherever they go.”",
+    "arabic1": "وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَـٰحِرٍ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ",
+    "arabic2": "والق ما في يمينك تلقف ما صنعوا انما صنعوا كيد ساحر ولا يفلح الساحر حيث اتى",
+    "bengali": "‘আর তোমার ডান হাতে যা আছে, তা ফেলে দাও। তারা যা করেছে, এটা সেগুলো গ্রাস করে ফেলবে। তারা যা করেছে, তাতো কেবল যাদুকরের কৌশল। আর যাদুকর যেখানেই আসুক না কেন, সে সফল হবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_69.mp3"
+        }
+    }
+}

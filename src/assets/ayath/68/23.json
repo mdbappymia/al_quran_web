@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 23,
+    "english": "So they went off, whispering to one another",
+    "arabic1": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ",
+    "arabic2": "فانطلقوا وهم يتخافتون",
+    "bengali": "তারপর তারা চলল, নিম্নস্বরে একথা বলতে বলতে-",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_23.mp3"
+        }
+    }
+}

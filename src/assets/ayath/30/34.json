@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 34,
+    "english": "becoming ungrateful for whatever ˹favours˺ We have given them. So enjoy yourselves, for soon you will know.",
+    "arabic1": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ فَسَوْفَ تَعْلَمُونَ",
+    "arabic2": "ليكفروا بما اتيناهم فتمتعوا فسوف تعلمون",
+    "bengali": "ফলে আমি তাদের যা দিয়েছি তার প্রতি তারা অকৃতজ্ঞ হয়। সুতরাং তোমরা ভোগ করে নাও। শীঘ্রই তোমরা জানতে পারবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_34.mp3"
+        }
+    }
+}

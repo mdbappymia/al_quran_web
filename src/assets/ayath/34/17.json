@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 17,
+    "english": "This is how We rewarded them for their ingratitude. Would We ever punish ˹anyone in such a way˺ except the ungrateful?",
+    "arabic1": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُوا۟ ۖ وَهَلْ نُجَـٰزِىٓ إِلَّا ٱلْكَفُورَ",
+    "arabic2": "ذلك جزيناهم بما كفروا وهل نجازي الا الكفور",
+    "bengali": "সে আযাব আমি তাদেরকে দিয়েছিলাম তাদের কুফরীর কারণে। আর আমি অকৃতজ্ঞ ছাড়া অন্য কাউকে এমন আযাব দেই না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_17.mp3"
+        }
+    }
+}

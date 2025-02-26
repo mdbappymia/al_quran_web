@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 110,
+    "english": "Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.”",
+    "arabic1": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًا صَـٰلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+    "arabic2": "قل انما انا بشر مثلكم يوحى الي انما الهكم اله واحد فمن كان يرجو لقاء ربه فليعمل عملا صالحا ولا يشرك بعبادة ربه احدا",
+    "bengali": "বল, ‘আমি তোমাদের মতই একজন মানুষ। আমার নিকট ওহী প্রেরণ করা হয় যে, তোমাদের ইলাহই এক ইলাহ। সুতরাং যে তার রবের সাক্ষাৎ কামনা করে, সে যেন সৎকর্ম করে এবং তার রবের ইবাদাতে কাউকে শরীক না করে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_110.mp3"
+        }
+    }
+}

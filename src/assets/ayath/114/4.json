@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naas",
+    "surahNameArabic": "الناس",
+    "surahNameArabicLong": "سورة الناس",
+    "surahNameTranslation": "Mankind",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 114,
+    "ayahNo": 4,
+    "english": "from the evil of the lurking whisperer—",
+    "arabic1": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+    "arabic2": "من شر الوسواس الخناس",
+    "bengali": "কুমন্ত্রণাদাতার অনিষ্ট থেকে, যে দ্রুত আত্মগোপন করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/114_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/114_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/114_4.mp3"
+        }
+    }
+}

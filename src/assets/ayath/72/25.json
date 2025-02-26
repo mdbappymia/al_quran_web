@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 25,
+    "english": "Say, “I do not know if what you are promised is near or my Lord has set a distant time for it.",
+    "arabic1": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+    "arabic2": "قل ان ادري اقريب ما توعدون ام يجعل له ربي امدا",
+    "bengali": "বল, ‘আমি জানি না তোমাদেরকে যার প্রতিশ্রুতি দেয়া হয়েছে, তা কি নিকটবর্তী নাকি এর জন্য আমার রব কোন দীর্ঘ মেয়াদ নির্ধারণ করবেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_25.mp3"
+        }
+    }
+}

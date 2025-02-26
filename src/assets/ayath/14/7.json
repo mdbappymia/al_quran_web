@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 7,
+    "english": "And ˹remember˺ when your Lord proclaimed, ‘If you are grateful, I will certainly give you more. But if you are ungrateful, surely My punishment is severe.’”",
+    "arabic1": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+    "arabic2": "واذ تاذن ربكم لئن شكرتم لازيدنكم ولئن كفرتم ان عذابي لشديد",
+    "bengali": "আর যখন তোমাদের রব ঘোষণা দিলেন, ‘যদি তোমরা শুকরিয়া আদায় কর, তবে আমি অবশ্যই তোমাদের বাড়িয়ে দেব, আর যদি তোমরা অকৃতজ্ঞ হও, নিশ্চয় আমার আযাব বড় কঠিন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_7.mp3"
+        }
+    }
+}

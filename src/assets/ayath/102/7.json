@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "ayahNo": 7,
+    "english": "Again, you will surely see it with the eye of certainty.",
+    "arabic1": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+    "arabic2": "ثم لترونها عين اليقين",
+    "bengali": "তারপর তোমরা তা নিশ্চিত চাক্ষুষ দেখবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/102_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/102_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/102_7.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 57,
+    "english": "˹Then he said to himself,˺ “By Allah! I will surely plot against your idols after you have turned your backs and gone away.”",
+    "arabic1": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَـٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ",
+    "arabic2": "وتالله لاكيدن اصنامكم بعد ان تولوا مدبرين",
+    "bengali": "‘আর আল্লাহর কসম, তোমরা চলে যাওয়ার পর আমি তোমাদের মূর্তিগুলোর ব্যাপারে অবশ্যই কৌশল অবলম্বন করব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_57.mp3"
+        }
+    }
+}

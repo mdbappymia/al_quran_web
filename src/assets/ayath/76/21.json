@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 21,
+    "english": "The virtuous will be ˹dressed˺ in garments of fine green silk and rich brocade, and adorned with bracelets of silver, and their Lord will give them a purifying drink.",
+    "arabic1": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ وَإِسْتَبْرَقٌ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًا طَهُورًا",
+    "arabic2": "عاليهم ثياب سندس خضر واستبرق وحلوا اساور من فضة وسقاهم ربهم شرابا طهورا",
+    "bengali": "তাদের উপর থাকবে সবুজ ও মিহি রেশমের পোশাক এবং মোটা রেশমের পোশাক, আর তাদেরকে পরিধান করানো হবে রূপার চুড়ি এবং তাদের রব তাদেরকে পান করাবেন পবিত্র পানীয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_21.mp3"
+        }
+    }
+}

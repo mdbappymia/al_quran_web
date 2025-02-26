@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 114,
+    "english": "As for Abraham’s prayer for his father’s forgiveness, it was only in fulfilment of a promise he had made to him. But when it became clear to Abraham that his father was an enemy of Allah, he broke ties with him. Abraham was truly tender-hearted, forbearing.",
+    "arabic1": "وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ",
+    "arabic2": "وما كان استغفار ابراهيم لابيه الا عن موعدة وعدها اياه فلما تبين له انه عدو لله تبرا منه ان ابراهيم لاواه حليم",
+    "bengali": "নিজ পিতার জন্য ইবরাহীমের ক্ষমা প্রার্থনা তো ছিল একটি ওয়াদার কারণে, যে ওয়াদা সে তাকে দিয়েছিল। অতঃপর যখন তার নিকট স্পষ্ট হয়ে গেল যে, নিশ্চয় সে আল্লাহর শত্রু, সে তার সাথে সম্পর্ক ছিন্ন করল। নিশ্চয় ইবরাহীম ছিল অধিক প্রার্থনাকারী ও সহনশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_114.mp3"
+        }
+    }
+}

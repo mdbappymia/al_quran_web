@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 66,
+    "english": "Make no excuses! You have lost faith after your belief. If We pardon a group of you, We will punish others for their wickedness.",
+    "arabic1": "لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ ۚ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+    "arabic2": "لا تعتذروا قد كفرتم بعد ايمانكم ان نعف عن طائفة منكم نعذب طائفة بانهم كانوا مجرمين",
+    "bengali": "তোমরা ওযর পেশ করো না। তোমরা তোমাদের ঈমানের পর অবশ্যই কুফরী করেছ। যদি আমি তোমাদের থেকে একটি দলকে ক্ষমা করে দেই, তবে অপর দলকে আযাব দেব। কারণ, তারা হচ্ছে অপরাধী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_66.mp3"
+        }
+    }
+}

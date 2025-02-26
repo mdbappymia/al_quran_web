@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 58,
+    "english": "As for those who emigrate in the cause of Allah and then are martyred or die, Allah will indeed grant them a good provision. Surely Allah is the Best Provider.",
+    "arabic1": "وَٱلَّذِينَ هَاجَرُوا۟ فِى سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓا۟ أَوْ مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا ۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+    "arabic2": "والذين هاجروا في سبيل الله ثم قتلوا او ماتوا ليرزقنهم الله رزقا حسنا وان الله لهو خير الرازقين",
+    "bengali": "আর যারা আল্লাহর পথে হিজরত করে, অতঃপর নিহত হয় কিংবা মারা যায়, তাদেরকে অবশ্যই আল্লাহ উত্তম রিয্ক দান করবেন। আর নিশ্চয় আল্লাহই সর্বোৎকৃষ্ট রিয্কদাতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_58.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 15,
+    "english": "Allah has prepared for them a severe punishment. Evil indeed is what they do.",
+    "arabic1": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اعد الله لهم عذابا شديدا انهم ساء ما كانوا يعملون",
+    "bengali": "আল্লাহ তাদের জন্য কঠোর আযাব প্রস্তুত করে রেখেছেন। নিশ্চয় তারা যা করত তা কতইনা মন্দ!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_15.mp3"
+        }
+    }
+}

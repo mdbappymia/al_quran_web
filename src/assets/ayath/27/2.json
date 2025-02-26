@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 2,
+    "english": "˹It is˺ a guide and good news for the believers:",
+    "arabic1": "هُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic2": "هدى وبشرى للمؤمنين",
+    "bengali": "মুমিনদের জন্য হিদায়াত ও সুসংবাদ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_2.mp3"
+        }
+    }
+}

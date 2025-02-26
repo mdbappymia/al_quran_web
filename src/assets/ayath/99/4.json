@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "ayahNo": 4,
+    "english": "on that Day the earth will recount everything",
+    "arabic1": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+    "arabic2": "يومئذ تحدث اخبارها",
+    "bengali": "সেদিন যমীন তার বৃত্তান্ত বর্ণনা করবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/99_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/99_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/99_4.mp3"
+        }
+    }
+}

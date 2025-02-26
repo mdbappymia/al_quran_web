@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 4,
+    "english": "those who establish prayer, pay alms-tax, and have sure faith in the Hereafter.",
+    "arabic1": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+    "arabic2": "الذين يقيمون الصلاة ويؤتون الزكاة وهم بالاخرة هم يوقنون",
+    "bengali": "যারা সালাত কায়েম করে এবং যাকাত দেয়, আর তারাই আখিরাতে দৃঢ় বিশ্বাস পোষণ করে;",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_4.mp3"
+        }
+    }
+}

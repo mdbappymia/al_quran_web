@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 116,
+    "english": "If only there had been among the ˹destroyed˺ peoples before you, ˹O believers,˺ virtuous individuals who forbade corruption in the land—other than the few We had saved ˹from the torment˺. But the wrongdoers ˹only˺ pursued their ˹worldly˺ pleasures, becoming wicked.",
+    "arabic1": "فَلَوْلَا كَانَ مِنَ ٱلْقُرُونِ مِن قَبْلِكُمْ أُو۟لُوا۟ بَقِيَّةٍ يَنْهَوْنَ عَنِ ٱلْفَسَادِ فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ ۗ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُوا۟ مَآ أُتْرِفُوا۟ فِيهِ وَكَانُوا۟ مُجْرِمِينَ",
+    "arabic2": "فلولا كان من القرون من قبلكم اولو بقية ينهون عن الفساد في الارض الا قليلا ممن انجينا منهم واتبع الذين ظلموا ما اترفوا فيه وكانوا مجرمين",
+    "bengali": "অতএব তোমাদের পূর্বের প্রজন্মসমূহের মধ্যে এমন প্রজ্ঞাবান কেন হয়নি, যারা যমীনে ফাসাদ করা থেকে নিষেধ করত? অল্প সংখ্যক ছাড়া, যাদেরকে আমি তাদের মধ্য থেকে নাজাত দিয়েছিলাম। আর যারা যুলম করেছে, তারা বিলাসিতার পেছনে পড়ে ছিল এবং তারা ছিল অপরাধী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_116.mp3"
+        }
+    }
+}

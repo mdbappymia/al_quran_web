@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 92,
+    "english": "Moses scolded ˹his brother˺, “O Aaron! What prevented you, when you saw them going astray",
+    "arabic1": "قَالَ يَـٰهَـٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟",
+    "arabic2": "قال يا هارون ما منعك اذ رايتهم ضلوا",
+    "bengali": "মূসা বলল, ‘হে হারূন! তুমি যখন দেখলে যে, তারা পথভ্রষ্ট হয়ে গেছে তখন তোমাকে কিসে বিরত রাখল’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_92.mp3"
+        }
+    }
+}

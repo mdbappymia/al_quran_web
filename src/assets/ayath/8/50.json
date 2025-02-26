@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 50,
+    "english": "If only you could see when the angels take the souls of the disbelievers, beating their faces and backs, ˹saying,˺ “Taste the torment of burning!",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ۙ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "ولو ترى اذ يتوفى الذين كفروا الملائكة يضربون وجوههم وادبارهم وذوقوا عذاب الحريق",
+    "bengali": "আর যদি তুমি দেখতে, যখন ফেরেশতারা কাফিরদের প্রাণ হরণ করছিল, তাদের চেহারায় ও পশ্চাতে আঘাত করে, আর (বলছিল) ‘তোমরা জ্বলন্ত আগুনের আযাব আস্বাদন কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_50.mp3"
+        }
+    }
+}

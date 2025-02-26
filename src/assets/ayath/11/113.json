@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 113,
+    "english": "And do not be inclined to the wrongdoers or you will be touched by the Fire. For then you would have no protectors other than Allah, nor would you be helped.",
+    "arabic1": "وَلَا تَرْكَنُوٓا۟ إِلَى ٱلَّذِينَ ظَلَمُوا۟ فَتَمَسَّكُمُ ٱلنَّارُ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ثُمَّ لَا تُنصَرُونَ",
+    "arabic2": "ولا تركنوا الى الذين ظلموا فتمسكم النار وما لكم من دون الله من اولياء ثم لا تنصرون",
+    "bengali": "আর যারা যুলম করেছে তোমরা তাদের প্রতি ঝুঁকে পড়ো না; অন্যথায় আগুন তোমাদেরকে স্পর্শ করবে এবং আল্লাহ ছাড়া তোমাদের কোন অভিভাবক থাকবে না। অতঃপর তোমরা সাহায্যপ্রাপ্ত হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_113.mp3"
+        }
+    }
+}

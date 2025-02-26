@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 43,
+    "english": "behaving arrogantly in the land and plotting evil. But evil plotting only backfires on those who plot. Are they awaiting anything but the fate of those ˹destroyed˺ before? You will find no change in the way of Allah, nor will you find it diverted ˹to someone else˺.",
+    "arabic1": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+    "arabic2": "استكبارا في الارض ومكر السيئ ولا يحيق المكر السيئ الا باهله فهل ينظرون الا سنت الاولين فلن تجد لسنت الله تبديلا ولن تجد لسنت الله تحويلا",
+    "bengali": "যমীনে উদ্ধত আচরণ ও কূটচক্রান্তের কারণে। কিন্তু কূটচক্রান্ত কেবল তার ধারককেই পরিবেষ্টন করবে। তবে কি তারা পূর্ববর্তীদের (উপর আল্লাহর) বিধানের অপেক্ষা করছে? কিন্তু তুমি আল্লাহর বিধানের কখনই কোন পরিবর্তন পাবে না এবং তুমি আল্লাহর বিধানের কখনই কোন ব্যতিক্রমও দেখতে পাবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_43.mp3"
+        }
+    }
+}

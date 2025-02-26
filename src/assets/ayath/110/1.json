@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nasr",
+    "surahNameArabic": "النصر",
+    "surahNameArabicLong": "سورة النصر",
+    "surahNameTranslation": "Divine Support",
+    "revelationPlace": "Madina",
+    "totalAyah": 3,
+    "surahNo": 110,
+    "ayahNo": 1,
+    "english": "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺",
+    "arabic1": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+    "arabic2": "اذا جاء نصر الله والفتح",
+    "bengali": "যখন আল্লাহর সাহায্য ও বিজয় আসবে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/110_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/110_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/110_1.mp3"
+        }
+    }
+}

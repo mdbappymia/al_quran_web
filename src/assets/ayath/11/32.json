@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 32,
+    "english": "They protested, “O Noah! You have argued with us far too much, so bring upon us what you threaten us with, if what you say is true.”",
+    "arabic1": "قَالُوا۟ يَـٰنُوحُ قَدْ جَـٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "قالوا يا نوح قد جادلتنا فاكثرت جدالنا فاتنا بما تعدنا ان كنت من الصادقين",
+    "bengali": "তারা বলল, ‘হে নূহ, তুমি আমাদের সাথে বাদানুবাদ করছ এবং আমাদের সাথে অতিমাত্রায় বিবাদ করেছ। অতএব যার প্রতিশ্রুতি তুমি আমাদেরকে দিচ্ছ, তা আমাদের কাছে নিয়ে আস, যদি তুমি সত্যবাদীদের অন্তর্ভুক্ত হও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_32.mp3"
+        }
+    }
+}

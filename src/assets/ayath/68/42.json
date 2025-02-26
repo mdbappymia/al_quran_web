@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 42,
+    "english": "˹Beware of˺ the Day the Shin ˹of Allah˺ will be bared, and the wicked will be asked to prostrate, but they will not be able to do so",
+    "arabic1": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+    "arabic2": "يوم يكشف عن ساق ويدعون الى السجود فلا يستطيعون",
+    "bengali": "সে দিন পায়ের গোছা* উন্মোচন করা হবে। আর তাদেরকে সিজদা করার জন্য আহবান জানানো হবে, কিন্তু তারা সক্ষম হবে না। \n*এ কথার ব্যাপারে ইমাম বুখারী একটি হাদীস বর্ণনা করেন। তা হল, আবু সাঈদ খুদরী রা. বলেন, মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, আমাদের রব তাঁর পায়ের গোছা উন্মুক্ত করবেন, তখন প্রত্যেক মুমিন নর-নারী তাঁকে সিজদা করবে...।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_42.mp3"
+        }
+    }
+}

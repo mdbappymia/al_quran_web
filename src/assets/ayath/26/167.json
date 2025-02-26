@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 167,
+    "english": "They threatened, “If you do not desist, O  Lot, you will surely be expelled.”",
+    "arabic1": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ",
+    "arabic2": "قالوا لئن لم تنته يا لوط لتكونن من المخرجين",
+    "bengali": "তারা বলল, ‘হে লূত, তুমি যদি বিরত না হও, তাহলে তুমি অবশ্যই বহিস্কৃতদের অন্তর্ভুক্ত হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_167.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_167.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_167.mp3"
+        }
+    }
+}

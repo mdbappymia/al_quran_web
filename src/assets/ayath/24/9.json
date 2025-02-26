@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 9,
+    "english": "and a fifth oath that Allah may be displeased with her if he is telling the truth.",
+    "arabic1": "وَٱلْخَـٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّـٰدِقِينَ",
+    "arabic2": "والخامسة ان غضب الله عليها ان كان من الصادقين",
+    "bengali": "আর পঞ্চমবারে সাক্ষ্য দেবে যে, যদি তার স্বামী সত্যবাদী হয়, তবে নিশ্চয় তার উপর আল্লাহর গযব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_9.mp3"
+        }
+    }
+}

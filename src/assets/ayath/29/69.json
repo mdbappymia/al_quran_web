@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 69,
+    "english": "As for those who struggle in Our cause, We will surely guide them along Our Way. And Allah is certainly with the good-doers.",
+    "arabic1": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+    "arabic2": "والذين جاهدوا فينا لنهدينهم سبلنا وان الله لمع المحسنين",
+    "bengali": "আর যারা আমার পথে সর্বাত্মক প্রচেষ্টা চালায়, তাদেরকে আমি অবশ্যই আমার পথে পরিচালিত করব। আর নিশ্চয় আল্লাহ সৎকর্মশীলদের সাথেই আছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_69.mp3"
+        }
+    }
+}

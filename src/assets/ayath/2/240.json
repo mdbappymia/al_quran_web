@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 240,
+    "english": "Those of you who die leaving widows should bequeath for them a year’s maintenance without forcing them out. But if they choose to leave, you are not accountable for what they reasonably decide for themselves. And Allah is Almighty, All-Wise.",
+    "arabic1": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَـٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "والذين يتوفون منكم ويذرون ازواجا وصية لازواجهم متاعا الى الحول غير اخراج فان خرجن فلا جناح عليكم في ما فعلن في انفسهن من معروف والله عزيز حكيم",
+    "bengali": "আর তোমাদের মধ্য থেকে যারা মারা যাবে এবং স্ত্রীদেরকে রেখে যাবে, তারা তাদের স্ত্রীদের জন্য এক বছরের ভরণ-পোষণের ওসিয়ত করবে বের না করে দিয়ে; কিন্তু যদি তারা (স্বেচ্ছায়) বের হয়ে যায়, তাহলে তারা নিজদের ব্যাপারে বিধি মোতাবেক যা করেছে, সে ব্যাপারে তোমাদের কোন পাপ নেই। আর আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_240.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_240.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_240.mp3"
+        }
+    }
+}

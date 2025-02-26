@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 13,
+    "english": "And ˹remember˺ when Luqmân said to his son, while advising him, “O my dear son! Never associate ˹anything˺ with Allah ˹in worship˺, for associating ˹others with Him˺ is truly the worst of all wrongs.”",
+    "arabic1": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+    "arabic2": "واذ قال لقمان لابنه وهو يعظه يا بني لا تشرك بالله ان الشرك لظلم عظيم",
+    "bengali": "আর স্মরণ কর, যখন লুকমান তার পুত্রকে উপদেশ দিতে গিয়ে বলেছিল, ‘প্রিয় বৎস, আল্লাহর সাথে শিরক করো না; নিশ্চয় শিরক হল বড় যুলম'।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_13.mp3"
+        }
+    }
+}

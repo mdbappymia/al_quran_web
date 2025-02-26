@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 48,
+    "english": "And as soon as they are called to Allah and His Messenger so he may judge between them, a group of them turns away.",
+    "arabic1": "وَإِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِّنْهُم مُّعْرِضُونَ",
+    "arabic2": "واذا دعوا الى الله ورسوله ليحكم بينهم اذا فريق منهم معرضون",
+    "bengali": "আর যখন তাদেরকে আল্লাহ ও তাঁর রাসূলের প্রতি এ মর্মে আহবান করা হয় যে, তিনি তাদের মধ্যে বিচারমীমাংসা করবেন, তখন তাদের একটি দল মুখ ফিরিয়ে নেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_48.mp3"
+        }
+    }
+}

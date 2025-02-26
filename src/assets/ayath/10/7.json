@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 7,
+    "english": "Indeed, those who do not expect to meet Us, being pleased and content with this worldly life, and who are heedless of Our signs",
+    "arabic1": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَـٰتِنَا غَـٰفِلُونَ",
+    "arabic2": "ان الذين لا يرجون لقاءنا ورضوا بالحياة الدنيا واطمانوا بها والذين هم عن اياتنا غافلون",
+    "bengali": "নিশ্চয় যারা আমার সাক্ষাতের আশা রাখে না এবং দুনিয়ার জীবন নিয়ে সন্তুষ্ট আছে ও তা নিয়ে পরিতৃপ্ত রয়েছে। আর যারা আমার নিদর্শনাবলী হতে গাফেল ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_7.mp3"
+        }
+    }
+}

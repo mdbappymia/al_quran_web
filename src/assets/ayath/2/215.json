@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 215,
+    "english": "They ask you ˹O Prophet in˺ what ˹way˺ they should donate. Say, “Whatever donations you give are for parents, relatives, orphans, the poor, and ˹needy˺ travellers. Whatever good you do is certainly well known to Allah.”",
+    "arabic1": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+    "arabic2": "يسالونك ماذا ينفقون قل ما انفقتم من خير فللوالدين والاقربين واليتامى والمساكين وابن السبيل وما تفعلوا من خير فان الله به عليم",
+    "bengali": "তারা তোমাকে জিজ্ঞাসা করে, তারা কী ব্যয় করবে? বল, ‘তোমরা যে সম্পদ ব্যয় করবে, তা পিতা-মাতা, আত্মীয়, ইয়াতীম, মিসকীন ও মুসাফিরদের জন্য। আর যে কোন ভাল কাজ তোমরা কর, নিশ্চয় সে ব্যাপারে আল্লাহ সুপরিজ্ঞাত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_215.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_215.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_215.mp3"
+        }
+    }
+}

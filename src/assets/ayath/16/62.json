@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 62,
+    "english": "They attribute to Allah what they hate ˹for themselves˺, and their tongues utter the lie that they will have the finest reward. Without a doubt, for them is the Fire, where they will be abandoned.",
+    "arabic1": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ",
+    "arabic2": "ويجعلون لله ما يكرهون وتصف السنتهم الكذب ان لهم الحسنى لا جرم ان لهم النار وانهم مفرطون",
+    "bengali": "আর তারা যা অপছন্দ করে, তাই তারা আল্লাহর জন্য নির্ধারণ করে। তাদের জিহবা মিথ্যা বিবরণ দেয় যে, নিশ্চয় তাদের জন্য শুভ পরিণাম। সন্দেহ নেই যে, তাদের জন্য রয়েছে আগুন এবং নিশ্চয় তারা সর্বাগ্রে নিক্ষিপ্ত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_62.mp3"
+        }
+    }
+}

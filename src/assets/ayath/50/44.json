@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 44,
+    "english": "˹Beware of˺ the Day the earth will split open, letting them rush forth. That will be an easy gathering for Us.",
+    "arabic1": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+    "arabic2": "يوم تشقق الارض عنهم سراعا ذلك حشر علينا يسير",
+    "bengali": "সেদিন তাদের থেকে যমীন বিদীর্ণ হবে এবং লোকেরা দিগ্বিদিক্ ছুটাছুটি করতে থাকবে। এটি এমন এক সমাবেশ যা আমার পক্ষে অতীব সহজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_44.mp3"
+        }
+    }
+}

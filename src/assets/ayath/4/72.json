@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 72,
+    "english": "There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”",
+    "arabic1": "وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَـٰبَتْكُم مُّصِيبَةٌ قَالَ قَدْ أَنْعَمَ ٱللَّهُ عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا",
+    "arabic2": "وان منكم لمن ليبطئن فان اصابتكم مصيبة قال قد انعم الله علي اذ لم اكن معهم شهيدا",
+    "bengali": "আর তোমাদের মধ্যে কেউ কেউ এমন আছে, যে অবশ্যই বিলম্ব করবে। সুতরাং তোমাদের কোন বিপদ আপতিত হলে সে বলবে, ‘আল্লাহ আমার উপর অনুগ্রহ করেছেন যে, আমি তাদের সাথে উপস্থিত ছিলাম না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_72.mp3"
+        }
+    }
+}

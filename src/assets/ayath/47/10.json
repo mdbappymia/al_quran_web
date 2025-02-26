@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 10,
+    "english": "Have they not travelled throughout the land to see what was the end of those before them? Allah annihilated them, and a similar fate awaits the disbelievers.",
+    "arabic1": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
+    "arabic2": "افلم يسيروا في الارض فينظروا كيف كان عاقبة الذين من قبلهم دمر الله عليهم وللكافرين امثالها",
+    "bengali": "তবে কি তারা যমীনে ভ্রমণ করেনি, তারপর দেখেনি যারা তাদের পূর্বে ছিল তাদের পরিণাম কেমন হয়েছিল? আল্লাহ তাদেরকে ধ্বংস করে দিয়েছেন। আর কাফিরদের জন্য রয়েছে এর অনুরূপ পরিণাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_10.mp3"
+        }
+    }
+}

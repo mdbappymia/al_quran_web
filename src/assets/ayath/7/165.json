@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 165,
+    "english": "When they ignored the warning they were given, We rescued those who used to warn against evil and overtook the wrongdoers with a dreadful punishment for their rebelliousness.",
+    "arabic1": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "فلما نسوا ما ذكروا به انجينا الذين ينهون عن السوء واخذنا الذين ظلموا بعذاب بئيس بما كانوا يفسقون",
+    "bengali": "অতঃপর যে উপদেশ তাদেরকে দেয়া হয়েছিল, যখন তারা তা ভুলে গেল তখন আমি মুক্তি দিলাম তাদেরকে যারা মন্দ হতে নিষেধ করে। আর যারা যুলম করেছে তাদেরকে কঠিন আযাব দ্বারা পাকড়াও করলাম। কারণ, তারা পাপাচার করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_165.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_165.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_165.mp3"
+        }
+    }
+}

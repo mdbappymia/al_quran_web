@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 169,
+    "english": "except that of Hell, to stay there for ever and ever. And that is easy for Allah.",
+    "arabic1": "إِلَّا طَرِيقَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+    "arabic2": "الا طريق جهنم خالدين فيها ابدا وكان ذلك على الله يسيرا",
+    "bengali": "জাহান্নামের পথ ছাড়া। তারা তাতে স্থায়ী হবে এবং তা আল্লাহর জন্য সহজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_169.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_169.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_169.mp3"
+        }
+    }
+}

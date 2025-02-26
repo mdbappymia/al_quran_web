@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 9,
+    "english": "Or ˹is it because˺ they possess the treasuries of the mercy of your Lord—the Almighty, the Giver ˹of all bounties˺.",
+    "arabic1": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+    "arabic2": "ام عندهم خزائن رحمة ربك العزيز الوهاب",
+    "bengali": "তাদের কাছে কি তোমার রবের রহমতের ভান্ডার রয়েছে যিনি মহাপরাক্রমশালী, অসীম দাতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_9.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 46,
+    "english": "Whether We show you ˹O Prophet˺ some of what We threaten them with, or cause you to die ˹before that˺, to Us is their return and Allah is a Witness over what they do.",
+    "arabic1": "وَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا مَرْجِعُهُمْ ثُمَّ ٱللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ",
+    "arabic2": "واما نرينك بعض الذي نعدهم او نتوفينك فالينا مرجعهم ثم الله شهيد على ما يفعلون",
+    "bengali": "আর আমি তাদেরকে যে প্রতিশ্রুতি দিয়েছি, তার কিছু যদি তোমাকে দেখিয়ে দেই, অথবা তোমাকে মৃত্যু দেই, তবে আমার কাছেই তাদের প্রত্যাবর্তন। তারপর তারা যা করে আল্লাহ তার সাক্ষী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_46.mp3"
+        }
+    }
+}

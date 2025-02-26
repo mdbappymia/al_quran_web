@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 3,
+    "english": "˹Imagine˺ how many peoples We destroyed before them, and they cried out when it was too late to escape.",
+    "arabic1": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ",
+    "arabic2": "كم اهلكنا من قبلهم من قرن فنادوا ولات حين مناص",
+    "bengali": "তাদের পূর্বে আমি কত প্রজন্মকে ধ্বংস করেছি; তখন তারা আর্তচিৎকার করেছিল, কিন্তু তখন পলায়নের কোন সময় ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_3.mp3"
+        }
+    }
+}

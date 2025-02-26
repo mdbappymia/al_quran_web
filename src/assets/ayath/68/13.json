@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 13,
+    "english": "brute, and—on top of all that—an illegitimate child.",
+    "arabic1": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+    "arabic2": "عتل بعد ذلك زنيم",
+    "bengali": "দুষ্ট প্রকৃতির, তারপর জারজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_13.mp3"
+        }
+    }
+}

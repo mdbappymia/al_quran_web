@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 20,
+    "english": "But those mindful of their Lord will have ˹elevated˺ mansions, built one above the other, under which rivers flow. ˹That is˺ the promise of Allah. ˹And˺ Allah never fails in ˹His˺ promise.",
+    "arabic1": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+    "arabic2": "لكن الذين اتقوا ربهم لهم غرف من فوقها غرف مبنية تجري من تحتها الانهار وعد الله لا يخلف الله الميعاد",
+    "bengali": "কিন্তু যারা নিজদের রবকে ভয় করে তাদের জন্য রয়েছে কক্ষসমূহ যার উপর নির্মিত আছে আরো কক্ষ। তার নিচ দিয়ে নদী প্রবাহিত। এটি আল্লাহর ওয়াদা; আল্লাহ ওয়াদা খেলাফ করেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_20.mp3"
+        }
+    }
+}

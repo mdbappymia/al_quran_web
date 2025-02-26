@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 24,
+    "english": "This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.",
+    "arabic1": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ",
+    "arabic2": "ذلك بانهم قالوا لن تمسنا النار الا اياما معدودات وغرهم في دينهم ما كانوا يفترون",
+    "bengali": "এর কারণ হল, তারা বলে, ‘গুটি কয়েকদিন ছাড়া আগুন আমাদেরকে কখনই স্পর্শ করবে না’। আর তারা যা মিথ্যা রচনা করত, তা তাদেরকে তাদের দীনের ব্যাপারে প্রতারিত করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_24.mp3"
+        }
+    }
+}

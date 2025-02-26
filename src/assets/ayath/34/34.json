@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 34,
+    "english": "Whenever We sent a warner to a society, its elite would say, “We truly reject what you have been sent with.”",
+    "arabic1": "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَـٰفِرُونَ",
+    "arabic2": "وما ارسلنا في قرية من نذير الا قال مترفوها انا بما ارسلتم به كافرون",
+    "bengali": "আর আমি কোন জনপদে সতর্ককারী প্রেরণ করলেই সেখানকার বিত্তবান অধিবাসীরা বলেছে, ‘তোমরা যা নিয়ে প্রেরিত হয়েছ অবশ্যই আমরা তা প্রত্যাখ্যানকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_34.mp3"
+        }
+    }
+}

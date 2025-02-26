@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 25,
+    "english": "Say, “You will not be accountable for our misdeeds, nor will we be accountable for your deeds.”",
+    "arabic1": "قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ",
+    "arabic2": "قل لا تسالون عما اجرمنا ولا نسال عما تعملون",
+    "bengali": "বল, ‘আমরা যে অপরাধ করছি সে ব্যাপারে তোমাদেরকে জিজ্ঞাসা করা হবে না, আর তোমরা যা কর সে সম্পর্কে আমাদেরকেও জিজ্ঞাসা করা হবে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_25.mp3"
+        }
+    }
+}

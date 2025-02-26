@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 206,
+    "english": "When it is said to them, “Fear Allah,” pride carries them off to sin. Hell will be their proper place. What an evil place to rest!",
+    "arabic1": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ",
+    "arabic2": "واذا قيل له اتق الله اخذته العزة بالاثم فحسبه جهنم ولبئس المهاد",
+    "bengali": "আর যখন তাকে বলা হয়, ‘আল্লাহকে ভয় কর’ তখন আত্মাভিমান তাকে পাপ করতে উৎসাহ দেয়। সুতরাং জাহান্নাম তার জন্য যথেষ্ট এবং তা কতই না মন্দ ঠিকানা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_206.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_206.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_206.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 91,
+    "english": "And ˹remember˺ the one who guarded her chastity, so We breathed into her through Our angel, ˹Gabriel,˺ making her and her son a sign for all peoples.",
+    "arabic1": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةً لِّلْعَـٰلَمِينَ",
+    "arabic2": "والتي احصنت فرجها فنفخنا فيها من روحنا وجعلناها وابنها اية للعالمين",
+    "bengali": "আর স্মরণ কর সে নারীর কথা, যে নিজ সতীত্ব রক্ষা করেছিল। অতঃপর আমি তার মধ্যে আমার ‘রূহ’ ফুঁকে দিয়েছিলাম এবং তাকে ও তার পুত্রকে বিশ্ববাসীর জন্য করেছিলাম এক নিদর্শন ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_91.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_91.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_91.mp3"
+        }
+    }
+}

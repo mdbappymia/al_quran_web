@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 46,
+    "english": "They will have no protectors to help them against Allah. And whoever Allah leaves to stray, for them there is no way.",
+    "arabic1": "وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ",
+    "arabic2": "وما كان لهم من اولياء ينصرونهم من دون الله ومن يضلل الله فما له من سبيل",
+    "bengali": "আর আল্লাহ ছাড়া তাদেরকে সাহায্য করার জন্য তাদের কোন অভিভাবক থাকবে না। আর আল্লাহ যাকে পথভ্রষ্ট করেন তার কোন পথ নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_46.mp3"
+        }
+    }
+}

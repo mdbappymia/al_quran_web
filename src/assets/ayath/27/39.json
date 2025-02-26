@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 39,
+    "english": "One mighty jinn responded, “I can bring it to you before you rise from this council of yours. And I am quite strong and trustworthy for this ˹task˺.”",
+    "arabic1": "قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ",
+    "arabic2": "قال عفريت من الجن انا اتيك به قبل ان تقوم من مقامك واني عليه لقوي امين",
+    "bengali": "এক শক্তিশালী জিন বলল, ‘আপনি আপনার স্থান থেকে উঠার পূর্বেই আমি তা এনে দেব। আমি নিশ্চয়ই এই ব্যাপারে শক্তিমান, বিশ্বস্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_39.mp3"
+        }
+    }
+}

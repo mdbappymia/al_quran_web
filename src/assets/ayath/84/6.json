@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Inshiqaaq",
+    "surahNameArabic": "الإنشقاق",
+    "surahNameArabicLong": "سورة الإنشقاق",
+    "surahNameTranslation": "The Splitting Open",
+    "revelationPlace": "Mecca",
+    "totalAyah": 25,
+    "surahNo": 84,
+    "ayahNo": 6,
+    "english": "O humanity! Indeed, you are labouring restlessly towards your Lord, and will ˹eventually˺ meet the consequences.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+    "arabic2": "يا ايها الانسان انك كادح الى ربك كدحا فملاقيه",
+    "bengali": "হে মানুষ, তোমার রব পর্যন্ত (পৌঁছতে) অবশ্যই তোমাকে কঠোর পরিশ্রম করতে হবে। অতঃপর তুমি তাঁর সাক্ষাৎ পাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/84_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/84_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/84_6.mp3"
+        }
+    }
+}

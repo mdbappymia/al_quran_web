@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 45,
+    "english": "We know best what they say. And you ˹O Prophet˺ are not ˹there˺ to compel them ˹to believe˺. So remind with the Quran ˹only˺ those who fear My warning.",
+    "arabic1": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+    "arabic2": "نحن اعلم بما يقولون وما انت عليهم بجبار فذكر بالقران من يخاف وعيد",
+    "bengali": "এরা যা বলে আমি তা সবচেয়ে ভাল জানি। আর তুমি তাদের উপর কোন জোর- জবরদস্তিকারী নও। সুতরাং যে আমার ধমককে ভয় করে তাকে কুরআনের সাহায্যে উপদেশ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_45.mp3"
+        }
+    }
+}

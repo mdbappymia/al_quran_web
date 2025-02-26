@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 72,
+    "english": "So when I have fashioned him and had a spirit of My Own ˹creation˺ breathed into him, fall down in prostration to him.”",
+    "arabic1": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+    "arabic2": "فاذا سويته ونفخت فيه من روحي فقعوا له ساجدين",
+    "bengali": "‘যখন আমি তাকে সুষম করব এবং তার মধ্যে আমার রূহ সঞ্চার করব, তখন তোমরা তার উদ্দেশ্যে সিজদাবনত হয়ে যাও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_72.mp3"
+        }
+    }
+}

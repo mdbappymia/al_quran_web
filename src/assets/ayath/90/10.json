@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Balad",
+    "surahNameArabic": "البلد",
+    "surahNameArabicLong": "سورة البلد",
+    "surahNameTranslation": "The City",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 90,
+    "ayahNo": 10,
+    "english": "and shown them the two ways ˹of right and wrong˺?",
+    "arabic1": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+    "arabic2": "وهديناه النجدين",
+    "bengali": "আর আমি তাকে দু’টি পথ প্রদর্শন করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/90_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/90_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/90_10.mp3"
+        }
+    }
+}

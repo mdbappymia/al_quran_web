@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Masad",
+    "surahNameArabic": "المسد",
+    "surahNameArabicLong": "سورة المسد",
+    "surahNameTranslation": "The Palm Fibre",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 111,
+    "ayahNo": 1,
+    "english": "May the hands of Abu Lahab perish, and he ˹himself˺ perish!",
+    "arabic1": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+    "arabic2": "تبت يدا ابي لهب وتب",
+    "bengali": "ধ্বংস হোক আবূ লাহাবের দু’হাত এবং সে নিজেও ধ্বংস হোক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/111_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/111_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/111_1.mp3"
+        }
+    }
+}

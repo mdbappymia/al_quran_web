@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kawthar",
+    "surahNameArabic": "الكوثر",
+    "surahNameArabicLong": "سورة الكوثر",
+    "surahNameTranslation": "Abundance",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 108,
+    "ayahNo": 2,
+    "english": "So pray and sacrifice to your Lord ˹alone˺.",
+    "arabic1": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "arabic2": "فصل لربك وانحر",
+    "bengali": "অতএব তোমার রবের উদ্দেশ্যেই সালাত পড় এবং নহর কর*। \n*অর্থ কুরবানী কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/108_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/108_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/108_2.mp3"
+        }
+    }
+}

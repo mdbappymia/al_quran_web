@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 14,
+    "english": "Still they defied him and slaughtered her. So their Lord crushed them for their crime, levelling all to the ground.",
+    "arabic1": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+    "arabic2": "فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها",
+    "bengali": "কিন্তু তারা তাকে অস্বীকার করল এবং উষ্ট্রীকে যবেহ করল। ফলে তাদের রব তাদের অপরাধের কারণে তাদেরকে সমূলে ধ্বংস করে দিলেন। অতঃপর তা একাকার করে দিলেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_14.mp3"
+        }
+    }
+}

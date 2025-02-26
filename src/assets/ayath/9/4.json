@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 4,
+    "english": "As for the polytheists who have honoured every term of their treaty with you and have not supported an enemy against you, honour your treaty with them until the end of its term. Surely Allah loves those who are mindful ˹of Him˺.",
+    "arabic1": "إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+    "arabic2": "الا الذين عاهدتم من المشركين ثم لم ينقصوكم شيئا ولم يظاهروا عليكم احدا فاتموا اليهم عهدهم الى مدتهم ان الله يحب المتقين",
+    "bengali": "তবে মুশরিকদের মধ্য থেকে যাদের সাথে তোমরা চুক্তিবদ্ধ হয়েছ, অতঃপর তারা তোমাদের সাথে কোন ত্রুটি করেনি এবং তোমাদের বিরুদ্ধে কাউকে সাহায্য করেনি, তোমরা তাদেরকে দেয়া চুক্তি তাদের নির্দিষ্ট মেয়াদ পর্যন্ত পূর্ণ কর। নিশ্চয় আল্লাহ মুত্তাকীদের ভালবাসেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_4.mp3"
+        }
+    }
+}

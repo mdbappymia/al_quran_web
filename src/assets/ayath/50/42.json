@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 42,
+    "english": "the Day all will hear the ˹mighty˺ Blast in ˹all˺ truth, that will be the Day of emergence ˹from the graves˺.",
+    "arabic1": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ",
+    "arabic2": "يوم يسمعون الصيحة بالحق ذلك يوم الخروج",
+    "bengali": "সেদিন তারা সত্যিসত্যিই মহাচিৎকার শুনবে। সেটিই উত্থিত হবার দিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_42.mp3"
+        }
+    }
+}

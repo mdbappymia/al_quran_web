@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 69,
+    "english": "Those mindful ˹of Allah˺ will not be accountable for those ˹who ridicule it˺ whatsoever—their duty is to advise, so perhaps the ridiculers will abstain.",
+    "arabic1": "وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَـٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+    "arabic2": "وما على الذين يتقون من حسابهم من شيء ولكن ذكرى لعلهم يتقون",
+    "bengali": "আর যারা তাকওয়া অবলম্বন করে, যালিমদের কোন হিসেব তাদের উপর নেই। কিন্তু (তাদের কর্তব্য হচ্ছে) উপদেশ দেয়া, যাতে তারা তাকওয়া অবলম্বন করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_69.mp3"
+        }
+    }
+}

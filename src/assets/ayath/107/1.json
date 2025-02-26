@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maa'un",
+    "surahNameArabic": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameTranslation": "Almsgiving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 107,
+    "ayahNo": 1,
+    "english": "Have you seen the one who denies the ˹final˺ Judgment?",
+    "arabic1": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "arabic2": "ارايت الذي يكذب بالدين",
+    "bengali": "তুমি কি তাকে দেখেছ, যে হিসাব-প্রতিদানকে অস্বীকার করে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/107_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/107_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/107_1.mp3"
+        }
+    }
+}

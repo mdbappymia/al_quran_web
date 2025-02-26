@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Bayyina",
+    "surahNameArabic": "البينة",
+    "surahNameArabicLong": "سورة البينة",
+    "surahNameTranslation": "The Evidence",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 98,
+    "ayahNo": 1,
+    "english": "The disbelievers from the People of the Book and the polytheists were not going to desist ˹from disbelief˺ until the clear proof came to them:",
+    "arabic1": " لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+    "arabic2": "لم يكن الذين كفروا من اهل الكتاب والمشركين منفكين حتى تاتيهم البينة",
+    "bengali": "কিতাবীদের মধ্যে যারা কুফরী করে তারা ও মুশরিকরা, তাদের কাছে সুস্পষ্ট প্রমাণ না আসা পর্যন্ত (নিজদের অবিশ্বাসে) অটল থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/98_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/98_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/98_1.mp3"
+        }
+    }
+}

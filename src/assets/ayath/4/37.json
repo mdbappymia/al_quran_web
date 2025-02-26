@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 37,
+    "english": "those who are stingy, promote stinginess among people, and withhold Allah’s bounties. We have prepared for the disbelievers a humiliating punishment.",
+    "arabic1": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا",
+    "arabic2": "الذين يبخلون ويامرون الناس بالبخل ويكتمون ما اتاهم الله من فضله واعتدنا للكافرين عذابا مهينا",
+    "bengali": "যারা কৃপণতা করে এবং মানুষকে কৃপণতার নির্দেশ দেয়; আর গোপন করে তা, যা আল্লাহ তাদেরকে স্বীয় অনুগ্রহে দান করেছেন। আর আমি প্রস্তুত করে রেখেছি কাফিরদের জন্য লাঞ্ছনাকর আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_37.mp3"
+        }
+    }
+}

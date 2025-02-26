@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 23,
+    "english": "Then We will turn to whatever ˹good˺ deeds they did, reducing them to scattered dust.",
+    "arabic1": "وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَـٰهُ هَبَآءً مَّنثُورًا",
+    "arabic2": "وقدمنا الى ما عملوا من عمل فجعلناه هباء منثورا",
+    "bengali": "আর তারা যে কাজ করেছে আমি সেদিকে অগ্রসর হব। অতঃপর তাকে বিক্ষিপ্ত ধূলিকণায় পরিণত করে দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_23.mp3"
+        }
+    }
+}

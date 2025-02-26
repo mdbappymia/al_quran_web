@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 14,
+    "english": "Then We made you their successors in the land to see how you would act.",
+    "arabic1": "ثُمَّ جَعَلْنَـٰكُمْ خَلَـٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+    "arabic2": "ثم جعلناكم خلائف في الارض من بعدهم لننظر كيف تعملون",
+    "bengali": "তারপর আমি তোমাদেরকে যমীনে তাদের পরে স্থলাভিষিক্ত করেছি, যাতে আমি দেখি তোমরা কেমন আমল কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_14.mp3"
+        }
+    }
+}

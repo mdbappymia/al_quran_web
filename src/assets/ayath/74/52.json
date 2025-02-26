@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 52,
+    "english": "In fact, each one of them wishes to be given a ˹personal˺ letter ˹from Allah˺ for all ˹to read˺.",
+    "arabic1": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+    "arabic2": "بل يريد كل امرئ منهم ان يؤتى صحفا منشرة",
+    "bengali": "বরং তাদের মধ্যকার প্রত্যেক ব্যক্তিই কামনা করে যে তাকে উন্মুক্ত গ্রন্থ প্রদান করা হোক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_52.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 69,
+    "english": "Do you find it astonishing that a reminder should come to you from your Lord through one of your own so he may warn you? Remember that He made you successors after the people of Noah and increased you greatly in stature. So remember Allah’s favours, so you may be successful.”",
+    "arabic1": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+    "arabic2": "اوعجبتم ان جاءكم ذكر من ربكم على رجل منكم لينذركم واذكروا اذ جعلكم خلفاء من بعد قوم نوح وزادكم في الخلق بسطة فاذكروا الاء الله لعلكم تفلحون",
+    "bengali": "‘তোমরা কি আশ্চর্য হচ্ছো যে, তোমাদের রবের পক্ষ থেকে তোমাদের মধ্য থেকে এক ব্যক্তির নিকট উপদেশ এসেছে, যাতে সে তোমাদেরকে সতর্ক করে? আর তোমরা স্মরণ কর, যখন তিনি তোমাদেরকে নূহের কওমের পর স্থলাভিষিক্ত করেছিলেন এবং সৃষ্টিতে তোমাদেরকে দৈহিক গঠন ও শক্তিতে সমৃদ্ধ করেছেন। সুতরাং তোমরা স্মরণ কর আল্লাহর নিআমতসমূহকে, যাতে তোমরা সফলকাম হও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_69.mp3"
+        }
+    }
+}

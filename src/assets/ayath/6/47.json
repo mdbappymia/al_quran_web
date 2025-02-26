@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 47,
+    "english": "Ask, “Imagine if Allah’s punishment were to overwhelm you with or without warning—who would be destroyed other than the wrongdoers?”",
+    "arabic1": "قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ بَغْتَةً أَوْ جَهْرَةً هَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلظَّـٰلِمُونَ",
+    "arabic2": "قل ارايتكم ان اتاكم عذاب الله بغتة او جهرة هل يهلك الا القوم الظالمون",
+    "bengali": "বল, ‘তোমরা আমাকে জানাও, যদি আল্লাহর আযাব হঠাৎ কিংবা প্রকাশ্যে তোমাদের কাছে এসে যায়, যালিম কওম ছাড়া অন্য কাউকে ধ্বংস করা হবে কি?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_47.mp3"
+        }
+    }
+}

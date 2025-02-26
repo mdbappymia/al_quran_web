@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 79,
+    "english": "They argued, “You certainly know that we have no need for your daughters. You already know what we desire!”",
+    "arabic1": "قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ",
+    "arabic2": "قالوا لقد علمت ما لنا في بناتك من حق وانك لتعلم ما نريد",
+    "bengali": "তারা বলল, ‘তুমি অবশ্যই জান, তোমার মেয়েদের ব্যাপারে আমাদের কোন প্রয়োজন নেই। আর আমরা কী চাই, তা তুমি নিশ্চয় জান’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_79.mp3"
+        }
+    }
+}

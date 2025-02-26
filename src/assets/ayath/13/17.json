@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 17,
+    "english": "He sends down rain from the sky, causing the valleys to flow, each according to its capacity. The currents then carry along rising foam, similar to the slag produced from metal that people melt in the fire for ornaments or tools. This is how Allah compares truth to falsehood. The ˹worthless˺ residue is then cast away, but what benefits people remains on the earth. This is how Allah sets forth parables.",
+    "arabic1": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَـٰعٍ زَبَدٌ مِّثْلُهُۥ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَـٰطِلَ ۚ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً ۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+    "arabic2": "انزل من السماء ماء فسالت اودية بقدرها فاحتمل السيل زبدا رابيا ومما يوقدون عليه في النار ابتغاء حلية او متاع زبد مثله كذلك يضرب الله الحق والباطل فاما الزبد فيذهب جفاء واما ما ينفع الناس فيمكث في الارض كذلك يضرب الله الامثال",
+    "bengali": "তিনি আকাশ থেকে বৃষ্টি বর্ষণ করেন, এতে উপত্যকাগুলো তাদের পরিমাণ অনুসারে প্লাবিত হয়, ফলে প্লাবন উপরস্থিত ফেনা বহন করে নিয়ে যায়। আর অলংকার ও তৈজসপত্র তৈরীর উদ্দেশ্যে তারা আগুনে যা কিছু উত্তপ্ত করে তাতেও অনুরূপ ফেনা হয়। এমনিভাবে আল্লাহ হক ও বাতিলের দৃষ্টান্ত দেন। অতঃপর ফেনাগুলো নিঃশেষ হয়ে যায়, আর যা মানুষের উপকার করে, তা যমীনে থেকে যায়। এমনিভাবেই আল্লাহ দৃষ্টান্তসমূহ পেশ করে থাকেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_17.mp3"
+        }
+    }
+}

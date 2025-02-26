@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 70,
+    "english": "And We truly know best who is most deserving of burning in it.",
+    "arabic1": "ثُمَّ لَنَحْنُ أَعْلَمُ بِٱلَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا",
+    "arabic2": "ثم لنحن اعلم بالذين هم اولى بها صليا",
+    "bengali": "উপরন্তু আমি সর্বাধিক ভাল জানি তাদের সম্পর্কে, যারা জাহান্নামে দগ্ধীভূত হবার অধিকতর যোগ্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_70.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 31,
+    "english": "bringing forth its water and pastures",
+    "arabic1": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+    "arabic2": "اخرج منها ماءها ومرعاها",
+    "bengali": "তিনি তার ভিতর থেকে বের করেছেন তার পানি ও তার তৃণভূমি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_31.mp3"
+        }
+    }
+}

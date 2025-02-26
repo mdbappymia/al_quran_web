@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 94,
+    "english": "Whenever We sent a prophet to a society, We afflicted its ˹disbelieving˺ people with suffering and adversity, so perhaps they would be humbled.",
+    "arabic1": "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّبِىٍّ إِلَّآ أَخَذْنَآ أَهْلَهَا بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَضَّرَّعُونَ",
+    "arabic2": "وما ارسلنا في قرية من نبي الا اخذنا اهلها بالباساء والضراء لعلهم يضرعون",
+    "bengali": "যে জনপদেই আমি নবী প্রেরণ করেছি, তার অধিবাসীকে আমি অর্থ-সংকট ও দুঃখ-কষ্ট দ্বারা পাকড়াও করেছি, যেন তারা অনুনয় বিনয় করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_94.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_94.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_94.mp3"
+        }
+    }
+}

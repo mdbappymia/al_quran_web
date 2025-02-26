@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 56,
+    "english": "Moreover, establish prayer, pay alms-tax, and obey the Messenger, so you may be shown mercy.",
+    "arabic1": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+    "arabic2": "واقيموا الصلاة واتوا الزكاة واطيعوا الرسول لعلكم ترحمون",
+    "bengali": "আর তোমরা সালাত কায়েম কর, যাকাত দাও এবং রাসূলের আনুগত্য কর, যাতে তোমরা রহমতপ্রাপ্ত হতে পার।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_56.mp3"
+        }
+    }
+}

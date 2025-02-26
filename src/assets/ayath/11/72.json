@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 72,
+    "english": "She wondered, “Oh, my! How can I have a child in this old age, and my husband here is an old man? This is truly an astonishing thing!”",
+    "arabic1": "قَالَتْ يَـٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَـٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عَجِيبٌ",
+    "arabic2": "قالت يا ويلتى االد وانا عجوز وهذا بعلي شيخا ان هذا لشيء عجيب",
+    "bengali": "সে বলল, ‘হায়, কী আশ্চর্য! আমি সন্তান প্রসব করব, অথচ আমি বৃদ্ধা, আর এ আমার স্বামী, বৃদ্ধ? এটা তো অবশ্যই এক আশ্চর্যজনক ব্যাপার’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_72.mp3"
+        }
+    }
+}

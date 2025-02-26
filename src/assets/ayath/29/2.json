@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 2,
+    "english": "Do people think once they say, “We believe,” that they will be left without being put to the test?",
+    "arabic1": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+    "arabic2": "احسب الناس ان يتركوا ان يقولوا امنا وهم لا يفتنون",
+    "bengali": "মানুষ কি মনে করে যে, ‘আমরা ঈমান এনেছি’ বললেই তাদের ছেড়ে দেয়া হবে, আর তাদের পরীক্ষা করা হবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_2.mp3"
+        }
+    }
+}

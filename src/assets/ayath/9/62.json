@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 62,
+    "english": "They swear by Allah to you ˹believers˺ in order to please you, while it is the pleasure of Allah and His Messenger they should seek, if they are ˹true˺ believers.",
+    "arabic1": "يَحْلِفُونَ بِٱللَّهِ لَكُمْ لِيُرْضُوكُمْ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا۟ مُؤْمِنِينَ",
+    "arabic2": "يحلفون بالله لكم ليرضوكم والله ورسوله احق ان يرضوه ان كانوا مؤمنين",
+    "bengali": "তারা তোমাদের কাছে আল্লাহর কসম করে, যাতে তোমাদেরকে সন্তুষ্ট করতে পারে, আল্লাহ ও তাঁর রাসূল অধিক হকদার যে, তারা তাকে সন্তুষ্ট করবে, যদি তারা ঈমানদার হয়ে থাকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_62.mp3"
+        }
+    }
+}

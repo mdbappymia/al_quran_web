@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 73,
+    "english": "They responded, “Are you astonished by Allah’s decree? May Allah’s mercy and blessings be upon you, O  people of this house. Indeed, He is Praiseworthy, All-Glorious.”",
+    "arabic1": "قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَـٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ",
+    "arabic2": "قالوا اتعجبين من امر الله رحمت الله وبركاته عليكم اهل البيت انه حميد مجيد",
+    "bengali": "তারা বলল, ‘আল্লাহর সিদ্ধান্তে তুমি আশ্চর্য হচ্ছ? হে নবী পরিবার, তোমাদের উপর আল্লাহর রহমত ও তাঁর বরকত। নিশ্চয় তিনি প্রশংসিত সম্মানিত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_73.mp3"
+        }
+    }
+}

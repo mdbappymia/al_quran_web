@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 121,
+    "english": "Do not eat of what is not slaughtered in Allah’s Name. For that would certainly be ˹an act of˺ disobedience. Surely the devils whisper to their ˹human˺ associates to argue with you. If you were to obey them, then you ˹too˺ would be polytheists.",
+    "arabic1": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+    "arabic2": "ولا تاكلوا مما لم يذكر اسم الله عليه وانه لفسق وان الشياطين ليوحون الى اوليائهم ليجادلوكم وان اطعتموهم انكم لمشركون",
+    "bengali": "আর তোমরা তা থেকে আহার করো না, যার উপর আল্লাহর নাম উচ্চারণ করা হয়নি এবং নিশ্চয় তা সীমালঙ্ঘন এবং শয়তানরা তাদের বন্ধুদেরকে প্ররোচনা দেয়, যাতে তারা তোমাদের সাথে বিবাদ করে। আর যদি তোমরা তাদের আনুগত্য কর, তবে নিশ্চয় তোমরা মুশরিক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_121.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_121.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_121.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 110,
+    "english": "We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance.",
+    "arabic1": "وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+    "arabic2": "ونقلب افئدتهم وابصارهم كما لم يؤمنوا به اول مرة ونذرهم في طغيانهم يعمهون",
+    "bengali": "আর আমি তাদের অন্তর ও দৃষ্টিসমূহ পালটে দেব যেমন তারা কুরআনের প্রতি প্রথমবার ঈমান আনেনি এবং আমি তাদেরকে তাদের অবাধ্যতায় ঘুরপাক খাওয়া অবস্থায় ছেড়ে দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_110.mp3"
+        }
+    }
+}

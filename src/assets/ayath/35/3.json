@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 3,
+    "english": "O humanity! Remember Allah’s favours upon you. Is there any creator other than Allah who provides for you from the heavens and the earth? There is no god ˹worthy of worship˺ except Him. How can you then be deluded ˹from the truth˺?",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+    "arabic2": "يا ايها الناس اذكروا نعمت الله عليكم هل من خالق غير الله يرزقكم من السماء والارض لا اله الا هو فانى تؤفكون",
+    "bengali": "হে মানুষ, তোমাদের উপর আল্লাহর নিআমতকে তোমরা স্মরণ কর। আল্লাহ ছাড়া আর কোন স্রষ্টা আছে কি, যে, তোমাদেরকে আসমান ও যমীন থেকে রিয্ক দিবে? তিনি ছাড়া কোন (সত্য) ইলাহ নেই। অতএব তোমাদেরকে কোথায় ফিরানো হচ্ছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_3.mp3"
+        }
+    }
+}

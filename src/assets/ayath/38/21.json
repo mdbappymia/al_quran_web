@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 21,
+    "english": "Has the story of the two plaintiffs, who scaled the ˹wall of David’s˺ sanctuary, reached you ˹O Prophet˺?",
+    "arabic1": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+    "arabic2": "وهل اتاك نبا الخصم اذ تسوروا المحراب",
+    "bengali": "তোমার কাছে কি বিবদমান লোকদের সংবাদ এসেছে? যখন তারা প্রাচীর ডিঙিয়ে মিহরাবে আসল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 100,
+    "english": "These are accounts, We relate to you ˹O Prophet˺, of the ˹destroyed˺ cities. Some are still standing ˹barren˺, while others have been mowed down.",
+    "arabic1": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْقُرَىٰ نَقُصُّهُۥ عَلَيْكَ ۖ مِنْهَا قَآئِمٌ وَحَصِيدٌ",
+    "arabic2": "ذلك من انباء القرى نقصه عليك منها قائم وحصيد",
+    "bengali": "এ হচ্ছে জনপদসমূহের কিছু সংবাদ, যা আমি তোমার কাছে বর্ণনা করছি। তা থেকে কিছু আছে বিদ্যমান এবং কিছু হয়েছে বিলুপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_100.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_100.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_100.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 45,
+    "english": "We used to indulge ˹in falsehood˺ along with others",
+    "arabic1": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+    "arabic2": "وكنا نخوض مع الخائضين",
+    "bengali": "‘আর আমরা অনর্থক আলাপকারীদের সাথে (বেহুদা আলাপে) মগ্ন থাকতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_45.mp3"
+        }
+    }
+}

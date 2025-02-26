@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 42,
+    "english": "And so all his produce was ˹totally˺ ruined, so he started to wring his hands for all he had spent on it, while it had collapsed on its trellises. He cried, “Alas! I wish I had never associated anyone with my Lord ˹in worship˺!”",
+    "arabic1": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا",
+    "arabic2": "واحيط بثمره فاصبح يقلب كفيه على ما انفق فيها وهي خاوية على عروشها ويقول يا ليتني لم اشرك بربي احدا",
+    "bengali": "আর (বিপর্যয়ে) তার ফল-ফলাদি ঘিরে ফেলা হল। ফলে তাতে সে যা ব্যয় করেছিল, তার জন্য (আক্ষেপে) হাত কচলাতে লাগল এবং সেটি ধ্বংস হয়েছিল তার মাচার উপর। আর সে বলছিল, ‘হায় আক্ষেপ! আমি যদি আমার রবের সাথে কাউকে শরীক না করতাম’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_42.mp3"
+        }
+    }
+}

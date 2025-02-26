@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 13,
+    "english": "Will you not fight those who have broken their oaths, conspired to expel the Messenger ˹from Mecca˺, and attacked you first? Do you fear them? Allah is more deserving of your fear, if you are ˹true˺ believers.",
+    "arabic1": "أَلَا تُقَـٰتِلُونَ قَوْمًا نَّكَثُوٓا۟ أَيْمَـٰنَهُمْ وَهَمُّوا۟ بِإِخْرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ أَتَخْشَوْنَهُمْ ۚ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم مُّؤْمِنِينَ",
+    "arabic2": "الا تقاتلون قوما نكثوا ايمانهم وهموا باخراج الرسول وهم بدءوكم اول مرة اتخشونهم فالله احق ان تخشوه ان كنتم مؤمنين",
+    "bengali": "তোমরা কেন এমন কওমের বিরুদ্ধে যুদ্ধ কর না, যারা তাদের কসম ভঙ্গ করেছে এবং রাসূলকে বহিষ্কার করার ইচ্ছা পোষণ করেছে, আর তারাই প্রথমে তোমাদের সাথে আরম্ভ করেছে। তোমরা কি তাদেরকে ভয় করছ? অথচ আল্লাহ অধিক উপযুক্ত যে, তোমরা তাঁকে ভয় করবে, যদি তোমরা মুমিন হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_13.mp3"
+        }
+    }
+}

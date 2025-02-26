@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 20,
+    "english": "We provide both the former and the latter from the bounty of your Lord. And the bounty of your Lord can never be withheld.",
+    "arabic1": "كُلًّا نُّمِدُّ هَـٰٓؤُلَآءِ وَهَـٰٓؤُلَآءِ مِنْ عَطَآءِ رَبِّكَ ۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحْظُورًا",
+    "arabic2": "كلا نمد هؤلاء وهؤلاء من عطاء ربك وما كان عطاء ربك محظورا",
+    "bengali": "এদের ও ওদের প্রত্যেককে আমি তোমার রবের দান থেকে সাহায্য করি, আর তোমার রবের দান বন্ধ হওয়ার নয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_20.mp3"
+        }
+    }
+}

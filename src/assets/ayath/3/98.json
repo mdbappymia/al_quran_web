@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 98,
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! Why do you deny the revelations of Allah, when Allah is a Witness to what you do?”",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ",
+    "arabic2": "قل يا اهل الكتاب لم تكفرون بايات الله والله شهيد على ما تعملون",
+    "bengali": "বল, ‘হে আহলে কিতাব, তোমরা কেন আল্লাহর নিদর্শনসমূহকে অস্বীকার করছ ? আর আল্লাহ তোমরা যা করছ সে ব্যাপারে সাক্ষী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_98.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_98.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_98.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 92,
+    "english": "or cause the sky to fall upon us in pieces, as you have claimed, or bring Allah and the angels before us, face to face",
+    "arabic1": "أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ قَبِيلًا",
+    "arabic2": "او تسقط السماء كما زعمت علينا كسفا او تاتي بالله والملائكة قبيلا",
+    "bengali": "‘অথবা তুমি যেমনটি ধারণা কর, সে অনুযায়ী আসমানকে খন্ড খন্ড করে আমাদের উপরে ফেলবে, অথবা আল্লাহ ও ফেরেশ্তাদেরকে আমাদের মুখোমুখি নিয়ে আসবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_92.mp3"
+        }
+    }
+}

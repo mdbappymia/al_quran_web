@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 30,
+    "english": "Say, “Consider this: if your water were to sink ˹into the earth˺, then who ˹else˺ could bring you flowing water?”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+    "arabic2": "قل ارايتم ان اصبح ماؤكم غورا فمن ياتيكم بماء معين",
+    "bengali": "বল, ‘তোমরা ভেবে দেখেছ কি, যদি তোমাদের পানি ভূগর্ভে চলে যায়, তাহলে কে তোমাদেরকে বহমান পানি এনে দিবে’ ?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_30.mp3"
+        }
+    }
+}

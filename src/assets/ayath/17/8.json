@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 8,
+    "english": "Perhaps your Lord will have mercy on you ˹if you repent˺, but if you return ˹to sin˺, We will return ˹to punishment˺. And We have made Hell a ˹permanent˺ confinement for the disbelievers.”",
+    "arabic1": "عَسَىٰ رَبُّكُمْ أَن يَرْحَمَكُمْ ۚ وَإِنْ عُدتُّمْ عُدْنَا ۘ وَجَعَلْنَا جَهَنَّمَ لِلْكَـٰفِرِينَ حَصِيرًا",
+    "arabic2": "عسى ربكم ان يرحمكم وان عدتم عدنا وجعلنا جهنم للكافرين حصيرا",
+    "bengali": "আশা করা যায় তোমাদের রব তোমাদের উপর রহম করবেন। কিন্তু তোমরা যদি পুনরায় কর, তাহলে আমিও পুনরায় করব। আর আমি জাহান্নামকে করেছি কাফিরদের জন্য কয়েদখানা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_8.mp3"
+        }
+    }
+}

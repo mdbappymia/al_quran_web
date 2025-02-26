@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 43,
+    "english": "The disbelievers say, “You ˹Muḥammad˺ are no messenger.” Say, ˹O Prophet,˺ “Allah is sufficient as a Witness between me and you, as is whoever has knowledge of the Scripture.”",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَـٰبِ",
+    "arabic2": "ويقول الذين كفروا لست مرسلا قل كفى بالله شهيدا بيني وبينكم ومن عنده علم الكتاب",
+    "bengali": "আর যারা কুফরী করে, তারা বলে, ‘তুমি রাসূল নও’। বল, ‘আল্লাহ আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে যথেষ্ট এবং যার নিকট কিতাবের জ্ঞান আছে সেও‘।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_43.mp3"
+        }
+    }
+}

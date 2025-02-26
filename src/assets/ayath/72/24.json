@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 24,
+    "english": "Only when they see what they have been threatened with will they know who is weaker in helpers and inferior in manpower.",
+    "arabic1": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+    "arabic2": "حتى اذا راوا ما يوعدون فسيعلمون من اضعف ناصرا واقل عددا",
+    "bengali": "অবশেষে যখন তারা তা প্রত্যক্ষ করবে, যে সম্পর্কে তাদেরকে সাবধান করা হয়েছিল। তখন তারা জানতে পারবে যে, সাহায্যকারী হিসেবে কে অধিকতর দুর্বল এবং সংখ্যায় কারা সবচেয়ে কম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_24.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 101,
+    "english": "When you travel through the land, it is permissible for you to shorten the prayer—˹especially˺ if you fear an attack by the disbelievers. Indeed, the disbelievers are your sworn enemies.",
+    "arabic1": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَـٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+    "arabic2": "واذا ضربتم في الارض فليس عليكم جناح ان تقصروا من الصلاة ان خفتم ان يفتنكم الذين كفروا ان الكافرين كانوا لكم عدوا مبينا",
+    "bengali": "আর যখন তোমরা যমীনে সফর করবে, তখন তোমাদের সালাত কসর করাতে কোন দোষ নেই। যদি আশঙ্কা কর যে, কাফিররা তোমাদেরকে ফিতনায় ফেলবে*। নিশ্চয় কাফিররা তোমাদের প্রকাশ্য শত্রু। \n* শত্রুদের আক্রমণের আশঙ্কা না থাকলেও সফরে সালাত ‘কসর’ করা যাবে। কেননা মহানবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল সফরেই সালাত ‘কসর’ করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_101.mp3"
+        }
+    }
+}

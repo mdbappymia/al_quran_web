@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 67,
+    "english": "And the ˹mighty˺ blast overtook the wrongdoers, so they fell lifeless in their homes",
+    "arabic1": "وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+    "arabic2": "واخذ الذين ظلموا الصيحة فاصبحوا في ديارهم جاثمين",
+    "bengali": "আর যারা যুলম করেছিল, বিকট আওয়াজ তাদেরকে পাকড়াও করল, ফলে তারা নিজদের গৃহে মুখ থুবড়ে পড়ে থাকল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_67.mp3"
+        }
+    }
+}

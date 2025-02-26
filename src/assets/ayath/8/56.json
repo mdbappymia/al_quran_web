@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 56,
+    "english": "˹namely˺ those with whom you ˹O Prophet˺ have entered into treaties, but they violate them every time, not fearing the consequences.",
+    "arabic1": "ٱلَّذِينَ عَـٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ",
+    "arabic2": "الذين عاهدت منهم ثم ينقضون عهدهم في كل مرة وهم لا يتقون",
+    "bengali": "যাদের থেকে তুমি অঙ্গীকার নিয়েছ, অতঃপর তারা প্রতিবার তাদের অঙ্গীকার ভঙ্গ করে এবং তারা ভয় করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_56.mp3"
+        }
+    }
+}

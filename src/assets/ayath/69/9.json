@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 9,
+    "english": "Also, Pharaoh and those before him, and ˹the people of˺ the overturned cities ˹of Lot˺ indulged in sin",
+    "arabic1": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ",
+    "arabic2": "وجاء فرعون ومن قبله والمؤتفكات بالخاطئة",
+    "bengali": "আর ফির‘আউন, তার পূর্ববর্তীরা এবং উল্টে দেয়া জনপদবাসীরা পাপাচারে লিপ্ত হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_9.mp3"
+        }
+    }
+}

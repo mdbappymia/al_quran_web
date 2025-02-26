@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 117,
+    "english": "Whoever invokes, besides Allah, another god—for which they can have no proof—they will surely find their penalty with their Lord. Indeed, the disbelievers will never succeed.",
+    "arabic1": "وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
+    "arabic2": "ومن يدع مع الله الها اخر لا برهان له به فانما حسابه عند ربه انه لا يفلح الكافرون",
+    "bengali": "আর যে আল্লাহর সাথে অন্য ইলাহকে ডাকে, যে বিষয়ে তার কাছে প্রমাণ নেই; তার হিসাব কেবল তার রবের কাছে। নিশ্চয় কাফিররা সফলকাম হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_117.mp3"
+        }
+    }
+}

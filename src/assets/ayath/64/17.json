@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 17,
+    "english": "If you lend to Allah a good loan, He will multiply it for you and forgive you. For Allah is Most Appreciative, Most Forbearing.",
+    "arabic1": "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+    "arabic2": "ان تقرضوا الله قرضا حسنا يضاعفه لكم ويغفر لكم والله شكور حليم",
+    "bengali": "যদি তোমরা আল্লাহকে উত্তম ঋণ দাও, তিনি তা তোমাদের জন্য দ্বিগুন করে দিবেন এবং তোমাদের ক্ষমা করে দিবেন। আল্লাহ গুণগ্রাহী, পরম ধৈর্যশীল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/64_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/64_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/64_17.mp3"
+        }
+    }
+}

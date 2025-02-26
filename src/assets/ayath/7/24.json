@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 24,
+    "english": "Allah said, “Descend as enemies to each other. You will find in the earth a residence and provision for your appointed stay.”",
+    "arabic1": "قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَـٰعٌ إِلَىٰ حِينٍ",
+    "arabic2": "قال اهبطوا بعضكم لبعض عدو ولكم في الارض مستقر ومتاع الى حين",
+    "bengali": "তিনি বললেন, ‘তোমরা নেমে যাও। তোমরা একে অপরের শত্রু এবং যমীনে তোমাদের জন্য ক্ষণস্থায়ী আবাস ও ভোগ-উপকরণ রয়েছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_24.mp3"
+        }
+    }
+}

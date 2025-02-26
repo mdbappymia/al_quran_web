@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 20,
+    "english": "The residents of the Fire cannot be equal to the residents of Paradise. ˹Only˺ the residents of Paradise will be successful.",
+    "arabic1": "لَا يَسْتَوِىٓ أَصْحَـٰبُ ٱلنَّارِ وَأَصْحَـٰبُ ٱلْجَنَّةِ ۚ أَصْحَـٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+    "arabic2": "لا يستوي اصحاب النار واصحاب الجنة اصحاب الجنة هم الفائزون",
+    "bengali": "জাহান্নামবাসী ও জান্নাতবাসীরা সমান নয়; জান্নাতবাসীরাই সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_20.mp3"
+        }
+    }
+}

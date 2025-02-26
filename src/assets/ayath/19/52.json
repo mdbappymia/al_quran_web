@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 52,
+    "english": "We called him from the right side of Mount Ṭûr, and drew him near, speaking ˹with him˺ directly.",
+    "arabic1": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّا",
+    "arabic2": "وناديناه من جانب الطور الايمن وقربناه نجيا",
+    "bengali": "আমি তাকে তূর পর্বতের ডান দিক থেকে ডেকেছিলাম এবং অন্তরঙ্গ আলাপের উদ্দেশ্যে তাকে আমার নিকটবর্তী করেছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_52.mp3"
+        }
+    }
+}

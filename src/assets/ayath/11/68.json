@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 68,
+    "english": "as if they had never lived there. Surely Thamûd denied their Lord, so away with Thamûd!",
+    "arabic1": "كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّثَمُودَ",
+    "arabic2": "كان لم يغنوا فيها الا ان ثمود كفروا ربهم الا بعدا لثمود",
+    "bengali": "যেন তারা সেগুলোতে বসবাসই করেনি। জেনে রাখ, নিশ্চয় সামূদ জাতি তাদের রবের সাথে কুফরী করেছে। জেনে রাখ, সামূদ জাতির জন্য রয়েছে ধ্বংস।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_68.mp3"
+        }
+    }
+}

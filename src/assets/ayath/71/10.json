@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 10,
+    "english": "saying, ‘Seek your Lord’s forgiveness, ˹for˺ He is truly Most Forgiving.",
+    "arabic1": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+    "arabic2": "فقلت استغفروا ربكم انه كان غفارا",
+    "bengali": "আর বলেছি, ‘তোমাদের রবের কাছে ক্ষমা চাও; নিশ্চয় তিনি পরম ক্ষমাশীল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_10.mp3"
+        }
+    }
+}

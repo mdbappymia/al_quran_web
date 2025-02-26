@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 12,
+    "english": "It is truly I. I am your Lord! So take off your sandals, for you are in the sacred valley of Ṭuwa.",
+    "arabic1": "إِنِّىٓ أَنَا۠ رَبُّكَ فَٱخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+    "arabic2": "اني انا ربك فاخلع نعليك انك بالواد المقدس طوى",
+    "bengali": "নিশ্চয় আমি তোমার রব; সুতরাং তোমার জুতা জোড়া খুলে ফেল, নিশ্চয় তুমি পবিত্র ‘তুওয়া’ উপত্যকায় রয়েছ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_12.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 162,
+    "english": "Are those who seek Allah’s pleasure like those who deserve Allah’s wrath? Hell is their home. What an evil destination!",
+    "arabic1": "أَفَمَنِ ٱتَّبَعَ رِضْوَٰنَ ٱللَّهِ كَمَنۢ بَآءَ بِسَخَطٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "افمن اتبع رضوان الله كمن باء بسخط من الله وماواه جهنم وبئس المصير",
+    "bengali": "যে আল্লাহর সন্তুষ্টির অনুসরণ করেছে সেকি তার মত যে আল্লাহর ক্রোধ নিয়ে ফিরে এসেছে ? আর তার আশ্রয়স্থল জাহান্নাম এবং তা কতই না মন্দ প্রত্যাবর্তনস্থল!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_162.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_162.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_162.mp3"
+        }
+    }
+}

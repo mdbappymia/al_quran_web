@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 26,
+    "english": "He responds to those who believe and do good, and increases their reward out of His grace. As for the disbelievers, they will suffer a severe punishment.",
+    "arabic1": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَـٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+    "arabic2": "ويستجيب الذين امنوا وعملوا الصالحات ويزيدهم من فضله والكافرون لهم عذاب شديد",
+    "bengali": "আর যারা ঈমান আনে ও সৎকর্ম করে তাদের আহবানে তিনি সাড়া দেন এবং তাদের প্রতি তাঁর অনুগ্রহ বৃদ্ধি করেন। আর কাফিরদের জন্য রয়েছে কঠিন আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_26.mp3"
+        }
+    }
+}

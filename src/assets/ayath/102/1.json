@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "ayahNo": 1,
+    "english": "Competition for more ˹gains˺ diverts you ˹from Allah˺",
+    "arabic1": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+    "arabic2": "الهاكم التكاثر",
+    "bengali": "প্রাচুর্যের প্রতিযোগিতা তোমাদেরকে ভুলিয়ে রেখেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/102_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/102_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/102_1.mp3"
+        }
+    }
+}

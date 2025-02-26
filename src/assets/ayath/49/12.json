@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 12,
+    "english": "O  believers! Avoid many suspicions, ˹for˺ indeed, some suspicions are sinful. And do not spy, nor backbite one another. Would any of you like to eat the flesh of their dead brother? You would despise that! And fear Allah. Surely Allah is ˹the˺ Accepter of Repentance, Most Merciful.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+    "arabic2": "يا ايها الذين امنوا اجتنبوا كثيرا من الظن ان بعض الظن اثم ولا تجسسوا ولا يغتب بعضكم بعضا ايحب احدكم ان ياكل لحم اخيه ميتا فكرهتموه واتقوا الله ان الله تواب رحيم",
+    "bengali": "হে মুমিনগণ, তোমরা অধিক অনুমান থেকে দূরে থাক। নিশ্চয় কোন কোন অনুমান তো পাপ। আর তোমরা গোপন বিষয় অনুসন্ধান করো না এবং একে অপরের গীবত করো না। তোমাদের মধ্যে কি কেউ তার মৃত ভাইয়ের গোশ্ত খেতে পছন্দ করবে? তোমরা তো তা অপছন্দই করে থাক। আর তোমরা আল্লাহকে ভয় কর। নিশ্চয় আল্লাহ অধিক তাওবা কবূলকারী, অসীম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/49_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/49_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/49_12.mp3"
+        }
+    }
+}

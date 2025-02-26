@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 21,
+    "english": "And remember the brother of ’Ȃd, when he warned his people, who inhabited the sand-hills—there were certainly warners before and after him—˹saying,˺ “Worship none but Allah. I truly fear for you the torment of a tremendous day.”",
+    "arabic1": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "arabic2": "واذكر اخا عاد اذ انذر قومه بالاحقاف وقد خلت النذر من بين يديه ومن خلفه الا تعبدوا الا الله اني اخاف عليكم عذاب يوم عظيم",
+    "bengali": "আর স্মরণ কর ‘আ’দ সম্প্রদায়ের ভাইয়ের কথা, যখন সে আহকাফের স্বীয় সম্প্রদায়কে সতর্ক করেছিল। আর এমন সতর্ককারীরা তার পূর্বে এবং তার পরেও গত হয়েছে যে, ‘তোমরা আল্লাহ ছাড়া কারো ইবাদাত করো না। নিশ্চয় আমি তোমাদের উপর এক ভয়াবহ দিনের আযাবের আশঙ্কা করছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 110,
+    "english": "who seeks to drive you from your land.” ˹So Pharaoh asked,˺ “What do you propose?”",
+    "arabic1": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ ۖ فَمَاذَا تَأْمُرُونَ",
+    "arabic2": "يريد ان يخرجكم من ارضكم فماذا تامرون",
+    "bengali": "‘সে তোমাদেরকে তোমাদের দেশ থেকে বের করতে চায়, সুতরাং তোমরা কী নির্দেশ দেবে?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_110.mp3"
+        }
+    }
+}

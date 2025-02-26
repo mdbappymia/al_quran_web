@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 30,
+    "english": "But you cannot will ˹to do so˺ unless Allah wills. Indeed, Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+    "arabic2": "وما تشاءون الا ان يشاء الله ان الله كان عليما حكيما",
+    "bengali": "আর আল্লাহ ইচ্ছা না করলে তোমরা ইচ্ছা করবে না; নিশ্চয় আল্লাহ মহাজ্ঞানী, প্রাজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_30.mp3"
+        }
+    }
+}

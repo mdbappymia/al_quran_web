@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 89,
+    "english": "He asked, “Do you remember what you did to Joseph and his brother in your ignorance?”",
+    "arabic1": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَـٰهِلُونَ",
+    "arabic2": "قال هل علمتم ما فعلتم بيوسف واخيه اذ انتم جاهلون",
+    "bengali": "সে বলল, ‘তোমাদের জানা আছে কি, ইউসুফ ও তার ভাইয়ের সাথে তোমরা কিরূপ আচরণ করেছিলে, যখন তোমরা অজ্ঞ ছিলে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_89.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_89.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_89.mp3"
+        }
+    }
+}

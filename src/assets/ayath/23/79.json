@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 79,
+    "english": "And He is the One Who has dispersed you ˹all˺ over the earth, and to Him you will ˹all˺ be gathered.",
+    "arabic1": "وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+    "arabic2": "وهو الذي ذراكم في الارض واليه تحشرون",
+    "bengali": "আর তিনিই পৃথিবীতে তোমাদেরকে সৃষ্টি করেছেন এবং তোমাদেরকে তাঁরই কাছে একত্র করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_79.mp3"
+        }
+    }
+}

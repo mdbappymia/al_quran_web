@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 171,
+    "english": "They are joyful for receiving Allah’s grace and bounty, and that Allah does not deny the reward of the believers.",
+    "arabic1": "۞ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+    "arabic2": "يستبشرون بنعمة من الله وفضل وان الله لا يضيع اجر المؤمنين",
+    "bengali": "তারা আল্লাহর পক্ষ থেকে নিআমত ও অনুগ্রহ লাভে খুশি হয়। আর নিশ্চয় আল্লাহ মুমিনদের প্রতিদান নষ্ট করেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_171.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_171.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_171.mp3"
+        }
+    }
+}

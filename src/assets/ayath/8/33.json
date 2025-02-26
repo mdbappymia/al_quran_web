@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 33,
+    "english": "But Allah would never punish them while you ˹O Prophet˺ were in their midst. Nor would He ever punish them if they prayed for forgiveness.",
+    "arabic1": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+    "arabic2": "وما كان الله ليعذبهم وانت فيهم وما كان الله معذبهم وهم يستغفرون",
+    "bengali": "আর আল্লাহ এমন নন যে, তাদেরকে আযাব দেবেন এ অবস্থায় যে, তুমি তাদের মাঝে বিদ্যমান এবং আল্লাহ তাদেরকে আযাব দানকারী নন এমতাবস্থায় যে, তারা ক্ষমা প্রার্থনা করছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_33.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_33.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_33.mp3"
+        }
+    }
+}

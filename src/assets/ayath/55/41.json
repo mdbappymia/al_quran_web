@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 41,
+    "english": "The wicked will be recognized by their appearance, then will be seized by ˹their˺ forelocks and feet.",
+    "arabic1": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+    "arabic2": "يعرف المجرمون بسيماهم فيؤخذ بالنواصي والاقدام",
+    "bengali": "অপরাধীদেরকে চেনা যাবে তাদের চি‎‎হ্ন‎‎র সাহায্যে। অতঃপর তাদেরকে মাথার অগ্রভাগের চুল ও পা ধরে নেয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_41.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_41.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_41.mp3"
+        }
+    }
+}

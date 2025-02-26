@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 27,
+    "english": "He has also caused you to take over their lands, homes, and wealth, as well as lands you have not yet set foot on. And Allah is Most Capable of everything.",
+    "arabic1": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+    "arabic2": "واورثكم ارضهم وديارهم واموالهم وارضا لم تطئوها وكان الله على كل شيء قديرا",
+    "bengali": "আর তিনি তোমাদেরকে উত্তরাধিকারী করলেন তাদের ভূমি, তাদের ঘর-বাড়ী ও তাদের ধন-সম্পদের এবং এমন ভূমির যাতে তোমরা পদার্পণও করনি। আল্লাহ সব কিছুর উপর সর্বশক্তিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_27.mp3"
+        }
+    }
+}

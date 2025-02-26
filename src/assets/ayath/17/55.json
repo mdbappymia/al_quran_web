@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 55,
+    "english": "Your Lord knows best all those in the heavens and the earth. And We have surely favoured some prophets above others, and to David We gave the Psalms.",
+    "arabic1": "وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
+    "arabic2": "وربك اعلم بمن في السماوات والارض ولقد فضلنا بعض النبيين على بعض واتينا داوود زبورا",
+    "bengali": "আর তোমার রব অধিক অবগত তাদের সম্পর্কে যারা আসমানসমূহ ও যমীনে রয়েছে। আর আমি তো কতক নবীকে কতকের উপর শ্রেষ্ঠত্ব দিয়েছি এবং দাঊদকে দিয়েছি যাবূর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_55.mp3"
+        }
+    }
+}

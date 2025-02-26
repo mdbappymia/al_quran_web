@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 53,
+    "english": "This is because Allah would never discontinue His favour to a people until they discontinue their faith. Surely Allah is All-Hearing, All-Knowing.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۙ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+    "arabic2": "ذلك بان الله لم يك مغيرا نعمة انعمها على قوم حتى يغيروا ما بانفسهم وان الله سميع عليم",
+    "bengali": "তা এ জন্য যে, আল্লাহ কোন নিআমতের পরিবর্তনকারী নন, যা তিনি কোন কওমকে দিয়েছেন, যতক্ষণ না তারা পরিবর্তন করে তাদের নিজদের মধ্যে যা আছে। আর নিশ্চয় আল্লাহ সর্বশ্রোতা, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_53.mp3"
+        }
+    }
+}

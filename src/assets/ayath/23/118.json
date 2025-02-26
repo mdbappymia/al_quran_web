@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 118,
+    "english": "Say, ˹O Prophet,˺ “My Lord! Forgive and have mercy, for You are the best of those who show mercy.”",
+    "arabic1": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+    "arabic2": "وقل رب اغفر وارحم وانت خير الراحمين",
+    "bengali": "আর বল, ‘হে আমাদের রব, আপনি ক্ষমা করুন, দয়া করুন এবং আপনিই সর্বশ্রেষ্ঠ দয়ালু।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_118.mp3"
+        }
+    }
+}

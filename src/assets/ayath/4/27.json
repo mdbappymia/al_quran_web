@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 27,
+    "english": "And it is Allah’s Will to turn to you in grace, but those who follow their desires wish to see you deviate entirely ˹from Allah’s Way˺.",
+    "arabic1": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا",
+    "arabic2": "والله يريد ان يتوب عليكم ويريد الذين يتبعون الشهوات ان تميلوا ميلا عظيما",
+    "bengali": "আর আল্লাহ চান তোমাদের তাওবা কবূল করতে। আর যারা প্রবৃত্তির অনুসরণ করে তারা চায় যে, তোমরা প্রবলভাবে (সত্য পথ থেকে) বিচ্যুত হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_27.mp3"
+        }
+    }
+}

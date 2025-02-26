@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 21,
+    "english": "then causes them to die and be buried.",
+    "arabic1": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+    "arabic2": "ثم اماته فاقبره",
+    "bengali": "তারপর তিনি তাকে মৃত্যু দেন এবং তাকে কবরস্থ করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_21.mp3"
+        }
+    }
+}

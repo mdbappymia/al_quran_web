@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 15,
+    "english": "Indeed, We granted knowledge to David and Solomon. And they said ˹in acknowledgment˺, “All praise is for Allah Who has privileged us over many of His faithful servants.”",
+    "arabic1": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ولقد اتينا داوود وسليمان علما وقالا الحمد لله الذي فضلنا على كثير من عباده المؤمنين",
+    "bengali": "আর অবশ্যই আমি দাঊদ ও সুলাইমানকে জ্ঞান দান করেছি এবং তারা উভয়ে বলল, ‘সকল প্রশংসা আল্লাহর জন্যই, যিনি তাঁর অনেক মুমিন বান্দাদের উপর আমাদেরকে মর্যাদা দান করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_15.mp3"
+        }
+    }
+}

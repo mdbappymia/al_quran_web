@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 30,
+    "english": "The Jews say, “Ezra is the son of Allah,” while the Christians say, “The Messiah is the son of Allah.” Such are their baseless assertions, only parroting the words of earlier disbelievers. May Allah condemn them! How can they be deluded ˹from the truth˺?",
+    "arabic1": "وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَـٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَـٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ",
+    "arabic2": "وقالت اليهود عزير ابن الله وقالت النصارى المسيح ابن الله ذلك قولهم بافواههم يضاهئون قول الذين كفروا من قبل قاتلهم الله انى يؤفكون",
+    "bengali": "আর ইয়াহূদীরা বলে, উযাইর আল্লাহর পুত্র এবং নাসারারা বলে, মাসীহ আল্লাহর পুত্র। এটা তাদের মুখের কথা, তারা সেসব লোকের কথার অনুরূপ বলছে যারা ইতঃপূর্বে কুফরী করেছে। আল্লাহ তাদেরকে ধ্বংস করুন, কোথায় ফেরানো হচ্ছে এদেরকে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_30.mp3"
+        }
+    }
+}

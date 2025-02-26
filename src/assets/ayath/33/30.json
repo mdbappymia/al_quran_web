@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 30,
+    "english": "O wives of the Prophet! If any of you were to commit a blatant misconduct, the punishment would be doubled for her. And that is easy for Allah.",
+    "arabic1": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+    "arabic2": "يا نساء النبي من يات منكن بفاحشة مبينة يضاعف لها العذاب ضعفين وكان ذلك على الله يسيرا",
+    "bengali": "হে নবী-পত্নীগণ, তোমাদের মধ্যে যে কেউ প্রকাশ্য অশ্লীল কাজ করবে, তার জন্য আযাব দ্বিগুণ করা হবে। আর এটা আল্লাহর পক্ষে সহজ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_30.mp3"
+        }
+    }
+}

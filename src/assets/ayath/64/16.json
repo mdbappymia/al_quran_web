@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 16,
+    "english": "So be mindful of Allah to the best of your ability, hear and obey, and spend in charity—that will be best for you. And whoever is saved from the selfishness of their own souls, it is they who are ˹truly˺ successful.",
+    "arabic1": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "فاتقوا الله ما استطعتم واسمعوا واطيعوا وانفقوا خيرا لانفسكم ومن يوق شح نفسه فاولئك هم المفلحون",
+    "bengali": "অতএব তোমরা যথাসাধ্য আল্লাহকে ভয় কর, শ্রবণ কর, আনুগত্য কর এবং তোমাদের নিজদের কল্যাণে ব্যয় কর, আর যাদেরকে অন্তরের কার্পণ্য থেকে রক্ষা করা হয়, তারাই মূলত সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/64_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/64_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/64_16.mp3"
+        }
+    }
+}

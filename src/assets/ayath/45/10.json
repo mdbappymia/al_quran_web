@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 10,
+    "english": "Awaiting them is Hell. Their ˹worldly˺ gains will not be of any benefit to them whatsoever, nor will those protectors they have taken besides Allah. And they will suffer a tremendous punishment.",
+    "arabic1": "مِّن وَرَآئِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "من ورائهم جهنم ولا يغني عنهم ما كسبوا شيئا ولا ما اتخذوا من دون الله اولياء ولهم عذاب عظيم",
+    "bengali": "তাদের সামনে রয়েছে জাহান্নাম। তারা যা উপার্জন করেছে অথবা আল্লাহর পরিবর্তে তারা যাদের অভিভাবক হিসেবে গ্রহণ করেছে, এসব তাদের কোন কাজে আসবে না। তাদের জন্য রয়েছে মহাআযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_10.mp3"
+        }
+    }
+}

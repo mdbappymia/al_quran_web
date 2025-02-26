@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takwir",
+    "surahNameArabic": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameTranslation": "The Overthrowing",
+    "revelationPlace": "Mecca",
+    "totalAyah": 29,
+    "surahNo": 81,
+    "ayahNo": 5,
+    "english": "and when wild beasts are gathered together",
+    "arabic1": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+    "arabic2": "واذا الوحوش حشرت",
+    "bengali": "আর যখন বন্য পশুগুলোকে একত্র করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/81_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/81_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/81_5.mp3"
+        }
+    }
+}

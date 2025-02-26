@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Aadiyaat",
+    "surahNameArabic": "العاديات",
+    "surahNameArabicLong": "سورة العاديات",
+    "surahNameTranslation": "The Chargers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 100,
+    "ayahNo": 10,
+    "english": "and the secrets of the hearts will be laid bare—",
+    "arabic1": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+    "arabic2": "وحصل ما في الصدور",
+    "bengali": "আর অন্তরে যা আছে তা প্রকাশিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/100_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/100_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/100_10.mp3"
+        }
+    }
+}

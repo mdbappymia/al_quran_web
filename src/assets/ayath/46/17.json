@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 17,
+    "english": "But some scold their parents, “Enough with you! Are you warning me that I will be brought forth ˹from the grave˺, while many generations had already perished before me ˹for good˺?” The parents cry to Allah for help, ˹and warn their child,˺ “Pity you. Have faith! Surely Allah’s promise is true.” But the deniers insist, “This is nothing but ancient fables.”",
+    "arabic1": "وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+    "arabic2": "والذي قال لوالديه اف لكما اتعدانني ان اخرج وقد خلت القرون من قبلي وهما يستغيثان الله ويلك امن ان وعد الله حق فيقول ما هذا الا اساطير الاولين",
+    "bengali": "আর যে ব্যক্তি তার মাতা-পিতাকে বলে, ‘তোমাদের জন্য আফসোস’! তোমরা কি আমাকে এই প্রতিশ্রুতি দাও যে, আমি পুনরুত্থিত হব’ অথচ আমার পূর্বে অনেক প্রজন্ম গত হয়ে গেছে’? আর তারা দু’জন আল্লাহর কাছে ফরিয়াদ করে বলে, ‘দুর্ভোগ তোমার জন্য! তুমি ঈমান আন। নিশ্চয় আল্লাহর ওয়াদা সত্য’। তখন সে বলে, ‘এটা কেবল অতীতকালের কল্পকাহিনী ছাড়া আর কিছু নয়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_17.mp3"
+        }
+    }
+}

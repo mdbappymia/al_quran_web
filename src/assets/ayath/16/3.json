@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 3,
+    "english": "He created the heavens and the earth for a purpose. Exalted is He above what they associate with Him ˹in worship˺!",
+    "arabic1": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "arabic2": "خلق السماوات والارض بالحق تعالى عما يشركون",
+    "bengali": "তিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন যথাযথই, তারা যা শরীক করে, তা থেকে তিনি ঊর্ধ্বে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_3.mp3"
+        }
+    }
+}

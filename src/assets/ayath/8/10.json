@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 10,
+    "english": "And Allah made this a sign of victory and reassurance to your hearts. Victory comes only from Allah. Surely Allah is Almighty, All-Wise.",
+    "arabic1": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ ۚ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+    "arabic2": "وما جعله الله الا بشرى ولتطمئن به قلوبكم وما النصر الا من عند الله ان الله عزيز حكيم",
+    "bengali": "আর আল্লাহ তো তা করেছেন কেবল সুসংবাদস্বরূপ এবং যাতে এর দ্বারা তোমাদের অন্তরসমূহ প্রশান্ত হয় এবং সাহায্য তো আল্লাহর পক্ষ থেকেই। নিশ্চয় আল্লাহ পরাক্রমশালী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_10.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 24,
+    "english": "Those ˹elite˺ have already led many astray. So ˹O Lord˺, only allow the wrongdoers to stray farther away.”",
+    "arabic1": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+    "arabic2": "وقد اضلوا كثيرا ولا تزد الظالمين الا ضلالا",
+    "bengali": "‘বস্তুত তারা অনেককে পথভ্রষ্ট করেছে, আর (হে আল্লাহ) আপনি যালিমদেরকে ভ্রষ্টতা ছাড়া আর কিছুই বাড়াবেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_24.mp3"
+        }
+    }
+}

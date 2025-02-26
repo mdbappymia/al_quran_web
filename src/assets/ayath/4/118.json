@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 118,
+    "english": "cursed by Allah—who said, “I will surely take hold of a certain number of Your servants.",
+    "arabic1": "لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا",
+    "arabic2": "لعنه الله وقال لاتخذن من عبادك نصيبا مفروضا",
+    "bengali": "আল্লাহ তাকে লা‘নত করেছেন এবং সে বলেছে, ‘অবশ্যই আমি তোমার বান্দাদের এক নির্দিষ্ট অংশকে (অনুসারী হিসেবে) গ্রহণ করব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_118.mp3"
+        }
+    }
+}

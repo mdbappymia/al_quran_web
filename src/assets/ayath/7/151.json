@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 151,
+    "english": "Moses prayed, “My Lord! Forgive me and my brother! And admit us into Your mercy. You are the Most Merciful of the merciful.”",
+    "arabic1": "قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "arabic2": "قال رب اغفر لي ولاخي وادخلنا في رحمتك وانت ارحم الراحمين",
+    "bengali": "সে বলল, ‘আমার রব, ক্ষমা করুন আমাকে ও আমার ভাইকে এবং আপনার রহমতে আমাদের প্রবেশ করান। আর আপনিই রহমকারীদের মধ্যে শ্রেষ্ঠ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_151.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_151.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_151.mp3"
+        }
+    }
+}

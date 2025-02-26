@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 6,
+    "english": "and the earth and ˹the One˺ Who spread it!",
+    "arabic1": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+    "arabic2": "والارض وما طحاها",
+    "bengali": "কসম যমীনের এবং যিনি তা বিস্তৃত করেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_6.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 20,
+    "english": "They will never frustrate Allah on earth, and they will have no protector besides Allah. Their punishment will be multiplied, for they failed to hear or see ˹the truth˺.",
+    "arabic1": "أُو۟لَـٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ۘ يُضَـٰعَفُ لَهُمُ ٱلْعَذَابُ ۚ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟ يُبْصِرُونَ",
+    "arabic2": "اولئك لم يكونوا معجزين في الارض وما كان لهم من دون الله من اولياء يضاعف لهم العذاب ما كانوا يستطيعون السمع وما كانوا يبصرون",
+    "bengali": "তারা যমীনে (আল্লাহকে) অক্ষম করতে পারত না এবং আল্লাহ ছাড়া তাদের কোন সাহায্যকারী ছিল না, তাদের জন্য আযাব দ্বিগুণ করা হবে। তারা শুনতে সক্ষম ছিল না এবং দেখতেও পেত না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_20.mp3"
+        }
+    }
+}

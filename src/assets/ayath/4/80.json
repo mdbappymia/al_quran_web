@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 80,
+    "english": "Whoever obeys the Messenger has truly obeyed Allah. But whoever turns away, then ˹know that˺ We have not sent you ˹O Prophet˺ as a keeper over them.",
+    "arabic1": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ ۖ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا",
+    "arabic2": "من يطع الرسول فقد اطاع الله ومن تولى فما ارسلناك عليهم حفيظا",
+    "bengali": "যে রাসূলের আনুগত্য করল, সে আল্লাহরই আনুগত্য করল। আর যে বিমুখ হল, তবে আমি তোমাকে তাদের উপর তত্ত্বাবধায়ক করে প্রেরণ করিনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_80.mp3"
+        }
+    }
+}

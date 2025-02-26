@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 79,
+    "english": "I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”",
+    "arabic1": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "اني وجهت وجهي للذي فطر السماوات والارض حنيفا وما انا من المشركين",
+    "bengali": "‘নিশ্চয় আমি নিবিষ্ট করেছি আমার চেহারা একনিষ্ঠভাবে তাঁর জন্য, যিনি আসমানসমূহ ও যমীন সৃষ্টি করেছেন। আর আমি মুশরিকদের অন্তর্ভুক্ত নই’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_79.mp3"
+        }
+    }
+}

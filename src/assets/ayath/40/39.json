@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 39,
+    "english": "O  my people! This worldly life is only ˹a fleeting˺ enjoyment, whereas the Hereafter is truly the home of settlement.",
+    "arabic1": "يَـٰقَوْمِ إِنَّمَا هَـٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَـٰعٌ وَإِنَّ ٱلْـَٔاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ",
+    "arabic2": "يا قوم انما هذه الحياة الدنيا متاع وان الاخرة هي دار القرار",
+    "bengali": "‘হে আমার কওম, এ দুনিয়ার জীবন কেবল ক্ষণকালের ভোগ; আর নিশ্চয় আখিরাতই হল স্থায়ী আবাস’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_39.mp3"
+        }
+    }
+}

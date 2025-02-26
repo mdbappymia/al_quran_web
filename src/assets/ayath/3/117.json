@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 117,
+    "english": "The good they do in this worldly life is like the harvest of an evil people struck by a bitter wind, destroying it ˹completely˺. Allah never wronged them, but they wronged themselves.",
+    "arabic1": "مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic2": "مثل ما ينفقون في هذه الحياة الدنيا كمثل ريح فيها صر اصابت حرث قوم ظلموا انفسهم فاهلكته وما ظلمهم الله ولكن انفسهم يظلمون",
+    "bengali": "তারা দুনিয়ার জীবনে যা ব্যয় করে, তার উপমা সেই বাতাসের ন্যায়, যাতে রয়েছে প্রচন্ড ঠান্ডা, যা পৌঁছে এমন কওমের শস্যক্ষেতে, যারা নিজদের উপর যুলম করেছিল। অতঃপর তা শস্যক্ষেতকে ধ্বংস করে দেয়। আর আল্লাহ তাদের উপর যুলম করেননি, বরং তারা নিজেরাই নিজদের উপর যুলম করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_117.mp3"
+        }
+    }
+}

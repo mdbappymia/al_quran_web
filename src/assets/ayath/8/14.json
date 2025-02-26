@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 14,
+    "english": "That ˹worldly punishment˺ is yours, so taste it! Then the disbelievers will suffer the torment of the Fire.",
+    "arabic1": "ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَـٰفِرِينَ عَذَابَ ٱلنَّارِ",
+    "arabic2": "ذلكم فذوقوه وان للكافرين عذاب النار",
+    "bengali": "এটি আযাব, সুতরাং তোমরা তা আস্বাদন কর। আর নিশ্চয় কাফিরদের জন্য রয়েছে আগুনের আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_14.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 7,
+    "english": "Believe in Allah and His Messenger, and donate from what He has entrusted you with. So those of you who believe and donate will have a mighty reward.",
+    "arabic1": "ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ",
+    "arabic2": "امنوا بالله ورسوله وانفقوا مما جعلكم مستخلفين فيه فالذين امنوا منكم وانفقوا لهم اجر كبير",
+    "bengali": "তোমরা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আন এবং তিনি তোমাদেরকে যা কিছুর উত্তরাধিকারী করেছেন, তা থেকে ব্যয় কর। অতঃপর তোমাদের মধ্যে যারা ঈমান আনে ও (আল্লাহর পথে) ব্যয় করে তাদের জন্য রয়েছে বিরাট প্রতিফল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_7.mp3"
+        }
+    }
+}

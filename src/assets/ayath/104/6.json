@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Humaza",
+    "surahNameArabic": "الهمزة",
+    "surahNameArabicLong": "سورة الهمزة",
+    "surahNameTranslation": "The Traducer",
+    "revelationPlace": "Mecca",
+    "totalAyah": 9,
+    "surahNo": 104,
+    "ayahNo": 6,
+    "english": "˹It is˺ Allah’s kindled Fire",
+    "arabic1": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+    "arabic2": "نار الله الموقدة",
+    "bengali": "আল্লাহর প্রজ্জ্বলিত আগুন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/104_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/104_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/104_6.mp3"
+        }
+    }
+}

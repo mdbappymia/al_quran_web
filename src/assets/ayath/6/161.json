@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 161,
+    "english": "Say, ˹O Prophet,˺ “Surely my Lord has guided me to the Straight Path, a perfect way, the faith of Abraham, the upright, who was not one of the polytheists.”",
+    "arabic1": "قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ دِينًا قِيَمًا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "قل انني هداني ربي الى صراط مستقيم دينا قيما ملة ابراهيم حنيفا وما كان من المشركين",
+    "bengali": "বল, ‘নিশ্চয় আমার রব আমাকে সোজা পথের হিদায়াত দিয়েছেন। তা সুপ্রতিষ্ঠিত দীন, ইবরাহীমের আদর্শ, সে ছিল একনিষ্ঠ এবং সে মুশরিকদের অন্তর্ভুক্ত ছিল না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_161.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_161.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_161.mp3"
+        }
+    }
+}

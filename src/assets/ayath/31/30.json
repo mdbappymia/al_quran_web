@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 30,
+    "english": "That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and ˹because˺ Allah ˹alone˺ is the Most High, All-Great.",
+    "arabic1": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ",
+    "arabic2": "ذلك بان الله هو الحق وان ما يدعون من دونه الباطل وان الله هو العلي الكبير",
+    "bengali": "এগুলো প্রমাণ করে যে, নিশ্চয় আল্লাহই সত্য এবং তারা আল্লাহর পরিবর্তে যাকে ডাকে, তা মিথ্যা। আর নিশ্চয় আল্লাহই হলেন সর্বোচ্চ, সুমহান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_30.mp3"
+        }
+    }
+}

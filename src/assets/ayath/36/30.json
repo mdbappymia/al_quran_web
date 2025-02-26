@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 30,
+    "english": "Oh pity, such beings! No messenger ever came to them without being mocked.",
+    "arabic1": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic2": "يا حسرة على العباد ما ياتيهم من رسول الا كانوا به يستهزئون",
+    "bengali": "আফসোস, বান্দাদের জন্য! যখনই তাদের কাছে কোন রাসূল এসেছে তখনই তারা তাকে নিয়ে ঠাট্টা-বিদ্রূপ করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_30.mp3"
+        }
+    }
+}

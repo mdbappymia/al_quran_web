@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 148,
+    "english": "Allah does not like negative thoughts to be voiced—except by those who have been wronged. Allah is All-Hearing, All-Knowing.",
+    "arabic1": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+    "arabic2": "لا يحب الله الجهر بالسوء من القول الا من ظلم وكان الله سميعا عليما",
+    "bengali": "মন্দ কথার প্রচার আল্লাহ পছন্দ করেন না, তবে কারো উপর যুলম করা হলে ভিন্ন কথা। আর আল্লাহ সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_148.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_148.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_148.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 63,
+    "english": "People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”",
+    "arabic1": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+    "arabic2": "يسالك الناس عن الساعة قل انما علمها عند الله وما يدريك لعل الساعة تكون قريبا",
+    "bengali": "লোকেরা তোমাকে কিয়ামত সম্পর্কে জিজ্ঞাসা করে, বল, ‘এ বিষয়ের জ্ঞান কেবল আল্লাহর নিকটই আছে, আর তোমার কি জানা আছে, কিয়ামত হয়ত খুব নিকটে!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_63.mp3"
+        }
+    }
+}

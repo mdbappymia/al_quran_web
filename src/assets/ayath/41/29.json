@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 29,
+    "english": "The disbelievers will ˹then˺ cry, “Our Lord! Show us those jinn and humans who led us astray: we will put them under our feet so that they will be among the lowest ˹in Hell˺.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ",
+    "arabic2": "وقال الذين كفروا ربنا ارنا اللذين اضلانا من الجن والانس نجعلهما تحت اقدامنا ليكونا من الاسفلين",
+    "bengali": "আর কাফিররা বলবে, ‘হে আমাদের রব, জিন ও মানুষের মধ্যে যারা আমাদেরকে পথভ্রষ্ট করেছে তাদেরকে আমাদের দেখিয়ে দিন। আমরা তাদের উভয়কে আমাদের পায়ের নীচে রাখব, যাতে তারা নিকৃষ্টদের অন্তর্ভুক্ত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_29.mp3"
+        }
+    }
+}

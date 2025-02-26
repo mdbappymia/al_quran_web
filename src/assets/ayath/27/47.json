@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 47,
+    "english": "They replied, “You and your followers are a bad omen for us.” He responded, “Your omens are destined by Allah. In fact, you are ˹only˺ a people being tested.”",
+    "arabic1": "قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ ۚ قَالَ طَـٰٓئِرُكُمْ عِندَ ٱللَّهِ ۖ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ",
+    "arabic2": "قالوا اطيرنا بك وبمن معك قال طائركم عند الله بل انتم قوم تفتنون",
+    "bengali": "তারা বলল, ‘আমরা তুমি ও তোমার সাথে যারা আছে তাদেরকে অশুভ মনে করছি’। সে বলল, ‘তোমাদের অশুভ আল্লাহর নিকট। বরং তোমরা এমন এক কওম যাদের পরীক্ষা করা হচ্ছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_47.mp3"
+        }
+    }
+}

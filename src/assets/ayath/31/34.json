@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 34,
+    "english": "Indeed, Allah ˹alone˺ has the knowledge of the Hour. He sends down the rain, and knows what is in the wombs. No soul knows what it will earn for tomorrow, and no soul knows in what land it will die. Surely Allah is All-Knowing, All-Aware.",
+    "arabic1": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ",
+    "arabic2": "ان الله عنده علم الساعة وينزل الغيث ويعلم ما في الارحام وما تدري نفس ماذا تكسب غدا وما تدري نفس باي ارض تموت ان الله عليم خبير",
+    "bengali": "নিশ্চয় আল্লাহর নিকট কিয়ামতের জ্ঞান রয়েছে। আর তিনি বৃষ্টি বর্ষণ করেন এবং জরায়ূতে যা আছে, তা তিনি জানেন। আর কেউ জানে না আগামীকাল সে কী অর্জন করবে এবং কেউ জানে না কোন্ স্থানে সে মারা যাবে। নিশ্চয় আল্লাহ সর্বজ্ঞ, সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_34.mp3"
+        }
+    }
+}

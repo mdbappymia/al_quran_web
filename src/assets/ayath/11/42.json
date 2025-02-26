@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 42,
+    "english": "And ˹so˺ the Ark sailed with them through waves like mountains. Noah called out to his son, who stood apart, “O my dear son! Come aboard with us and do not be with the disbelievers.”",
+    "arabic1": "وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَـٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَـٰفِرِينَ",
+    "arabic2": "وهي تجري بهم في موج كالجبال ونادى نوح ابنه وكان في معزل يا بني اركب معنا ولا تكن مع الكافرين",
+    "bengali": "আর তা পাহাড়সম ঢেউয়ের মধ্যে তাদেরকে নিয়ে চলছিল এবং নূহ তার পুত্রকে ডাক দিল, আর সে ছিল আলাদা স্থানে- ‘হে আমার পুত্র, আমাদের সাথে আরোহণ কর এবং কাফিরদের সাথে থেকো না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_42.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_42.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_42.mp3"
+        }
+    }
+}

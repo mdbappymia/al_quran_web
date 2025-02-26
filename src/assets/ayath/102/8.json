@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takaathur",
+    "surahNameArabic": "التكاثر",
+    "surahNameArabicLong": "سورة التكاثر",
+    "surahNameTranslation": "Competition",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 102,
+    "ayahNo": 8,
+    "english": "Then, on that Day, you will definitely be questioned about ˹your worldly˺ pleasures.",
+    "arabic1": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+    "arabic2": "ثم لتسالن يومئذ عن النعيم",
+    "bengali": "তারপর সেদিন অবশ্যই তোমরা নিআমত সম্পর্কে জিজ্ঞাসিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/102_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/102_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/102_8.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 25,
+    "english": "Moses pleaded, “My Lord! I have no control over anyone except myself and my brother. So set us apart from the rebellious people.”",
+    "arabic1": "قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+    "arabic2": "قال رب اني لا املك الا نفسي واخي فافرق بيننا وبين القوم الفاسقين",
+    "bengali": "সে বলল, ‘হে আমার রব, আমি আমার ও আমার ভাই ছাড়া কারো উপরে অধিকার রাখি না। সুতরাং আপনি আমাদের ও ফাসিক কওমের মধ্যে বিচ্ছেদ করে দিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_25.mp3"
+        }
+    }
+}

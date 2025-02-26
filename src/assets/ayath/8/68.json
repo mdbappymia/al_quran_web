@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 68,
+    "english": "Had it not been for a prior decree from Allah, you would have certainly been disciplined with a tremendous punishment for whatever ˹ransom˺ you have taken.",
+    "arabic1": "لَّوْلَا كِتَـٰبٌ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَآ أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+    "arabic2": "لولا كتاب من الله سبق لمسكم فيما اخذتم عذاب عظيم",
+    "bengali": "আল্লাহর লিখন অতিবাহিত না হয়ে থাকলে, অবশ্যই তোমরা যা গ্রহণ করেছ, সে বিষয়ে তোমাদেরকে মহা আযাব স্পর্শ করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_68.mp3"
+        }
+    }
+}

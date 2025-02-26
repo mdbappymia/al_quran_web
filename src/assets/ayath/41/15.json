@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 15,
+    "english": "As for ’Ȃd, they acted arrogantly throughout the land with no right, boasting, “Who is superior to us in might?” Did they not see that Allah ˹Himself˺, Who created them, was far superior to them in might? Still they persisted in denying Our signs.",
+    "arabic1": "فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+    "arabic2": "فاما عاد فاستكبروا في الارض بغير الحق وقالوا من اشد منا قوة اولم يروا ان الله الذي خلقهم هو اشد منهم قوة وكانوا باياتنا يجحدون",
+    "bengali": "আর ‘আদ সম্প্রদায়, তারা যমীনে অযথা অহঙ্কার করত এবং বলত, ‘আমাদের চেয়ে অধিক শক্তিশালী কে আছে’? তবে কি তারা লক্ষ্য করেনি যে, নিশ্চয় আল্লাহ যিনি তাদেরকে সৃষ্টি করেছেন তাদের চেয়ে অধিক শক্তিশালী? আর তারা আমার আয়াতগুলোকে অস্বীকার করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_15.mp3"
+        }
+    }
+}

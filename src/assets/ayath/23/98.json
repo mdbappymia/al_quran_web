@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 98,
+    "english": "And I seek refuge in You, my Lord, that they ˹even˺ come near me.”",
+    "arabic1": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+    "arabic2": "واعوذ بك رب ان يحضرون",
+    "bengali": "আর হে আমার রব, আমার কাছে তাদের উপস্থিতি হতে আপনার কাছে পানাহ চাই।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_98.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_98.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_98.mp3"
+        }
+    }
+}

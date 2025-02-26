@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 108,
+    "english": "These are Allah’s revelations We recite to you ˹O Prophet˺ in truth. And Allah desires no injustice to ˹His˺ creation.",
+    "arabic1": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۗ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعَـٰلَمِينَ",
+    "arabic2": "تلك ايات الله نتلوها عليك بالحق وما الله يريد ظلما للعالمين",
+    "bengali": "এগুলো আল্লাহর নির্দশন, যা আমি তোমার উপর যথাযথভাবে তিলাওয়াত করছি। আর আল্লাহ সৃষ্টিকুলের প্রতি যুলম করতে চান না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_108.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_108.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_108.mp3"
+        }
+    }
+}

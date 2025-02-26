@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 50,
+    "english": "And ˹so˺ they made a plan, but We too made a plan, while they were unaware.",
+    "arabic1": "وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic2": "ومكروا مكرا ومكرنا مكرا وهم لا يشعرون",
+    "bengali": "আর তারা এক চক্রান্ত করল এবং আমিও কৌশল অবলম্বন করলাম। অথচ তারা উপলদ্ধিও করতে পারল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_50.mp3"
+        }
+    }
+}

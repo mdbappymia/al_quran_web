@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 30,
+    "english": "He has guided some, while others are destined to stray. They have taken devils as their masters instead of Allah—thinking they are ˹rightly˺ guided.",
+    "arabic1": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَـٰلَةُ ۗ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَـٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+    "arabic2": "فريقا هدى وفريقا حق عليهم الضلالة انهم اتخذوا الشياطين اولياء من دون الله ويحسبون انهم مهتدون",
+    "bengali": "এক দলকে তিনি হিদায়াত দিয়েছেন এবং আরেক দলের উপর পথভ্রষ্টতা সাব্যস্ত হয়েছে। নিশ্চয় তারা শয়তানদেরকে আল্লাহ ছাড়া অভিভাবকরূপে গ্রহণ করেছে। আর তারা মনে করে যে, নিশ্চয় তারা হিদায়াতপ্রাপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_30.mp3"
+        }
+    }
+}

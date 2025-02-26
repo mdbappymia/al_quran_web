@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'laa",
+    "surahNameArabic": "الأعلى",
+    "surahNameArabicLong": "سورة الأعلى",
+    "surahNameTranslation": "The Most High",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 87,
+    "ayahNo": 1,
+    "english": "Glorify the Name of your Lord, the Most High",
+    "arabic1": " سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+    "arabic2": "سبح اسم ربك الاعلى",
+    "bengali": "তুমি তোমার সুমহান রবের নামের তাসবীহ পাঠ কর,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/87_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/87_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/87_1.mp3"
+        }
+    }
+}

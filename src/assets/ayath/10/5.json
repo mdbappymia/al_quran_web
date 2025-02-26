@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 5,
+    "english": "He is the One Who made the sun a radiant source and the moon a reflected light, with precisely ordained phases, so that you may know the number of years and calculation ˹of time˺. Allah did not create all this except for a purpose. He makes the signs clear for people of knowledge.",
+    "arabic1": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+    "arabic2": "هو الذي جعل الشمس ضياء والقمر نورا وقدره منازل لتعلموا عدد السنين والحساب ما خلق الله ذلك الا بالحق يفصل الايات لقوم يعلمون",
+    "bengali": "তিনিই সূর্যকে করেছেন দীপ্তিময় এবং চাঁদকে আলোময় আর তার জন্য নির্ধারণ করেছেন বিভিন্ন মনযিল, যাতে তোমরা জানতে পার বছরের গণনা এবং (সময়ের) হিসাব। আল্লাহ এগুলো অবশ্যই যথার্থভাবে সৃষ্টি করেছেন। জ্ঞানী সম্প্রদায়ের জন্য তিনি আয়াতসমূহ বিস্তারিতভাবে বর্ণনা করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_5.mp3"
+        }
+    }
+}

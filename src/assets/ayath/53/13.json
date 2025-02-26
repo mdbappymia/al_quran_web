@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 13,
+    "english": "And he certainly saw that ˹angel descend˺ a second time",
+    "arabic1": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+    "arabic2": "ولقد راه نزلة اخرى",
+    "bengali": "আর সে তো তাকে* আরেকবার** দেখেছিল। \n* জিবরীলকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_13.mp3"
+        }
+    }
+}

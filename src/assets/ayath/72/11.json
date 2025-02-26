@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 11,
+    "english": "Among us are those who are righteous and those who are less so. We have been of different factions.",
+    "arabic1": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًا",
+    "arabic2": "وانا منا الصالحون ومنا دون ذلك كنا طرائق قددا",
+    "bengali": "‘আর নিশ্চয় আমাদের কতিপয় সৎকর্মশীল এবং কতিপয় এর ব্যতিক্রম। আমরা ছিলাম বিভিন্ন মত ও পথে বিভক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_11.mp3"
+        }
+    }
+}

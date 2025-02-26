@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 23,
+    "english": "But no! They have failed to comply with what He ordered.",
+    "arabic1": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+    "arabic2": "كلا لما يقض ما امره",
+    "bengali": "কখনো নয়, তিনি তাকে যে আদেশ দিয়েছিলেন, সে এখনো তা পূর্ণ করেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_23.mp3"
+        }
+    }
+}

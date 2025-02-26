@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 11,
+    "english": "You can only warn those who follow the Reminder and are in awe of the Most Compassionate without seeing Him. So give them good news of forgiveness and an honourable reward.",
+    "arabic1": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+    "arabic2": "انما تنذر من اتبع الذكر وخشي الرحمن بالغيب فبشره بمغفرة واجر كريم",
+    "bengali": "তুমি তো কেবল তাকেই সতর্ক করবে যে উপদেশ মেনে চলে এবং না দেখেও পরম করুণাময় আল্লাহকে ভয় করে। অতএব তাকে তুমি ক্ষমা ও সম্মানজনক পুরস্কারের সুসংবাদ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_11.mp3"
+        }
+    }
+}

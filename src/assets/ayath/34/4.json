@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 4,
+    "english": "So He may reward those who believe and do good. It is they who will have forgiveness and an honourable provision.",
+    "arabic1": "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۚ أُو۟لَـٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+    "arabic2": "ليجزي الذين امنوا وعملوا الصالحات اولئك لهم مغفرة ورزق كريم",
+    "bengali": "যাতে তিনি প্রতিদান দেন তাদেরকে যারা ঈমান আনে ও সৎকর্ম করে। তাদেরই জন্য রয়েছে ক্ষমা ও সম্মানজনক রিয্ক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_4.mp3"
+        }
+    }
+}

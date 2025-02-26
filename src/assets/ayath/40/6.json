@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 6,
+    "english": "And so your Lord’s decree has been proven true against the disbelievers—that they will be the inmates of the Fire.",
+    "arabic1": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَـٰبُ ٱلنَّارِ",
+    "arabic2": "وكذلك حقت كلمت ربك على الذين كفروا انهم اصحاب النار",
+    "bengali": "আর এভাবে কাফিরদের ক্ষেত্রে তোমার রবের বাণী সত্যে পরিণত হল যে, নিশ্চয় এরা জাহান্নামী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_6.mp3"
+        }
+    }
+}

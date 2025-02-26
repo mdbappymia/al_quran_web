@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 46,
+    "english": "Whoever does good, it is to their own benefit. And whoever does evil, it is to their own loss. Your Lord is never unjust to ˹His˺ creation.",
+    "arabic1": "مَّنْ عَمِلَ صَـٰلِحًا فَلِنَفْسِهِۦ ۖ وَمَنْ أَسَآءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+    "arabic2": "من عمل صالحا فلنفسه ومن اساء فعليها وما ربك بظلام للعبيد",
+    "bengali": "যে সৎকর্ম করে সে তার নিজের জন্যই তা করে। আর যে অসৎকর্ম করে তা তার উপরই বর্তাবে। তোমার রব তাঁর বান্দাদের প্রতি মোটেই যালিম নন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_46.mp3"
+        }
+    }
+}

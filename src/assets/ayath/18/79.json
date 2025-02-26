@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 79,
+    "english": "“As for the ship, it belonged to some poor people, working at sea. So I intended to damage it, for there was a ˹tyrant˺ king ahead of them who seizes every ˹good˺ ship by force.",
+    "arabic1": "أَمَّا ٱلسَّفِينَةُ فَكَانَتْ لِمَسَـٰكِينَ يَعْمَلُونَ فِى ٱلْبَحْرِ فَأَرَدتُّ أَنْ أَعِيبَهَا وَكَانَ وَرَآءَهُم مَّلِكٌ يَأْخُذُ كُلَّ سَفِينَةٍ غَصْبًا",
+    "arabic2": "اما السفينة فكانت لمساكين يعملون في البحر فاردت ان اعيبها وكان وراءهم ملك ياخذ كل سفينة غصبا",
+    "bengali": "‘নৌকাটির বিষয় হল, তা ছিল কিছু দরিদ্র লোকের যারা সমুদ্রে কাজ করত। আমি নৌকাটিকে ত্রুটিযুক্ত করতে চেয়েছি কারণ তাদের পেছনে ছিল এক রাজা, যে নৌকাগুলো জোরপূর্বক ছিনিয়ে নিচ্ছিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_79.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_79.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_79.mp3"
+        }
+    }
+}

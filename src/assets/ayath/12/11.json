@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 11,
+    "english": "They said, “O our father! Why do you not trust us with Joseph, although we truly wish him well?",
+    "arabic1": "قَالُوا۟ يَـٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ",
+    "arabic2": "قالوا يا ابانا ما لك لا تامنا على يوسف وانا له لناصحون",
+    "bengali": "তারা বলল, ‘হে আমাদের পিতা, কী হল আপনার, ইউসুফের ব্যাপারে আপনি আমাদেরকে নিরাপদ মনে করছেন না, অথচ আমরাই তার হিতাকাঙ্ক্ষী’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_11.mp3"
+        }
+    }
+}

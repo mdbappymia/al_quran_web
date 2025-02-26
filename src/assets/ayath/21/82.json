@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 82,
+    "english": "And ˹We subjected˺ some jinn that dived for him, and performed other duties. It is We Who kept them in check.",
+    "arabic1": "وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ",
+    "arabic2": "ومن الشياطين من يغوصون له ويعملون عملا دون ذلك وكنا لهم حافظين",
+    "bengali": "আর শয়তানদের মধ্যে কতক তার জন্য ডুবুরীর কাজ করত, এছাড়া অন্যান্য কাজও করত। আর আমিই তাদের জন্য হিফাযতকারী ছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_82.mp3"
+        }
+    }
+}

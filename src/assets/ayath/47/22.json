@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 22,
+    "english": "Now if you ˹hypocrites˺ turn away, perhaps you would then spread corruption throughout the land and sever your ˹ties of˺ kinship!",
+    "arabic1": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+    "arabic2": "فهل عسيتم ان توليتم ان تفسدوا في الارض وتقطعوا ارحامكم",
+    "bengali": "তবে কি তোমরা প্রত্যাশা করছ যে, যদি তোমরা শাসন কর্তৃত্ব পাও, তবে তোমরা যমীনে বিপর্যয় সৃষ্টি করবে এবং তোমাদের আত্মীয়তার বন্ধন ছিন্ন করবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_22.mp3"
+        }
+    }
+}

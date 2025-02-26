@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 121,
+    "english": "And whenever they make a donation, small or large, or cross a valley ˹in Allah’s cause˺—it is written to their credit, so that Allah may grant them the best reward for what they used to do.",
+    "arabic1": "وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "ولا ينفقون نفقة صغيرة ولا كبيرة ولا يقطعون واديا الا كتب لهم ليجزيهم الله احسن ما كانوا يعملون",
+    "bengali": "আর তারা স্বল্প কিংবা অধিক যা-ই ব্যয় করে এবং অতিক্রম করে যে প্রান্তরই, তা তাদের জন্য লিখে দেয়া হয়, যাতে তারা যা আমল করত, আল্লাহ তাদেরকে তার চেয়ে উত্তম প্রতিদান দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_121.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_121.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_121.mp3"
+        }
+    }
+}

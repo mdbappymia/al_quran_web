@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 31,
+    "english": "Then on the Day of Judgment you will ˹all settle your˺ dispute before your Lord.",
+    "arabic1": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ",
+    "arabic2": "ثم انكم يوم القيامة عند ربكم تختصمون",
+    "bengali": "তারপর কিয়ামতের দিন নিশ্চয় তোমরা তোমাদের রবের সামনে ঝগড়া করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_31.mp3"
+        }
+    }
+}

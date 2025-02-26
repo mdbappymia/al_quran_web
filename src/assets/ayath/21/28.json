@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 28,
+    "english": "He ˹fully˺ knows what is ahead of them and what is behind them. They do not intercede except for whom He approves, and they tremble in awe of Him.",
+    "arabic1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ",
+    "arabic2": "يعلم ما بين ايديهم وما خلفهم ولا يشفعون الا لمن ارتضى وهم من خشيته مشفقون",
+    "bengali": "তাদের সামনে ও পেছনে যা কিছু আছে সবই তিনি জানেন। আর তারা শুধু তাদের জন্যই সুপারিশ করে যাদের প্রতি তিনি সন্তুষ্ট। তারা তাঁর ভয়ে ভীত।* \n* ফেরেশতারা আল্লাহর ভয়ে সর্বদা ভীত থাকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_28.mp3"
+        }
+    }
+}

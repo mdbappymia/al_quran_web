@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 25,
+    "english": "˹Imagine˺ how many gardens and springs the tyrants left behind",
+    "arabic1": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+    "arabic2": "كم تركوا من جنات وعيون",
+    "bengali": "তারা অনেক বাগান ও ঝর্না রেখেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_25.mp3"
+        }
+    }
+}

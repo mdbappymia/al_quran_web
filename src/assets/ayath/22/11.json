@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 11,
+    "english": "And there are some who worship Allah on the verge ˹of faith˺: if they are blessed with something good, they are content with it; but if they are afflicted with a trial, they relapse ˹into disbelief˺, losing this world and the Hereafter. That is ˹truly˺ the clearest loss.",
+    "arabic1": "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ",
+    "arabic2": "ومن الناس من يعبد الله على حرف فان اصابه خير اطمان به وان اصابته فتنة انقلب على وجهه خسر الدنيا والاخرة ذلك هو الخسران المبين",
+    "bengali": "মানুষের মধ্যে কতক এমন রয়েছে, যারা দ্বিধার সাথে আল্লাহর ইবাদাত করে। যদি তার কোন কল্যাণ হয় তবে সে তাতে প্রশান্ত হয়। আর যদি তার কোন বিপর্যয় ঘটে, তাহলে সে তার আসল চেহারায় ফিরে যায়। সে দুনিয়া ও আখিরাতে ক্ষতিগ্রস্ত হয়। এটি হল সুস্পষ্ট ক্ষতি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_11.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 7,
+    "english": "The disbelievers say, “If only a sign could be sent down to him from his Lord.” You ˹O Prophet˺ are only a warner. And every people had a guide.",
+    "arabic1": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌ ۖ وَلِكُلِّ قَوْمٍ هَادٍ",
+    "arabic2": "ويقول الذين كفروا لولا انزل عليه اية من ربه انما انت منذر ولكل قوم هاد",
+    "bengali": "আর যারা কুফরী করেছে, তারা বলে, ‘তার উপর তার রবের পক্ষ থেকে কোন নিদর্শন নাযিল হয় না কেন’? তুমি তো কেবল সতর্ককারী, আর প্রত্যেক কওমের জন্য রয়েছে হিদায়াতকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_7.mp3"
+        }
+    }
+}

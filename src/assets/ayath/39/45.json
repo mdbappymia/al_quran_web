@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 45,
+    "english": "Yet when Allah alone is mentioned, the hearts of those who disbelieve in the Hereafter are filled with disgust. But as soon as those ˹gods˺ other than Him are mentioned, they are filled with joy.",
+    "arabic1": "وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+    "arabic2": "واذا ذكر الله وحده اشمازت قلوب الذين لا يؤمنون بالاخرة واذا ذكر الذين من دونه اذا هم يستبشرون",
+    "bengali": "যারা আখিরাতে বিশ্বাস করে না, এক আল্লাহর কথা বলা হলে তাদের অন্তর সঙ্কুচিত হয়ে যায়। আর আল্লাহ ছাড়া অন্য উপাস্যগুলোর কথা বলা হলে তখনই তারা আনন্দে উৎফুল্ল হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_45.mp3"
+        }
+    }
+}

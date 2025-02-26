@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 12,
+    "english": "They know whatever you do.",
+    "arabic1": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+    "arabic2": "يعلمون ما تفعلون",
+    "bengali": "তারা জানে, যা তোমরা কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/82_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/82_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/82_12.mp3"
+        }
+    }
+}

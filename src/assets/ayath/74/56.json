@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 56,
+    "english": "But they cannot do so unless Allah wills. He ˹alone˺ is worthy to be feared and entitled to forgive.",
+    "arabic1": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+    "arabic2": "وما يذكرون الا ان يشاء الله هو اهل التقوى واهل المغفرة",
+    "bengali": "আল্লাহর ইচ্ছা ছাড়া কেউ উপদেশ গ্রহণ করতে পারে না। তিনিই ভয়ের যোগ্য এবং ক্ষমার অধিকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_56.mp3"
+        }
+    }
+}

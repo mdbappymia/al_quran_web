@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 128,
+    "english": "You ˹O Prophet˺ have no say in the matter. It is up to Allah to turn to them in mercy or punish them, for indeed they are wrongdoers.",
+    "arabic1": "لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَـٰلِمُونَ",
+    "arabic2": "ليس لك من الامر شيء او يتوب عليهم او يعذبهم فانهم ظالمون",
+    "bengali": "এ বিষয়ে তোমার কোন অধিকার নেই- হয়তো তিনি তাদেরকে ক্ষমা করবেন অথবা তিনি তাদেরকে আযাব দেবেন। কারণ নিশ্চয় তারা যালিম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_128.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_128.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_128.mp3"
+        }
+    }
+}

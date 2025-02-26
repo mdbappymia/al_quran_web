@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Asr",
+    "surahNameArabic": "العصر",
+    "surahNameArabicLong": "سورة العصر",
+    "surahNameTranslation": "The Declining Day, Epoch",
+    "revelationPlace": "Mecca",
+    "totalAyah": 3,
+    "surahNo": 103,
+    "ayahNo": 2,
+    "english": "Surely humanity is in ˹grave˺ loss",
+    "arabic1": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+    "arabic2": "ان الانسان لفي خسر",
+    "bengali": "নিশ্চয় সকল মানুষ ক্ষতিগ্রস্ততায় নিপতিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/103_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/103_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/103_2.mp3"
+        }
+    }
+}

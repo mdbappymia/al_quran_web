@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 103,
+    "english": "Then We saved Our messengers and those who believed. For it is Our duty to save the believers.",
+    "arabic1": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ ۚ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "ثم ننجي رسلنا والذين امنوا كذلك حقا علينا ننج المؤمنين",
+    "bengali": "তারপর আমি নাজাত দেই আমার রাসূলদেরকে এবং তাদেরকেও যারা ঈমান এনেছে। এটা আমার দায়িত্ব যে, মুমিনদের নাজাত দেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_103.mp3"
+        }
+    }
+}

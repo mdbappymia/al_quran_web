@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 11,
+    "english": "If Allah were to hasten evil for people as they wish to hasten good, they would have certainly been doomed. But We leave those who do not expect to meet Us to wander blindly in their defiance.",
+    "arabic1": "۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ",
+    "arabic2": "ولو يعجل الله للناس الشر استعجالهم بالخير لقضي اليهم اجلهم فنذر الذين لا يرجون لقاءنا في طغيانهم يعمهون",
+    "bengali": "আর আল্লাহ যদি মানুষের অকল্যাণ (প্রার্থনায় সাড়া দিতে) তাড়াতাড়ি করতেন যেভাবে তিনি তাদের কল্যাণ (প্রার্থনায় সাড়া দিতে) তাড়াতাড়ি করেন, তাহলে অবশ্যই তাদের সময় ফুরিয়ে যেত। সুতরাং যারা আমার সাক্ষাতের আশা রাখে না, আমি তাদেরকে তাদের অবাধ্যতায় দিশেহারা হয়ে ঘুরতে ছেড়ে দেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_11.mp3"
+        }
+    }
+}

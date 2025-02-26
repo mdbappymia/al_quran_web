@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 4,
+    "english": "On that night every matter of wisdom is ordained",
+    "arabic1": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+    "arabic2": "فيها يفرق كل امر حكيم",
+    "bengali": "সে রাতে প্রত্যেক প্রজ্ঞাপূর্ণ বিষয়ে সিদ্ধান্ত অনুমোদিত হয়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_4.mp3"
+        }
+    }
+}

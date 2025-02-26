@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 12,
+    "english": "˹Now,˺ we truly know that we cannot frustrate Allah on earth, nor can we escape from Him ˹into heaven˺.",
+    "arabic1": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+    "arabic2": "وانا ظننا ان لن نعجز الله في الارض ولن نعجزه هربا",
+    "bengali": "‘আর আমরা তো বুঝতে পেরেছি যে, আমরা কিছুতেই যমীনের মধ্যে আল্লাহকে অপারগ করতে পারব না এবং পালিয়েও কখনো তাকে অপারগ করতে পারব না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_12.mp3"
+        }
+    }
+}

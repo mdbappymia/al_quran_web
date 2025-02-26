@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 71,
+    "english": "O  People of the Book! Why do you mix the truth with falsehood and hide the truth knowingly?",
+    "arabic1": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ",
+    "arabic2": "يا اهل الكتاب لم تلبسون الحق بالباطل وتكتمون الحق وانتم تعلمون",
+    "bengali": "হে কিতাবীরা, কেন তোমরা সত্যকে মিথ্যার সাথে মিশ্রিত করছ এবং সত্যকে গোপন করছ, অথচ তোমরা তা জান?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_71.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_71.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_71.mp3"
+        }
+    }
+}

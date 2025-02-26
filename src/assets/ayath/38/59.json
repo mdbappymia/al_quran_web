@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 59,
+    "english": "˹The misleaders will say to one another,˺ “Here is a crowd ˹of followers˺ being thrown in with us. They are not welcome, ˹for˺ they ˹too˺ will burn in the Fire.”",
+    "arabic1": "هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ",
+    "arabic2": "هذا فوج مقتحم معكم لا مرحبا بهم انهم صالو النار",
+    "bengali": "এই তো এক দল তোমাদের সাথেই প্রবেশ করছে, তাদের জন্য নেই কোন অভিনন্দন। নিশ্চয় তারা আগুনে জ্বলবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_59.mp3"
+        }
+    }
+}

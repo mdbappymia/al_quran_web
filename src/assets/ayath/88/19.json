@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ghaashiya",
+    "surahNameArabic": "الغاشية",
+    "surahNameArabicLong": "سورة الغاشية",
+    "surahNameTranslation": "The Overwhelming",
+    "revelationPlace": "Mecca",
+    "totalAyah": 26,
+    "surahNo": 88,
+    "ayahNo": 19,
+    "english": "and the mountains—how they were firmly set up;",
+    "arabic1": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+    "arabic2": "والى الجبال كيف نصبت",
+    "bengali": "আর পর্বতমালার দিকে, কীভাবে তা স্থাপন করা হয়েছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/88_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/88_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/88_19.mp3"
+        }
+    }
+}

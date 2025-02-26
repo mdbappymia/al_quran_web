@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 104,
+    "english": "Let there be a group among you who call ˹others˺ to goodness, encourage what is good, and forbid what is evil—it is they who will be successful.",
+    "arabic1": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "ولتكن منكم امة يدعون الى الخير ويامرون بالمعروف وينهون عن المنكر واولئك هم المفلحون",
+    "bengali": "আর যেন তোমাদের মধ্য থেকে এমন একটি দল হয়, যারা কল্যাণের প্রতি আহবান করবে, ভাল কাজের আদেশ দেবে এবং মন্দ কাজ থেকে নিষেধ করবে। আর তারাই সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_104.mp3"
+        }
+    }
+}

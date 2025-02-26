@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 51,
+    "english": "O believers! Take neither Jews nor Christians as guardians—they are guardians of each other. Whoever does so will be counted as one of them. Surely Allah does not guide the wrongdoing people.",
+    "arabic1": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ ٱلْيَهُودَ وَٱلنَّصَـٰرَىٰٓ أَوْلِيَآءَ ۘ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَإِنَّهُۥ مِنْهُمْ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "arabic2": "يا ايها الذين امنوا لا تتخذوا اليهود والنصارى اولياء بعضهم اولياء بعض ومن يتولهم منكم فانه منهم ان الله لا يهدي القوم الظالمين",
+    "bengali": "হে মুমিনগণ, ইয়াহূদী ও নাসারাদেরকে তোমরা বন্ধুরূপে গ্রহণ করো না। তারা একে অপরের বন্ধু। আর তোমাদের মধ্যে যে তাদের সাথে বন্ধুত্ব করবে, সে নিশ্চয় তাদেরই একজন। নিশ্চয় আল্লাহ যালিম কওমকে হিদায়াত দেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_51.mp3"
+        }
+    }
+}

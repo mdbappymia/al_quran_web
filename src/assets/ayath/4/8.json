@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 8,
+    "english": "If ˹non-inheriting˺ relatives, orphans, or the needy are present at the time of distribution, offer them a ˹small˺ provision from it and speak to them kindly.",
+    "arabic1": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+    "arabic2": "واذا حضر القسمة اولو القربى واليتامى والمساكين فارزقوهم منه وقولوا لهم قولا معروفا",
+    "bengali": "আর যদি বণ্টনে নিকটাত্মীয় এবং ইয়াতীম ও মিসকীনরা উপস্থিত হয়, তাহলে তোমরা তাদেরকে তা থেকে আহার দেবে এবং তাদের সাথে তোমরা উত্তম কথা বলবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_8.mp3"
+        }
+    }
+}

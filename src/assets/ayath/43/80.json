@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 80,
+    "english": "Or do they think that We do not hear their ˹evil˺ thoughts and secret talks? Yes ˹We do˺! And Our messenger-angels are in their presence, recording ˹it all˺.",
+    "arabic1": "أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم ۚ بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ",
+    "arabic2": "ام يحسبون انا لا نسمع سرهم ونجواهم بلى ورسلنا لديهم يكتبون",
+    "bengali": "না কি তারা মনে করে, আমি তাদের গোপনীয় বিষয় ও নিভৃত সলাপরামর্শ শুনতে পাই না? অবশ্যই হ্যাঁ, আর আমার ফেরেশতাগণ তাদের কাছে থেকে লিখছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_80.mp3"
+        }
+    }
+}

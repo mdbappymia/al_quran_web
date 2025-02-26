@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 52,
+    "english": "It is they who have been condemned by Allah. And whoever is condemned by Allah will have no helper.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ ۖ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+    "arabic2": "اولئك الذين لعنهم الله ومن يلعن الله فلن تجد له نصيرا",
+    "bengali": "এরাই তারা যাদেরকে আল্লাহ লা‘নত করেছেন। আর আল্লাহ যাকে লা‘নত করেন তুমি কখনো তার কোন সাহায্যকারী পাবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_52.mp3"
+        }
+    }
+}

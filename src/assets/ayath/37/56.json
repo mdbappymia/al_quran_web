@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 56,
+    "english": "He will ˹then˺ say, “By Allah! You nearly ruined me.",
+    "arabic1": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+    "arabic2": "قال تالله ان كدت لتردين",
+    "bengali": "সে বলবে, ‘আল্লাহর কসম! তুমি তো আমাকে প্রায় ধ্বংস করে দিয়েছিলে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_56.mp3"
+        }
+    }
+}

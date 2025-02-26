@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 66,
+    "english": "On the Day their faces are ˹constantly˺ flipped in the Fire, they will cry, “Oh! If only we had obeyed Allah and obeyed the Messenger!”",
+    "arabic1": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَـٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+    "arabic2": "يوم تقلب وجوههم في النار يقولون يا ليتنا اطعنا الله واطعنا الرسولا",
+    "bengali": "যেদিন তাদের চেহারাগুলো আগুনে উপুড় করে দেয়া হবে, তারা বলবে, ‘হায়, আমরা যদি আল্লাহর আনুগত্য করতাম এবং রাসূলের আনুগত্য করতাম’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_66.mp3"
+        }
+    }
+}

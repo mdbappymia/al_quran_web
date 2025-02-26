@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 51,
+    "english": "We certainly help Our messengers and the believers, ˹both˺ in this worldly life and on the Day the witnesses will stand forth ˹for testimony˺—",
+    "arabic1": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ يَقُومُ ٱلْأَشْهَـٰدُ",
+    "arabic2": "انا لننصر رسلنا والذين امنوا في الحياة الدنيا ويوم يقوم الاشهاد",
+    "bengali": "নিশ্চয় আমি আমার রাসূলদেরকে ও মুমিনদেরকে দুনিয়ার জীবনে এবং যেদিন সাক্ষীগণ দন্ডায়মান হবে সেদিন সাহায্য করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_51.mp3"
+        }
+    }
+}

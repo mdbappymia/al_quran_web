@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 53,
+    "english": "Do they have control over shares of the kingdom? If so, they would not have given anyone so much as the speck on a date stone.",
+    "arabic1": "أَمْ لَهُمْ نَصِيبٌ مِّنَ ٱلْمُلْكِ فَإِذًا لَّا يُؤْتُونَ ٱلنَّاسَ نَقِيرًا",
+    "arabic2": "ام لهم نصيب من الملك فاذا لا يؤتون الناس نقيرا",
+    "bengali": "তবে কি তাদের জন্য রাজত্বে কোন অংশ আছে? তাহলে তখনতো তারা মানুষকে খেজুরবীচির উপরের আবরণ পরিমাণও কিছু দেবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_53.mp3"
+        }
+    }
+}

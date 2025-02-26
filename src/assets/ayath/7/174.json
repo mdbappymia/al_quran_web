@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 174,
+    "english": "This is how We make our signs clear, so perhaps they will return ˹to the Right Path˺.",
+    "arabic1": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "وكذلك نفصل الايات ولعلهم يرجعون",
+    "bengali": "আর এভাবেই আমি আয়াতসমূহ বিস্তারিত বর্ণনা করি, যাতে তারা ফিরে আসে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_174.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_174.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_174.mp3"
+        }
+    }
+}

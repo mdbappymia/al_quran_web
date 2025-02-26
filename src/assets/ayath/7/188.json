@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 188,
+    "english": "Say, “I have no power to benefit or protect myself, except by the Will of Allah. If I had known the unknown, I would have benefited myself enormously, and no harm would have ever touched me. I am only a warner and deliverer of good news for those who believe.”",
+    "arabic1": "قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "قل لا املك لنفسي نفعا ولا ضرا الا ما شاء الله ولو كنت اعلم الغيب لاستكثرت من الخير وما مسني السوء ان انا الا نذير وبشير لقوم يؤمنون",
+    "bengali": "বল, ‘আমি আমার নিজের কোন উপকার ও ক্ষতির ক্ষমতা রাখি না, তবে আল্লাহ যা চান। আর আমি যদি গায়েব জানতাম তাহলে অধিক কল্যাণ লাভ করতাম এবং আমাকে কোন ক্ষতি স্পর্শ করত না। আমিতো একজন সতর্ককারী ও সুসংবাদদাতা এমন কওমের জন্য, যারা বিশ্বাস করে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_188.mp3"
+        }
+    }
+}

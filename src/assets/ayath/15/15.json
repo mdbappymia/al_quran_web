@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 15,
+    "english": "still they would say, “Our eyes have truly been dazzled! In fact, we must have been bewitched.”",
+    "arabic1": "لَقَالُوٓا۟ إِنَّمَا سُكِّرَتْ أَبْصَـٰرُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+    "arabic2": "لقالوا انما سكرت ابصارنا بل نحن قوم مسحورون",
+    "bengali": "তবুও তারা বলত, নিশ্চয় আমাদের দৃষ্টি কেড়ে নেয়া হয়েছে, বরং আমরা তো যাদুগ্রস্ত সম্প্রদায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_15.mp3"
+        }
+    }
+}

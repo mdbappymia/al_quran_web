@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 12,
+    "english": "On that Day you will see believing men and women with their light shining ahead of them and on their right. ˹They will be told,˺ “Today you have good news of Gardens, under which rivers flow, ˹for you˺ to stay in forever. This is ˹truly˺ the ultimate triumph.”",
+    "arabic1": "يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "يوم ترى المؤمنين والمؤمنات يسعى نورهم بين ايديهم وبايمانهم بشراكم اليوم جنات تجري من تحتها الانهار خالدين فيها ذلك هو الفوز العظيم",
+    "bengali": "সেদিন তুমি মুমিন পুরুষদের ও মুমিন নারীদের দেখতে পাবে যে, তাদের সামনে ও তাদের ডান পার্শ্বে তাদের নূর ছুটতে থাকবে। (বলা হবে) ‘আজ তোমাদের সুসংবাদ হল জান্নাত, যার তলদেশ দিয়ে নদীসমূহ প্রবাহিত, তথায় তোমরা স্থায়ী হবে। এটাই হল মহাসাফল্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_12.mp3"
+        }
+    }
+}

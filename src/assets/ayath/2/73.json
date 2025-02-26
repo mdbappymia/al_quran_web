@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 73,
+    "english": "So We instructed, “Strike the dead body with a piece of the cow.” This is how ˹easily˺ Allah brings the dead to life, showing you His signs so that you may understand.",
+    "arabic1": "فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "فقلنا اضربوه ببعضها كذلك يحيي الله الموتى ويريكم اياته لعلكم تعقلون",
+    "bengali": "অতঃপর আমি বললাম, ‘তোমরা তাকে আঘাত কর গাভীটির (গোশতের) কিছু অংশ দিয়ে। এভাবে আল্লাহ জীবিত করেন মৃতদেরকে। আর তিনি তোমাদেরকে তাঁর নিদর্শনসমূহ দেখান, যাতে তোমরা বুঝ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_73.mp3"
+        }
+    }
+}

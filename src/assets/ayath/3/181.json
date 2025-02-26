@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 181,
+    "english": "Indeed, Allah has heard those ˹among the Jews˺ who said, “Allah is poor; we are rich!” We have certainly recorded their slurs and their killing of prophets unjustly. Then We will say, “Taste the torment of burning!",
+    "arabic1": "لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+    "arabic2": "لقد سمع الله قول الذين قالوا ان الله فقير ونحن اغنياء سنكتب ما قالوا وقتلهم الانبياء بغير حق ونقول ذوقوا عذاب الحريق",
+    "bengali": "নিশ্চয় আল্লাহ তাদের কথা শুনেছেন, যারা বলেছে, ‘নিশ্চয় আল্লাহ দরিদ্র এবং আমরা ধনী’। অচিরেই আমি লিখে রাখব তারা যা বলেছে এবং নবীদেরকে তাদের অন্যায়ভাবে হত্যার বিষয়টিও এবং আমি বলব, ‘তোমরা উত্তপ্ত আযাব আস্বাদন কর’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_181.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_181.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_181.mp3"
+        }
+    }
+}

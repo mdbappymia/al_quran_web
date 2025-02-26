@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 35,
+    "english": "Or do they say, “He has fabricated this ˹Quran˺!”? Say, ˹O Prophet,˺ “If I have done so, then I bear the burden of that sin! But I am free from your sinful accusation.”",
+    "arabic1": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَعَلَىَّ إِجْرَامِى وَأَنَا۠ بَرِىٓءٌ مِّمَّا تُجْرِمُونَ",
+    "arabic2": "ام يقولون افتراه قل ان افتريته فعلي اجرامي وانا بريء مما تجرمون",
+    "bengali": "নাকি তারা বলে, ‘সে এটা রচনা করেছে’। বল, ‘যদি আমি তা রচনা করে থাকি, তবে আমার অপরাধ আমার উপরই বর্তাবে এবং তোমরা যে অপরাধ করছ, আমি তা থেকে মুক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_35.mp3"
+        }
+    }
+}

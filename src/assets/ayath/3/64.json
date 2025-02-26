@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 64,
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! Let us come to common terms: that we will worship none but Allah, associate none with Him, nor take one another as lords instead of Allah.” But if they turn away, then say, “Bear witness that we have submitted ˹to Allah alone˺.”",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+    "arabic2": "قل يا اهل الكتاب تعالوا الى كلمة سواء بيننا وبينكم الا نعبد الا الله ولا نشرك به شيئا ولا يتخذ بعضنا بعضا اربابا من دون الله فان تولوا فقولوا اشهدوا بانا مسلمون",
+    "bengali": "বল, ‘হে কিতাবীগণ, তোমরা এমন কথার দিকে আস, যেটি আমাদের মধ্যে ও তোমাদের মধ্যে সমান যে, আমরা একমাত্র আল্লাহ ছাড়া কারো ইবাদাত না করি। আর তার সাথে কোন কিছুকে শরীক না করি এবং আমাদের কেউ কাউকে আল্লাহ ছাড়া রব হিসাবে গ্রহণ না করি’। তারপর যদি তারা বিমুখ হয় তবে বল, ‘তোমরা সাক্ষী থাক যে, নিশ্চয় আমরা মুসলিম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_64.mp3"
+        }
+    }
+}

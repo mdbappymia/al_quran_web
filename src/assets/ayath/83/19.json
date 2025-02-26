@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mutaffifin",
+    "surahNameArabic": "المطففين",
+    "surahNameArabicLong": "سورة المطففين",
+    "surahNameTranslation": "Defrauding",
+    "revelationPlace": "Mecca",
+    "totalAyah": 36,
+    "surahNo": 83,
+    "ayahNo": 19,
+    "english": "and what will make you realize what ’Illiyûn is?—",
+    "arabic1": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+    "arabic2": "وما ادراك ما عليون",
+    "bengali": "কিসে তোমাকে জানাবে ‘ইল্লিয়্যীন’ কী?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/83_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/83_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/83_19.mp3"
+        }
+    }
+}

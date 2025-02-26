@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 55,
+    "english": "And ˹remember˺ when you said, “O Moses! We will never believe you until we see Allah with our own eyes,” so a thunderbolt struck you while you were looking on.",
+    "arabic1": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+    "arabic2": "واذ قلتم يا موسى لن نؤمن لك حتى نرى الله جهرة فاخذتكم الصاعقة وانتم تنظرون",
+    "bengali": "আর যখন তোমরা বললে, ‘হে মূসা, আমরা তোমার প্রতি ঈমান আনব না, যতক্ষণ না আমরা প্রকাশ্যে আল্লাহকে দেখি’। ফলে বজ্র তোমাদেরকে পাকড়াও করল আর তোমরা তা দেখছিলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_55.mp3"
+        }
+    }
+}

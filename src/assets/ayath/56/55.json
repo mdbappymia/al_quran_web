@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 55,
+    "english": "and you will drink ˹it˺ like thirsty camels do.”",
+    "arabic1": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+    "arabic2": "فشاربون شرب الهيم",
+    "bengali": "অতঃপর তোমরা তা পান করবে তৃষ্ণাতুর উটের ন্যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_55.mp3"
+        }
+    }
+}

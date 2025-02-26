@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 84,
+    "english": "So do not be in haste against them, for indeed We are ˹closely˺ counting down their days.",
+    "arabic1": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+    "arabic2": "فلا تعجل عليهم انما نعد لهم عدا",
+    "bengali": "সুতরাং তাদের ব্যাপারে তুমি তাড়াহুড়া করো না; আমি তো কেবল তাদের জন্য নির্ধারিত কাল গণনা করছি,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_84.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_84.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_84.mp3"
+        }
+    }
+}

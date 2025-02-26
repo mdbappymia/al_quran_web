@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 13,
+    "english": "their clan that sheltered them",
+    "arabic1": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+    "arabic2": "وفصيلته التي تؤويه",
+    "bengali": "আর তার জ্ঞাতি-গোষ্ঠীকে, যারা তাকে আশ্রয় দিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_13.mp3"
+        }
+    }
+}

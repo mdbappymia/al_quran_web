@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 21,
+    "english": "to obey and speak rightly. Then when fighting was ordained, it surely would have been better for them if they were true to Allah.",
+    "arabic1": "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ",
+    "arabic2": "طاعة وقول معروف فاذا عزم الامر فلو صدقوا الله لكان خيرا لهم",
+    "bengali": "আনুগত্য ও ন্যায়সঙ্গত কথা (তাদের জন্য) উত্তম। অতঃপর যখন সিদ্ধান্ত চূড়ান্ত হয়, তখন যদি তারা আল্লাহর সাথে কৃত ওয়াদা সত্যে পরিণত করত, তবে তা তাদের জন্য কল্যাণকর হত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_21.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 26,
+    "english": "And they say, “The Most Compassionate has offspring!” Glory be to Him! In fact, those ˹angels˺ are only ˹His˺ honoured servants",
+    "arabic1": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۚ بَلْ عِبَادٌ مُّكْرَمُونَ",
+    "arabic2": "وقالوا اتخذ الرحمن ولدا سبحانه بل عباد مكرمون",
+    "bengali": "আর তারা বলে, ‘পরম করুণাময় সন্তান গ্রহণ করেছেন।’ তিনি পবিত্র। বরং তারা* সম্মানিত বান্দা। \n* বনূ খুযা‘আ দাবী করত, ফেরেশতারা আল্লাহর কন্যা। এ ভুল ধারণা দূর করতে আল্লাহ বলেন, ফেরেশতারা আল্লাহর সন্তান নয়; বরং তারা সম্মানিত বান্দা। আল-কাশ্শাফ",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_26.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 21,
+    "english": "See how We have favoured some over others ˹in this life˺, but the Hereafter is certainly far greater in rank and in favour.",
+    "arabic1": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۚ وَلَلْـَٔاخِرَةُ أَكْبَرُ دَرَجَـٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+    "arabic2": "انظر كيف فضلنا بعضهم على بعض وللاخرة اكبر درجات واكبر تفضيلا",
+    "bengali": "ভেবে দেখ, আমি তাদের কতককে কতকের উপর কিভাবে শ্রেষ্ঠত্ব দান করেছি। আর আখিরাত নিশ্চয়ই মর্যাদায় মহান এবং শ্রেষ্ঠত্বে বৃহত্তর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_21.mp3"
+        }
+    }
+}

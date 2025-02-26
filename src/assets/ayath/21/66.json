@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 66,
+    "english": "He rebuked ˹them˺, “Do you then worship—instead of Allah—what can neither benefit nor harm you in any way?",
+    "arabic1": "قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًٔا وَلَا يَضُرُّكُمْ",
+    "arabic2": "قال افتعبدون من دون الله ما لا ينفعكم شيئا ولا يضركم",
+    "bengali": "সে (ইবরাহীম) বলল, ‘তাহলে কি তোমরা আল্লাহর পরিবর্তে এমন কিছুর ইবাদাত কর, যা তোমাদের কোন উপকার করতে পারে না এবং কোন ক্ষতিও করতে পারে না’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_66.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 52,
+    "english": "Say, ˹O Prophet,˺ “Sufficient is Allah as a Witness between me and you. He ˹fully˺ knows whatever is in the heavens and the earth. And those who believe in falsehood and disbelieve in Allah, it is they who are the ˹true˺ losers.”",
+    "arabic1": "قُلْ كَفَىٰ بِٱللَّهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱلَّذِينَ ءَامَنُوا۟ بِٱلْبَـٰطِلِ وَكَفَرُوا۟ بِٱللَّهِ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "قل كفى بالله بيني وبينكم شهيدا يعلم ما في السماوات والارض والذين امنوا بالباطل وكفروا بالله اولئك هم الخاسرون",
+    "bengali": "বল, ‘আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে আল্লাহই যথেষ্ট। আসমানসমূহ ও যমীনে যা কিছু আছে, তা তিনি জানেন। আর যারা বাতিলে বিশ্বাস করে এবং আল্লাহকে অস্বীকার করে, তারাই ক্ষতিগ্রস্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_52.mp3"
+        }
+    }
+}

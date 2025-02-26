@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 80,
+    "english": "Also, you find in them ˹other˺ benefits. And by means of them you may reach destinations you desire. And you are carried upon ˹some of˺ them and upon ships.",
+    "arabic1": "وَلَكُمْ فِيهَا مَنَـٰفِعُ وَلِتَبْلُغُوا۟ عَلَيْهَا حَاجَةً فِى صُدُورِكُمْ وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ",
+    "arabic2": "ولكم فيها منافع ولتبلغوا عليها حاجة في صدوركم وعليها وعلى الفلك تحملون",
+    "bengali": "আর এতে তোমাদের জন্য রয়েছে অনেক উপকার এবং যাতে তোমরা নিজদের অন্তরে যে প্রয়োজন অনুভব কর, ওগুলো দ্বারা তা পূর্ণ করতে পার। ওগুলোর উপর আর নৌযানের উপর তোমাদেরকে বহন করা হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_80.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 23,
+    "english": "Have you seen ˹O Prophet˺ those who have taken their own desires as their god? ˹And so˺ Allah left them to stray knowingly, sealed their hearing and hearts, and placed a cover on their sight. Who then can guide them after Allah? Will you ˹all˺ not then be mindful?",
+    "arabic1": "أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَـٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+    "arabic2": "افرايت من اتخذ الهه هواه واضله الله على علم وختم على سمعه وقلبه وجعل على بصره غشاوة فمن يهديه من بعد الله افلا تذكرون",
+    "bengali": "তবে তুমি কি তাকে লক্ষ্য করেছ, যে তার প্রবৃত্তিকে আপন ইলাহ বানিয়ে নিয়েছে? তার কাছে জ্ঞান আসার পর আল্লাহ তাকে পথভ্রষ্ট করেছেন এবং তিনি তার কান ও অন্তরে মোহর মেরে দিয়েছেন। আর তার চোখের উপর স্থাপন করেছেন আবরণ। অতএব আল্লাহর পর কে তাকে হিদায়াত করবে? তারপরও কি তোমরা উপদেশ গ্রহণ করবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_23.mp3"
+        }
+    }
+}

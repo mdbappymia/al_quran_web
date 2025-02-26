@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 63,
+    "english": "Those ˹misleaders˺ against whom the decree ˹of torment˺ is justified will cry, “Our Lord! These ˹followers˺ are the ones we caused to deviate. We led them into deviance, for we ourselves were deviant. We disassociate ourselves ˹from them˺ before You. It was not us that they used to worship.”",
+    "arabic1": "قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَـٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَـٰهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَآ إِلَيْكَ ۖ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ",
+    "arabic2": "قال الذين حق عليهم القول ربنا هؤلاء الذين اغوينا اغويناهم كما غوينا تبرانا اليك ما كانوا ايانا يعبدون",
+    "bengali": "যাদের জন্য (শাস্তির) বাণী অবধারিত হবে তারা বলবে, ‘হে আমাদের রব, ওরা তো তারা যাদেরকে আমরা বিভ্রান্ত করেছিলাম। তাদেরকে আমরা বিভ্রান্ত করেছিলাম যেমন আমরা বিভ্রান্ত হয়েছিলাম। আমরা আপনার কাছে দায় মুক্তি চাচ্ছি। তারা তো আমাদের ইবাদাত করত না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_63.mp3"
+        }
+    }
+}

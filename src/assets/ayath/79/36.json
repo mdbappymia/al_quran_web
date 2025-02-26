@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naazi'aat",
+    "surahNameArabic": "النازعات",
+    "surahNameArabicLong": "سورة النازعات",
+    "surahNameTranslation": "Those who drag forth",
+    "revelationPlace": "Mecca",
+    "totalAyah": 46,
+    "surahNo": 79,
+    "ayahNo": 36,
+    "english": "and the Hellfire will be displayed for all to see—",
+    "arabic1": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+    "arabic2": "وبرزت الجحيم لمن يرى",
+    "bengali": "আর জাহান্নামকে প্রকাশ করা হবে তার জন্য যে দেখতে পায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/79_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/79_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/79_36.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hujuraat",
+    "surahNameArabic": "الحجرات",
+    "surahNameArabicLong": "سورة الحجرات",
+    "surahNameTranslation": "The Inner Apartments",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 49,
+    "ayahNo": 15,
+    "english": "The ˹true˺ believers are only those who believe in Allah and His Messenger—never doubting—and strive with their wealth and their lives in the cause of Allah. They are the ones true in faith.",
+    "arabic1": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+    "arabic2": "انما المؤمنون الذين امنوا بالله ورسوله ثم لم يرتابوا وجاهدوا باموالهم وانفسهم في سبيل الله اولئك هم الصادقون",
+    "bengali": "মুমিন কেবল তারাই যারা আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান এনেছে, তারপর সন্দেহ পোষণ করেনি। আর নিজেদের সম্পদ ও নিজেদের জীবন দিয়ে আল্লাহর রাস্তায় জিহাদ করেছে। এরাই সত্যনিষ্ঠ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/49_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/49_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/49_15.mp3"
+        }
+    }
+}

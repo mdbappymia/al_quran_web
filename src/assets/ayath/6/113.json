@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 113,
+    "english": "so that the hearts of those who disbelieve in the Hereafter may be receptive to it, be pleased with it, and be persistent in their evil pursuits.",
+    "arabic1": "وَلِتَصْغَىٰٓ إِلَيْهِ أَفْـِٔدَةُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ وَلِيَرْضَوْهُ وَلِيَقْتَرِفُوا۟ مَا هُم مُّقْتَرِفُونَ",
+    "arabic2": "ولتصغى اليه افئدة الذين لا يؤمنون بالاخرة وليرضوه وليقترفوا ما هم مقترفون",
+    "bengali": "আর কুমন্ত্রণা এ কারণে যে, যারা আখিরাতের উপর ঈমান রাখে না তাদের অন্তর যেন এর (চাকচিক্যপূর্ণ কথার) প্রতি আকৃষ্ট হয় এবং যাতে তারা তা পছন্দ করে, আর তারা যা (যে পাপ) অর্জন করছে, তা যেন অর্জন করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_113.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_113.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_113.mp3"
+        }
+    }
+}

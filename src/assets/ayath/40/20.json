@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 20,
+    "english": "And Allah judges with the truth, while those ˹idols˺ they invoke besides Him cannot judge at all. Indeed, Allah ˹alone˺ is the All-Hearing, All-Seeing.",
+    "arabic1": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَقْضُونَ بِشَىْءٍ ۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+    "arabic2": "والله يقضي بالحق والذين يدعون من دونه لا يقضون بشيء ان الله هو السميع البصير",
+    "bengali": "আর আল্লাহ সঠিকভাবে ফয়সালা করেন এবং তাঁকে বাদ দিয়ে তারা যাদের ডাকে তারা কোন কিছুর ফয়সালা করতে পারবে না। নিশ্চয় আল্লাহ, তিনিই সর্বশ্রোতা, সর্বদ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_20.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 57,
+    "english": "And as for those who believe and do good, they will be rewarded in full. And Allah does not like the wrongdoers.”",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+    "arabic2": "واما الذين امنوا وعملوا الصالحات فيوفيهم اجورهم والله لا يحب الظالمين",
+    "bengali": "আর যারা ঈমান এনেছে এবং নেক আমল করেছে, তিনি তাদেরকে পরিপূর্ণ প্রতিদান দেবেন। আর আল্লাহ যালিমদেরকে ভালবাসেন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_57.mp3"
+        }
+    }
+}

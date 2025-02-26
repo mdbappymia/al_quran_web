@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 54,
+    "english": "It is Allah Who created you in a state of weakness, then developed ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and old age. He creates whatever He wills. For He is the All-Knowing, Most Capable.",
+    "arabic1": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+    "arabic2": "الله الذي خلقكم من ضعف ثم جعل من بعد ضعف قوة ثم جعل من بعد قوة ضعفا وشيبة يخلق ما يشاء وهو العليم القدير",
+    "bengali": "আল্লাহ, যিনি তোমাদের সৃষ্টি করেছেন দুর্বল বস্তু থেকে এবং দুর্বলতার পর তিনি শক্তি দান করেন। আর শক্তির পর তিনি আবার দেন দুর্বলতা ও বার্ধক্য। তিনি যা ইচ্ছা সৃষ্টি করেন এবং তিনিই সর্বজ্ঞ, সর্বশক্তিমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_54.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_54.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_54.mp3"
+        }
+    }
+}

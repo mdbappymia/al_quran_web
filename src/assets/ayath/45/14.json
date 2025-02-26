@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 14,
+    "english": "˹O Prophet!˺ Tell the believers to forgive those who do not fear Allah’s days ˹of torment˺, so that He will reward each group for what they used to commit.",
+    "arabic1": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+    "arabic2": "قل للذين امنوا يغفروا للذين لا يرجون ايام الله ليجزي قوما بما كانوا يكسبون",
+    "bengali": "যারা ঈমান এনেছে তাদেরকে বল, ‘যারা আল্লাহর দিবসসমূহ প্রত্যাশা করে না, এরা যেন তাদের ক্ষমা করে দেয়, যাতে আল্লাহ প্রত্যেক কওমকে তাদের কৃতকর্মের জন্য প্রতিদান দিতে পারেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_14.mp3"
+        }
+    }
+}

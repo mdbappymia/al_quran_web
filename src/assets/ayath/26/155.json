@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 155,
+    "english": "Ṣâliḥ said, “Here is a camel. She will have her turn to drink as you have yours, each on an appointed day.",
+    "arabic1": "قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
+    "arabic2": "قال هذه ناقة لها شرب ولكم شرب يوم معلوم",
+    "bengali": "সালিহ বলল, ‘এটি একটি উষ্ট্রী; তার জন্য পানি পানের পালা একদিন আর তোমাদের পানি পানের পালা আরেক নির্দিষ্ট দিনে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_155.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_155.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_155.mp3"
+        }
+    }
+}

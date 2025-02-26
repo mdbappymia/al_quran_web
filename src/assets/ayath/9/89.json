@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 89,
+    "english": "Allah has prepared for them Gardens under which rivers flow, to stay there forever. That is the ultimate triumph.",
+    "arabic1": "أَعَدَّ ٱللَّهُ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "arabic2": "اعد الله لهم جنات تجري من تحتها الانهار خالدين فيها ذلك الفوز العظيم",
+    "bengali": "আল্লাহ তাদের জন্য তৈরি করেছেন জান্নাতসমূহ, যার নিচ দিয়ে প্রবাহিত হবে নহরসমূহ, তাতে তারা চিরদিন থাকবে, এটিই মহাসফলতা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_89.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_89.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_89.mp3"
+        }
+    }
+}

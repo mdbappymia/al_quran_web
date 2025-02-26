@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 188,
+    "english": "Shu’aib responded, “My Lord knows best whatever you do.”",
+    "arabic1": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
+    "arabic2": "قال ربي اعلم بما تعملون",
+    "bengali": "সে বলল, ‘তোমরা যা কর, সে সম্পর্কে আমার রব অধিক জ্ঞাত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_188.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_188.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_188.mp3"
+        }
+    }
+}

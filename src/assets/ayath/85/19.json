@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 19,
+    "english": "Yet the disbelievers ˹still˺ persist in denial.",
+    "arabic1": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+    "arabic2": "بل الذين كفروا في تكذيب",
+    "bengali": "বরং কাফিররা মিথ্যারোপে লিপ্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_19.mp3"
+        }
+    }
+}

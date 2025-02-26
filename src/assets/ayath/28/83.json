@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 83,
+    "english": "That ˹eternal˺ Home in the Hereafter We reserve ˹only˺ for those who seek neither tyranny nor corruption on the earth. The ultimate outcome belongs ˹only˺ to the righteous.",
+    "arabic1": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِى ٱلْأَرْضِ وَلَا فَسَادًا ۚ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+    "arabic2": "تلك الدار الاخرة نجعلها للذين لا يريدون علوا في الارض ولا فسادا والعاقبة للمتقين",
+    "bengali": "এই হচ্ছে আখিরাতের নিবাস, যা আমি তাদের জন্য নির্ধারিত করি, যারা যমীনে ঔদ্ধত্য দেখাতে চায় না এবং ফাসাদও চায় না। আর শুভ পরিণাম মুত্তাকীদের জন্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_83.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 18,
+    "english": "Indeed, those men and women who give in charity and lend to Allah a good loan will have it multiplied for them, and they will have an honourable reward.",
+    "arabic1": "إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَـٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ",
+    "arabic2": "ان المصدقين والمصدقات واقرضوا الله قرضا حسنا يضاعف لهم ولهم اجر كريم",
+    "bengali": "নিশ্চয় দানশীল পুরুষ ও দানশীল নারী এবং যারা আল্লাহকে উত্তম করয দেয়, তাদের জন্য বহুগুণ বাড়িয়ে দেয়া হবে এবং তাদের জন্য রয়েছে সম্মানজনক প্রতিদান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_18.mp3"
+        }
+    }
+}

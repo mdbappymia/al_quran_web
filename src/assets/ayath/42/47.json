@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 47,
+    "english": "Respond to your Lord before the coming of a Day from Allah that cannot be averted. There will be no refuge for you then, nor ˹grounds for˺ denial ˹of sins˺.",
+    "arabic1": "ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ",
+    "arabic2": "استجيبوا لربكم من قبل ان ياتي يوم لا مرد له من الله ما لكم من ملجا يومئذ وما لكم من نكير",
+    "bengali": "তোমরা তোমাদের রবের ডাকে সাড়া দাও, আল্লাহর পক্ষ থেকে সেদিন আসার পূর্বের্ই, যাকে ফিরিয়ে দেয়ার কোনো উপায় নেই। সেদিন তোমাদের জন্য কোন আশ্রয়স্থল থাকবে না এবং তোমাদের জন্য প্রতিরোধকারীও থাকবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_47.mp3"
+        }
+    }
+}

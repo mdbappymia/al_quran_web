@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 47,
+    "english": "O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.",
+    "arabic1": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+    "arabic2": "يا بني اسرائيل اذكروا نعمتي التي انعمت عليكم واني فضلتكم على العالمين",
+    "bengali": "হে বনী ইসরাঈল, তোমরা আমার নিআমতকে স্মরণ কর, যে নিআমত আমি তোমাদেরকে দিয়েছি এবং নিশ্চয় আমি তোমাদেরকে বিশ্ববাসীর উপর শ্রেষ্ঠত্ব দিয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_47.mp3"
+        }
+    }
+}

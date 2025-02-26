@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 69,
+    "english": "The earth will shine with the light of its Lord, the record ˹of deeds˺ will be laid ˹open˺, the prophets and the witnesses will be brought forward—and judgment will be passed on all with fairness. None will be wronged.",
+    "arabic1": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَـٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic2": "واشرقت الارض بنور ربها ووضع الكتاب وجيء بالنبيين والشهداء وقضي بينهم بالحق وهم لا يظلمون",
+    "bengali": "আর যমীন তার রবের নূরে আলোকিত হবে, আমলনামা উপস্থিত করা হবে এবং নবী ও সাক্ষীগণকে আনা হবে, তাদের মধ্যে ন্যায়বিচার করা হবে। এমতাবস্থায় যে, তাদের প্রতি যুলম করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_69.mp3"
+        }
+    }
+}

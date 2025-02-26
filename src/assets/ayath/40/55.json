@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 55,
+    "english": "So be patient ˹O Prophet˺, ˹for˺ Allah’s promise is certainly true. Seek forgiveness for your shortcomings. And glorify the praises of your Lord morning and evening.",
+    "arabic1": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+    "arabic2": "فاصبر ان وعد الله حق واستغفر لذنبك وسبح بحمد ربك بالعشي والابكار",
+    "bengali": "কাজেই তুমি ধৈর্য ধারণ কর, নিশ্চয় আল্লাহর ওয়াদা সত্য। আর তুমি তোমার ত্রুটির জন্য ক্ষমা প্রার্থনা কর এবং সকাল- সন্ধ্যায় তোমার রবের প্রশংসাসহ তাসবীহ পাঠ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_55.mp3"
+        }
+    }
+}

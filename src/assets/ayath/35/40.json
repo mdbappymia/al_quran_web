@@ -1,0 +1,28 @@
+{
+    "surahName": "Faatir",
+    "surahNameArabic": "فاطر",
+    "surahNameArabicLong": "سورة فاطر",
+    "surahNameTranslation": "The Originator",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 35,
+    "ayahNo": 40,
+    "english": "Ask ˹them, O  Prophet˺, “Have you considered your associate-gods which you invoke besides Allah? Show me what they have created on earth! Or do they have a share in ˹the creation of˺ the heavens? Or have We given the polytheists a Book, which serves as a clear proof for them? In fact, the wrongdoers promise each other nothing but delusion.”",
+    "arabic1": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ أَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّـٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا",
+    "arabic2": "قل ارايتم شركاءكم الذين تدعون من دون الله اروني ماذا خلقوا من الارض ام لهم شرك في السماوات ام اتيناهم كتابا فهم على بينت منه بل ان يعد الظالمون بعضهم بعضا الا غرورا",
+    "bengali": "বল, ‘তোমরা আল্লাহর পরিবর্তে যাদেরকে ডাক, সেই শরীকদের কথা ভেবে দেখেছ কি? আমাকে দেখাও তারা যমীনের কী সৃষ্টি করেছে? অথবা আসমানসমূহের মধ্যে কি তাদের কোন অংশীদারিত্ব আছে? অথবা আমি কি তাদেরকে কোন কিতাব দিয়েছি, যার কোন সুস্পষ্ট প্রমাণের উপর তারা আছে’? বরং যালিমরা একে অপরকে কেবল প্রতারণামূলক ওয়াদাই দিয়ে থাকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/35_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/35_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/35_40.mp3"
+        }
+    }
+}

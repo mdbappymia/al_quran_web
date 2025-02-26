@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 83,
+    "english": "˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks.",
+    "arabic1": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
+    "arabic2": "ويوم نحشر من كل امة فوجا ممن يكذب باياتنا فهم يوزعون",
+    "bengali": "আর স্মরণ কর সেদিনের কথা, যেদিন প্রত্যেক জাতির মধ্য থেকে যারা আমার আয়াতসমূহকে অস্বীকার করত তাদেরকে আমি দলে দলে সমবেত করব। অতঃপর তাদেরকে হাঁকিয়ে নিয়ে যাওয়া হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_83.mp3"
+        }
+    }
+}

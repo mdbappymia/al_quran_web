@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "ayahNo": 4,
+    "english": "˹It is˺ the Day people will be like scattered moths",
+    "arabic1": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "arabic2": "يوم يكون الناس كالفراش المبثوث",
+    "bengali": "যেদিন মানুষ হবে বিক্ষিপ্ত পতঙ্গের মত,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/101_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/101_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/101_4.mp3"
+        }
+    }
+}

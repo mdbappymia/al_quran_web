@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 92,
+    "english": "Those who rejected Shu’aib were ˹wiped out˺ as if they had never lived there. Those who rejected Shu’aib were the true losers.",
+    "arabic1": "ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًا كَأَن لَّمْ يَغْنَوْا۟ فِيهَا ۚ ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًا كَانُوا۟ هُمُ ٱلْخَـٰسِرِينَ",
+    "arabic2": "الذين كذبوا شعيبا كان لم يغنوا فيها الذين كذبوا شعيبا كانوا هم الخاسرين",
+    "bengali": "যারা শু‘আইবকে মিথ্যাবাদী বলেছিল, মনে হয় যেন তারা সেখানে বসবাসই করেনি। যারা শু‘আইবকে মিথ্যাবাদী বলেছিল তারাই ছিল ক্ষতিগ্রস্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_92.mp3"
+        }
+    }
+}

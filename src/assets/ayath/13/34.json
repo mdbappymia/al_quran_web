@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 34,
+    "english": "For them is punishment in this worldly life, but the punishment of the Hereafter is truly far worse. And none can shield them from Allah.",
+    "arabic1": "لَّهُمْ عَذَابٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+    "arabic2": "لهم عذاب في الحياة الدنيا ولعذاب الاخرة اشق وما لهم من الله من واق",
+    "bengali": "তাদের জন্যই রয়েছে দুনিয়ার জীবনে আযাব, আর আখিরাতের আযাব তো আরো কঠিন। আল্লাহর আযাব থেকে তাদের কোন রক্ষাকারী নেই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_34.mp3"
+        }
+    }
+}

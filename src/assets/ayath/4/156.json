@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 156,
+    "english": "and for their denial and outrageous accusation against Mary",
+    "arabic1": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَـٰنًا عَظِيمًا",
+    "arabic2": "وبكفرهم وقولهم على مريم بهتانا عظيما",
+    "bengali": "আর তাদের কুফরীর কারণে এবং মারইয়ামের বিরুদ্ধে মারাত্মক অপবাদ দেয়ার কারণে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_156.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_156.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_156.mp3"
+        }
+    }
+}

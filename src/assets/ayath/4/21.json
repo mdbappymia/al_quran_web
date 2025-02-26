@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 21,
+    "english": "And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?",
+    "arabic1": "وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَـٰقًا غَلِيظًا",
+    "arabic2": "وكيف تاخذونه وقد افضى بعضكم الى بعض واخذن منكم ميثاقا غليظا",
+    "bengali": "আর তোমরা তা কীভাবে নেবে অথচ তোমরা একে অপরের সাথে একান্তে মিলিত হয়েছ; আর তারা তোমাদের থেকে নিয়েছিল দৃঢ় অঙ্গীকার?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_21.mp3"
+        }
+    }
+}

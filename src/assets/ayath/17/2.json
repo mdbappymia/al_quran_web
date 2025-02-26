@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 2,
+    "english": "And We gave Moses the Scripture and made it a guide for the Children of Israel, ˹stating:˺ “Do not take besides Me any other Trustee of Affairs",
+    "arabic1": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَـٰهُ هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ أَلَّا تَتَّخِذُوا۟ مِن دُونِى وَكِيلًا",
+    "arabic2": "واتينا موسى الكتاب وجعلناه هدى لبني اسرائيل الا تتخذوا من دوني وكيلا",
+    "bengali": "আর আমি মূসাকে কিতাব দিয়েছি এবং তা বনী ইসরাঈলের জন্য পথনির্দেশ বানিয়েছি। যেন তোমরা আমাকে ছাড়া কোন কর্মবিধায়ক না বানাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_2.mp3"
+        }
+    }
+}

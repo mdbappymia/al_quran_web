@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 5,
+    "english": "And He created the cattle for you as a source of warmth, food, and ˹many other˺ benefits.",
+    "arabic1": "وَٱلْأَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَـٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+    "arabic2": "والانعام خلقها لكم فيها دفء ومنافع ومنها تاكلون",
+    "bengali": "আর চতুষ্পদ জন্তুগুলো তিনি তোমাদের জন্য সৃষ্টি করেছেন তাতে রয়েছে উষ্ণতার উপকরণ ও বিবিধ উপকার। আর তা থেকে তোমরা আহার গ্রহণ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_5.mp3"
+        }
+    }
+}

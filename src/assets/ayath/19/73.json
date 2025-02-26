@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 73,
+    "english": "When Our clear revelations are recited to them, the disbelievers ask the believers ˹mockingly˺, “Which of the two of us is better in status and superior in assembly?”",
+    "arabic1": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَىُّ ٱلْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا",
+    "arabic2": "واذا تتلى عليهم اياتنا بينات قال الذين كفروا للذين امنوا اي الفريقين خير مقاما واحسن نديا",
+    "bengali": "আর যখন তাদের কাছে আমার আয়াতসমূহ সুস্পষ্টরূপে পাঠ করা হয়, তখন কাফিররা ঈমানদারদেরকে বলে, ‘দুই দলের মধ্যে কোন্টি মর্যাদায় শ্রেষ্ঠতর এবং মজলিস হিসেবে উত্তম?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_73.mp3"
+        }
+    }
+}

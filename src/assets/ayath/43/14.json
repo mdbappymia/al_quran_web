@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 14,
+    "english": "And surely to our Lord we will ˹all˺ return.”",
+    "arabic1": "وَإِنَّآ إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "arabic2": "وانا الى ربنا لمنقلبون",
+    "bengali": "আর নিশ্চয় আমরা আমাদের রবের কাছেই প্রত্যাবর্তনকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_14.mp3"
+        }
+    }
+}

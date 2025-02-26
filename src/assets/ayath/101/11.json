@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qaari'a",
+    "surahNameArabic": "القارعة",
+    "surahNameArabicLong": "سورة القارعة",
+    "surahNameTranslation": "The Calamity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 11,
+    "surahNo": 101,
+    "ayahNo": 11,
+    "english": "˹It is˺ a scorching Fire.",
+    "arabic1": "نَارٌ حَامِيَةٌۢ",
+    "arabic2": "نار حامية",
+    "bengali": "প্রজ্জ্বলিত অগ্নি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/101_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/101_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/101_11.mp3"
+        }
+    }
+}

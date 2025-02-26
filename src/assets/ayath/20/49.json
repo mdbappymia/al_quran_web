@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 49,
+    "english": "Pharaoh asked, “Who then is the Lord of you two, O  Moses?”",
+    "arabic1": "قَالَ فَمَن رَّبُّكُمَا يَـٰمُوسَىٰ",
+    "arabic2": "قال فمن ربكما يا موسى",
+    "bengali": "ফির‘আউন বলল, ‘হে মূসা, তাহলে কে তোমাদের রব’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_49.mp3"
+        }
+    }
+}

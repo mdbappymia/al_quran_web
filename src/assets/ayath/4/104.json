@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 104,
+    "english": "Do not falter in pursuit of the enemy—if you are suffering, they too are suffering. But you can hope to receive from Allah what they can never hope for. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ ۖ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+    "arabic2": "ولا تهنوا في ابتغاء القوم ان تكونوا تالمون فانهم يالمون كما تالمون وترجون من الله ما لا يرجون وكان الله عليما حكيما",
+    "bengali": "আর শত্রু সম্প্রদায় অনুসন্ধানে তোমরা দুর্বল হয়ো না। যদি তোমরা ব্যথা পেয়ে থাক তাহলে তারাও তো ব্যথা পাচ্ছে, যেভাবে তোমরা ব্যথা পাচ্ছ। আর তোমরা আল্লাহর নিকট থেকে আশা করছ যা তারা আশা করছে না। আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_104.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_104.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_104.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 69,
+    "english": "Fear Allah and do not humiliate me.”",
+    "arabic1": "وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ",
+    "arabic2": "واتقوا الله ولا تخزون",
+    "bengali": "‘তোমরা আল্লাহকে ভয় কর এবং আমাকে লাঞ্ছিত করো না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_69.mp3"
+        }
+    }
+}

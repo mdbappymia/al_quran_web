@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Faatiha",
+    "surahNameArabic": "الفاتحة",
+    "surahNameArabicLong": "سُورَةُ ٱلْفَاتِحَةِ",
+    "surahNameTranslation": "The Opening",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 1,
+    "ayahNo": 3,
+    "english": "the Most Compassionate, Most Merciful",
+    "arabic1": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "arabic2": "الرحمن الرحيم",
+    "bengali": "দয়াময়, পরম দয়ালু, পরম করুণাময়, অতি দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/1_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/1_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/1_3.mp3"
+        }
+    }
+}

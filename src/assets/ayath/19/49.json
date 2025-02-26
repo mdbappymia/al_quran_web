@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 49,
+    "english": "So after he had left them and what they worshipped besides Allah, We granted him Isaac and Jacob, and made each of them a prophet.",
+    "arabic1": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+    "arabic2": "فلما اعتزلهم وما يعبدون من دون الله وهبنا له اسحاق ويعقوب وكلا جعلنا نبيا",
+    "bengali": "অতঃপর যখন সে তাদেরকে এবং আল্লাহ ছাড়া যাদের তারা ইবাদাত করত তাদের সবাইকে পরিত্যাগ করল, তখন আমি তাকে দান করলাম ইসহাক ও ইয়া‘কূব এবং তাদের প্রত্যেককে নবী করলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_49.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 74,
+    "english": "˹Imagine, O  Prophet˺ how many peoples We have destroyed before them, who were far better in luxury and splendour!",
+    "arabic1": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَـٰثًا وَرِءْيًا",
+    "arabic2": "وكم اهلكنا قبلهم من قرن هم احسن اثاثا ورئيا",
+    "bengali": "আর তাদের পূর্বে আমি কত প্রজন্ম ধ্বংস করে দিয়েছি যারা সাজ-সরঞ্জাম ও বাহ্যদৃষ্টিতে শ্রেষ্ঠ ছিল!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_74.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ma'aarij",
+    "surahNameArabic": "المعارج",
+    "surahNameArabicLong": "سورة المعارج",
+    "surahNameTranslation": "The Ascending Stairways",
+    "revelationPlace": "Mecca",
+    "totalAyah": 44,
+    "surahNo": 70,
+    "ayahNo": 44,
+    "english": "with eyes downcast, utterly covered with disgrace. That is the Day they have ˹always˺ been warned of.",
+    "arabic1": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+    "arabic2": "خاشعة ابصارهم ترهقهم ذلة ذلك اليوم الذي كانوا يوعدون",
+    "bengali": "অবনত চোখে। লাঞ্ছনা তাদেরকে আচ্ছন্ন করবে! এটিই সেদিন যার ওয়াদা তাদেরকে দেয়া হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/70_44.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/70_44.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/70_44.mp3"
+        }
+    }
+}

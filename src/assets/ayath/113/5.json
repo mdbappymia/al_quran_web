@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Falaq",
+    "surahNameArabic": "الفلق",
+    "surahNameArabicLong": "سورة الفلق",
+    "surahNameTranslation": "The Dawn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 113,
+    "ayahNo": 5,
+    "english": "and from the evil of an envier when they envy.”",
+    "arabic1": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "arabic2": "ومن شر حاسد اذا حسد",
+    "bengali": "আর হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/113_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/113_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/113_5.mp3"
+        }
+    }
+}

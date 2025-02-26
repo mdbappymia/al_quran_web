@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 19,
+    "english": "They will be waited on by eternal youths. If you saw them, you would think they were scattered pearls.",
+    "arabic1": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+    "arabic2": "ويطوف عليهم ولدان مخلدون اذا رايتهم حسبتهم لؤلؤا منثورا",
+    "bengali": "আর তাদের চারপাশে প্রদক্ষিণ করবে চিরকিশোরেরা; তুমি তাদেরকে দেখলে বিক্ষিপ্ত মুক্তা মনে করবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_19.mp3"
+        }
+    }
+}

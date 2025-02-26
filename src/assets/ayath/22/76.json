@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 76,
+    "english": "He knows what is ahead of them and what is behind them. And to Allah ˹all˺ matters will be returned ˹for judgment˺.",
+    "arabic1": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+    "arabic2": "يعلم ما بين ايديهم وما خلفهم والى الله ترجع الامور",
+    "bengali": "তাদের সামনে এবং পেছনে যা কিছু আছে তিনি তা জানেন। আর সবকিছু আল্লাহর কাছেই প্রত্যাবর্তিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_76.mp3"
+        }
+    }
+}

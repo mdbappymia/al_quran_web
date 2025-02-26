@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 47,
+    "english": "They argued, “Will we believe in two humans, like ourselves, whose people are slaves to us?”",
+    "arabic1": "فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَـٰبِدُونَ",
+    "arabic2": "فقالوا انؤمن لبشرين مثلنا وقومهما لنا عابدون",
+    "bengali": "অতঃপর তারা বলল, আমরা কি আমাদের মতই দু’জন মানুষের প্রতি ঈমান আনব অথচ তাদের কওম আমাদের সেবাদাস।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_47.mp3"
+        }
+    }
+}

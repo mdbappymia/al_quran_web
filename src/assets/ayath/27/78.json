@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 78,
+    "english": "Your Lord will certainly judge between them by His justice, for He is the Almighty, All-Knowing.",
+    "arabic1": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+    "arabic2": "ان ربك يقضي بينهم بحكمه وهو العزيز العليم",
+    "bengali": "নিশ্চয় তোমার রব নিজের বিচার-প্রজ্ঞা দ্বারা তাদের মধ্যে ফয়সালা করে দেবেন; আর তিনি মহাপরাক্রমশালী, সর্বজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_78.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_78.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_78.mp3"
+        }
+    }
+}

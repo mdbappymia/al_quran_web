@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 59,
+    "english": "With Him are the keys of the unseen—no one knows them except Him. And He knows what is in the land and sea. Not even a leaf falls without His knowledge, nor a grain in the darkness of the earth or anything—green or dry—but is ˹written˺ in a perfect Record.",
+    "arabic1": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ",
+    "arabic2": "وعنده مفاتح الغيب لا يعلمها الا هو ويعلم ما في البر والبحر وما تسقط من ورقة الا يعلمها ولا حبة في ظلمات الارض ولا رطب ولا يابس الا في كتاب مبين",
+    "bengali": "আর তাঁর কাছে রয়েছে গায়েবের চাবিসমূহ, তিনি ছাড়া এ বিষয়ে কেউ জানে না এবং তিনি অবগত রয়েছেন স্থলে ও সমুদ্রে যা কিছু আছে। আর কোন পাতা ঝরে না, কিন্তু তিনি তা জানেন এবং যমীনের অন্ধকারে কোন দানা পড়ে না, না কোন ভেজা এবং না কোন শুষ্ক কিছু; কিন্তু রয়েছে সুস্পষ্ট কিতাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_59.mp3"
+        }
+    }
+}

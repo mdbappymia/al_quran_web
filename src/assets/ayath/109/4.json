@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kaafiroon",
+    "surahNameArabic": "الكافرون",
+    "surahNameArabicLong": "سورة الكافرون",
+    "surahNameTranslation": "The Disbelievers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 109,
+    "ayahNo": 4,
+    "english": "I will never worship what you worship",
+    "arabic1": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+    "arabic2": "ولا انا عابد ما عبدتم",
+    "bengali": "‘আর তোমরা যার ‘ইবাদত করছ আমি তার ‘ইবাদাতকারী হব না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/109_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/109_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/109_4.mp3"
+        }
+    }
+}

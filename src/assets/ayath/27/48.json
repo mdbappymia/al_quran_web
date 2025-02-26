@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 48,
+    "english": "And there were in the city nine ˹elite˺ men who spread corruption in the land, never doing what is right.",
+    "arabic1": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+    "arabic2": "وكان في المدينة تسعة رهط يفسدون في الارض ولا يصلحون",
+    "bengali": "আর সেই শহরে ছিল নয় নেতৃস্থানীয় ব্যক্তি। যারা যমীনে ফাসাদ সৃষ্টি করত এবং সংস্কার-সংশোধনমূলক কিছু করত না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_48.mp3"
+        }
+    }
+}

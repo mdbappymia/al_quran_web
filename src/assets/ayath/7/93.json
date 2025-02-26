@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 93,
+    "english": "He turned away from them, saying, “O my people! Indeed, I have delivered to you the messages of my Lord and gave you ˹sincere˺ advice. How can I then grieve for those who chose to disbelieve?”",
+    "arabic1": "فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَـٰلَـٰتِ رَبِّى وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ ءَاسَىٰ عَلَىٰ قَوْمٍ كَـٰفِرِينَ",
+    "arabic2": "فتولى عنهم وقال يا قوم لقد ابلغتكم رسالات ربي ونصحت لكم فكيف اسى على قوم كافرين",
+    "bengali": "অতঃপর সে তাদের থেকে মুখ ফিরিয়ে নিল এবং বলল, হে আমার কওম, আমি তো তোমাদের কাছে আমার রবের রিসালাতের দায়িত্ব পৌঁছে দিয়েছি এবং তোমাদের জন্য কল্যাণ কামনা করেছি। সুতরাং আমি কীভাবে কাফির জাতির ব্যাপারে দুঃখ করব!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_93.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_93.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_93.mp3"
+        }
+    }
+}

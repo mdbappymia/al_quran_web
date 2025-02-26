@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 70,
+    "english": "And when he saw that their hands did not reach for the food, he became suspicious and fearful of them. They reassured ˹him˺, “Do not be afraid! We are ˹angels˺ sent ˹only˺ against the people of Lot.”",
+    "arabic1": "فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ",
+    "arabic2": "فلما راى ايديهم لا تصل اليه نكرهم واوجس منهم خيفة قالوا لا تخف انا ارسلنا الى قوم لوط",
+    "bengali": "অতঃপর যখন সে দেখতে পেল, তাদের হাত এর প্রতি পৌঁছছে না, তখন তাদেরকে অস্বাভাবিক মনে করল এবং সে তাদের থেকে ভীতি অনুভব করল। তারা বলল, ‘ভয় করো না, নিশ্চয় আমরা লূতের কওমের কাছে প্রেরিত হয়েছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_70.mp3"
+        }
+    }
+}

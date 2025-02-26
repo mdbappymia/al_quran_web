@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 12,
+    "english": "Ask ˹them, O  Prophet˺, “To whom belongs everything in the heavens and the earth?” Say, “To Allah!” He has taken upon Himself to be Merciful. He will certainly gather ˹all of˺ you together for the Day of Judgment—about which there is no doubt. But those who have ruined themselves will never believe.",
+    "arabic1": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "arabic2": "قل لمن ما في السماوات والارض قل لله كتب على نفسه الرحمة ليجمعنكم الى يوم القيامة لا ريب فيه الذين خسروا انفسهم فهم لا يؤمنون",
+    "bengali": "বল, ‘আসমানসমূহ ও যমীনে যা আছে তা কার’? বল, ‘আল্লাহর জন্য’; তিনি তাঁর নিজের উপর রহমত লিখে নিয়েছেন। তিনি অবশ্যই তোমাদেরকে একত্র করবেন কিয়ামতের দিনে, এতে কোন সন্দেহ নেই। যারা নিজদের ক্ষতি করেছে তারা ঈমান আনবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_12.mp3"
+        }
+    }
+}

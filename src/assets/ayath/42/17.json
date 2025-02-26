@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 17,
+    "english": "It is Allah Who has revealed the Book with the truth and the balance ˹of justice˺. You never know, perhaps the Hour is near.",
+    "arabic1": "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ",
+    "arabic2": "الله الذي انزل الكتاب بالحق والميزان وما يدريك لعل الساعة قريب",
+    "bengali": "আল্লাহ, যিনি সত্যসহ কিতাব ও মীযান* নাযিল করেছেন। আর কিসে তোমাকে জানাবে, হয়ত কিয়ামত খুবই নিকটবর্তী? \n* সনদ, ন্যায় বিচার, ইনসাফ, ইত্যাদি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_17.mp3"
+        }
+    }
+}

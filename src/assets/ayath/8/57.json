@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 57,
+    "english": "If you ever encounter them in battle, make a fearsome example of them, so perhaps those who would follow them may be deterred.",
+    "arabic1": "فَإِمَّا تَثْقَفَنَّهُمْ فِى ٱلْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ",
+    "arabic2": "فاما تثقفنهم في الحرب فشرد بهم من خلفهم لعلهم يذكرون",
+    "bengali": "সুতরাং যদি তুমি যুদ্ধে তাদেরকে নাগালে পাও, তাহলে এদের মাধ্যমে এদের পেছনে যারা রয়েছে তাদেরকে ছত্রভঙ্গ করে দাও, যাতে তারা শিক্ষা গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_57.mp3"
+        }
+    }
+}

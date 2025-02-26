@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 162,
+    "english": "But the wrongdoers among them changed the words they were commanded to say. So We sent down a punishment from the heavens upon them for their wrongdoing.",
+    "arabic1": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ",
+    "arabic2": "فبدل الذين ظلموا منهم قولا غير الذي قيل لهم فارسلنا عليهم رجزا من السماء بما كانوا يظلمون",
+    "bengali": "অতঃপর তাদের মধ্য থেকে যারা যুলম করেছিল, তাদেরকে যা বলা হয়েছিল তার পরিবর্তে তারা অন্য কথা বলল। ফলে আমি আসমান থেকে তাদের উপর শাস্তি পাঠালাম, কারণ তারা যুলম করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_162.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_162.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_162.mp3"
+        }
+    }
+}

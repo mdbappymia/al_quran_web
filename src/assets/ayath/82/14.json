@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 14,
+    "english": "and the wicked will be in Hell",
+    "arabic1": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+    "arabic2": "وان الفجار لفي جحيم",
+    "bengali": "আর নিশ্চয় অন্যায়কারীরা থাকবে প্রজ্জ্বলিত আগুনে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/82_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/82_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/82_14.mp3"
+        }
+    }
+}

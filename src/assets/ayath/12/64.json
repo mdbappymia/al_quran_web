@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 64,
+    "english": "He responded, “Should I trust you with him as I once trusted you with his brother ˹Joseph˺? But ˹only˺ Allah is the best Protector, and He is the Most Merciful of the merciful.”",
+    "arabic1": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَـٰفِظًا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "arabic2": "قال هل امنكم عليه الا كما امنتكم على اخيه من قبل فالله خير حافظا وهو ارحم الراحمين",
+    "bengali": "সে বলল, ‘তোমাদেরকে কি আমি তার ব্যাপারে নিরাপদ মনে করব, যেমন নিরাপদ মনে করেছিলাম ইতঃপূর্বে তার ভাইয়ের ব্যাপারে? তবে আল্লাহ উত্তম হেফাযতকারী এবং তিনিই সর্বশ্রেষ্ঠ দয়ালু’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_64.mp3"
+        }
+    }
+}

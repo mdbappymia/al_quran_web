@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 127,
+    "english": "The chiefs of Pharaoh’s people protested, “Are you going to leave Moses and his people free to spread corruption in the land and abandon you and your gods?” He responded, “We will kill their sons and keep their women. We will completely dominate them.”",
+    "arabic1": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ وَيَذَرَكَ وَءَالِهَتَكَ ۚ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ قَـٰهِرُونَ",
+    "arabic2": "وقال الملا من قوم فرعون اتذر موسى وقومه ليفسدوا في الارض ويذرك والهتك قال سنقتل ابناءهم ونستحيي نساءهم وانا فوقهم قاهرون",
+    "bengali": "আর ফির‘আউনের কওমের সভাসদগণ বলল, ‘আপনি কি মূসা ও তার কওমকে ছেড়ে দেবেন যাতে তারা যমীনে ফাসাদ করে এবং আপনাকে ও আপনার উপাস্যগুলোকে বর্জন করে?’ সে বলল, ‘আমরা অতিসত্বর তাদের ছেলেদেরকে হত্যা করব আর মেয়েদেরকে জীবিত রাখব। আর নিশ্চয় আমরা তাদের উপর ক্ষমতাবান।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_127.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_127.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_127.mp3"
+        }
+    }
+}

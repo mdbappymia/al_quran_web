@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 69,
+    "english": "They said, “Call upon your Lord to specify for us its colour.” He replied, “Allah says, ‘It should be a bright yellow cow—pleasant to see.’”",
+    "arabic1": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّـٰظِرِينَ",
+    "arabic2": "قالوا ادع لنا ربك يبين لنا ما لونها قال انه يقول انها بقرة صفراء فاقع لونها تسر الناظرين",
+    "bengali": "তারা বলল, ‘তুমি আমাদের জন্য তোমার রবের নিকট দো‘আ কর, তিনি যেন আমাদের জন্য স্পষ্ট করে দেন, কেমন তার রঙ’? সে বলল, ‘নিশ্চয় তিনি বলছেন, নিশ্চয় তা হবে হলুদ রঙের গাভী, তার রঙ উজ্জ্বল, দর্শকদেরকে যা আনন্দ দেবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_69.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 14,
+    "english": "And so I have warned you of a raging Fire",
+    "arabic1": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+    "arabic2": "فانذرتكم نارا تلظى",
+    "bengali": "অতএব আমি তোমাদের সতর্ক করে দিয়েছি লেলিহান আগুন সম্পর্কে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_14.mp3"
+        }
+    }
+}

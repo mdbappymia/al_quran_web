@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Infitaar",
+    "surahNameArabic": "الإنفطار",
+    "surahNameArabicLong": "سورة الإنفطار",
+    "surahNameTranslation": "The Cleaving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 82,
+    "ayahNo": 10,
+    "english": "while you are certainly observed by vigilant",
+    "arabic1": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+    "arabic2": "وان عليكم لحافظين",
+    "bengali": "আর নিশ্চয় তোমাদের উপর সংরক্ষকগণ রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/82_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/82_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/82_10.mp3"
+        }
+    }
+}

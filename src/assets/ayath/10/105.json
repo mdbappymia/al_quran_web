@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 105,
+    "english": "and, ‘Be steadfast in faith in all uprightness, and do not be one of the polytheists,’",
+    "arabic1": "وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+    "arabic2": "وان اقم وجهك للدين حنيفا ولا تكونن من المشركين",
+    "bengali": "আর (এ নির্দেশ) যে, ‘তুমি নিজেকে দীনের উপর প্রতিষ্ঠিত রাখ একনিষ্ঠভাবে এবং মুশরিকদের অন্তর্ভুক্ত হয়ো না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_105.mp3"
+        }
+    }
+}

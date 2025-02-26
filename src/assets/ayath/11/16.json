@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 16,
+    "english": "It is they who will have nothing in the Hereafter except the Fire. Their efforts in this life will be fruitless and their deeds will be useless.",
+    "arabic1": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَيْسَ لَهُمْ فِى ٱلْـَٔاخِرَةِ إِلَّا ٱلنَّارُ ۖ وَحَبِطَ مَا صَنَعُوا۟ فِيهَا وَبَـٰطِلٌ مَّا كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "اولئك الذين ليس لهم في الاخرة الا النار وحبط ما صنعوا فيها وباطل ما كانوا يعملون",
+    "bengali": "এরাই তারা, আখিরাতে যাদের জন্য আগুন ছাড়া আর কিছুই নেই এবং তারা সেখানে যা করে তা বরবাদ হয়ে যাবে আর তারা যা করত, তা সম্পূর্ণ বাতিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_16.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_16.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_16.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 48,
+    "english": "Many are the societies whose end We delayed while they did wrong, then seized them. And to Me is the final return.",
+    "arabic1": "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ",
+    "arabic2": "وكاين من قرية امليت لها وهي ظالمة ثم اخذتها والي المصير",
+    "bengali": "আর আমি কত জনপদকে অবকাশ দিয়েছি, অথচ তারা ছিল যালিম; অতঃপর আমি তাদেরকে পাকড়াও করেছি। আর আমারই নিকট প্রত্যাবর্তনস্থল ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_48.mp3"
+        }
+    }
+}

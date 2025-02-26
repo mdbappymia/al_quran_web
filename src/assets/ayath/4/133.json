@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 133,
+    "english": "If it is His Will, He can remove you altogether, O  humanity, and replace you with others. And Allah is Most Capable to do so.",
+    "arabic1": "إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ ۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا",
+    "arabic2": "ان يشا يذهبكم ايها الناس ويات باخرين وكان الله على ذلك قديرا",
+    "bengali": "হে মানুষ, যদি আল্লাহ চান তোমাদেরকে সরিয়ে দেবেন এবং অপরকে আনবেন। আর আল্লাহ এর উপর সক্ষম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_133.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_133.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_133.mp3"
+        }
+    }
+}

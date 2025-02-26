@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 64,
+    "english": "Surely to Allah belongs whatever is in the heavens and the earth. He knows well what you stand for. And ˹on˺ the Day all will be returned to Him, He will inform them of what they did. For Allah has ˹perfect˺ knowledge of all things.",
+    "arabic1": "أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قَدْ يَعْلَمُ مَآ أَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic2": "الا ان لله ما في السماوات والارض قد يعلم ما انتم عليه ويوم يرجعون اليه فينبئهم بما عملوا والله بكل شيء عليم",
+    "bengali": "সাবধান, আসমানসমূহ ও যমীনে যা কিছু আছে তা আল্লাহরই; তোমরা যে অবস্থায় আছ তা তিনি অবশ্যই জানেন এবং যেদিন তাদেরকে তাঁর কাছে ফিরিয়ে নেয়া হবে সেদিন তারা যা করত তিনি তাদেরকে তা জানিয়ে দেবেন। আল্লাহ সব কিছু সম্পর্কে সম্যক জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_64.mp3"
+        }
+    }
+}

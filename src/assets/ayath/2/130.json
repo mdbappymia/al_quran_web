@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 130,
+    "english": "And who would reject the faith of Abraham except a fool! We certainly chose him in this life, and in the Hereafter he will surely be among the righteous.",
+    "arabic1": "وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَٰهِـۧمَ إِلَّا مَن سَفِهَ نَفْسَهُۥ ۚ وَلَقَدِ ٱصْطَفَيْنَـٰهُ فِى ٱلدُّنْيَا ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ",
+    "arabic2": "ومن يرغب عن ملة ابراهيم الا من سفه نفسه ولقد اصطفيناه في الدنيا وانه في الاخرة لمن الصالحين",
+    "bengali": "আর যে নিজকে নির্বোধ বানিয়েছে, সে ছাড়া কে ইবরাহীমের আদর্শ থেকে বিমুখ হতে পারে? আর অবশ্যই আমি তাকে দুনিয়াতে বেছে নিয়েছি এবং নিশ্চয় সে আখিরাতে নেককারদের অন্তর্ভুক্ত থাকবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_130.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_130.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_130.mp3"
+        }
+    }
+}

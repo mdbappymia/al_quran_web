@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 11,
+    "english": "The ˹Prophet’s˺ heart did not doubt what he saw.",
+    "arabic1": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+    "arabic2": "ما كذب الفؤاد ما راى",
+    "bengali": "সে যা দেখেছে, অন্তকরণ সে সম্পর্কে মিথ্যা বলেনি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_11.mp3"
+        }
+    }
+}

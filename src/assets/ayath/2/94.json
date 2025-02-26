@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 94,
+    "english": "Say, ˹O Prophet,˺ “If the ˹eternal˺ Home of the Hereafter with Allah is exclusively for you ˹Israelites˺ out of all humanity, then wish for death if what you say is true!”",
+    "arabic1": "قُلْ إِن كَانَتْ لَكُمُ ٱلدَّارُ ٱلْـَٔاخِرَةُ عِندَ ٱللَّهِ خَالِصَةً مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic2": "قل ان كانت لكم الدار الاخرة عند الله خالصة من دون الناس فتمنوا الموت ان كنتم صادقين",
+    "bengali": "বল, ‘যদি অন্যান্য মানুষ ছাড়া আল্লাহর নিকট আখিরাতের আবাস শুধু তোমাদের জন্যই নির্দিষ্ট থাকে, তবে তোমরা মৃত্যু কামনা কর, যদি তোমরা সত্যবাদী হয়ে থাক’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_94.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_94.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_94.mp3"
+        }
+    }
+}

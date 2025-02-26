@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 59,
+    "english": "But the wrongdoers changed the words they were commanded to say. So We sent down a punishment from the heavens upon them for their rebelliousness.",
+    "arabic1": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+    "arabic2": "فبدل الذين ظلموا قولا غير الذي قيل لهم فانزلنا على الذين ظلموا رجزا من السماء بما كانوا يفسقون",
+    "bengali": "অতঃপর যালিমরা পবিবর্তন করে ফেলল সে কথা যা তাদেরকে বলা হয়েছিল, ভিন্ন অন্য কথা দিয়ে। ফলে আমি তাদের উপর আসমান থেকে আযাব নাযিল করলাম, কারণ তারা পাপাচার করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_59.mp3"
+        }
+    }
+}

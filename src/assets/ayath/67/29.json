@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 29,
+    "english": "Say, “He is the Most Compassionate—in Him ˹alone˺ we believe, and in Him ˹alone˺ we trust. You will soon know who is clearly astray.”",
+    "arabic1": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "قل هو الرحمن امنا به وعليه توكلنا فستعلمون من هو في ضلال مبين",
+    "bengali": "বল, ‘তিনিই পরম করুণাময়। আমরা তাঁর প্রতি ঈমান এনেছি এবং তাঁর উপর তাওয়াক্কুল করেছি। কাজেই তোমরা অচিরেই জানতে পারবে কে স্পষ্ট বিভ্রান্তিতে রয়েছে’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_29.mp3"
+        }
+    }
+}

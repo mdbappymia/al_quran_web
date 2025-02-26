@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 126,
+    "english": "That is your Lord’s Path—perfectly straight. We have already made the signs clear to those who are mindful.",
+    "arabic1": "وَهَـٰذَا صِرَٰطُ رَبِّكَ مُسْتَقِيمًا ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَذَّكَّرُونَ",
+    "arabic2": "وهذا صراط ربك مستقيما قد فصلنا الايات لقوم يذكرون",
+    "bengali": "আর এ হচ্ছে তোমার রবের সরল পথ। আমি তো বিস্তারিতভাবে আয়াতসমূহ বর্ণনা করেছি এমন কওমের জন্য, যারা উপদেশ গ্রহণ করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_126.mp3"
+        }
+    }
+}

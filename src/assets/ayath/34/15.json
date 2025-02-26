@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 15,
+    "english": "Indeed, there was a sign for ˹the tribe of˺ Sheba in their homeland: two orchards—one to the right and the other to the left. ˹They were told:˺ “Eat from the provision of your Lord, and be grateful to Him. ˹Yours is˺ a good land and a forgiving Lord.”",
+    "arabic1": "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ ۖ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+    "arabic2": "لقد كان لسبا في مسكنهم اية جنتان عن يمين وشمال كلوا من رزق ربكم واشكروا له بلدة طيبة ورب غفور",
+    "bengali": "নিশ্চয় সাবা সম্প্রদায়ের জন্য তাদের বাসভূমিতে ছিল একটি নিদর্শন : দু’টি উদ্যান, একটি ডানে ও অপরটি বামে, (তাদেরকে বলা হয়েছিল) ‘তোমরা তোমাদের রবের রিয্ক থেকে খাও আর তাঁর শোকর কর। এটি উত্তম শহর এবং (তোমাদের রব) ক্ষমাশীল রব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_15.mp3"
+        }
+    }
+}

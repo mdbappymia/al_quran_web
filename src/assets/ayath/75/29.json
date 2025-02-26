@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 29,
+    "english": "and ˹then˺ their feet are tied together ˹in a shroud˺.",
+    "arabic1": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+    "arabic2": "والتفت الساق بالساق",
+    "bengali": "আর পায়ের গোছার সংগে পায়ের গোছা জড়িয়ে যাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_29.mp3"
+        }
+    }
+}

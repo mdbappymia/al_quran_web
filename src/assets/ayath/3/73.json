@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 73,
+    "english": "And only believe those who follow your religion.” Say, ˹O Prophet,˺ “Surely, ˹the only˺ true guidance is Allah’s guidance.” ˹They also said,˺ “Do not believe that someone will receive ˹revealed˺ knowledge similar to yours or argue against you before your Lord.” Say, ˹O Prophet,˺ “Indeed, all bounty is in the Hands of Allah—He grants it to whoever He wills. And Allah is All-Bountiful, All-Knowing.”",
+    "arabic1": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "arabic2": "ولا تؤمنوا الا لمن تبع دينكم قل ان الهدى هدى الله ان يؤتى احد مثل ما اوتيتم او يحاجوكم عند ربكم قل ان الفضل بيد الله يؤتيه من يشاء والله واسع عليم",
+    "bengali": "‘আর তোমরা কেবল তাদেরকে বিশ্বাস কর, যারা তোমাদের দীনের অনুসরণ করে’। বল, ‘নিশ্চয় আল্লাহর হিদায়াতই হিদায়াত। এটা এ জন্য যে, কোন ব্যক্তিকে দেয়া হবে যেরূপ তোমাদেরকে দেয়া হয়েছে। অথবা তারা তোমাদের রবের নিকট তোমাদের সাথে বিতর্ক করবে’। বল, ‘নিশ্চয় অনুগ্রহ আল্লাহর হাতে, তিনি যাকে চান, তা দান করেন। আর আল্লাহ প্রাচুর্যময়, সর্বজ্ঞ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_73.mp3"
+        }
+    }
+}

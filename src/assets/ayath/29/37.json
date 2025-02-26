@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 37,
+    "english": "But they rejected him, so an ˹overwhelming˺ earthquake struck them and they fell lifeless in their homes.",
+    "arabic1": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ",
+    "arabic2": "فكذبوه فاخذتهم الرجفة فاصبحوا في دارهم جاثمين",
+    "bengali": "অতঃপর তারা তাকে মিথ্যাবাদী বলল; ফলে ভূমিকম্প তাদেরকে গ্রাস করল। অতঃপর নিজদের বাড়ী-ঘরেই তারা উপুড় হয়ে মরে রইল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_37.mp3"
+        }
+    }
+}

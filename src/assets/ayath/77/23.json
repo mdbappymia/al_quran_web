@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 23,
+    "english": "We ˹perfectly˺ ordained ˹its development˺. How excellent are We in doing so!",
+    "arabic1": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+    "arabic2": "فقدرنا فنعم القادرون",
+    "bengali": "অতঃপর আমি পরিমাপ করেছি। আর আমিই উত্তম পরিমাপকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_23.mp3"
+        }
+    }
+}

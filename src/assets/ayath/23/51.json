@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 51,
+    "english": "O messengers! Eat from what is good and lawful, and act righteously. Indeed, I fully know what you do.",
+    "arabic1": "يَـٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَـٰتِ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ",
+    "arabic2": "يا ايها الرسل كلوا من الطيبات واعملوا صالحا اني بما تعملون عليم",
+    "bengali": "‘হে রাসূলগণ, তোমরা পবিত্র ও ভাল বস্ত্ত থেকে খাও এবং সৎকর্ম কর। নিশ্চয় তোমরা যা কর সে সর্ম্পকে আমি সম্যক জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_51.mp3"
+        }
+    }
+}

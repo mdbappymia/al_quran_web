@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 6,
+    "english": "who will inherit ˹prophethood˺ from me and the family of Jacob, and make him, O  Lord, pleasing ˹to You˺!”",
+    "arabic1": "يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
+    "arabic2": "يرثني ويرث من ال يعقوب واجعله رب رضيا",
+    "bengali": "‘যে আমার উত্তরাধিকারী হবে এবং ইয়াকূবের বংশের উত্তরাধিকারী হবে। হে আমার রব, আপনি তাকে পছন্দনীয় বানিয়ে দিন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_6.mp3"
+        }
+    }
+}

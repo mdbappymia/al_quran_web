@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 43,
+    "english": "Now, are you ˹Meccan˺ disbelievers superior to those ˹destroyed peoples˺? Or have you ˹been granted˺ immunity ˹from punishment˺ in divine Books?",
+    "arabic1": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+    "arabic2": "اكفاركم خير من اولئكم ام لكم براءة في الزبر",
+    "bengali": "তোমাদের (মক্কার) কাফিররা কি তাদের চেয়ে ভাল? না কি তোমাদের জন্য মুক্তির কোন ঘোষণা রয়েছে (আসমানী) কিতাবসমূহের মধ্যে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_43.mp3"
+        }
+    }
+}

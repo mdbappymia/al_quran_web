@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 26,
+    "english": "and meticulously split the earth open ˹for sprouts˺",
+    "arabic1": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+    "arabic2": "ثم شققنا الارض شقا",
+    "bengali": "তারপর যমীনকে যথাযথভাবে বিদীর্ণ করি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_26.mp3"
+        }
+    }
+}

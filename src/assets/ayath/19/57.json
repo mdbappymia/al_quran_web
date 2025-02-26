@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 57,
+    "english": "And We elevated him to an honourable status.",
+    "arabic1": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+    "arabic2": "ورفعناه مكانا عليا",
+    "bengali": "আর আমি তাকে উচ্চ মর্যাদায় সমুন্নত করেছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_57.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_57.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_57.mp3"
+        }
+    }
+}

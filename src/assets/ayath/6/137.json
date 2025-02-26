@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 137,
+    "english": "Likewise, the pagans’ evil associates have made it appealing to them to kill their own children—only leading to their destruction as well as confusion in their faith. Had it been Allah’s Will, they would not have done such a thing. So leave them and their falsehood.",
+    "arabic1": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+    "arabic2": "وكذلك زين لكثير من المشركين قتل اولادهم شركاؤهم ليردوهم وليلبسوا عليهم دينهم ولو شاء الله ما فعلوه فذرهم وما يفترون",
+    "bengali": "আর এভাবে অনেক মুশরিকের জন্য তাদের শরীকরা তাদের সন্তানদেরকে হত্যা করা শোভিত করেছে, যাতে তাদেরকে ধ্বংস করতে পারে এবং তাদের নিকট তাদের দীনকে সংশয়পূর্ণ করতে পারে। আর আল্লাহ যদি চাইতেন, তারা তা করত না। সুতরাং তারা যে মিথ্যা বানায়, তা নিয়ে তুমি তাদেরকে থাকতে দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_137.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_137.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_137.mp3"
+        }
+    }
+}

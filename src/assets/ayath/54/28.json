@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 28,
+    "english": "And tell them that the ˹drinking˺ water must be divided between them ˹and her˺, each taking a turn to drink ˹every other day˺.”",
+    "arabic1": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+    "arabic2": "ونبئهم ان الماء قسمة بينهم كل شرب محتضر",
+    "bengali": "আর তাদেরকে জানিয়ে দাও যে, তাদের মধ্যে পানি বণ্টন সুনির্দিষ্ট। প্রত্যেকেই (পালাক্রমে) পানির অংশে উপস্থিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_28.mp3"
+        }
+    }
+}

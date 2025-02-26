@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naas",
+    "surahNameArabic": "الناس",
+    "surahNameArabicLong": "سورة الناس",
+    "surahNameTranslation": "Mankind",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 114,
+    "ayahNo": 1,
+    "english": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind",
+    "arabic1": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+    "arabic2": "قل اعوذ برب الناس",
+    "bengali": "বল, ‘আমি আশ্রয় চাই মানুষের রব,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/114_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/114_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/114_1.mp3"
+        }
+    }
+}

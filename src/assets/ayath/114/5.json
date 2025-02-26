@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naas",
+    "surahNameArabic": "الناس",
+    "surahNameArabicLong": "سورة الناس",
+    "surahNameTranslation": "Mankind",
+    "revelationPlace": "Mecca",
+    "totalAyah": 6,
+    "surahNo": 114,
+    "ayahNo": 5,
+    "english": "who whispers into the hearts of humankind—",
+    "arabic1": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "arabic2": "الذي يوسوس في صدور الناس",
+    "bengali": "যে মানুষের মনে কুমন্ত্রণা দেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/114_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/114_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/114_5.mp3"
+        }
+    }
+}

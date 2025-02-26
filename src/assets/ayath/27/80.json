@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 80,
+    "english": "You certainly cannot make the dead hear ˹the truth˺. Nor can you make the deaf hear the call when they turn their backs and walk away.",
+    "arabic1": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+    "arabic2": "انك لا تسمع الموتى ولا تسمع الصم الدعاء اذا ولوا مدبرين",
+    "bengali": "নিশ্চয় তুমি মৃতকে শোনাতে পারবে না, আর তুমি বধিরকে আহবান শোনাতে পারবে না, যখন তারা পিঠ দেখিয়ে চলে যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_80.mp3"
+        }
+    }
+}

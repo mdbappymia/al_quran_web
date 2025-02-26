@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zalzala",
+    "surahNameArabic": "الزلزلة",
+    "surahNameArabicLong": "سورة الزلزلة",
+    "surahNameTranslation": "The Earthquake",
+    "revelationPlace": "Madina",
+    "totalAyah": 8,
+    "surahNo": 99,
+    "ayahNo": 1,
+    "english": "When the earth is shaken ˹in˺ its ultimate quaking",
+    "arabic1": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "arabic2": "اذا زلزلت الارض زلزالها",
+    "bengali": "যখন প্রচন্ড কম্পনে যমীন প্রকম্পিত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/99_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/99_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/99_1.mp3"
+        }
+    }
+}

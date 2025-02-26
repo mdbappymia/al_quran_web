@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 45,
+    "english": "Allah knows best who your enemies are! And Allah is sufficient as a Guardian, and He is sufficient as a Helper.",
+    "arabic1": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا",
+    "arabic2": "والله اعلم باعدائكم وكفى بالله وليا وكفى بالله نصيرا",
+    "bengali": "আর আল্লাহ তোমাদের শত্রুদের সম্পর্কে অধিক অবগত। আর অভিভাবক হিসেবে আল্লাহ যথেষ্ট এবং আল্লাহ যথেষ্ট সাহায্যকারী হিসেবেও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_45.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 32,
+    "english": "Give them ˹O Prophet˺ an example of two men. To ˹the disbelieving˺ one We gave two gardens of grapevines, which We surrounded with palm trees and placed ˹various˺ crops in between.",
+    "arabic1": "۞ وَٱضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَـٰبٍ وَحَفَفْنَـٰهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+    "arabic2": "واضرب لهم مثلا رجلين جعلنا لاحدهما جنتين من اعناب وحففناهما بنخل وجعلنا بينهما زرعا",
+    "bengali": "আর তুমি তাদের জন্য একটি দৃষ্টান্ত পেশ কর: দুই ব্যক্তি, তাদের একজনকে আমি দু’টি আঙ্গুরের বাগান দিয়েছি এবং উভয় বাগানকে ঘিরে দিয়েছি খেজুর গাছ দ্বারা এবং উভয়ের মাঝখানে রেখেছি শস্যক্ষেত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_32.mp3"
+        }
+    }
+}

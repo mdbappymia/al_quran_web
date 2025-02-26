@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takwir",
+    "surahNameArabic": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameTranslation": "The Overthrowing",
+    "revelationPlace": "Mecca",
+    "totalAyah": 29,
+    "surahNo": 81,
+    "ayahNo": 17,
+    "english": "and the night as it falls",
+    "arabic1": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+    "arabic2": "والليل اذا عسعس",
+    "bengali": "আর কসম রাতের, যখন তা বিদায় নেয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/81_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/81_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/81_17.mp3"
+        }
+    }
+}

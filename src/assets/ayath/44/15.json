@@ -1,0 +1,28 @@
+{
+    "surahName": "Ad-Dukhaan",
+    "surahNameArabic": "الدخان",
+    "surahNameArabicLong": "سورة الدخان",
+    "surahNameTranslation": "The Smoke",
+    "revelationPlace": "Mecca",
+    "totalAyah": 59,
+    "surahNo": 44,
+    "ayahNo": 15,
+    "english": "Indeed, We will remove ˹that˺ torment for a while, and you ˹Meccans˺ will return ˹to disbelief˺.",
+    "arabic1": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
+    "arabic2": "انا كاشفو العذاب قليلا انكم عائدون",
+    "bengali": "নিশ্চয় আমি ক্ষণকালের জন্য আযাব দূর করব; নিশ্চয় তোমরা পূর্বাবস্থায় ফিরে যাবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/44_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/44_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/44_15.mp3"
+        }
+    }
+}

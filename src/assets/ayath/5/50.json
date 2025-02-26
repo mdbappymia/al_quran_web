@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 50,
+    "english": "Is it the judgment of ˹pre-Islamic˺ ignorance they seek? Who could be a better judge than Allah for people of sure faith?",
+    "arabic1": "أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ",
+    "arabic2": "افحكم الجاهلية يبغون ومن احسن من الله حكما لقوم يوقنون",
+    "bengali": "তারা কি তবে জাহিলিয়্যাতের বিধান চায়? আর নিশ্চিত বিশ্বাসী কওমের জন্য বিধান প্রদানে আল্লাহর চেয়ে কে অধিক উত্তম?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_50.mp3"
+        }
+    }
+}

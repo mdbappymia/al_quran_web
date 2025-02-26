@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takwir",
+    "surahNameArabic": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameTranslation": "The Overthrowing",
+    "revelationPlace": "Mecca",
+    "totalAyah": 29,
+    "surahNo": 81,
+    "ayahNo": 27,
+    "english": "Surely this ˹Quran˺ is only a reminder to the whole world—",
+    "arabic1": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+    "arabic2": "ان هو الا ذكر للعالمين",
+    "bengali": "এটাতো সৃষ্টিকুলের জন্য উপদেশমাত্র।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/81_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/81_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/81_27.mp3"
+        }
+    }
+}

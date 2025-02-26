@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 184,
+    "english": "˹Fast a˺ prescribed number of days. But whoever of you is ill or on a journey, then ˹let them fast˺ an equal number of days ˹after Ramaḍân˺. For those who can only fast with extreme difficulty, compensation can be made by feeding a needy person ˹for every day not fasted˺. But whoever volunteers to give more, it is better for them. And to fast is better for you, if only you knew.",
+    "arabic1": "أَيَّامًا مَّعْدُودَٰتٍ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ ۖ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ ۚ وَأَن تَصُومُوا۟ خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "اياما معدودات فمن كان منكم مريضا او على سفر فعدة من ايام اخر وعلى الذين يطيقونه فدية طعام مسكين فمن تطوع خيرا فهو خير له وان تصوموا خير لكم ان كنتم تعلمون",
+    "bengali": "নির্দিষ্ট কয়েক দিন। তবে তোমাদের মধ্যে যে অসুস্থ হবে, কিংবা সফরে থাকবে, তাহলে অন্যান্য দিনে সংখ্যা পূরণ করে নেবে। আর যাদের জন্য তা কষ্টকর হবে, তাদের কর্তব্য ফিদয়া- একজন দরিদ্রকে খাবার প্রদান করা। অতএব যে স্বেচ্ছায় অতিরিক্ত সৎকাজ করবে, তা তার জন্য কল্যাণকর হবে। আর সিয়াম পালন তোমাদের জন্য কল্যাণকর, যদি তোমরা জান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_184.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_184.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_184.mp3"
+        }
+    }
+}

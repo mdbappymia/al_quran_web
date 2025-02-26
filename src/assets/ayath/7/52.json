@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 52,
+    "english": "We have certainly brought them a Book which We explained with knowledge—a guide and mercy for those who believe.",
+    "arabic1": "وَلَقَدْ جِئْنَـٰهُم بِكِتَـٰبٍ فَصَّلْنَـٰهُ عَلَىٰ عِلْمٍ هُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+    "arabic2": "ولقد جئناهم بكتاب فصلناه على علم هدى ورحمة لقوم يؤمنون",
+    "bengali": "আর আমি তো তাদের নিকট এমন কিতাব নিয়ে এসেছি, যা আমি জ্ঞানের ভিত্তিতে বিস্তারিত বর্ণনা করেছি। তা হিদায়াত ও রহমতস্বরূপ এমন জাতির জন্য, যারা ঈমান রাখে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_52.mp3"
+        }
+    }
+}

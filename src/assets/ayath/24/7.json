@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 7,
+    "english": "and a fifth oath that Allah may condemn him if he is lying.",
+    "arabic1": "وَٱلْخَـٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَـٰذِبِينَ",
+    "arabic2": "والخامسة ان لعنت الله عليه ان كان من الكاذبين",
+    "bengali": "আর পঞ্চমবারে সাক্ষ্য দেবে যে, সে যদি মিথ্যাবাদী হয়, তবে নিশ্চয় তার উপর আল্লাহর লা‘নত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_7.mp3"
+        }
+    }
+}

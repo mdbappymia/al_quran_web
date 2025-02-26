@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 28,
+    "english": "O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”",
+    "arabic1": "يَـٰٓأُخْتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+    "arabic2": "يا اخت هارون ما كان ابوك امرا سوء وما كانت امك بغيا",
+    "bengali": "‘হে হারূনের বোন! তোমার পিতা তো খারাপ লোক ছিল না। আর তোমার মা-ও ছিল না ব্যভিচারিণী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_28.mp3"
+        }
+    }
+}

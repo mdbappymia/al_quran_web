@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 9,
+    "english": "so that you ˹believers˺ may have faith in Allah and His Messenger, support and honour him, and glorify Allah morning and evening.",
+    "arabic1": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+    "arabic2": "لتؤمنوا بالله ورسوله وتعزروه وتوقروه وتسبحوه بكرة واصيلا",
+    "bengali": "যাতে তোমরা আল্লাহ ও তাঁর রাসূলের ওপর ঈমান আন, তাকে সাহায্য ও সম্মান কর এবং সকাল-সন্ধ্যায় আল্লাহর তাসবীহ পাঠ কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_9.mp3"
+        }
+    }
+}

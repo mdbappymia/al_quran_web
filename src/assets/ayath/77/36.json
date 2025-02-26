@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 36,
+    "english": "nor will they be permitted to offer excuses.",
+    "arabic1": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+    "arabic2": "ولا يؤذن لهم فيعتذرون",
+    "bengali": "আর তাদেরকে অজুহাত পেশ করার অনুমতিও দেয়া হবে না ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_36.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_36.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_36.mp3"
+        }
+    }
+}

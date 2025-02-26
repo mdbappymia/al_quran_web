@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 7,
+    "english": "As for those who believe and do good, We will certainly absolve them of their sins, and reward them according to the best of what they used to do.",
+    "arabic1": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+    "arabic2": "والذين امنوا وعملوا الصالحات لنكفرن عنهم سيئاتهم ولنجزينهم احسن الذي كانوا يعملون",
+    "bengali": "আর যারা ঈমান আনে ও সৎকর্ম করে, অবশ্যই আমি তাদের থেকে তাদের পাপসমূহ দূর করে দেব এবং আমি অবশ্যই তাদের সেই উত্তম আমলের প্রতিদান দেব, যা তারা করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_7.mp3"
+        }
+    }
+}

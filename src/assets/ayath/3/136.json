@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 136,
+    "english": "Their reward is forgiveness from their Lord and Gardens under which rivers flow, staying there forever. How excellent is the reward for those who work ˹righteousness˺!",
+    "arabic1": "أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ",
+    "arabic2": "اولئك جزاؤهم مغفرة من ربهم وجنات تجري من تحتها الانهار خالدين فيها ونعم اجر العاملين",
+    "bengali": "এরাই তারা, যাদের প্রতিদান তাদের রবের পক্ষ থেকে মাগফিরাত ও জান্নাতসমূহ যার তলদেশে প্রবাহিত রয়েছে নহরসমূহ। সেখানে তারা স্থায়ী হবে। আর আমলকারীদের প্রতিদান কতই না উত্তম!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_136.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_136.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_136.mp3"
+        }
+    }
+}

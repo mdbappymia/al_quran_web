@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muzzammil",
+    "surahNameArabic": "المزمل",
+    "surahNameArabicLong": "سورة المزمل",
+    "surahNameTranslation": "The Enshrouded One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 20,
+    "surahNo": 73,
+    "ayahNo": 14,
+    "english": "on the Day the earth and mountains will shake ˹violently˺, and mountains will be ˹reduced to˺ dunes of shifting sand.",
+    "arabic1": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+    "arabic2": "يوم ترجف الارض والجبال وكانت الجبال كثيبا مهيلا",
+    "bengali": "যেদিন যমীন ও পর্বতমালা প্রকম্পিত হবে এবং পাহাড়গুলো চলমান বালুকারাশিতে পরিণত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/73_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/73_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/73_14.mp3"
+        }
+    }
+}

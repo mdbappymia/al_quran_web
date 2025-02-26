@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 14,
+    "english": "But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is no god ˹worthy of worship˺ except Him! Will you ˹not˺ then submit ˹to Allah˺?",
+    "arabic1": "فَإِلَّمْ يَسْتَجِيبُوا۟ لَكُمْ فَٱعْلَمُوٓا۟ أَنَّمَآ أُنزِلَ بِعِلْمِ ٱللَّهِ وَأَن لَّآ إِلَـٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ",
+    "arabic2": "فالم يستجيبوا لكم فاعلموا انما انزل بعلم الله وان لا اله الا هو فهل انتم مسلمون",
+    "bengali": "অতঃপর তারা যদি তোমাদের আহবানে সাড়া না দেয়, তাহলে জেনে রাখ, এটা আল্লাহর জ্ঞান অনুসারেই নাযিল করা হয়েছে এবং তিনি ছাড়া কোন (সত্য) ইলাহ্ নেই। অতঃপর তোমরা কি অনুগত হবে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_14.mp3"
+        }
+    }
+}

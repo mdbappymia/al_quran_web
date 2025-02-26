@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hijr",
+    "surahNameArabic": "الحجر",
+    "surahNameArabicLong": "سورة الحجر",
+    "surahNameTranslation": "The Rock",
+    "revelationPlace": "Mecca",
+    "totalAyah": 99,
+    "surahNo": 15,
+    "ayahNo": 37,
+    "english": "Allah said, “You will be delayed",
+    "arabic1": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+    "arabic2": "قال فانك من المنظرين",
+    "bengali": "তিনি বললেন, ‘তুমি নিশ্চয় অবকাশপ্রাপ্তদের একজন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/15_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/15_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/15_37.mp3"
+        }
+    }
+}

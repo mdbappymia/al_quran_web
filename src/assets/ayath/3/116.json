@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 116,
+    "english": "Indeed, neither the wealth nor children of the disbelievers will be of any benefit to them against Allah. It is they who will be the residents of the Fire. They will be there forever.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "ان الذين كفروا لن تغني عنهم اموالهم ولا اولادهم من الله شيئا واولئك اصحاب النار هم فيها خالدون",
+    "bengali": "নিশ্চয় যারা কুফরী করে, আল্লাহর বিপক্ষে তাদের ধন-সম্পদ না তাদের কোন কাজে আসবে, আর না তাদের সন্তানাদি। আর তারা আগুনের অধিবাসী। তারা সেখানে স্থায়ী হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_116.mp3"
+        }
+    }
+}

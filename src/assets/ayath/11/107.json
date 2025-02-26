@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 107,
+    "english": "staying there forever, as long as the heavens and the earth will endure, except what your Lord wills. Surely your Lord does what He intends.",
+    "arabic1": "خَـٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۚ إِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيدُ",
+    "arabic2": "خالدين فيها ما دامت السماوات والارض الا ما شاء ربك ان ربك فعال لما يريد",
+    "bengali": "সেখানে তারা স্থায়ী হবে, যতদিন পর্যন্ত আসমানসমূহ ও যমীন থাকবে*, অবশ্য তোমার রব যা চান**। নিশ্চয় তোমার রব তা-ই করে যা তিনি ইচ্ছা করেন। \n*‘যতদিন পর্যন্ত আসমানসমূহ ও যমীন থাকবে’- এ কথা দ্বারা আরবী ভাষায় চিরস্থায়ীত্বের উদাহরণ দেয়া হয়ে থাকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_107.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_107.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_107.mp3"
+        }
+    }
+}

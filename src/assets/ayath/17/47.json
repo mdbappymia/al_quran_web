@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 47,
+    "english": "We know best how they listen to your recitation and what they say privately—when the wrongdoers say, “You would only be following a bewitched man.”",
+    "arabic1": "نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+    "arabic2": "نحن اعلم بما يستمعون به اذ يستمعون اليك واذ هم نجوى اذ يقول الظالمون ان تتبعون الا رجلا مسحورا",
+    "bengali": "যখন তারা তোমার প্রতি কান পেতে শুনে, তখন আমি জানি কেন তারা কান পাতে এবং যখন গোপন আলোচনায় মিলিত হয়ে যালিমরা বলে, ‘তোমরা তো কেবল এক যাদুগ্রস্ত লোকের অনুসরণ করছ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_47.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 3,
+    "english": "˹O˺ descendants of those We carried with Noah ˹in the Ark˺! He was indeed a grateful servant.”",
+    "arabic1": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُۥ كَانَ عَبْدًا شَكُورًا",
+    "arabic2": "ذرية من حملنا مع نوح انه كان عبدا شكورا",
+    "bengali": "সে তাদের বংশধর, যাদেরকে আমি নূহের সাথে আরোহণ করিয়েছিলাম, নিশ্চয় সে ছিল কৃতজ্ঞ বান্দা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_3.mp3"
+        }
+    }
+}

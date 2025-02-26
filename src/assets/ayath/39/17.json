@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 17,
+    "english": "And those who shun the worship of false gods, turning to Allah ˹alone˺, will have good news. So give good news to My servants ˹O Prophet˺—",
+    "arabic1": "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن يَعْبُدُوهَا وَأَنَابُوٓا۟ إِلَى ٱللَّهِ لَهُمُ ٱلْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ",
+    "arabic2": "والذين اجتنبوا الطاغوت ان يعبدوها وانابوا الى الله لهم البشرى فبشر عباد",
+    "bengali": "আর যারা তাগূতের উপাসনা পরিহার করে এবং আল্লাহ অভিমুখী হয় তাদের জন্য আছে সুসংবাদ; অতএব আমার বান্দাদেরকে সুসংবাদ দাও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_17.mp3"
+        }
+    }
+}

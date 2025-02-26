@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 26,
+    "english": "And Pharaoh said, “Let me kill Moses, and let him call upon his Lord! I truly fear that he may change your traditions or cause mischief in the land.”",
+    "arabic1": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ",
+    "arabic2": "وقال فرعون ذروني اقتل موسى وليدع ربه اني اخاف ان يبدل دينكم او ان يظهر في الارض الفساد",
+    "bengali": "আর ফির‘আউন বলল, ‘আমাকে ছেড়ে দাও, আমি মূসাকে হত্যা করি এবং সে তার রবকে ডাকুক; নিশ্চয় আমি আশঙ্কা করি, সে তোমাদের দীন পাল্টে দেবে অথবা সে যমীনে বিপর্যয় ছড়িয়ে দেবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_26.mp3"
+        }
+    }
+}

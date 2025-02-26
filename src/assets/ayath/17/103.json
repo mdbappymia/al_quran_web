@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 103,
+    "english": "So Pharaoh wanted to scare the Israelites out of the land ˹of Egypt˺, but We drowned him and all of those with him.",
+    "arabic1": "فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَـٰهُ وَمَن مَّعَهُۥ جَمِيعًا",
+    "arabic2": "فاراد ان يستفزهم من الارض فاغرقناه ومن معه جميعا",
+    "bengali": "অতঃপর সে তাদেরকে দেশ থেকে উৎখাত করার ইচ্ছা করল; তখন আমি তাকে ও তার সাথে যারা ছিল সকলকে ডুবিয়ে দিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_103.mp3"
+        }
+    }
+}

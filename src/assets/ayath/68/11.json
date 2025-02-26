@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 11,
+    "english": "slanderer, gossip-monger",
+    "arabic1": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+    "arabic2": "هماز مشاء بنميم",
+    "bengali": "পিছনে নিন্দাকারী ও যে চোগলখুরী করে বেড়ায়,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_11.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 38,
+    "english": "How clearly will they hear and see on the Day they will come to Us! But today the wrongdoers are clearly astray.",
+    "arabic1": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَـٰكِنِ ٱلظَّـٰلِمُونَ ٱلْيَوْمَ فِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "اسمع بهم وابصر يوم ياتوننا لكن الظالمون اليوم في ضلال مبين",
+    "bengali": "যেদিন তারা আমার কাছে আসবে সেদিন তারা কতই না স্পষ্টভাবে শুনতে পাবে এবং দেখতে পাবে! কিন্তু যালিমরা আজ স্পষ্ট ভ্রষ্টতার মধ্যে রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_38.mp3"
+        }
+    }
+}

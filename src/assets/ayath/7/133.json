@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 133,
+    "english": "So We plagued them with floods, locusts, lice, frogs, and blood—all as clear signs, but they persisted in arrogance and were a wicked people.",
+    "arabic1": "فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَـٰتٍ مُّفَصَّلَـٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ",
+    "arabic2": "فارسلنا عليهم الطوفان والجراد والقمل والضفادع والدم ايات مفصلات فاستكبروا وكانوا قوما مجرمين",
+    "bengali": "সুতরাং আমি তাদের বিরুদ্ধে বিস্তারিত নিদর্শনাবলী হিসাবে পাঠালাম তুফান, পঙ্গপাল, উকুন, ব্যাঙ ও রক্ত। তার পরেও তারা অহঙ্কার করল। আর তারা ছিল এক অপরাধী কওম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_133.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_133.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_133.mp3"
+        }
+    }
+}

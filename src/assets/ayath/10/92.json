@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 92,
+    "english": "Today We will preserve your corpse so that you may become an example for those who come after you. And surely most people are heedless of Our examples!”",
+    "arabic1": "فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً ۚ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَـٰتِنَا لَغَـٰفِلُونَ",
+    "arabic2": "فاليوم ننجيك ببدنك لتكون لمن خلفك اية وان كثيرا من الناس عن اياتنا لغافلون",
+    "bengali": "‘সুতরাং আজ আমি তোমার দেহটি রক্ষা করব, যাতে তুমি তোমার পরবর্তীদের জন্য নিদর্শন হয়ে থাক। আর নিশ্চয় অনেক মানুষ আমার নিদর্শনসমূহের ব্যাপারে গাফেল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_92.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_92.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_92.mp3"
+        }
+    }
+}

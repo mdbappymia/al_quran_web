@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 65,
+    "english": "Do not let their words grieve you ˹O Prophet˺. Surely all honour and power belongs to Allah. He is the All-Hearing, All-Knowing.",
+    "arabic1": "وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا ۚ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "arabic2": "ولا يحزنك قولهم ان العزة لله جميعا هو السميع العليم",
+    "bengali": "আর তাদের কথা যেন তোমাকে দুঃখ না দেয়। নিশ্চয় সকল মর্যাদা আল্লাহর। তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_65.mp3"
+        }
+    }
+}

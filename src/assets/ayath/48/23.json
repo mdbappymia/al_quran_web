@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 23,
+    "english": "˹This is˺ Allah’s way, already long established ˹in the past˺. And you will find no change in Allah’s way.",
+    "arabic1": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+    "arabic2": "سنة الله التي قد خلت من قبل ولن تجد لسنة الله تبديلا",
+    "bengali": "তোমাদের পূর্বে যারা গত হয়েছে তাদের ব্যাপারে এটি আল্লাহর নিয়ম; আর তুমি আল্লাহর নিয়মে কোন পরিবর্তন পাবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_23.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 11,
+    "english": "Allah will certainly distinguish between those who have ˹sure˺ faith and the hypocrites.",
+    "arabic1": "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَـٰفِقِينَ",
+    "arabic2": "وليعلمن الله الذين امنوا وليعلمن المنافقين",
+    "bengali": "আর আল্লাহ অবশ্যই জানেন, কারা ঈমান এনেছে এবং তিনি মুনাফিকদেরকেও জানেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_11.mp3"
+        }
+    }
+}

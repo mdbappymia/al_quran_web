@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 32,
+    "english": "Other messengers had already been ridiculed before you, but I delayed the disbelievers ˹for a while˺ then seized them. And how ˹horrible˺ was My punishment!",
+    "arabic1": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+    "arabic2": "ولقد استهزئ برسل من قبلك فامليت للذين كفروا ثم اخذتهم فكيف كان عقاب",
+    "bengali": "আর অবশ্যই তোমার পূর্বে রাসূলদের নিয়ে উপহাস করা হয়েছে। অতঃপর যারা কুফরী করেছে, আমি তাদেরকে অবকাশ দিয়েছি, তারপর আমি তাদেরকে পাকড়াও করেছি। অতএব, কেমন ছিল আমার আযাব!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_32.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 18,
+    "english": "We truly subjected the mountains to hymn ˹Our praises˺ along with him in the evening and after sunrise.",
+    "arabic1": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+    "arabic2": "انا سخرنا الجبال معه يسبحن بالعشي والاشراق",
+    "bengali": "আমি পর্বতমালাকে অনুগত করেছিলাম, তার সাথে এগুলো সকাল-সন্ধ্যায় আমার তাসবীহ পাঠ করত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_18.mp3"
+        }
+    }
+}

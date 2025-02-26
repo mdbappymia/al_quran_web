@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 15,
+    "english": "removing rage from their hearts. And Allah pardons whoever He wills. For Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "ويذهب غيظ قلوبهم ويتوب الله على من يشاء والله عليم حكيم",
+    "bengali": "আর তাদের অন্তরসমূহের ক্রোধ দূর করবেন এবং আল্লাহ যাকে চান তার তাওবা কবুল করেন। আর আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_15.mp3"
+        }
+    }
+}

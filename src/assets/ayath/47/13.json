@@ -1,0 +1,28 @@
+{
+    "surahName": "Muhammad",
+    "surahNameArabic": "محمد",
+    "surahNameArabicLong": "سورة محمد",
+    "surahNameTranslation": "Muhammad",
+    "revelationPlace": "Madina",
+    "totalAyah": 38,
+    "surahNo": 47,
+    "ayahNo": 13,
+    "english": "˹Imagine, O  Prophet,˺ how many societies We destroyed that were far superior in might than your society—which drove you out—and there was none to help them!",
+    "arabic1": "وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ",
+    "arabic2": "وكاين من قرية هي اشد قوة من قريتك التي اخرجتك اهلكناهم فلا ناصر لهم",
+    "bengali": "আর তোমার জনপদ যা থেকে তারা তোমাকে বহিষ্কার করেছে তার তুলনায় শক্তিমত্তায় প্রবলতর অনেক জনপদ ছিল, আমি তাদেরকে ধ্বংস করে দিয়েছিলাম, ফলে তাদের কোনই সাহায্যকারী ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/47_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/47_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/47_13.mp3"
+        }
+    }
+}

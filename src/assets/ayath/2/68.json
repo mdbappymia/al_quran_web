@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 68,
+    "english": "They said, “Call upon your Lord to clarify for us what type ˹of cow˺ it should be!” He replied, “Allah says, ‘The cow should neither be old nor young but in between. So do as you are commanded!’”",
+    "arabic1": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+    "arabic2": "قالوا ادع لنا ربك يبين لنا ما هي قال انه يقول انها بقرة لا فارض ولا بكر عوان بين ذلك فافعلوا ما تؤمرون",
+    "bengali": "তারা বলল, ‘তুমি আমাদের জন্য তোমার রবের নিকট দো‘আ কর, তিনি যেন আমাদের জন্য স্পষ্ট করে দেন গাভীটি কেমন হবে’। সে বলল, ‘নিশ্চয় তিনি বলছেন, নিশ্চয় তা হবে গরু, বুড়ো নয় এবং বাচ্চাও নয়। এর মাঝামাঝি ধরনের। সুতরাং তোমরা কর যা তোমাদেরকে নির্দেশ দেয়া হচ্ছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_68.mp3"
+        }
+    }
+}

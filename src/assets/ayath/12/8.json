@@ -1,0 +1,28 @@
+{
+    "surahName": "Yusuf",
+    "surahNameArabic": "يوسف",
+    "surahNameArabicLong": "سورة يوسف",
+    "surahNameTranslation": "Joseph",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 12,
+    "ayahNo": 8,
+    "english": "˹Remember˺ when they said ˹to one another˺, “Surely Joseph and his brother ˹Benjamin˺ are more beloved to our father than we, even though we are a group of so many. Indeed, our father is clearly mistaken.",
+    "arabic1": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+    "arabic2": "اذ قالوا ليوسف واخوه احب الى ابينا منا ونحن عصبة ان ابانا لفي ضلال مبين",
+    "bengali": "যখন তারা বলেছিল, ‘নিশ্চয় ইউসুফ ও তার ভাই আমাদের পিতার নিকট আমাদের চেয়ে অধিক প্রিয়, অথচ আমরা একই দল। নিশ্চয় আমাদের পিতা সুস্পষ্ট বিভ্রান্তিতেই আছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/12_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/12_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/12_8.mp3"
+        }
+    }
+}

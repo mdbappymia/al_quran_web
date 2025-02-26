@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 40,
+    "english": "Some of them will ˹eventually˺ believe in it; others will not. And your Lord knows best the corruptors.",
+    "arabic1": "وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ",
+    "arabic2": "ومنهم من يؤمن به ومنهم من لا يؤمن به وربك اعلم بالمفسدين",
+    "bengali": "আর তাদের মধ্যে কেউ এর প্রতি ঈমান আনে এবং কেউ তাতে ঈমান আনে না। আর তোমার রব ফাসাদকারীদের ব্যাপারে অধিক জ্ঞাত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_40.mp3"
+        }
+    }
+}

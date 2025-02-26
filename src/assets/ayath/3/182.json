@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 182,
+    "english": "This is ˹the reward˺ for what your hands have done. And Allah is never unjust to ˹His˺ creation.”",
+    "arabic1": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
+    "arabic2": "ذلك بما قدمت ايديكم وان الله ليس بظلام للعبيد",
+    "bengali": "এ হল তোমাদের হাত যা আগাম পেশ করেছে এটা সে কারণে। আর নিশ্চয় আল্লাহ বান্দাদের প্রতি যালিম নন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_182.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_182.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_182.mp3"
+        }
+    }
+}

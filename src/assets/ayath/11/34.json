@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 34,
+    "english": "My advice will not benefit you—no matter how hard I try—if Allah wills ˹for˺ you to stray. He is your Lord, and to Him you will ˹all˺ be returned.”",
+    "arabic1": "وَلَا يَنفَعُكُمْ نُصْحِىٓ إِنْ أَرَدتُّ أَنْ أَنصَحَ لَكُمْ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "ولا ينفعكم نصحي ان اردت ان انصح لكم ان كان الله يريد ان يغويكم هو ربكم واليه ترجعون",
+    "bengali": "‘আর আমি তোমাদেরকে উপদেশ দিতে চাইলেও আমার উপদেশ তোমাদের কোন উপকারে আসবে না, যদি আল্লাহ তোমাদের বিভ্রান্ত করতে চান। তিনি তোমাদের রব এবং তাঁর কাছেই তোমাদেরকে ফিরিয়ে নেয়া হবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_34.mp3"
+        }
+    }
+}

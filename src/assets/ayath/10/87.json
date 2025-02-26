@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 87,
+    "english": "We revealed to Moses and his brother, “Appoint houses for your people in Egypt. Turn these houses into places of worship, establish prayer, and give good news to the believers!”",
+    "arabic1": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "arabic2": "واوحينا الى موسى واخيه ان تبوا لقومكما بمصر بيوتا واجعلوا بيوتكم قبلة واقيموا الصلاة وبشر المؤمنين",
+    "bengali": "আর আমি মূসা ও তার ভাইয়ের কাছে ওহী পাঠালাম যে, ‘তোমরা তোমাদের কওমের জন্য মিসরে গৃহ তৈরী কর এবং তোমাদের গৃহগুলোকে কিবলা বানাও আর সালাত কায়েম কর এবং মুমিনদের সুসংবাদ দাও’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_87.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_87.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_87.mp3"
+        }
+    }
+}

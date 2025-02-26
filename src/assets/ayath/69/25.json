@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 25,
+    "english": "And as for those given their record in their left hand, they will cry ˹bitterly˺, “I wish I had not been given my record",
+    "arabic1": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَـٰلَيْتَنِى لَمْ أُوتَ كِتَـٰبِيَهْ",
+    "arabic2": "واما من اوتي كتابه بشماله فيقول يا ليتني لم اوت كتابيه",
+    "bengali": "কিন্তু যার আমলনামা তার বাম হাতে দেয়া হবে সে বলবে, ‘হায়, আমাকে যদি আমার আমলনামা দেয়া না হত’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_25.mp3"
+        }
+    }
+}

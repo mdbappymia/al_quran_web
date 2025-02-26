@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 9,
+    "english": "Successful indeed is the one who purifies their soul",
+    "arabic1": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+    "arabic2": "قد افلح من زكاها",
+    "bengali": "নিঃসন্দেহে সে সফলকাম হয়েছে, যে তাকে পরিশুদ্ধ করেছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_9.mp3"
+        }
+    }
+}

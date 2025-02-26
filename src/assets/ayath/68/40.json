@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 40,
+    "english": "Ask them ˹O Prophet˺ which of them can guarantee all that.",
+    "arabic1": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+    "arabic2": "سلهم ايهم بذلك زعيم",
+    "bengali": "তুমি তাদেরকে জিজ্ঞাসা কর, কে এ ব্যাপারে যিম্মাদার?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_40.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 5,
+    "english": "He conducts every affair from the heavens to the earth, then it all ascends to Him on a Day whose length is a thousand years by your counting.",
+    "arabic1": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
+    "arabic2": "يدبر الامر من السماء الى الارض ثم يعرج اليه في يوم كان مقداره الف سنة مما تعدون",
+    "bengali": "তিনি আসমান থেকে যমীন পর্যন্ত সকল কার্য পরিচালনা করেন। তারপর তা একদিন তাঁর কাছেই উঠবে। যেদিনের পরিমাণ হবে তোমাদের গণনায় হাজার বছর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_5.mp3"
+        }
+    }
+}

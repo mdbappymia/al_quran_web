@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fath",
+    "surahNameArabic": "الفتح",
+    "surahNameArabicLong": "سورة الفتح",
+    "surahNameTranslation": "The Victory",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 48,
+    "ayahNo": 1,
+    "english": "Indeed, We have granted you a clear triumph ˹O Prophet˺",
+    "arabic1": " إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+    "arabic2": "انا فتحنا لك فتحا مبينا",
+    "bengali": "নিশ্চয় আমি তোমাকে সুস্পষ্ট বিজয় দিয়েছি;",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/48_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/48_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/48_1.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 63,
+    "english": "He replied ˹sarcastically˺, “No, this one—the biggest of them—did it! So ask them, if they can talk!”",
+    "arabic1": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَـٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+    "arabic2": "قال بل فعله كبيرهم هذا فاسالوهم ان كانوا ينطقون",
+    "bengali": "সে বলল, ‘বরং তাদের এ বড়টিই একাজ করেছে। তাই এদেরকেই জিজ্ঞাসা কর, যদি এরা কথা বলতে পারে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_63.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_63.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_63.mp3"
+        }
+    }
+}

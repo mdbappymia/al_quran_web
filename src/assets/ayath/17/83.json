@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 83,
+    "english": "When We grant people Our favours, they turn away, acting arrogantly. But when touched with evil, they lose all hope.",
+    "arabic1": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا",
+    "arabic2": "واذا انعمنا على الانسان اعرض وناى بجانبه واذا مسه الشر كان يئوسا",
+    "bengali": "আর আমি যখন মানুষের উপর নিআমত দান করি তখন সে মুখ ফিরিয়ে নেয় ও দূরে সরে যায় এবং যখন তাকে অনিষ্ট স্পর্শ করে তখন সে খুব হতাশ হয়ে পড়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_83.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_83.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_83.mp3"
+        }
+    }
+}

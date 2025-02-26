@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 105,
+    "english": "obliged to say nothing about Allah except the truth. Indeed, I have come to you with clear proof from your Lord, so let the children of Israel go with me.”",
+    "arabic1": "حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ",
+    "arabic2": "حقيق على ان لا اقول على الله الا الحق قد جئتكم ببينة من ربكم فارسل معي بني اسرائيل",
+    "bengali": "সমীচীন যে, আমি আল্লাহ সম্পর্কে সত্য ছাড়া বলব না। আমি তোমাদের রবের নিকট থেকে স্পষ্ট প্রমাণ নিয়ে তোমাদের কাছে এসেছি। সুতরাং তুমি বনী ইসরাঈলকে আমার সাথে পাঠিয়ে দাও।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_105.mp3"
+        }
+    }
+}

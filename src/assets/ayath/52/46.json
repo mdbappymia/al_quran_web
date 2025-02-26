@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 46,
+    "english": "the Day their scheming will be of no benefit to them whatsoever, nor will they be helped.",
+    "arabic1": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+    "arabic2": "يوم لا يغني عنهم كيدهم شيئا ولا هم ينصرون",
+    "bengali": "যেদিন তাদের পক্ষ থেকে কৃত তাদের ষড়যন্ত্র কোন কাজে আসবে না এবং তারা সাহায্যপ্রাপ্তও হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_46.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 88,
+    "english": "So We answered his prayer and rescued him from anguish. And so do We save the ˹true˺ believers.",
+    "arabic1": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى ٱلْمُؤْمِنِينَ",
+    "arabic2": "فاستجبنا له ونجيناه من الغم وكذلك ننجي المؤمنين",
+    "bengali": "অতঃপর আমি তার ডাকে সাড়া দিয়েছিলাম এবং দুশ্চিন্তা থেকে তাকে উদ্ধার করেছিলাম। আর এভাবেই আমি মুমিনদেরকে উদ্ধার করে থাকি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_88.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_88.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_88.mp3"
+        }
+    }
+}

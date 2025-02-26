@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 18,
+    "english": "And Allah makes ˹His˺ commandments clear to you, for Allah is All-Knowing, All-Wise.",
+    "arabic1": "وَيُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "ويبين الله لكم الايات والله عليم حكيم",
+    "bengali": "আর আল্লাহ তোমাদের জন্য আয়াতসমূহ স্পষ্টভাবে বর্ণনা করছেন এবং আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_18.mp3"
+        }
+    }
+}

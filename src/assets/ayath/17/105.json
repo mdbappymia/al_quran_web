@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 105,
+    "english": "We have sent down the Quran in truth, and with the truth it has come down. We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.",
+    "arabic1": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+    "arabic2": "وبالحق انزلناه وبالحق نزل وما ارسلناك الا مبشرا ونذيرا",
+    "bengali": "আর আমি তা যথাযথভাবে নাযিল করেছি এবং যথাযথভাবে তা নাযিল হয়েছে। আমি তো তোমাকে কেবল সুসংবাদদাতা ও সতর্ককারীরূপে পাঠিয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_105.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_105.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_105.mp3"
+        }
+    }
+}

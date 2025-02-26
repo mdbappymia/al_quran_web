@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 19,
+    "english": "But whoever desires the Hereafter and strives for it accordingly, and is a ˹true˺ believer, it is they whose striving will be appreciated.",
+    "arabic1": "وَمَنْ أَرَادَ ٱلْـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+    "arabic2": "ومن اراد الاخرة وسعى لها سعيها وهو مؤمن فاولئك كان سعيهم مشكورا",
+    "bengali": "আর যে আখিরাত চায় এবং তার জন্য যথাযথ চেষ্টা করে মুমিন অবস্থায়, তাদের চেষ্টা হবে পুরস্কারযোগ্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_19.mp3"
+        }
+    }
+}

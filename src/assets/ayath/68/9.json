@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 9,
+    "english": "They wish you would compromise so they would yield ˹to you˺.",
+    "arabic1": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+    "arabic2": "ودوا لو تدهن فيدهنون",
+    "bengali": "তারা কামনা করে, যদি তুমি আপোষকামী হও, তবে তারাও আপোষকারী হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_9.mp3"
+        }
+    }
+}

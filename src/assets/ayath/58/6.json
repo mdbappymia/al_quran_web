@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 6,
+    "english": "On the Day Allah resurrects them all together, He will then inform them of what they have done. Allah has kept account of it all, while they have forgotten it. For Allah is a Witness over all things.",
+    "arabic1": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+    "arabic2": "يوم يبعثهم الله جميعا فينبئهم بما عملوا احصاه الله ونسوه والله على كل شيء شهيد",
+    "bengali": "যে দিন আল্লাহ তাদের সকলকে পুনরুজ্জীবিত করে উঠাবেন অতঃপর তারা যে আমল করেছিল তা তাদেরকে জানিয়ে দেবেন। আল্লাহ তা হিসাব করে রেখেছেন যদিও তারা তা ভুলে গেছে। আর আল্লাহ প্রত্যেক বিষয়ে প্রত্যক্ষদর্শী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_6.mp3"
+        }
+    }
+}

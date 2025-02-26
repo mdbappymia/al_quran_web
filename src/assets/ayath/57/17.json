@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hadid",
+    "surahNameArabic": "الحديد",
+    "surahNameArabicLong": "سورة الحديد",
+    "surahNameTranslation": "The Iron",
+    "revelationPlace": "Madina",
+    "totalAyah": 29,
+    "surahNo": 57,
+    "ayahNo": 17,
+    "english": "Know that Allah revives the earth after its death. We have certainly made the signs clear for you so perhaps you will understand.",
+    "arabic1": "ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+    "arabic2": "اعلموا ان الله يحيي الارض بعد موتها قد بينا لكم الايات لعلكم تعقلون",
+    "bengali": "তোমরা জেনে রাখ যে, আল্লাহ্ যমীনকে তার মৃত্যুর পর পুনর্জীবিত করেন। আমি নিদর্শনসমূহ তোমাদের কাছে সুস্পষ্টভাবে বর্ণনা করেছি, আশা করা যায় তোমরা বুঝতে পারবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/57_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/57_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/57_17.mp3"
+        }
+    }
+}

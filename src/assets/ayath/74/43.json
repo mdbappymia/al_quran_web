@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muddaththir",
+    "surahNameArabic": "المدثر",
+    "surahNameArabicLong": "سورة المدثر",
+    "surahNameTranslation": "The Cloaked One",
+    "revelationPlace": "Mecca",
+    "totalAyah": 56,
+    "surahNo": 74,
+    "ayahNo": 43,
+    "english": "They will reply, “We were not of those who prayed",
+    "arabic1": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+    "arabic2": "قالوا لم نك من المصلين",
+    "bengali": "তারা বলবে, ‘আমরা সালাত আদায়কারীদের মধ্যে অন্তর্ভুক্ত ছিলাম না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/74_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/74_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/74_43.mp3"
+        }
+    }
+}

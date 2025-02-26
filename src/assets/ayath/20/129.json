@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 129,
+    "english": "Had it not been for a prior decree from your Lord ˹O Prophet˺ and a term already set, their ˹instant˺ doom would have been inevitable.",
+    "arabic1": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَكَانَ لِزَامًا وَأَجَلٌ مُّسَمًّى",
+    "arabic2": "ولولا كلمة سبقت من ربك لكان لزاما واجل مسمى",
+    "bengali": "আর যদি তোমার রবের পক্ষ থেকে পূর্ব সিদ্ধান্ত ও একটি কাল নির্ধারিত হয়ে না থাকত, তবে আশু শাস্তি অবশ্যম্ভাবী হত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_129.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_129.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_129.mp3"
+        }
+    }
+}

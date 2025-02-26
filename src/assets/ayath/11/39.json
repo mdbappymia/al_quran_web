@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 39,
+    "english": "You will soon come to know who will be visited by a humiliating torment ˹in this life˺ and overwhelmed by an everlasting punishment ˹in the next˺.”",
+    "arabic1": "فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "فسوف تعلمون من ياتيه عذاب يخزيه ويحل عليه عذاب مقيم",
+    "bengali": "অতএব, শীঘ্রই তোমরা জানতে পারবে, কার উপর সে আযাব আসবে যা তাকে লাঞ্ছিত করবে এবং কার উপর আপতিত হবে স্থায়ী আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_39.mp3"
+        }
+    }
+}

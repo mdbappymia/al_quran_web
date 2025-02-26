@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 66,
+    "english": "Yet ˹some˺ people ask ˹mockingly˺, “After I die, will I really be raised to life again?”",
+    "arabic1": "وَيَقُولُ ٱلْإِنسَـٰنُ أَءِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+    "arabic2": "ويقول الانسان ااذا ما مت لسوف اخرج حيا",
+    "bengali": "আর মানুষ বলে, ‘আমার মৃত্যু হলে আমাকে কি জীবিত অবস্থায় উত্থিত করা হবে?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_66.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_66.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_66.mp3"
+        }
+    }
+}

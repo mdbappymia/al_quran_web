@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 21,
+    "english": "I will surely subject him to a severe punishment, or ˹even˺ slaughter him, unless he brings me a compelling excuse.”",
+    "arabic1": "لَأُعَذِّبَنَّهُۥ عَذَابًا شَدِيدًا أَوْ لَأَا۟ذْبَحَنَّهُۥٓ أَوْ لَيَأْتِيَنِّى بِسُلْطَـٰنٍ مُّبِينٍ",
+    "arabic2": "لاعذبنه عذابا شديدا او لاذبحنه او لياتيني بسلطان مبين",
+    "bengali": "‘অবশ্যই আমি তাকে কঠিন আযাব দেব অথবা তাকে যবেহ করব। অথবা সে আমার কাছে সুস্পষ্ট প্রমাণ নিয়ে আসবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_21.mp3"
+        }
+    }
+}

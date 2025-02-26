@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qiyaama",
+    "surahNameArabic": "القيامة",
+    "surahNameArabicLong": "سورة القيامة",
+    "surahNameTranslation": "The Resurrection",
+    "revelationPlace": "Mecca",
+    "totalAyah": 40,
+    "surahNo": 75,
+    "ayahNo": 26,
+    "english": "But no! ˹Beware of the day˺ when the soul reaches the collar bone ˹as it leaves˺",
+    "arabic1": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+    "arabic2": "كلا اذا بلغت التراقي",
+    "bengali": "কখনই না, যখন প্রাণ কণ্ঠাগত হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/75_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/75_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/75_26.mp3"
+        }
+    }
+}

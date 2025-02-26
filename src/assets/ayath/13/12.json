@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Ra'd",
+    "surahNameArabic": "الرعد",
+    "surahNameArabicLong": "سورة الرعد",
+    "surahNameTranslation": "The Thunder",
+    "revelationPlace": "Madina",
+    "totalAyah": 43,
+    "surahNo": 13,
+    "ayahNo": 12,
+    "english": "He is the One Who shows you lightning, inspiring ˹you with˺ hope and fear, and produces heavy clouds.",
+    "arabic1": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+    "arabic2": "هو الذي يريكم البرق خوفا وطمعا وينشئ السحاب الثقال",
+    "bengali": "তিনিই ভয় ও আশা সঞ্চার করার জন্য তোমাদেরকে বিজলী দেখান এবং তিনি ভারী মেঘমালা সৃষ্টি করেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/13_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/13_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/13_12.mp3"
+        }
+    }
+}

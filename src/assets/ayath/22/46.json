@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 46,
+    "english": "Have they not travelled throughout the land so their hearts may reason, and their ears may listen? Indeed, it is not the eyes that are blind, but it is the hearts in the chests that grow blind.",
+    "arabic1": "أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَآ أَوْ ءَاذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى ٱلْأَبْصَـٰرُ وَلَـٰكِن تَعْمَى ٱلْقُلُوبُ ٱلَّتِى فِى ٱلصُّدُورِ",
+    "arabic2": "افلم يسيروا في الارض فتكون لهم قلوب يعقلون بها او اذان يسمعون بها فانها لا تعمى الابصار ولكن تعمى القلوب التي في الصدور",
+    "bengali": "তারা কি যমীনে ভ্রমণ করেনি? তাহলে তাদের হত এমন হৃদয় যা দ্বারা তারা উপলব্ধি করতে পারত এবং এমন কান যা দ্বারা তারা শুনতে পারত। বস্ত্তত চোখ তো অন্ধ হয় না, বরং অন্ধ হয় বক্ষস্থিত হৃদয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_46.mp3"
+        }
+    }
+}

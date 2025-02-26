@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 117,
+    "english": "Then We inspired Moses, “Throw down your staff,” and—behold!—it devoured the objects of their illusion!",
+    "arabic1": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ",
+    "arabic2": "واوحينا الى موسى ان الق عصاك فاذا هي تلقف ما يافكون",
+    "bengali": "আর আমি মূসার প্রতি ওহী পাঠালাম যে, ‘তুমি তোমার লাঠি ছেড়ে দাও’ তৎক্ষণাৎ সে গিলতে লাগল সেগুলিকে যে অলীক বস্তু তারা বানিয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_117.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_117.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_117.mp3"
+        }
+    }
+}

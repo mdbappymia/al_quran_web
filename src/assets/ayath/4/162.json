@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 162,
+    "english": "But those of them well-grounded in knowledge, the faithful ˹who˺ believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you—˹especially˺ those who establish prayer—and those who pay alms-tax and believe in Allah and the Last Day, to these ˹people˺ We will grant a great reward.",
+    "arabic1": "لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ ۚ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ ۚ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَـٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+    "arabic2": "لكن الراسخون في العلم منهم والمؤمنون يؤمنون بما انزل اليك وما انزل من قبلك والمقيمين الصلاة والمؤتون الزكاة والمؤمنون بالله واليوم الاخر اولئك سنؤتيهم اجرا عظيما",
+    "bengali": "কিন্তু তাদের মধ্যে যারা জ্ঞানে পরিপক্ক এবং মুমিনগণ- যারা তোমার প্রতি যা নাযিল হয়েছে এবং যা নাযিল হয়েছে তোমার পূর্বে- তাতে ঈমান আনে। আর যারা সালাত প্রতিষ্ঠাকারী ও যাকাত প্রদানকারী এবং আল্লাহ ও শেষ দিনে ঈমান আনয়নকারী, তাদেরকে অচিরেই আমি মহাপুরস্কার প্রদান করব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_162.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_162.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_162.mp3"
+        }
+    }
+}

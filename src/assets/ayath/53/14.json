@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Najm",
+    "surahNameArabic": "النجم",
+    "surahNameArabicLong": "سورة النجم",
+    "surahNameTranslation": "The Star",
+    "revelationPlace": "Mecca",
+    "totalAyah": 62,
+    "surahNo": 53,
+    "ayahNo": 14,
+    "english": "at the Lote Tree of the most extreme limit ˹in the seventh heaven˺—",
+    "arabic1": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+    "arabic2": "عند سدرة المنتهى",
+    "bengali": "সিদরাতুল মুনতাহার* নিকট। \n* সিদরাতুল মুনতাহা হল সপ্তম আকাশে আরশের ডান দিকে একটি কুল জাতীয় বৃক্ষ, সকল সৃষ্টির জ্ঞানের সীমার শেষ প্রান্ত। তারপর কি আছে, একমাত্র আল্লাহই জানেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/53_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/53_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/53_14.mp3"
+        }
+    }
+}

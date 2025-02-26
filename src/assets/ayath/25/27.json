@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 27,
+    "english": "And ˹beware of˺ the Day the wrongdoer will bite his nails ˹in regret˺ and say, “Oh! I wish I had followed the Way along with the Messenger!",
+    "arabic1": "وَيَوْمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَـٰلَيْتَنِى ٱتَّخَذْتُ مَعَ ٱلرَّسُولِ سَبِيلًا",
+    "arabic2": "ويوم يعض الظالم على يديه يقول يا ليتني اتخذت مع الرسول سبيلا",
+    "bengali": "আর সেদিন যালিম নিজের হাত দু’টো কামড়িয়ে বলবে, ‘হায়, আমি যদি রাসূলের সাথে কোন পথ অবলম্বন করতাম’!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_27.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_27.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_27.mp3"
+        }
+    }
+}

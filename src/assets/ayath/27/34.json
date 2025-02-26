@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 34,
+    "english": "She reasoned, “Indeed, when kings invade a land, they ruin it and debase its nobles. They really do so!",
+    "arabic1": "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ",
+    "arabic2": "قالت ان الملوك اذا دخلوا قرية افسدوها وجعلوا اعزة اهلها اذلة وكذلك يفعلون",
+    "bengali": "সে বলল, ‘নিশ্চয় রাজা-বাদশাহরা যখন কোন জনপদে প্রবেশ করে তখন তাকে বিপর্যস্ত করে এবং সেখানকার সম্মানিত অধিবাসীদেরকে অপদস্থ করে। আর তা-ই তারা করবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_34.mp3"
+        }
+    }
+}

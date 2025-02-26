@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 139,
+    "english": "They ˹also˺ say, “The offspring of this cattle is reserved for our males and forbidden to our females; but if it is stillborn, they may all share it.” He will repay them for their falsehood. Surely He is All-Wise, All-Knowing.",
+    "arabic1": "وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+    "arabic2": "وقالوا ما في بطون هذه الانعام خالصة لذكورنا ومحرم على ازواجنا وان يكن ميتة فهم فيه شركاء سيجزيهم وصفهم انه حكيم عليم",
+    "bengali": "আর তারা বলে, ‘এই চতুষ্পদ জন্তুগুলোর পেটে যা আছে, তা আমাদের পুরুষদের জন্য নির্দিষ্ট এবং আমাদের স্ত্রীদের জন্য হারাম। আর যদি তা মৃত হয়, তবে তারা সবাই তাতে শরীক’। অচিরেই তিনি তাদেরকে তাদের কথার প্রতিদান দেবেন। নিশ্চয় তিনি প্রজ্ঞাবান, জ্ঞানী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_139.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_139.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_139.mp3"
+        }
+    }
+}

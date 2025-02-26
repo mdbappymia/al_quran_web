@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 51,
+    "english": "See then what the consequences of their plan were: We ˹utterly˺ destroyed them and their people all together.",
+    "arabic1": "فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَـٰهُمْ وَقَوْمَهُمْ أَجْمَعِينَ",
+    "arabic2": "فانظر كيف كان عاقبة مكرهم انا دمرناهم وقومهم اجمعين",
+    "bengali": "অতএব দেখ, তাদের চক্রান্তের পরিণাম কিরূপ হয়েছে। আমি তাদের ও তাদের কওমকে একত্রে ধ্বংস করে দিয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_51.mp3"
+        }
+    }
+}

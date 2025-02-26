@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 15,
+    "english": "˹As for˺ those of your women who commit illegal intercourse—call four witnesses from among yourselves. If they testify, confine the offenders to their homes until they die or Allah ordains a ˹different˺ way for them.",
+    "arabic1": "وَٱلَّـٰتِى يَأْتِينَ ٱلْفَـٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا",
+    "arabic2": "واللاتي ياتين الفاحشة من نسائكم فاستشهدوا عليهن اربعة منكم فان شهدوا فامسكوهن في البيوت حتى يتوفاهن الموت او يجعل الله لهن سبيلا",
+    "bengali": "আর তোমাদের নারীদের মধ্য থেকে যারা ব্যভিচার করে, তোমরা তাদের উপর তোমাদের মধ্য থেকে চার জন সাক্ষী উপস্থিত কর। অতঃপর যদি তারা সাক্ষ্য দেয় তবে তোমরা তাদেরকে ঘরের মধ্যে আবদ্ধ রাখ যতক্ষণ না মৃত্যু তাদের জীবন শেষ করে দেয়। অথবা আল্লাহ তাদের জন্য কোন পথ তৈরি করে দেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_15.mp3"
+        }
+    }
+}

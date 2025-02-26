@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 76,
+    "english": "Believers fight for the cause of Allah, whereas disbelievers fight for the cause of the Devil. So fight against Satan’s ˹evil˺ forces. Indeed, Satan’s schemes are ever weak.",
+    "arabic1": "ٱلَّذِينَ ءَامَنُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱلطَّـٰغُوتِ فَقَـٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَـٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَـٰنِ كَانَ ضَعِيفًا",
+    "arabic2": "الذين امنوا يقاتلون في سبيل الله والذين كفروا يقاتلون في سبيل الطاغوت فقاتلوا اولياء الشيطان ان كيد الشيطان كان ضعيفا",
+    "bengali": "যারা ঈমান এনেছে তারা লড়াই করে আল্লাহর রাস্তায়, আর যারা কুফরী করেছে তারা লড়াই করে তাগূতের পথে। সুতরাং তোমরা লড়াই কর শয়তানের বন্ধুদের বিরুদ্ধে। নিশ্চয় শয়তানের চক্রান্ত দুর্বল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_76.mp3"
+        }
+    }
+}

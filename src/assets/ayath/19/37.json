@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 37,
+    "english": "Yet their ˹various˺ groups have differed among themselves ˹about him˺, so woe to the disbelievers when they face a tremendous Day!",
+    "arabic1": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+    "arabic2": "فاختلف الاحزاب من بينهم فويل للذين كفروا من مشهد يوم عظيم",
+    "bengali": "এরপর তাদের মধ্য থেকে বিভিন্ন দল মতভেদ করল। কাজেই মহাদিবস প্রত্যক্ষকালে কাফিরদের ধ্বংস অনিবার্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_37.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_37.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_37.mp3"
+        }
+    }
+}

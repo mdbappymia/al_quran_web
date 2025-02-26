@@ -1,0 +1,28 @@
+{
+    "surahName": "Fussilat",
+    "surahNameArabic": "فصلت",
+    "surahNameArabicLong": "سورة فصلت",
+    "surahNameTranslation": "Explained in detail",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 41,
+    "ayahNo": 51,
+    "english": "When We show favour to someone, they turn away, acting arrogantly. And when touched with evil, they make endless prayers ˹for good˺.",
+    "arabic1": "وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍ",
+    "arabic2": "واذا انعمنا على الانسان اعرض وناى بجانبه واذا مسه الشر فذو دعاء عريض",
+    "bengali": "আর যখন আমি মানুষের প্রতি অনুগ্রহ করি তখন সে বিমুখ হয় এবং দূরে সরে যায়; আর যখন অকল্যাণ তাকে স্পর্শ করে তখন সে দীর্ঘ দোআকারী হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/41_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/41_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/41_51.mp3"
+        }
+    }
+}

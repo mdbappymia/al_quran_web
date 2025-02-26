@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 94,
+    "english": "Indeed, He fully knows them and has counted them precisely.",
+    "arabic1": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّا",
+    "arabic2": "لقد احصاهم وعدهم عدا",
+    "bengali": "তিনি তাদের সংখ্যা জানেন এবং তাদেরকে যথাযথভাবে গণনা করে রেখেছেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_94.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_94.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_94.mp3"
+        }
+    }
+}

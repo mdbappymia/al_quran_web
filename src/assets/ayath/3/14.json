@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 14,
+    "english": "The enjoyment of ˹worldly˺ desires—women, children, treasures of gold and silver, fine horses, cattle, and fertile land—has been made appealing to people. These are the pleasures of this worldly life, but with Allah is the finest destination.",
+    "arabic1": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ",
+    "arabic2": "زين للناس حب الشهوات من النساء والبنين والقناطير المقنطرة من الذهب والفضة والخيل المسومة والانعام والحرث ذلك متاع الحياة الدنيا والله عنده حسن الماب",
+    "bengali": "মানুষের জন্য সুশোভিত করা হয়েছে প্রবৃত্তির ভালবাসা- নারী, সন্তানাদি, রাশি রাশি সোনা-রূপা, চি‎‎হ্নত ঘোড়া, গবাদি পশু ও শস্যক্ষেত। এগুলো দুনিয়ার জীবনের ভোগসামগ্রী। আর আল্লাহ, তাঁর নিকট রয়েছে উত্তম প্রত্যাবর্তনস্থল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_14.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 46,
+    "english": "Say, ˹O Prophet,˺ “O Allah—Originator of the heavens and the earth, Knower of the seen and unseen! You will judge between Your servants regarding their differences.”",
+    "arabic1": "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ عَـٰلِمَ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+    "arabic2": "قل اللهم فاطر السماوات والارض عالم الغيب والشهادة انت تحكم بين عبادك في ما كانوا فيه يختلفون",
+    "bengali": "বল, ‘হে আল্লাহ, আসমানসমূহ ও যমীনের সৃষ্টিকর্তা, গায়েব ও উপস্থিত বিষয়াদির জ্ঞানী; তুমি তোমার বান্দাদের মধ্যে ফয়সালা করে দেবে যাতে তারা মতবিরোধ করছে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_46.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_46.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_46.mp3"
+        }
+    }
+}

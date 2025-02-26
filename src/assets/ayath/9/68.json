@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 68,
+    "english": "Allah has promised the hypocrites, both men and women, and the disbelievers an everlasting stay in the Fire of Hell—it is sufficient for them. Allah has condemned them, and they will suffer a never-ending punishment.",
+    "arabic1": "وَعَدَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۚ هِىَ حَسْبُهُمْ ۚ وَلَعَنَهُمُ ٱللَّهُ ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+    "arabic2": "وعد الله المنافقين والمنافقات والكفار نار جهنم خالدين فيها هي حسبهم ولعنهم الله ولهم عذاب مقيم",
+    "bengali": "আল্লাহ মুনাফিক পুরুষ, মুনাফিক নারী ও কাফিরদেরকে জাহান্নামের আগুনের প্রতিশ্রুতি দিয়েছেন। তাতে তারা চিরদিন থাকবে, এটি তাদের জন্য যথেষ্ট। আর আল্লাহ তাদের লা‘নত করেন এবং তাদের জন্য রয়েছে স্থায়ী আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_68.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Noor",
+    "surahNameArabic": "النور",
+    "surahNameArabicLong": "سورة النور",
+    "surahNameTranslation": "The Light",
+    "revelationPlace": "Madina",
+    "totalAyah": 64,
+    "surahNo": 24,
+    "ayahNo": 53,
+    "english": "They swear by Allah their most solemn oaths that if you ˹O Prophet˺ were to command them, they would certainly march forth ˹in Allah’s cause˺. Say, “˹You˺ do not ˹have to˺ swear; your obedience is well known!” Surely Allah is All-Aware of what you do.”",
+    "arabic1": "۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic2": "واقسموا بالله جهد ايمانهم لئن امرتهم ليخرجن قل لا تقسموا طاعة معروفة ان الله خبير بما تعملون",
+    "bengali": "আর তারা তাদের সুদৃঢ় শপথের মাধ্যমে আল্লাহর নামে কসম করে বলে যে, ‘তুমি যদি তাদের আদেশ কর তবে তারা বের হবেই। তুমি বল, ‘তোমরা কসম করো না। [তোমাদের] আনুগত্য তো জানাই আছে। তোমরা যা কিছু কর, নিশ্চয় আল্লাহ সে বিষয়ে সবিশেষ অবহিত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/24_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/24_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/24_53.mp3"
+        }
+    }
+}

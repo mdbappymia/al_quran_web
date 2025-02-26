@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 62,
+    "english": "˹Watch for˺ the Day He will call to them, “Where are those you claimed were My associate-gods?”",
+    "arabic1": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+    "arabic2": "ويوم يناديهم فيقول اين شركائي الذين كنتم تزعمون",
+    "bengali": "আর সে দিন তিনি তাদেরকে আহবান করবেন, অতঃপর বলবেন, ‘তোমরা যাদেরকে আমার শরীক মনে করতে তারা কোথায়’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_62.mp3"
+        }
+    }
+}

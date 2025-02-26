@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 141,
+    "english": "And ˹remember˺ when We rescued you from the people of Pharaoh, who afflicted you with dreadful torment—killing your sons and keeping your women. That was a severe test from your Lord.",
+    "arabic1": "وَإِذْ أَنجَيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+    "arabic2": "واذ انجيناكم من ال فرعون يسومونكم سوء العذاب يقتلون ابناءكم ويستحيون نساءكم وفي ذلكم بلاء من ربكم عظيم",
+    "bengali": "আর স্মরণ কর, যখন আমি ফির‘আউনের লোকদের থেকে তোমাদেরকে রক্ষা করলাম, যারা তোমাদের নিকৃষ্ট শাস্তি দিত। যারা তোমাদের ছেলেদের হত্যা করত এবং নারীদের জীবিত রাখত। এতে ছিল তোমাদের রবের পক্ষ থেকে এক মহাপরীক্ষা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_141.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_141.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_141.mp3"
+        }
+    }
+}

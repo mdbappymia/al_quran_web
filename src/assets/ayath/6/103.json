@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 103,
+    "english": "No vision can encompass Him, but He encompasses all vision. For He is the Most Subtle, All-Aware.",
+    "arabic1": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+    "arabic2": "لا تدركه الابصار وهو يدرك الابصار وهو اللطيف الخبير",
+    "bengali": "চক্ষুসমূহ তাকে আয়ত্ব করতে পারে না। আর তিনি চক্ষুসমূহকে আয়ত্ব করেন। আর তিনি সূক্ষ্মদর্শী, সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_103.mp3"
+        }
+    }
+}

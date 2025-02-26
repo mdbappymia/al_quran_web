@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 53,
+    "english": "When it is recited to them, they declare, “We believe in it. This is definitely the truth from our Lord. We had already submitted ˹even˺ before this.”",
+    "arabic1": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوٓا۟ ءَامَنَّا بِهِۦٓ إِنَّهُ ٱلْحَقُّ مِن رَّبِّنَآ إِنَّا كُنَّا مِن قَبْلِهِۦ مُسْلِمِينَ",
+    "arabic2": "واذا يتلى عليهم قالوا امنا به انه الحق من ربنا انا كنا من قبله مسلمين",
+    "bengali": "আর যখন তাদের নিকট তা তিলাওয়াত করা হয় তখন তারা বলে, ‘আমরা এর প্রতি ঈমান এনেছি, নিশ্চয় তা সত্য আমাদের রবের পক্ষ থেকে। নিশ্চয় আমরা এর পূর্বেও আত্মসমর্পণকারী ছিলাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_53.mp3"
+        }
+    }
+}

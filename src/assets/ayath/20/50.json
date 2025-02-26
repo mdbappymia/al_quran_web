@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 50,
+    "english": "He answered, “Our Lord is the One Who has given everything its ˹distinctive˺ form, then guided ˹it˺.”",
+    "arabic1": "قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ",
+    "arabic2": "قال ربنا الذي اعطى كل شيء خلقه ثم هدى",
+    "bengali": "মূসা বলল, ‘আমাদের রব তিনি, যিনি সকল বস্তুকে তার আকৃতি দান করেছেন, অতঃপর সঠিক পথ নির্দেশ করেছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_50.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_50.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_50.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 109,
+    "english": "So do not be in doubt ˹O Prophet˺ about what those ˹pagans˺ worship. They worship nothing except what their forefathers worshipped before ˹them˺. And We will certainly give them their share ˹of punishment˺ in full, without any reduction.",
+    "arabic1": "فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَـٰٓؤُلَآءِ ۚ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ ۚ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ",
+    "arabic2": "فلا تك في مرية مما يعبد هؤلاء ما يعبدون الا كما يعبد اباؤهم من قبل وانا لموفوهم نصيبهم غير منقوص",
+    "bengali": "সুতরাং এরা যাদের উপাসনা করে, তুমি তাদের ব্যাপারে সংশয়ে থেকো না। তারা তো ইবাদাত করে, যেমন ইতঃপূর্বে ইবাদাত করত তাদের পিতৃপুরুষগণ। নিশ্চয় আমি তাদের অংশ হ্রাস না করে তাদেরকে পুরোপুরি দেব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_109.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_109.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_109.mp3"
+        }
+    }
+}

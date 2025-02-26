@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 74,
+    "english": "Whoever comes to their Lord as an evildoer will certainly have Hell, where they can neither live nor die.",
+    "arabic1": "إِنَّهُۥ مَن يَأْتِ رَبَّهُۥ مُجْرِمًا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+    "arabic2": "انه من يات ربه مجرما فان له جهنم لا يموت فيها ولا يحيى",
+    "bengali": "যে তার রবের নিকট অপরাধী অবস্থায় আসবে, তার জন্য রয়েছে জাহান্নাম। সেখানে সে মরবেও না, বাঁচবেও না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_74.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_74.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_74.mp3"
+        }
+    }
+}

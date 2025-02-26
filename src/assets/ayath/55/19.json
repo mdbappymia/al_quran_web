@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 19,
+    "english": "He merges the two bodies of ˹fresh and salt˺ water",
+    "arabic1": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+    "arabic2": "مرج البحرين يلتقيان",
+    "bengali": "তিনি দুই সমুদ্রকে প্রবাহিত করেন, যারা পরস্পর মিলিত হয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_19.mp3"
+        }
+    }
+}

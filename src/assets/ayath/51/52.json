@@ -1,0 +1,28 @@
+{
+    "surahName": "Adh-Dhaariyat",
+    "surahNameArabic": "الذاريات",
+    "surahNameArabicLong": "سورة الذاريات",
+    "surahNameTranslation": "The Winnowing Winds",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 51,
+    "ayahNo": 52,
+    "english": "Similarly, no messenger came to those before them without being told: “A magician or a madman!”",
+    "arabic1": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ",
+    "arabic2": "كذلك ما اتى الذين من قبلهم من رسول الا قالوا ساحر او مجنون",
+    "bengali": "এভাবে তাদের পূর্ববর্তীদের মধ্য থেকে যে রাসূলই এসেছে, তারা বলেছে, ‘এ তো একজন যাদুকর অথবা উন্মাদ।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/51_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/51_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/51_52.mp3"
+        }
+    }
+}

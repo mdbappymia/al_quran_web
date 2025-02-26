@@ -1,0 +1,28 @@
+{
+    "surahName": "Ghafir",
+    "surahNameArabic": "غافر",
+    "surahNameArabicLong": "سورة غافر",
+    "surahNameTranslation": "The Forgiver",
+    "revelationPlace": "Mecca",
+    "totalAyah": 85,
+    "surahNo": 40,
+    "ayahNo": 31,
+    "english": "like the fate of the people of Noah, ’Ȃd, Thamûd, and those after them. For Allah would never will to wrong ˹His˺ servants.",
+    "arabic1": "مِثْلَ دَأْبِ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۚ وَمَا ٱللَّهُ يُرِيدُ ظُلْمًا لِّلْعِبَادِ",
+    "arabic2": "مثل داب قوم نوح وعاد وثمود والذين من بعدهم وما الله يريد ظلما للعباد",
+    "bengali": "‘যেমন ঘটেছিল নূহ, ‘আদ ও ছামূদ-এর কওম এবং তাদের পরবর্তীদের। আর আল্লাহ বান্দাদের উপর কোন যুলম করতে চান না।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/40_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/40_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/40_31.mp3"
+        }
+    }
+}

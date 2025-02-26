@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Masad",
+    "surahNameArabic": "المسد",
+    "surahNameArabicLong": "سورة المسد",
+    "surahNameTranslation": "The Palm Fibre",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 111,
+    "ayahNo": 3,
+    "english": "He will burn in a flaming Fire",
+    "arabic1": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+    "arabic2": "سيصلى نارا ذات لهب",
+    "bengali": "অচিরেই সে দগ্ধ হবে লেলিহান আগুনে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/111_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/111_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/111_3.mp3"
+        }
+    }
+}

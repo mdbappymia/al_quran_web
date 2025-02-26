@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 22,
+    "english": "Your God is ˹only˺ One God. As for those who do not believe in the Hereafter, their hearts are in denial, and they are too proud.",
+    "arabic1": "إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم مُّسْتَكْبِرُونَ",
+    "arabic2": "الهكم اله واحد فالذين لا يؤمنون بالاخرة قلوبهم منكرة وهم مستكبرون",
+    "bengali": "তোমাদের ইলাহ এক ইলাহ। অতঃপর যারা আখিরাতে বিশ্বাস করে না, তাদের অন্তর অস্বীকারকারী এবং তারা অহঙ্কারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_22.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_22.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_22.mp3"
+        }
+    }
+}

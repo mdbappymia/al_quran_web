@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 70,
+    "english": "So the magicians fell down in prostration, declaring, “We believe in the Lord of Aaron and Moses.”",
+    "arabic1": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+    "arabic2": "فالقي السحرة سجدا قالوا امنا برب هارون وموسى",
+    "bengali": "অতঃপর যাদুকরেরা সিজদায় লুটিয়ে পড়ল। তারা বলল, ‘আমরা হারূন ও মূসার রবের প্রতি ঈমান আনলাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_70.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 59,
+    "english": "Say, ˹O Prophet,˺ “Praise be to Allah, and peace be upon the servants He has chosen.” ˹Ask the disbelievers,˺ “Which is better: Allah or whatever ˹gods˺ they associate ˹with Him˺?”",
+    "arabic1": "قُلِ ٱلْحَمْدُ لِلَّهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰٓ ۗ ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ",
+    "arabic2": "قل الحمد لله وسلام على عباده الذين اصطفى الله خير اما يشركون",
+    "bengali": "বল, ‘সকল প্রশংসাই আল্লাহর নিমিত্তে। আর শান্তি তাঁর বান্দাদের প্রতি যাদের তিনি মনোনীত করেছেন। আল্লাহ শ্রেষ্ঠ, না কি যাদের এরা শরীক করে তারা’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_59.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_59.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_59.mp3"
+        }
+    }
+}

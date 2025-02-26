@@ -1,0 +1,28 @@
+{
+    "surahName": "Saad",
+    "surahNameArabic": "ص",
+    "surahNameArabicLong": "سورة ص",
+    "surahNameTranslation": "The letter Saad",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 38,
+    "ayahNo": 4,
+    "english": "Now, the pagans are astonished that a warner has come to them from among themselves. And the disbelievers say, “This is a magician, a total liar!",
+    "arabic1": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ",
+    "arabic2": "وعجبوا ان جاءهم منذر منهم وقال الكافرون هذا ساحر كذاب",
+    "bengali": "আর তারা বিস্মিত হল যে, তাদের কাছে তাদের মধ্য থেকেই একজন সতর্ককারী এসেছে এবং কাফিররা বলে, ‘এ তো যাদুকর, মিথ্যাবাদী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/38_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/38_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/38_4.mp3"
+        }
+    }
+}

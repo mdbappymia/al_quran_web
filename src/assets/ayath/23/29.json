@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Muminoon",
+    "surahNameArabic": "المؤمنون",
+    "surahNameArabicLong": "سورة المؤمنون",
+    "surahNameTranslation": "The Believers",
+    "revelationPlace": "Mecca",
+    "totalAyah": 118,
+    "surahNo": 23,
+    "ayahNo": 29,
+    "english": "And pray, “My Lord! Allow me a blessed landing, for You are the best accommodator.”",
+    "arabic1": "وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
+    "arabic2": "وقل رب انزلني منزلا مباركا وانت خير المنزلين",
+    "bengali": "তুমি আরও বলবে, ‘হে আমার রব, আমাকে বরকতময় অবতরণস্থলে অবতরণ করান। আর আপনিই সর্বশ্রেষ্ঠ অবতরণকারী’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/23_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/23_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/23_29.mp3"
+        }
+    }
+}

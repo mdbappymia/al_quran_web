@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ikhlaas",
+    "surahNameArabic": "الإخلاص",
+    "surahNameArabicLong": "سورة الإخلاص",
+    "surahNameTranslation": "Sincerity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 112,
+    "ayahNo": 2,
+    "english": "Allah—the Sustainer ˹needed by all˺.",
+    "arabic1": "ٱللَّهُ ٱلصَّمَدُ",
+    "arabic2": "الله الصمد",
+    "bengali": "আল্লাহ কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/112_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/112_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/112_2.mp3"
+        }
+    }
+}

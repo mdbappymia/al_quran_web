@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 154,
+    "english": "Additionally, We gave Moses the Scripture, completing the favour upon those who do good, detailing everything, and as a guide and a mercy, so perhaps they would be certain of the meeting with their Lord.",
+    "arabic1": "ثُمَّ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ تَمَامًا عَلَى ٱلَّذِىٓ أَحْسَنَ وَتَفْصِيلًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لَّعَلَّهُم بِلِقَآءِ رَبِّهِمْ يُؤْمِنُونَ",
+    "arabic2": "ثم اتينا موسى الكتاب تماما على الذي احسن وتفصيلا لكل شيء وهدى ورحمة لعلهم بلقاء ربهم يؤمنون",
+    "bengali": "অতঃপর আমি মূসাকে প্রদান করেছি কিতাব, যে সৎকর্ম করেছে তার জন্য পরিপূর্ণতাস্বরূপ, প্রতিটি বিষয়ের বিস্তারিত ব্যাখ্যা, হিদায়াত ও রহমতস্বরূপ। যাতে তারা তাদের রবের সাক্ষাতের ব্যাপারে ঈমান রাখে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_154.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_154.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_154.mp3"
+        }
+    }
+}

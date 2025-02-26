@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 56,
+    "english": "Say, ˹O Prophet,˺ “Invoke those you claim ˹to be divine˺ besides Him—they do not have the power to undo harm from you or transfer it ˹to someone else˺.”",
+    "arabic1": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا",
+    "arabic2": "قل ادعوا الذين زعمتم من دونه فلا يملكون كشف الضر عنكم ولا تحويلا",
+    "bengali": "বল, ‘তাদেরকে ডাক, আল্লাহ ছাড়া তোমরা যাদেরকে (উপাস্য) মনে কর। তারা তো তোমাদের দুঃখ-দুর্দশা দূর করার ও পরিবর্তন করার ক্ষমতা রাখে না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_56.mp3"
+        }
+    }
+}

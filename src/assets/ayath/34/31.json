@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 31,
+    "english": "The disbelievers vow, “We will never believe in this Quran, nor in those ˹Scriptures˺ before it.” If only you could see when the wrongdoers will be detained before their Lord, throwing blame at each other! The lowly ˹followers˺ will say to the arrogant ˹leaders˺, “Had it not been for you, we would certainly have been believers.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَـٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ",
+    "arabic2": "وقال الذين كفروا لن نؤمن بهذا القران ولا بالذي بين يديه ولو ترى اذ الظالمون موقوفون عند ربهم يرجع بعضهم الى بعض القول يقول الذين استضعفوا للذين استكبروا لولا انتم لكنا مؤمنين",
+    "bengali": "আর কাফিরগণ বলে, ‘আমরা কখনো এ কুরআনের প্রতি ঈমান আনব না এবং এর পূববর্তী কোন কিতাবের প্রতিও না’। আর তুমি যদি দেখতে যালিমদেরকে, যখন তাদের রবের কাছে দাঁড় করিয়ে দেয়া হবে তখন তারা পরস্পর বাদানুবাদ করতে থাকবে। যাদেরকে দুর্বল করে রাখা হয়েছিল তারা অহঙ্কারীদেরকে বলবে, ‘তোমরা না থাকলে অবশ্যই আমরা মুমিন হতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_31.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_31.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_31.mp3"
+        }
+    }
+}

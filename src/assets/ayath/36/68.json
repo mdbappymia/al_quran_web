@@ -1,0 +1,28 @@
+{
+    "surahName": "Yaseen",
+    "surahNameArabic": "يس",
+    "surahNameArabicLong": "سورة يس",
+    "surahNameTranslation": "Yaseen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 83,
+    "surahNo": 36,
+    "ayahNo": 68,
+    "english": "And whoever We grant a long life, We reverse them in development. Will they not then understand?",
+    "arabic1": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+    "arabic2": "ومن نعمره ننكسه في الخلق افلا يعقلون",
+    "bengali": "আর আমি যাকে দীর্ঘ জীবন দান করি, সৃষ্টি-অবয়বে আমি তার পরিবর্তন ঘটাই। তবুও কি তারা বুঝবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/36_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/36_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/36_68.mp3"
+        }
+    }
+}

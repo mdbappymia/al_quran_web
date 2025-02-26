@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Masad",
+    "surahNameArabic": "المسد",
+    "surahNameArabicLong": "سورة المسد",
+    "surahNameTranslation": "The Palm Fibre",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 111,
+    "ayahNo": 5,
+    "english": "around her neck will be a rope of palm-fibre.",
+    "arabic1": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+    "arabic2": "في جيدها حبل من مسد",
+    "bengali": "তার গলায় পাকানো দড়ি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/111_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/111_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/111_5.mp3"
+        }
+    }
+}

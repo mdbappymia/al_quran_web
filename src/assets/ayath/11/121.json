@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 121,
+    "english": "Say to those who disbelieve, “Persist in your ways; we will certainly persist in ours.",
+    "arabic1": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَـٰمِلُونَ",
+    "arabic2": "وقل للذين لا يؤمنون اعملوا على مكانتكم انا عاملون",
+    "bengali": "আর যারা ঈমান আনছে না তাদেরকে বল, ‘তোমরা স্ব স্ব অবস্থানে কাজ কর আমরাও কাজ করছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_121.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_121.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_121.mp3"
+        }
+    }
+}

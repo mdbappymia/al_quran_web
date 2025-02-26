@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 241,
+    "english": "Reasonable provisions must be made for divorced women—a duty on those mindful ˹of Allah˺.",
+    "arabic1": "وَلِلْمُطَلَّقَـٰتِ مَتَـٰعٌۢ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+    "arabic2": "وللمطلقات متاع بالمعروف حقا على المتقين",
+    "bengali": "আর তালাকপ্রাপ্তা নারীদের জন্য থাকবে বিধি মোতাবেক ভরণ-পোষণ। (এটি) মুত্তাকীদের উপর আবশ্যক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_241.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_241.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_241.mp3"
+        }
+    }
+}

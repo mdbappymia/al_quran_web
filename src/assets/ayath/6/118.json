@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 118,
+    "english": "So eat only of what is slaughtered in Allah’s Name if you truly believe in His revelations.",
+    "arabic1": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَـٰتِهِۦ مُؤْمِنِينَ",
+    "arabic2": "فكلوا مما ذكر اسم الله عليه ان كنتم باياته مؤمنين",
+    "bengali": "সুতরাং তোমরা আহার কর তা থেকে, যার উপর আল্লাহর নাম নেয়া হয়েছে, যদি তোমরা তাঁর আয়াতসমূহের ব্যাপারে বিশ্বাসী হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_118.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_118.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_118.mp3"
+        }
+    }
+}

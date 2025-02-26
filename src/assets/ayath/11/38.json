@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 38,
+    "english": "So he began to build the Ark, and whenever some of the chiefs of his people passed by, they mocked him. He said, “If you laugh at us, we will ˹soon˺ laugh at you similarly.",
+    "arabic1": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+    "arabic2": "ويصنع الفلك وكلما مر عليه ملا من قومه سخروا منه قال ان تسخروا منا فانا نسخر منكم كما تسخرون",
+    "bengali": "আর সে নৌকা তৈরী করতে লাগল এবং যখনই তার কওমের নেতৃস্থানীয় কোন ব্যক্তি তার পাশ দিয়ে যেত, তাকে নিয়ে উপহাস করত। সে বলল, ‘যদি তোমরা আমাদের নিয়ে উপহাস কর, তবে আমরাও তোমাদের নিয়ে উপহাস করব, যেমন তোমরা উপহাস করছ’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_38.mp3"
+        }
+    }
+}

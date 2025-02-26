@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 56,
+    "english": "You surely cannot guide whoever you like ˹O Prophet˺, but it is Allah Who guides whoever He wills, and He knows best who are ˹fit to be˺ guided.",
+    "arabic1": "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+    "arabic2": "انك لا تهدي من احببت ولكن الله يهدي من يشاء وهو اعلم بالمهتدين",
+    "bengali": "নিশ্চয় তুমি যাকে ভালবাস তাকে তুমি হিদায়াত দিতে পারবে না; বরং আল্লাহই যাকে ইচ্ছা হিদায়াত দেন। আর হিদায়াতপ্রাপ্তদের ব্যাপারে তিনি ভাল জানেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_56.mp3"
+        }
+    }
+}

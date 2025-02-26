@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 34,
+    "english": "We unleashed upon them a storm of stones. As for ˹the believers of˺ Lot’s family, We delivered them before dawn",
+    "arabic1": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ",
+    "arabic2": "انا ارسلنا عليهم حاصبا الا ال لوط نجيناهم بسحر",
+    "bengali": "নিশ্চয় আমি তাদের উপর কংকর-ঝড় পাঠিয়েছিলাম, তবে লূত পরিবারের উপর নয়। আমি তাদেরকে শেষ রাতে নাজাত দিয়েছিলাম,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_34.mp3"
+        }
+    }
+}

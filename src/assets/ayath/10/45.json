@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 45,
+    "english": "On the Day He will gather them, it will be as if they had not stayed ˹in the world˺ except for an hour of a day, ˹as though they were only˺ getting to know one another. Lost indeed will be those who denied the meeting with Allah, and were not ˹rightly˺ guided!",
+    "arabic1": "وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ",
+    "arabic2": "ويوم يحشرهم كان لم يلبثوا الا ساعة من النهار يتعارفون بينهم قد خسر الذين كذبوا بلقاء الله وما كانوا مهتدين",
+    "bengali": "আর যেদিন তিনি তাদেরকে একত্র করবেন, যেন তারা দিবসের মুহূর্তকালমাত্র অবস্থান করেছে। তারা একে অপরকে চিনতে পারবে। তারা অবশ্যই ক্ষতিগ্রস্ত হয়েছে, যারা আল্লাহর সাক্ষাৎ অস্বীকার করেছে, আর তারা হিদায়াতপ্রাপ্ত ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_45.mp3"
+        }
+    }
+}

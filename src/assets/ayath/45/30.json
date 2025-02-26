@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 30,
+    "english": "As for those who believed and did good, their Lord will admit them into His mercy. That is ˹truly˺ the absolute triumph.",
+    "arabic1": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ",
+    "arabic2": "فاما الذين امنوا وعملوا الصالحات فيدخلهم ربهم في رحمته ذلك هو الفوز المبين",
+    "bengali": "অতঃপর যারা ঈমান এনেছে এবং সৎকাজ করেছে তাদের রব পরিণামে তাদেরকে স্বীয় রহমতে প্রবেশ করাবেন। এটিই সুস্পষ্ট সাফল্য।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_30.mp3"
+        }
+    }
+}

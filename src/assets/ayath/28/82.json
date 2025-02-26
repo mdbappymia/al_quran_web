@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 82,
+    "english": "And those who had craved his position the previous day began to say, “Ah! It is certainly Allah Who gives abundant or limited provisions to whoever He wills of His servants. Had it not been for the grace of Allah, He could have surely caused the earth to swallow us up! Oh, indeed! The disbelievers will never succeed.”",
+    "arabic1": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ ۖ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ",
+    "arabic2": "واصبح الذين تمنوا مكانه بالامس يقولون ويكان الله يبسط الرزق لمن يشاء من عباده ويقدر لولا ان من الله علينا لخسف بنا ويكانه لا يفلح الكافرون",
+    "bengali": "আর গতকাল যারা তার মত হতে প্রত্যাশা করেছিল তারা বলতে লাগল, ‘আশ্চর্য! দেখলে তো, আল্লাহ তাঁর বান্দাদের মধ্য থেকে যার জন্য ইচ্ছা রিয্ক প্রসারিত অথবা সংকুচিত করেন। যদি আল্লাহ আমাদের প্রতি অনুগ্রহ না করতেন তবে আমাদেরকেও তিনি দাবিয়ে দিতেন। দেখলে তো, কাফিররা সফল হয় না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_82.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_82.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_82.mp3"
+        }
+    }
+}

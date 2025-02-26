@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 64,
+    "english": "“We only descend by the command of your Lord. To Him belongs whatever is before us, and whatever is behind us, and everything in between. And your Lord is never forgetful.",
+    "arabic1": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+    "arabic2": "وما نتنزل الا بامر ربك له ما بين ايدينا وما خلفنا وما بين ذلك وما كان ربك نسيا",
+    "bengali": "(জিবরীল বলল) ‘আর আমরা আপনার রবের নির্দেশ ছাড়া অবতরণ করি না। যা আমাদের সামনে আছে, আর যা আছে আমাদের পিছনে এবং যা রয়েছে এতদোভয়ের মধ্যে, সব তাঁরই মালিকানাধীন। আর আপনার রব ভুলে যান না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_64.mp3"
+        }
+    }
+}

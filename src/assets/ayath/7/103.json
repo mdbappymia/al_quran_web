@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 103,
+    "english": "Then after them We sent Moses with Our signs to Pharaoh and his chiefs, but they wrongfully rejected them. See what was the end of the corruptors!",
+    "arabic1": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+    "arabic2": "ثم بعثنا من بعدهم موسى باياتنا الى فرعون وملئه فظلموا بها فانظر كيف كان عاقبة المفسدين",
+    "bengali": "অতঃপর তাদের পরে আমি মূসাকে আমার আয়াতসমূহ সহকারে ফির‘আউন ও তার সভাসদদের কাছে পাঠিয়েছি। অতঃপর তারা এর সাথে যুলম করেছে। সুতরাং লক্ষ্য কর, ফাসাদকারীদের পরিণাম কীরূপ হয়েছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_103.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_103.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_103.mp3"
+        }
+    }
+}

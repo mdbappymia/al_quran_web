@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 26,
+    "english": "And He brought down those from the People of the Book who supported the enemy alliance from their own strongholds, and cast horror into their hearts. You ˹believers˺ killed some, and took others captive.",
+    "arabic1": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+    "arabic2": "وانزل الذين ظاهروهم من اهل الكتاب من صياصيهم وقذف في قلوبهم الرعب فريقا تقتلون وتاسرون فريقا",
+    "bengali": "আর আহলে কিতাবদের মধ্যে যারা তাদের সহযোগিতা করেছিল, আল্লাহ তাদেরকে অবতরণ করালেন তাদের দুর্গসমূহ থেকে এবং তাদের অন্তরসমূহে ভীতির সঞ্চার করলেন। ফলে তোমরা হত্যা করছ একদলকে, আর বন্দী করছ অন্য দলকে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_26.mp3"
+        }
+    }
+}

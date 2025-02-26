@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 25,
+    "english": "And one of His signs is that the heavens and the earth persist by His command. Then when He calls you out of the earth just once, you will instantly come forth.",
+    "arabic1": "وَمِنْ ءَايَـٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلْأَرْضُ بِأَمْرِهِۦ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِّنَ ٱلْأَرْضِ إِذَآ أَنتُمْ تَخْرُجُونَ",
+    "arabic2": "ومن اياته ان تقوم السماء والارض بامره ثم اذا دعاكم دعوة من الارض اذا انتم تخرجون",
+    "bengali": "আর তাঁর নিদর্শনাবলীর মধ্যে রয়েছে, তাঁরই নির্দেশে আসমান ও যমীন স্থিতিশীল থাকে। তারপর তিনি যখন তোমাদেরকে যমীন থেকে বের হয়ে আসার জন্য একবার আহবান করবেন তখনই তোমরা বের হয়ে আসবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_25.mp3"
+        }
+    }
+}

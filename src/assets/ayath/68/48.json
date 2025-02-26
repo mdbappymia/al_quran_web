@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qalam",
+    "surahNameArabic": "القلم",
+    "surahNameArabicLong": "سورة القلم",
+    "surahNameTranslation": "The Pen",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 68,
+    "ayahNo": 48,
+    "english": "So be patient with your Lord’s decree, and do not be like ˹Jonah,˺ the Man of the Whale, who cried out ˹to Allah˺, in total distress.",
+    "arabic1": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+    "arabic2": "فاصبر لحكم ربك ولا تكن كصاحب الحوت اذ نادى وهو مكظوم",
+    "bengali": "অতএব তুমি তোমার রবের হুকুমের জন্য ধৈর্যধারণ কর। আর তুমি মাছওয়ালার মত হয়ো না, যখন সে দুঃখে কাতর হয়ে ডেকেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/68_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/68_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/68_48.mp3"
+        }
+    }
+}

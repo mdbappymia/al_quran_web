@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anfaal",
+    "surahNameArabic": "الأنفال",
+    "surahNameArabicLong": "سورة الأنفال",
+    "surahNameTranslation": "The Spoils of War",
+    "revelationPlace": "Madina",
+    "totalAyah": 75,
+    "surahNo": 8,
+    "ayahNo": 35,
+    "english": "Their prayer at the Sacred House was nothing but whistling and clapping. So taste the punishment for your disbelief.",
+    "arabic1": "وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءً وَتَصْدِيَةً ۚ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic2": "وما كان صلاتهم عند البيت الا مكاء وتصدية فذوقوا العذاب بما كنتم تكفرون",
+    "bengali": "আর কা‘বার নিকট তাদের সালাত শিষ ও হাত-তালি ছাড়া কিছু ছিল না। সুতরাং তোমরা আস্বাদন কর আযাব। কারণ তোমরা কুফরী করতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/8_35.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/8_35.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/8_35.mp3"
+        }
+    }
+}

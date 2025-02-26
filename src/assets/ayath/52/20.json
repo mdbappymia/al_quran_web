@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tur",
+    "surahNameArabic": "الطور",
+    "surahNameArabicLong": "سورة الطور",
+    "surahNameTranslation": "The Mount",
+    "revelationPlace": "Mecca",
+    "totalAyah": 49,
+    "surahNo": 52,
+    "ayahNo": 20,
+    "english": "They will be reclining on thrones, ˹neatly˺ lined up ˹facing each other˺. And We will pair them to maidens with gorgeous eyes.",
+    "arabic1": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+    "arabic2": "متكئين على سرر مصفوفة وزوجناهم بحور عين",
+    "bengali": "সারিবদ্ধ পালঙ্কে তারা হেলান দিয়ে বসবে; আর আমি তাদেরকে মিলায়ে দেব ডাগরচোখা হূর-এর সাথে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/52_20.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/52_20.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/52_20.mp3"
+        }
+    }
+}

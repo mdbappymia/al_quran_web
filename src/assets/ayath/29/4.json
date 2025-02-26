@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 4,
+    "english": "Or do the evildoers ˹simply˺ think that they will escape Us? How wrong is their judgment!",
+    "arabic1": "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسْبِقُونَا ۚ سَآءَ مَا يَحْكُمُونَ",
+    "arabic2": "ام حسب الذين يعملون السيئات ان يسبقونا ساء ما يحكمون",
+    "bengali": "নাকি যারা পাপ কাজ করে তারা মনে করে যে, তারা আমাকে রেখে সামনে চলে যাবে? কতইনা নিকৃষ্ট, যা তারা ফয়সালা করে!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_4.mp3"
+        }
+    }
+}

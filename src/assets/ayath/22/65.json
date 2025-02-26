@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 65,
+    "english": "Do you not see that Allah has subjected to you whatever is in the earth as well as the ships ˹that˺ sail through the sea by His command? He keeps the sky from falling down on the earth except by His permission. Surely Allah is Ever Gracious and Most Merciful to humanity.",
+    "arabic1": "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ ۗ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+    "arabic2": "الم تر ان الله سخر لكم ما في الارض والفلك تجري في البحر بامره ويمسك السماء ان تقع على الارض الا باذنه ان الله بالناس لرءوف رحيم",
+    "bengali": "তুমি কি লক্ষ্য কর না যে, যমীনে যা কিছু আছে এবং নৌযানগুলো যা তাঁরই নির্দেশে সমুদ্রে বিচরণ করে সবই আল্লাহ তোমাদের জন্য অনুগত করে দিয়েছেন। আর তিনিই আসমানকে আটকিয়ে রেখেছেন, যাতে তাঁর অনুমতি ছাড়া তা যমীনের উপর পড়ে না যায়। নিশ্চয় আল্লাহ মানুষের প্রতি বড়ই করুণাময়, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_65.mp3"
+        }
+    }
+}

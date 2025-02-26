@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 10,
+    "english": "And ˹it warns˺ those who do not believe in the Hereafter ˹that˺ We have prepared for them a painful punishment.",
+    "arabic1": "وَأَنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+    "arabic2": "وان الذين لا يؤمنون بالاخرة اعتدنا لهم عذابا اليما",
+    "bengali": "আর যারা আখিরাতে ঈমান রাখে না আমি তাদের জন্য প্রস্ত্তত করেছি যন্ত্রণাদায়ক আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_10.mp3"
+        }
+    }
+}

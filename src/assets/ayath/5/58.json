@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 58,
+    "english": "When you call to prayer, they mock it in amusement. This is because they are a people without understanding.",
+    "arabic1": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+    "arabic2": "واذا ناديتم الى الصلاة اتخذوها هزوا ولعبا ذلك بانهم قوم لا يعقلون",
+    "bengali": "আর যখন তোমরা সালাতের দিকে ডাক, তখন তারা একে উপহাস ও খেল-তামাশারূপে গ্রহণ করে। তা এই কারণে যে, তারা এমন কওম, যারা বুঝে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_58.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_58.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_58.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 147,
+    "english": "˹This is˺ the truth from your Lord, so do not ever be one of those who doubt.",
+    "arabic1": "ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+    "arabic2": "الحق من ربك فلا تكونن من الممترين",
+    "bengali": "সত্য তোমার রবের পক্ষ থেকে। সুতরাং তুমি কখনো সন্দেহ পোষণকারীদের অন্তর্ভুক্ত হয়ো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_147.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_147.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_147.mp3"
+        }
+    }
+}

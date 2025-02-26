@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nahl",
+    "surahNameArabic": "النحل",
+    "surahNameArabicLong": "سورة النحل",
+    "surahNameTranslation": "The Bee",
+    "revelationPlace": "Mecca",
+    "totalAyah": 128,
+    "surahNo": 16,
+    "ayahNo": 39,
+    "english": "˹He will do that˺ to make clear to them what they disagreed on, and for the disbelievers to know that they were liars.",
+    "arabic1": "لِيُبَيِّنَ لَهُمُ ٱلَّذِى يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ كَانُوا۟ كَـٰذِبِينَ",
+    "arabic2": "ليبين لهم الذي يختلفون فيه وليعلم الذين كفروا انهم كانوا كاذبين",
+    "bengali": "যাতে তিনি তাদের জন্য স্পষ্ট করেন, যা নিয়ে তারা মতবিরোধ করে। আর যারা কুফরী করেছে, যেন তারা জানতে পারে যে, নিশ্চয় তারা ছিল মিথ্যাবাদী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/16_39.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/16_39.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/16_39.mp3"
+        }
+    }
+}

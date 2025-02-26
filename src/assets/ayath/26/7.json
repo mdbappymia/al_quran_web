@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shu'araa",
+    "surahNameArabic": "الشعراء",
+    "surahNameArabicLong": "سورة الشعراء",
+    "surahNameTranslation": "The Poets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 227,
+    "surahNo": 26,
+    "ayahNo": 7,
+    "english": "Have they failed to look at the earth, ˹to see˺ how many types of fine plants We have caused to grow in it?",
+    "arabic1": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+    "arabic2": "اولم يروا الى الارض كم انبتنا فيها من كل زوج كريم",
+    "bengali": "তারা কি যমীনের প্রতি লক্ষ করেনি? আমি তাতে প্রত্যেক প্রকারের বহু উৎকৃষ্ট উদ্ভিদ উদগত করেছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/26_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/26_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/26_7.mp3"
+        }
+    }
+}

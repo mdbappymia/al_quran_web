@@ -1,0 +1,28 @@
+{
+    "surahName": "Quraish",
+    "surahNameArabic": "قريش",
+    "surahNameArabicLong": "سورة قريش",
+    "surahNameTranslation": "Quraysh",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 106,
+    "ayahNo": 1,
+    "english": "˹At least˺ for ˹the favour of˺ making Quraysh habitually secure—",
+    "arabic1": " لِإِيلَـٰفِ قُرَيْشٍ",
+    "arabic2": "لايلاف قريش",
+    "bengali": "যেহেতু কুরাইশ অভ্যস্ত,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/106_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/106_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/106_1.mp3"
+        }
+    }
+}

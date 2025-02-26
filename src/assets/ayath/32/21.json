@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Sajda",
+    "surahNameArabic": "السجدة",
+    "surahNameArabicLong": "سورة السجدة",
+    "surahNameTranslation": "The Prostration",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 32,
+    "ayahNo": 21,
+    "english": "We will certainly make them taste some of the minor torment ˹in this life˺ before the major torment ˹of the Hereafter˺, so perhaps they will return ˹to the Right Path˺.",
+    "arabic1": "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ ٱلْأَدْنَىٰ دُونَ ٱلْعَذَابِ ٱلْأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic2": "ولنذيقنهم من العذاب الادنى دون العذاب الاكبر لعلهم يرجعون",
+    "bengali": "আর অবশ্যই আমি তাদেরকে গুরুতর আযাবের পূর্বে লঘু আযাব আস্বাদন করাব, যাতে তারা ফিরে আসে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/32_21.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/32_21.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/32_21.mp3"
+        }
+    }
+}

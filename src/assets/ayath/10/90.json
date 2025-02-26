@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 90,
+    "english": "We brought the Children of Israel across the sea. Then Pharaoh and his soldiers pursued them unjustly and oppressively. But as Pharaoh was drowning, he cried out, “I believe that there is no god except that in whom the Children of Israel believe, and I am ˹now˺ one of those who submit.”",
+    "arabic1": "۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ",
+    "arabic2": "وجاوزنا ببني اسرائيل البحر فاتبعهم فرعون وجنوده بغيا وعدوا حتى اذا ادركه الغرق قال امنت انه لا اله الا الذي امنت به بنو اسرائيل وانا من المسلمين",
+    "bengali": "আর আমি বনী ইসরাঈলকে সমুদ্র পার করিয়ে নিলাম। আর ফির‘আউন ও তার সৈন্যবাহিনী ঔদ্ধত্য প্রকাশ ও সীমালঙ্ঘনকারী হয়ে তাদের পিছু নিল। অবশেষে যখন সে ডুবে যেতে লাগল, তখন বলল, ‘আমি ঈমান এনেছি যে, সে সত্তা ছাড়া কোন ইলাহ নেই, যার প্রতি বনী ইসরাঈল ঈমান এনেছে। আর আমি মুসলিমদের অন্তর্ভুক্ত’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_90.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_90.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_90.mp3"
+        }
+    }
+}

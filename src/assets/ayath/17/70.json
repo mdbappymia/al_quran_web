@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 70,
+    "english": "Indeed, We have dignified the children of Adam, carried them on land and sea, granted them good and lawful provisions, and privileged them far above many of Our creatures.",
+    "arabic1": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+    "arabic2": "ولقد كرمنا بني ادم وحملناهم في البر والبحر ورزقناهم من الطيبات وفضلناهم على كثير ممن خلقنا تفضيلا",
+    "bengali": "আর আমি তো আদম সন্তানদের সম্মানিত করেছি এবং আমি তাদেরকে স্থলে ও সমুদ্রে বাহন দিয়েছি এবং তাদেরকে দিয়েছি উত্তম রিয্ক। আর আমি যা সৃষ্টি করেছি তাদের থেকে অনেকের উপর আমি তাদেরকে অনেক মর্যাদা দিয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_70.mp3"
+        }
+    }
+}

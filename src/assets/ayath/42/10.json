@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 10,
+    "english": "˹Say to the believers, O  Prophet,˺ “Whatever you may differ about, its judgment rests with Allah. That is Allah—my Lord. In Him I put my trust, and to Him I ˹always˺ turn.”",
+    "arabic1": "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "arabic2": "وما اختلفتم فيه من شيء فحكمه الى الله ذلكم الله ربي عليه توكلت واليه انيب",
+    "bengali": "আর যে কোন বিষয়েই তোমরা মতবিরোধ কর, তার ফয়সালা আল্লাহর কাছে; তিনিই আল্লাহ, আমার রব; তাঁরই উপর আমি তাওয়াক্কুল করেছি এবং আমি তাঁরই অভিমুখী হই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_10.mp3"
+        }
+    }
+}

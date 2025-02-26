@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 43,
+    "english": "And some of them look at you, but can you guide the blind even though they cannot see?",
+    "arabic1": "وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ ۚ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ",
+    "arabic2": "ومنهم من ينظر اليك افانت تهدي العمي ولو كانوا لا يبصرون",
+    "bengali": "আর তাদের মধ্যে কেউ আছে এমন, যে তোমার দিকে তাকায়। তবে কি তুমি অন্ধকে পথ দেখাবে, তারা না দেখলেও?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_43.mp3"
+        }
+    }
+}

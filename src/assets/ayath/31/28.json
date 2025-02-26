@@ -1,0 +1,28 @@
+{
+    "surahName": "Luqman",
+    "surahNameArabic": "لقمان",
+    "surahNameArabicLong": "سورة لقمان",
+    "surahNameTranslation": "Luqman",
+    "revelationPlace": "Mecca",
+    "totalAyah": 34,
+    "surahNo": 31,
+    "ayahNo": 28,
+    "english": "The creation and resurrection of you ˹all˺ is as simple ˹for Him˺ as that of a single soul. Surely Allah is All-Hearing, All-Seeing.",
+    "arabic1": "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "arabic2": "ما خلقكم ولا بعثكم الا كنفس واحدة ان الله سميع بصير",
+    "bengali": "তোমাদের সৃষ্টি ও তোমাদের পুনরুত্থান কেবল একটি প্রাণের (সৃষ্টি ও পুনরুত্থানের) মতই। নিশ্চয় আল্লাহ সর্বশ্রোতা, দ্রষ্টা।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/31_28.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/31_28.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/31_28.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 65,
+    "english": "to stay there for ever and ever—never will they find any protector or helper.",
+    "arabic1": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+    "arabic2": "خالدين فيها ابدا لا يجدون وليا ولا نصيرا",
+    "bengali": "সেখানে তারা চিরস্থায়ী হবে। তারা না পাবে কোন অভিভাবক এবং না কোন সাহায্যকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_65.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_65.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_65.mp3"
+        }
+    }
+}

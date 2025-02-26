@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 179,
+    "english": "You will see, and they too will see!",
+    "arabic1": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+    "arabic2": "وابصر فسوف يبصرون",
+    "bengali": "আর তাদেরকে পর্যবেক্ষণ কর, অচিরেই তারা দেখবে (এর পরিণাম)।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_179.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_179.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_179.mp3"
+        }
+    }
+}

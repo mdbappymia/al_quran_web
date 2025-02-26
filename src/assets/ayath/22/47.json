@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 47,
+    "english": "They challenge you ˹O Prophet˺ to hasten the torment. And Allah will never fail in His promise. But a day with your Lord is indeed like a thousand years by your counting.",
+    "arabic1": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن يُخْلِفَ ٱللَّهُ وَعْدَهُۥ ۚ وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ",
+    "arabic2": "ويستعجلونك بالعذاب ولن يخلف الله وعده وان يوما عند ربك كالف سنة مما تعدون",
+    "bengali": "আর তারা তোমাকে আযাব তরান্বিত করতে বলে, অথচ আল্লাহ কখনো তাঁর ওয়াদা খেলাফ করেন না। আর তোমার রবের নিকট নিশ্চয় এক দিন তোমাদের গণনায় হাজার বছরের সমান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_47.mp3"
+        }
+    }
+}

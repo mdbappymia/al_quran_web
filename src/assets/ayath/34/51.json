@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 51,
+    "english": "If only you could see when they will be horrified with no escape ˹on Judgment Day˺! And they will be seized from a nearby place.",
+    "arabic1": "وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ",
+    "arabic2": "ولو ترى اذ فزعوا فلا فوت واخذوا من مكان قريب",
+    "bengali": "আর যদি তুমি দেখতে যখন তারা ভীত-সন্ত্রস্ত হয়ে পড়বে তখন পালানোর কোন পথ পাবে না এবং নিকটস্থ স্থান থেকে তাদেরকে পাকড়াও করা হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_51.mp3"
+        }
+    }
+}

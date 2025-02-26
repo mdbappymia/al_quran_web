@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 164,
+    "english": "Say, ˹O Prophet,˺ “Should I seek a lord other than Allah while He is the Lord of everything?” No one will reap except what they sow. No soul burdened with sin will bear the burden of another. Then to your Lord is your return, and He will inform you of your differences.",
+    "arabic1": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+    "arabic2": "قل اغير الله ابغي ربا وهو رب كل شيء ولا تكسب كل نفس الا عليها ولا تزر وازرة وزر اخرى ثم الى ربكم مرجعكم فينبئكم بما كنتم فيه تختلفون",
+    "bengali": "বল, ‘আমি কি আল্লাহ ছাড়া অন্য কোন রব অনুসন্ধান করব’ অথচ তিনি সব কিছুর রব’? আর প্রতিটি ব্যক্তি যা অর্জন করে, তা শুধু তারই উপর বর্তায় আর কোন ভারবহনকারী অন্যের ভার বহন করবে না। অতঃপর তোমাদের রবের নিকটই তোমাদের প্রত্যাবর্তনস্থল। সুতরাং তিনি তোমাদেরকে সেই সংবাদ দেবেন, যাতে তোমরা মতবিরোধ করতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_164.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_164.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_164.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Waaqia",
+    "surahNameArabic": "الواقعة",
+    "surahNameArabicLong": "سورة الواقعة",
+    "surahNameTranslation": "The Inevitable",
+    "revelationPlace": "Mecca",
+    "totalAyah": 96,
+    "surahNo": 56,
+    "ayahNo": 47,
+    "english": "They used to ask ˹mockingly˺, “When we are dead and reduced to dust and bones, will we really be resurrected?",
+    "arabic1": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+    "arabic2": "وكانوا يقولون ائذا متنا وكنا ترابا وعظاما اانا لمبعوثون",
+    "bengali": "আর তারা বলত, ‘আমরা যখন মরে যাব এবং মাটি ও হাড়ে পরিণত হব তখনও কি আমরা পুনরুত্থিত হব?’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/56_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/56_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/56_47.mp3"
+        }
+    }
+}

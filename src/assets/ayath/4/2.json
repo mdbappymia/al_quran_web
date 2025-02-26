@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 2,
+    "english": "Give orphans their wealth ˹when they reach maturity˺, and do not exchange your worthless possessions for their valuables, nor cheat them by mixing their wealth with your own. For this would indeed be a great sin.",
+    "arabic1": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ ۖ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ ۖ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ ۚ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+    "arabic2": "واتوا اليتامى اموالهم ولا تتبدلوا الخبيث بالطيب ولا تاكلوا اموالهم الى اموالكم انه كان حوبا كبيرا",
+    "bengali": "আর তোমরা ইয়াতীমদেরকে তাদের ধন-সম্পদ দিয়ে দাও এবং তোমরা অপবিত্র বস্ত্তকে পবিত্র বস্ত্ত দ্বারা পরিবর্তন করো না এবং তাদের ধন-সম্পদকে তোমাদের ধন-সম্পদের সাথে খেয়ো না। নিশ্চয় তা বড় পাপ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_2.mp3"
+        }
+    }
+}

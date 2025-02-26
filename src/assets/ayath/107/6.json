@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maa'un",
+    "surahNameArabic": "الماعون",
+    "surahNameArabicLong": "سورة الماعون",
+    "surahNameTranslation": "Almsgiving",
+    "revelationPlace": "Mecca",
+    "totalAyah": 7,
+    "surahNo": 107,
+    "ayahNo": 6,
+    "english": "those who ˹only˺ show off",
+    "arabic1": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+    "arabic2": "الذين هم يراءون",
+    "bengali": "যারা লোক দেখানোর জন্য তা করে,",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/107_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/107_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/107_6.mp3"
+        }
+    }
+}

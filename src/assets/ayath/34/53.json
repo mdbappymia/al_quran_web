@@ -1,0 +1,28 @@
+{
+    "surahName": "Saba",
+    "surahNameArabic": "سبإ",
+    "surahNameArabicLong": "سورة سَبَأ",
+    "surahNameTranslation": "Sheba",
+    "revelationPlace": "Mecca",
+    "totalAyah": 54,
+    "surahNo": 34,
+    "ayahNo": 53,
+    "english": "while they had already rejected it before, guessing blindly from a place ˹equally˺ far-away ˹from the Hereafter˺?",
+    "arabic1": "وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍ",
+    "arabic2": "وقد كفروا به من قبل ويقذفون بالغيب من مكان بعيد",
+    "bengali": "অথচ তারা ইতঃপূর্বে তা অস্বীকার করত এবং তারা দূরবর্তী স্থান থেকে গায়েব সম্পর্কে কুটমন্তব্য ছুঁড়ে মারত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/34_53.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/34_53.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/34_53.mp3"
+        }
+    }
+}

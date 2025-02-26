@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 25,
+    "english": "It destroyed everything by the command of its Lord, leaving nothing visible except their ruins. This is how We reward the wicked people.",
+    "arabic1": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+    "arabic2": "تدمر كل شيء بامر ربها فاصبحوا لا يرى الا مساكنهم كذلك نجزي القوم المجرمين",
+    "bengali": "এটা তার রবের নির্দেশে সব কিছু ধ্বংস করে দেবে’। ফলে তারা এমন (ধ্বংস) হয়ে গেল যে, তাদের আবাসস্থল ছাড়া আর কিছুই দেখা যাচ্ছিল না। এভাবেই আমি অপরাধী কওমকে প্রতিফল দিয়ে থাকি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_25.mp3"
+        }
+    }
+}

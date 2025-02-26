@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 51,
+    "english": "And ˹remember˺ when We appointed forty nights for Moses, then you worshipped the calf in his absence, acting wrongfully.",
+    "arabic1": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ",
+    "arabic2": "واذ واعدنا موسى اربعين ليلة ثم اتخذتم العجل من بعده وانتم ظالمون",
+    "bengali": "আর যখন আমি মূসাকে চল্লিশ রাতের ওয়াদা দিয়েছিলাম অতঃপর তোমরা তার যাওয়ার পর বাছুরকে (উপাস্যরূপে) গ্রহণ করেছিলে, আর তোমরা ছিলে যালিম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_51.mp3"
+        }
+    }
+}

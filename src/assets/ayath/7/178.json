@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 178,
+    "english": "Whoever Allah guides is truly guided. And whoever He leaves to stray, they are the ˹true˺ losers.",
+    "arabic1": "مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِى ۖ وَمَن يُضْلِلْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic2": "من يهد الله فهو المهتدي ومن يضلل فاولئك هم الخاسرون",
+    "bengali": "যাকে আল্লাহ হিদায়াত করেন সে-ই হিদায়াতপ্রাপ্ত আর যাদেরকে তিনি পথভ্রষ্ট করেন তারাই ক্ষতিগ্রস্ত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_178.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_178.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_178.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 5,
+    "english": "leaving them like chewed up straw.",
+    "arabic1": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+    "arabic2": "فجعلهم كعصف ماكول",
+    "bengali": "অতঃপর তিনি তাদেরকে করলেন ভক্ষিত শস্যপাতার ন্যায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/105_5.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/105_5.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/105_5.mp3"
+        }
+    }
+}

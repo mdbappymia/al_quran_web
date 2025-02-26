@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 40,
+    "english": "Zachariah exclaimed, “My Lord! How can I have a son when I am very old and my wife is barren?” He replied, “So will it be. Allah does what He wills.”",
+    "arabic1": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+    "arabic2": "قال رب انى يكون لي غلام وقد بلغني الكبر وامراتي عاقر قال كذلك الله يفعل ما يشاء",
+    "bengali": "সে বলল, ‘হে আমার রব, কীভাবে আমার পুত্র হবে? অথচ আমার তো বার্ধক্য এসে গিয়েছে, আর আমার স্ত্রী বন্ধা’। তিনি বললেন, ‘এভাবেই আল্লাহ যা ইচ্ছা তা করেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_40.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahqaf",
+    "surahNameArabic": "الأحقاف",
+    "surahNameArabicLong": "سورة الأحقاف",
+    "surahNameTranslation": "The Dunes",
+    "revelationPlace": "Mecca",
+    "totalAyah": 35,
+    "surahNo": 46,
+    "ayahNo": 23,
+    "english": "He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”",
+    "arabic1": "قَالَ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَأُبَلِّغُكُم مَّآ أُرْسِلْتُ بِهِۦ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+    "arabic2": "قال انما العلم عند الله وابلغكم ما ارسلت به ولكني اراكم قوما تجهلون",
+    "bengali": "সে বলল, ‘এ জ্ঞান একমাত্র আল্লাহর কাছে। আর যা দিয়ে আমাকে পাঠানো হয়েছে, আমি তোমাদের কাছে তা-ই প্রচার করি, কিন্তু আমি দেখছি, তোমরা এক মূর্খ সম্প্রদায়’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/46_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/46_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/46_23.mp3"
+        }
+    }
+}

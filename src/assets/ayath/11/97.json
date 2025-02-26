@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 97,
+    "english": "to Pharaoh and his chiefs, but they followed the command of Pharaoh, and Pharaoh’s command was not well guided.",
+    "arabic1": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱتَّبَعُوٓا۟ أَمْرَ فِرْعَوْنَ ۖ وَمَآ أَمْرُ فِرْعَوْنَ بِرَشِيدٍ",
+    "arabic2": "الى فرعون وملئه فاتبعوا امر فرعون وما امر فرعون برشيد",
+    "bengali": "ফির‘আউন ও তার নেতৃবৃন্দের কাছে। অতঃপর তারা ফির‘আউনের নির্দেশের অনুসরণ করল। আর ফির‘আউনের নির্দেশ সঠিক ছিল না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_97.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_97.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_97.mp3"
+        }
+    }
+}

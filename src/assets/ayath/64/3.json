@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Taghaabun",
+    "surahNameArabic": "التغابن",
+    "surahNameArabicLong": "سورة التغابن",
+    "surahNameTranslation": "Mutual Disillusion",
+    "revelationPlace": "Madina",
+    "totalAyah": 18,
+    "surahNo": 64,
+    "ayahNo": 3,
+    "english": "He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return.",
+    "arabic1": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ ٱلْمَصِيرُ",
+    "arabic2": "خلق السماوات والارض بالحق وصوركم فاحسن صوركم واليه المصير",
+    "bengali": "তিনি আসমানসমূহ ও যমীনকে যথার্থভাবে সৃষ্টি করেছেন এবং তোমাদেরকে আকৃতি দান করেছেন এবং সুন্দর করেছেন তোমাদের আকৃতি। আর প্রত্যাবর্তন তো তাঁরই নিকট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/64_3.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/64_3.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/64_3.mp3"
+        }
+    }
+}

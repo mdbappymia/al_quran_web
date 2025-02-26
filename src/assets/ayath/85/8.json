@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Burooj",
+    "surahNameArabic": "البروج",
+    "surahNameArabicLong": "سورة البروج",
+    "surahNameTranslation": "The Constellations",
+    "revelationPlace": "Mecca",
+    "totalAyah": 22,
+    "surahNo": 85,
+    "ayahNo": 8,
+    "english": "who they resented for no reason other than belief in Allah—the Almighty, the Praiseworthy—",
+    "arabic1": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+    "arabic2": "وما نقموا منهم الا ان يؤمنوا بالله العزيز الحميد",
+    "bengali": "আর তারা তাদেরকে নির্যাতন করেছিল শুধুমাত্র এ কারণে যে, তারা মহাপরাক্রমশালী প্রশংসিত আল্লাহর প্রতি ঈমান এনেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/85_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/85_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/85_8.mp3"
+        }
+    }
+}

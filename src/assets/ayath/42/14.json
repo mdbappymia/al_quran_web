@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shura",
+    "surahNameArabic": "الشورى",
+    "surahNameArabicLong": "سورة الشورى",
+    "surahNameTranslation": "Consultation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 53,
+    "surahNo": 42,
+    "ayahNo": 14,
+    "english": "They did not split ˹into sects˺ out of mutual envy until knowledge came to them. Had it not been for a prior decree from your Lord for an appointed term, the matter would have certainly been settled between them ˹at once˺. And surely those who were made to inherit the Scripture after them are truly in alarming doubt about this ˹Quran˺.",
+    "arabic1": "وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+    "arabic2": "وما تفرقوا الا من بعد ما جاءهم العلم بغيا بينهم ولولا كلمة سبقت من ربك الى اجل مسمى لقضي بينهم وان الذين اورثوا الكتاب من بعدهم لفي شك منه مريب",
+    "bengali": "আর তাদের কাছে জ্ঞান আসার পরও তারা কেবল নিজদের মধ্যকার বিদ্বেষের কারণে মতভেদ করেছে; একটি নির্দিষ্ট কাল পর্যন্ত অবকাশ সম্পর্কে তোমার রবের পূর্ব সিদ্ধান্ত না থাকলে তাদের বিষয়ে ফয়সালা হয়ে যেত। আর তাদের পরে যারা কিতাবের উত্তরাধিকারী হয়েছিল, তারা সে সম্পর্কে বিভ্রান্তিকর সন্দেহে রয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/42_14.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/42_14.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/42_14.mp3"
+        }
+    }
+}

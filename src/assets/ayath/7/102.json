@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 102,
+    "english": "We did not find most of them true to their covenant. Rather, We found most of them truly rebellious.",
+    "arabic1": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَـٰسِقِينَ",
+    "arabic2": "وما وجدنا لاكثرهم من عهد وان وجدنا اكثرهم لفاسقين",
+    "bengali": "আর তাদের অধিকাংশ লোককে আমি অঙ্গীকার রক্ষাকারী পাইনি। বরং তাদের অধিকাংশকে আমি ফাসিক-ই পেয়েছি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_102.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_102.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_102.mp3"
+        }
+    }
+}

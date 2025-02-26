@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 238,
+    "english": "Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.",
+    "arabic1": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+    "arabic2": "حافظوا على الصلوات والصلاة الوسطى وقوموا لله قانتين",
+    "bengali": "তোমরা সালাতসমূহ ও মধ্যবর্তী সালাতের হিফাযত কর এবং আল্লাহর জন্য দাঁড়াও বিনীত হয়ে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_238.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_238.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_238.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 110,
+    "english": "The building which they erected will never cease to fuel hypocrisy in their hearts until their hearts are torn apart. And Allah is All-Knowing, All-Wise.",
+    "arabic1": "لَا يَزَالُ بُنْيَـٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+    "arabic2": "لا يزال بنيانهم الذي بنوا ريبة في قلوبهم الا ان تقطع قلوبهم والله عليم حكيم",
+    "bengali": "তাদের নির্মিত গৃহ, তাদের অন্তরে সন্দেহের কারণ হয়ে থাকবে, যে পর্যন্ত না তাদের হৃদয় টুকরো টুকরো হয়ে যায়। আর আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_110.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_110.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_110.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 17,
+    "english": "I will approach them from their front, their back, their right, their left, and then You will find most of them ungrateful.”",
+    "arabic1": "ثُمَّ لَـَٔاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَـٰنِهِمْ وَعَن شَمَآئِلِهِمْ ۖ وَلَا تَجِدُ أَكْثَرَهُمْ شَـٰكِرِينَ",
+    "arabic2": "ثم لاتينهم من بين ايديهم ومن خلفهم وعن ايمانهم وعن شمائلهم ولا تجد اكثرهم شاكرين",
+    "bengali": "‘তারপর অবশ্যই তাদের নিকট উপস্থিত হব, তাদের সামনে থেকে ও তাদের পেছন থেকে এবং তাদের ডান দিক থেকে ও তাদের বাম দিক থেকে। আর আপনি তাদের অধিকাংশকে কৃতজ্ঞ পাবেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_17.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_17.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_17.mp3"
+        }
+    }
+}

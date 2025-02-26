@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Room",
+    "surahNameArabic": "الروم",
+    "surahNameArabicLong": "سورة الروم",
+    "surahNameTranslation": "The Romans",
+    "revelationPlace": "Mecca",
+    "totalAyah": 60,
+    "surahNo": 30,
+    "ayahNo": 38,
+    "english": "So give your close relatives their due, as well as the poor and the ˹needy˺ traveller. That is best for those who seek the pleasure of Allah, and it is they who will be successful.",
+    "arabic1": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic2": "فات ذا القربى حقه والمسكين وابن السبيل ذلك خير للذين يريدون وجه الله واولئك هم المفلحون",
+    "bengali": "অতএব আত্মীয়-স্বজনকে তাদের হক দিয়ে দাও এবং মিসকীন ও মুসাফিরকেও। এটি উত্তম তাদের জন্য, যারা আল্লাহর সন্তুষ্টি চায় এবং তারাই সফলকাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/30_38.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/30_38.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/30_38.mp3"
+        }
+    }
+}

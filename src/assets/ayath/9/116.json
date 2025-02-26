@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 116,
+    "english": "Indeed, to Allah ˹alone˺ belongs the kingdom of the heavens and the earth. He gives life and causes death. And besides Allah you have no guardian or helper.",
+    "arabic1": "إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+    "arabic2": "ان الله له ملك السماوات والارض يحيي ويميت وما لكم من دون الله من ولي ولا نصير",
+    "bengali": "নিশ্চয় আল্লাহ, তাঁর জন্যই আসমানসমূহ ও যমীনের রাজত্ব। তিনি জীবন দান করেন ও মৃত্যু ঘটান। আর আল্লাহ ছাড়া তোমাদের জন্য না আছে কোন অভিভাবক, না আছে কোন সাহায্যকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_116.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_116.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_116.mp3"
+        }
+    }
+}

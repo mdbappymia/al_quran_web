@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 25,
+    "english": "Give good news ˹O Prophet˺ to those who believe and do good that they will have Gardens under which rivers flow. Whenever provided with fruit, they will say, “This is what we were given before,” for they will be served fruit that looks similar ˹but tastes different˺. They will have pure spouses, and they will be there forever.",
+    "arabic1": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا۟ هَـٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهًا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic2": "وبشر الذين امنوا وعملوا الصالحات ان لهم جنات تجري من تحتها الانهار كلما رزقوا منها من ثمرة رزقا قالوا هذا الذي رزقنا من قبل واتوا به متشابها ولهم فيها ازواج مطهرة وهم فيها خالدون",
+    "bengali": "যারা ঈমান এনেছে এবং নেক কাজ করেছে তুমি তাদেরকে সুসংবাদ দাও যে, তাদের জন্য রয়েছে জান্নাতসমূহ, যার তলদেশ দিয়ে প্রবাহিত হবে নদীসমূহ। যখনই তাদেরকে জান্নাত থেকে কোন ফল খেতে দেয়া হবে, তারা বলবে, ‘এটাই তো পূর্বে আমাদেরকে খেতে দেয়া হয়েছিল’। আর তাদেরকে তা দেয়া হবে সাদৃশ্যপূর্ণ করে এবং তাদের জন্য তাতে থাকবে পবিত্র স্ত্রীগণ এবং তারা সেখানে হবে স্থায়ী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_25.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_25.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_25.mp3"
+        }
+    }
+}

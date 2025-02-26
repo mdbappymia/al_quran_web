@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 19,
+    "english": "What about those against whom the decree of torment has been justified? Is it you ˹O Prophet˺ who will then save those bound for the Fire?",
+    "arabic1": "أَفَمَنْ حَقَّ عَلَيْهِ كَلِمَةُ ٱلْعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِى ٱلنَّارِ",
+    "arabic2": "افمن حق عليه كلمة العذاب افانت تنقذ من في النار",
+    "bengali": "যার ব্যাপারে আযাবের হুকুম সাব্যস্ত হয়েছে, তুমি কি তাকে উদ্ধার করতে পারবে, যে আছে জাহান্নামে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_19.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_19.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_19.mp3"
+        }
+    }
+}

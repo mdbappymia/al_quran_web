@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 67,
+    "english": "And they will say, “Our Lord! We obeyed our leaders and elite, but they led us astray from the ˹Right˺ Way.",
+    "arabic1": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+    "arabic2": "وقالوا ربنا انا اطعنا سادتنا وكبراءنا فاضلونا السبيلا",
+    "bengali": "তারা আরো বলবে, ‘হে আমাদের রব, আমরা আমাদের নেতৃবর্গ ও বিশিষ্ট লোকদের আনুগত্য করেছিলাম, তখন তারা আমাদেরকে পথভ্রষ্ট করেছিল’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_67.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_67.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_67.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 153,
+    "english": "Has He chosen daughters over sons?",
+    "arabic1": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+    "arabic2": "اصطفى البنات على البنين",
+    "bengali": "তিনি কি পুত্রসন্তানদের উপর কন্যা সন্তানদের বেছে নিয়েছেন?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_153.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_153.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_153.mp3"
+        }
+    }
+}

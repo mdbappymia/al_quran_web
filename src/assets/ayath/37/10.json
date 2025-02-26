@@ -1,0 +1,28 @@
+{
+    "surahName": "As-Saaffaat",
+    "surahNameArabic": "الصافات",
+    "surahNameArabicLong": "سورة الصافات",
+    "surahNameTranslation": "Those drawn up in Ranks",
+    "revelationPlace": "Mecca",
+    "totalAyah": 182,
+    "surahNo": 37,
+    "ayahNo": 10,
+    "english": "But whoever manages to stealthily eavesdrop is ˹instantly˺ pursued by a piercing flare.",
+    "arabic1": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ",
+    "arabic2": "الا من خطف الخطفة فاتبعه شهاب ثاقب",
+    "bengali": "তবে কেউ সন্তর্পণে কিছু শুনে নিলে তাকে পিছু তাড়া করে জ্বলন্ত উল্কাপিন্ড।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/37_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/37_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/37_10.mp3"
+        }
+    }
+}

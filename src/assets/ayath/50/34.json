@@ -1,0 +1,28 @@
+{
+    "surahName": "Qaaf",
+    "surahNameArabic": "ق",
+    "surahNameArabicLong": "سورة ق",
+    "surahNameTranslation": "The letter Qaaf",
+    "revelationPlace": "Mecca",
+    "totalAyah": 45,
+    "surahNo": 50,
+    "ayahNo": 34,
+    "english": "Enter it in peace. This is the Day of eternal life!”",
+    "arabic1": "ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ",
+    "arabic2": "ادخلوها بسلام ذلك يوم الخلود",
+    "bengali": "তোমরা তাতে শান্তির সাথে প্রবেশ কর। এটাই স্থায়িত্বের দিন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/50_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/50_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/50_34.mp3"
+        }
+    }
+}

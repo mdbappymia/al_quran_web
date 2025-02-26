@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 111,
+    "english": "Even if We had sent them the angels, made the dead speak to them, and assembled before their own eyes every sign ˹they demanded˺, they still would not have believed—unless Allah so willed. But most of them are ignorant ˹of this˺.",
+    "arabic1": "۞ وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَـٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَـٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+    "arabic2": "ولو اننا نزلنا اليهم الملائكة وكلمهم الموتى وحشرنا عليهم كل شيء قبلا ما كانوا ليؤمنوا الا ان يشاء الله ولكن اكثرهم يجهلون",
+    "bengali": "আর যদি আমি তাদের নিকট ফেরেশতা নাযিল করতাম এবং মৃতরা তাদের সাথে কথা বলত। আর সবকিছু সরাসরি তাদের সামনে সমবেত করতাম, তাহলেও তারা ঈমান আনত না, যদি না আল্লাহ চাইতেন; কিন্তু তাদের অধিকাংশই মূর্খ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_111.mp3"
+        }
+    }
+}

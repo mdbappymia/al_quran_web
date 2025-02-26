@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mursalaat",
+    "surahNameArabic": "المرسلات",
+    "surahNameArabicLong": "سورة المرسلات",
+    "surahNameTranslation": "The Emissaries",
+    "revelationPlace": "Mecca",
+    "totalAyah": 50,
+    "surahNo": 77,
+    "ayahNo": 32,
+    "english": "Indeed, it hurls sparks ˹as big˺ as huge castles",
+    "arabic1": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+    "arabic2": "انها ترمي بشرر كالقصر",
+    "bengali": "নিশ্চয় তা (জাহান্নাম) ছড়াবে প্রাসাদসম স্ফুলিঙ্গ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/77_32.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/77_32.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/77_32.mp3"
+        }
+    }
+}

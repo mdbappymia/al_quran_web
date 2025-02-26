@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 55,
+    "english": "Follow ˹the Quran,˺ the best of what has been revealed to you from your Lord, before the punishment takes you by surprise while you are unaware",
+    "arabic1": "وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم مِّن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ بَغْتَةً وَأَنتُمْ لَا تَشْعُرُونَ",
+    "arabic2": "واتبعوا احسن ما انزل اليكم من ربكم من قبل ان ياتيكم العذاب بغتة وانتم لا تشعرون",
+    "bengali": "আর অনুসরণ কর উত্তম যা নাযিল করা হয়েছে তোমাদের রবের পক্ষ থেকে, তোমাদের উপর অতর্কিতভাবে আযাব আসার পূর্বে। অথচ তোমরা উপলব্ধি করতে পারবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_55.mp3"
+        }
+    }
+}

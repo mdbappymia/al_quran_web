@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 62,
+    "english": "Or ˹ask them,˺ “Who responds to the distressed when they cry to Him, relieving ˹their˺ affliction, and ˹Who˺ makes you successors in the earth? Is it another god besides Allah? Yet you are hardly mindful!”",
+    "arabic1": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+    "arabic2": "امن يجيب المضطر اذا دعاه ويكشف السوء ويجعلكم خلفاء الارض االه مع الله قليلا ما تذكرون",
+    "bengali": "বরং তিনি, যিনি নিরুপায়ের আহবানে সাড়া দেন এবং বিপদ দূরীভূত করেন এবং তোমাদেরকে যমীনের প্রতিনিধি বানান। আল্লাহর সাথে কি অন্য কোন ইলাহ আছে ? তোমরা কমই উপদেশ গ্রহণ করে থাক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_62.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_62.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_62.mp3"
+        }
+    }
+}

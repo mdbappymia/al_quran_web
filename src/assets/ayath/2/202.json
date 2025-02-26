@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 202,
+    "english": "It is they who will receive a ˹heavenly˺ reward for the good they have done. Surely Allah is swift in reckoning.",
+    "arabic1": "أُو۟لَـٰٓئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا۟ ۚ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+    "arabic2": "اولئك لهم نصيب مما كسبوا والله سريع الحساب",
+    "bengali": "তারা যা অর্জন করেছে তার হিস্যা তাদের রয়েছে। আর আল্লাহ হিসাব গ্রহণে দ্রুত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_202.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_202.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_202.mp3"
+        }
+    }
+}

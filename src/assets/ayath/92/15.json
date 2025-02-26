@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Lail",
+    "surahNameArabic": "الليل",
+    "surahNameArabicLong": "سورة الليل",
+    "surahNameTranslation": "The Night",
+    "revelationPlace": "Mecca",
+    "totalAyah": 21,
+    "surahNo": 92,
+    "ayahNo": 15,
+    "english": "in which none will burn except the most wretched—",
+    "arabic1": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+    "arabic2": "لا يصلاها الا الاشقى",
+    "bengali": "তাতে নিতান্ত হতভাগা ছাড়া কেউ প্রবেশ করবে না;",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/92_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/92_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/92_15.mp3"
+        }
+    }
+}

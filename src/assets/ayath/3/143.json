@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 143,
+    "english": "You certainly wished ˹for the opportunity˺ for martyrdom before encountering it, now you have seen it with your own eyes.",
+    "arabic1": "وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ",
+    "arabic2": "ولقد كنتم تمنون الموت من قبل ان تلقوه فقد رايتموه وانتم تنظرون",
+    "bengali": "আর তোমরা অবশ্যই মৃত্যু কামনা করতে, তার সাথে সাক্ষাতের পূর্বে। অতএব তোমরা তো তা দেখেছই এমতাবস্থায় যে, তোমরা তাকাচ্ছিলে ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_143.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_143.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_143.mp3"
+        }
+    }
+}

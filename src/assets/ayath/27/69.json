@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 69,
+    "english": "Say, ˹O Prophet,˺ “Travel throughout the land and see the fate of the wicked.”",
+    "arabic1": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُجْرِمِينَ",
+    "arabic2": "قل سيروا في الارض فانظروا كيف كان عاقبة المجرمين",
+    "bengali": "বল, ‘তোমরা যমীনে ভ্রমণ কর, তারপর দেখ, কিরূপ হয়েছিল অপরাধীদের পরিণতি।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_69.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_69.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_69.mp3"
+        }
+    }
+}

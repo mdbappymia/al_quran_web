@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 80,
+    "english": "But those gifted with knowledge said, “Shame on you! Allah’s reward is far better for those who believe and do good. But none will attain this except the steadfast.”",
+    "arabic1": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّـٰبِرُونَ",
+    "arabic2": "وقال الذين اوتوا العلم ويلكم ثواب الله خير لمن امن وعمل صالحا ولا يلقاها الا الصابرون",
+    "bengali": "আর যারা জ্ঞান প্রাপ্ত হয়েছিল, তারা বলল, ‘ধিক তোমাদেরকে! আল্লাহর প্রতিদানই উত্তম যে ঈমান আনে ও সৎকর্ম করে তার জন্য। আর তা শুধু সবরকারীরাই পেতে পারে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_80.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_80.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_80.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 29,
+    "english": "O  my people! I do not ask you for a payment for this ˹message˺. My reward is only from Allah. And I will never dismiss the believers, for they will surely meet their Lord. But I can see that you are a people acting ignorantly.",
+    "arabic1": "وَيَـٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ ۚ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ ۚ إِنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ وَلَـٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+    "arabic2": "ويا قوم لا اسالكم عليه مالا ان اجري الا على الله وما انا بطارد الذين امنوا انهم ملاقو ربهم ولكني اراكم قوما تجهلون",
+    "bengali": "‘আর হে আমার কওম, এর বিনিময়ে আমি তোমাদের কাছে কোন সম্পদ চাই না। আমার প্রতিদান শুধু আল্লাহর কাছে। যারা ঈমান এনেছে, আমি তাদের তাড়িয়ে দিতে পারি না। নিশ্চয় তারা তাদের রবের সাথে সাক্ষাৎ করবে। কিন্তু আমি তো দেখছি তোমরা এক অজ্ঞ জাতি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_29.mp3"
+        }
+    }
+}

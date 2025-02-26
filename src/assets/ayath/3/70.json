@@ -1,0 +1,28 @@
+{
+    "surahName": "Aal-i-Imraan",
+    "surahNameArabic": "آل عمران",
+    "surahNameArabicLong": "سورة آل عمران",
+    "surahNameTranslation": "The Family of Imraan",
+    "revelationPlace": "Madina",
+    "totalAyah": 200,
+    "surahNo": 3,
+    "ayahNo": 70,
+    "english": "O  People of the Book! Why do you reject the signs of Allah while you bear witness ˹to their truth˺?",
+    "arabic1": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ",
+    "arabic2": "يا اهل الكتاب لم تكفرون بايات الله وانتم تشهدون",
+    "bengali": "হে কিতাবীরা, তোমরা কেন আল্লাহর নিদর্শনসমূহের সাথে কুফরী করছ, অথচ তোমরাই তার সাক্ষ্য দিচ্ছ?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/3_70.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/3_70.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/3_70.mp3"
+        }
+    }
+}

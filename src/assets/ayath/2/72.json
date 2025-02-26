@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 72,
+    "english": "˹This is˺ when a man was killed and you disputed who the killer was, but Allah revealed what you concealed.",
+    "arabic1": "وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
+    "arabic2": "واذ قتلتم نفسا فاداراتم فيها والله مخرج ما كنتم تكتمون",
+    "bengali": "আর স্মরণ কর, যখন তোমরা একজনকে হত্যা করলে অতঃপর সে ব্যাপারে একে অপরকে দোষারোপ করলে। আর আল্লাহ প্রকাশ করে দিলেন তোমরা যা গোপন করছিলে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_72.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_72.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_72.mp3"
+        }
+    }
+}

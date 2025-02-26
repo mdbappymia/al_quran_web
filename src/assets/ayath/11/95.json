@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 95,
+    "english": "as if they had never lived there. So away with Midian as it was with Thamûd!",
+    "arabic1": "كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ",
+    "arabic2": "كان لم يغنوا فيها الا بعدا لمدين كما بعدت ثمود",
+    "bengali": "যেন তারা সেখানে বসবাসই করেনি। জেনে রাখ, ধ্বংস মাদইয়ানের জন্য, যেরূপ ধ্বংস হয়েছে সামূদ জাতি।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_95.mp3"
+        }
+    }
+}

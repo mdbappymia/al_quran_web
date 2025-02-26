@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qamar",
+    "surahNameArabic": "القمر",
+    "surahNameArabicLong": "سورة القمر",
+    "surahNameTranslation": "The Moon",
+    "revelationPlace": "Mecca",
+    "totalAyah": 55,
+    "surahNo": 54,
+    "ayahNo": 47,
+    "english": "Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are bound for˺ blazes.",
+    "arabic1": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ",
+    "arabic2": "ان المجرمين في ضلال وسعر",
+    "bengali": "নিশ্চয় অপরাধীরা রয়েছে পথভ্রষ্টতা ও (পরকালে) প্রজ্জ্বলিত আগুনে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/54_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/54_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/54_47.mp3"
+        }
+    }
+}

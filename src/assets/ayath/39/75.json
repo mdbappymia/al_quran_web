@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zumar",
+    "surahNameArabic": "الزمر",
+    "surahNameArabicLong": "سورة الزمر",
+    "surahNameTranslation": "The Groups",
+    "revelationPlace": "Mecca",
+    "totalAyah": 75,
+    "surahNo": 39,
+    "ayahNo": 75,
+    "english": "You will see the angels all around the Throne, glorifying the praises of their Lord, for judgment will have been passed on all with fairness. And it will be said, “Praise be to Allah—Lord of all worlds!”",
+    "arabic1": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "وترى الملائكة حافين من حول العرش يسبحون بحمد ربهم وقضي بينهم بالحق وقيل الحمد لله رب العالمين",
+    "bengali": "আর তুমি ফেরেশতাদেরকে আরশের চারপাশ ঘিরে তাদের রবের প্রশংসায় তাসবীহ পাঠ করতে দেখতে পাবে। আর তাদের মধ্যে ন্যায়সঙ্গতভাবে বিচার করে দেয়া হবে এবং বলা হবে ‘সকল প্রশংসা সৃষ্টিকুলের রব আল্লাহর জন্য’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/39_75.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/39_75.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/39_75.mp3"
+        }
+    }
+}

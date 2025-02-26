@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 280,
+    "english": "If it is difficult for someone to repay a debt, postpone it until a time of ease. And if you waive it as an act of charity, it will be better for you, if only you knew.",
+    "arabic1": "وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ ۚ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+    "arabic2": "وان كان ذو عسرة فنظرة الى ميسرة وان تصدقوا خير لكم ان كنتم تعلمون",
+    "bengali": "আর যদি সে অসচ্ছল হয়, তাহলে সচ্ছলতা আসা পর্যন্ত তার অবকাশ রয়েছে। আর সদাকা করে দেয়া তোমাদের জন্য উত্তম, যদি তোমরা জানতে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_280.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_280.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_280.mp3"
+        }
+    }
+}

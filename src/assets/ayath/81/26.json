@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Takwir",
+    "surahNameArabic": "التكوير",
+    "surahNameArabicLong": "سورة التكوير",
+    "surahNameTranslation": "The Overthrowing",
+    "revelationPlace": "Mecca",
+    "totalAyah": 29,
+    "surahNo": 81,
+    "ayahNo": 26,
+    "english": "So what ˹other˺ path would you take?",
+    "arabic1": "فَأَيْنَ تَذْهَبُونَ",
+    "arabic2": "فاين تذهبون",
+    "bengali": "সুতরাং তোমরা কোথায় যাচ্ছ?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/81_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/81_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/81_26.mp3"
+        }
+    }
+}

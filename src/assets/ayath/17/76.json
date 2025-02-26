@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 76,
+    "english": "They were about to intimidate you to drive you out of the land ˹of Mecca˺, but then they would not have survived after you ˹had left˺ except for a little while.",
+    "arabic1": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ مِنَ ٱلْأَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَإِذًا لَّا يَلْبَثُونَ خِلَـٰفَكَ إِلَّا قَلِيلًا",
+    "arabic2": "وان كادوا ليستفزونك من الارض ليخرجوك منها واذا لا يلبثون خلافك الا قليلا",
+    "bengali": "আর তাদের অবস্থা এমন ছিল যে, তারা তোমাকে যমীন থেকে উৎখাত করে দেবে, যাতে তোমাকে সেখান থেকে বের করে দিতে পারে এবং তখন তারা তোমার পরে স্বল্প সময়ই টিকে থাকতে পারত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_76.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_76.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_76.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 55,
+    "english": "Yet the disbelievers will persist in doubt about this ˹revelation˺ until the Hour takes them by surprise, or the torment of a terminating Day comes to them.",
+    "arabic1": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+    "arabic2": "ولا يزال الذين كفروا في مرية منه حتى تاتيهم الساعة بغتة او ياتيهم عذاب يوم عقيم",
+    "bengali": "আর যারা কুফরী করে, তারা এতে সন্দেহ পোষণ করতে থাকবে যতক্ষণ না তাদের নিকট আকস্মিকভাবে কিয়ামত এসে পড়বে অথবা তাদের নিকট এসে পড়বে এক বন্ধ্যা দিনের আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_55.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_55.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_55.mp3"
+        }
+    }
+}

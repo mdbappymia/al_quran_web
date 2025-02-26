@@ -1,0 +1,28 @@
+{
+    "surahName": "Nooh",
+    "surahNameArabic": "نوح",
+    "surahNameArabicLong": "سورة نوح",
+    "surahNameTranslation": "Noah",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 71,
+    "ayahNo": 12,
+    "english": "supply you with wealth and children, and give you gardens as well as rivers.",
+    "arabic1": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+    "arabic2": "ويمددكم باموال وبنين ويجعل لكم جنات ويجعل لكم انهارا",
+    "bengali": "‘আর তোমাদেরকে ধন-সম্পদ ও সন্তান- সন্ততি দিয়ে সাহায্য করবেন এবং তোমাদের জন্য বাগ-বাগিচা দেবেন আর দেবেন নদী-নালা’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/71_12.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/71_12.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/71_12.mp3"
+        }
+    }
+}

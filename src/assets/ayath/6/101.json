@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 101,
+    "english": "˹He is˺ the Originator of the heavens and earth. How could He have children when He has no mate? He created all things and has ˹perfect˺ knowledge of everything.",
+    "arabic1": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَـٰحِبَةٌ ۖ وَخَلَقَ كُلَّ شَىْءٍ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic2": "بديع السماوات والارض انى يكون له ولد ولم تكن له صاحبة وخلق كل شيء وهو بكل شيء عليم",
+    "bengali": "তিনিই আল্লাহ, তোমাদের রব। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি প্রতিটি জিনিসের স্রষ্টা। সুতরাং তোমরা তাঁর ইবাদাত কর। আর তিনি প্রতিটি জিনিসের উপর তত্ত্বাবধায়ক।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_101.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_101.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_101.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 1,
+    "english": "O Prophet! ˹Always˺ be mindful of Allah, and do not yield to the disbelievers and the hypocrites. Indeed, Allah is All-Knowing, All-Wise.",
+    "arabic1": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+    "arabic2": "يا ايها النبي اتق الله ولا تطع الكافرين والمنافقين ان الله كان عليما حكيما",
+    "bengali": "হে নবী, আল্লাহকে ভয় কর এবং কাফির ও মুনাফিকদের আনুগত্য করো না। নিশ্চয় আল্লাহ সম্যক জ্ঞানী, মহাপ্রজ্ঞাময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_1.mp3"
+        }
+    }
+}

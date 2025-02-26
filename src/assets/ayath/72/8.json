@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jinn",
+    "surahNameArabic": "الجن",
+    "surahNameArabicLong": "سورة الجن",
+    "surahNameTranslation": "The Jinn",
+    "revelationPlace": "Mecca",
+    "totalAyah": 28,
+    "surahNo": 72,
+    "ayahNo": 8,
+    "english": "˹Earlier˺ we tried to reach heaven ˹for news˺, only to find it filled with stern guards and shooting stars.",
+    "arabic1": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَـٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+    "arabic2": "وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا",
+    "bengali": "‘আর নিশ্চয় আমরা আকাশ স্পর্শ করতে চেয়েছিলাম*, কিন্তু আমরা সেটাকে পেলাম যে, তা কঠোর প্রহরী এবং উল্কাপিন্ড দ্বারা পরিপূর্ণ’। \n*আকাশের সংবাদ সংগ্রহ করার চেষ্টা করেছিলাম।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/72_8.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/72_8.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/72_8.mp3"
+        }
+    }
+}

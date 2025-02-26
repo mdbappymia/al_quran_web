@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 126,
+    "english": "To Allah ˹alone˺ belongs whatever is in the heavens and whatever is on the earth. And Allah is Fully Aware of everything.",
+    "arabic1": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ مُّحِيطًا",
+    "arabic2": "ولله ما في السماوات وما في الارض وكان الله بكل شيء محيطا",
+    "bengali": "আর যা আসমানসমূহে আছে এবং যা আছে যমীনে সব আল্লাহরই। আর আল্লাহ সবকিছুকে পরিবেষ্টনকারী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_126.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_126.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_126.mp3"
+        }
+    }
+}

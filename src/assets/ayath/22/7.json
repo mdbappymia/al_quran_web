@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hajj",
+    "surahNameArabic": "الحج",
+    "surahNameArabicLong": "سورة الحج",
+    "surahNameTranslation": "The Pilgrimage",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 22,
+    "ayahNo": 7,
+    "english": "And certainly the Hour is coming, there is no doubt about it. And Allah will surely resurrect those in the graves.",
+    "arabic1": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ",
+    "arabic2": "وان الساعة اتية لا ريب فيها وان الله يبعث من في القبور",
+    "bengali": "আর কিয়ামত আসবেই, এতে কোন সন্দেহ নেই এবং কবরে যারা আছে নিশ্চয়ই আল্লাহ তাদের পুনরুত্থিত করবেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/22_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/22_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/22_7.mp3"
+        }
+    }
+}

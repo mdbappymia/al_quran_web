@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 24,
+    "english": "The example of these two parties is that of the blind and the deaf, compared to the seeing and the hearing. Can the two be equal? Will you not then be mindful?",
+    "arabic1": "۞ مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
+    "arabic2": "مثل الفريقين كالاعمى والاصم والبصير والسميع هل يستويان مثلا افلا تذكرون",
+    "bengali": "দল দু’টির উপমা হচ্ছে অন্ধ ও বধির এবং চক্ষুষ্মান ও শ্রবণশক্তিসম্পন্নের মত, তুলনায় উভয় দল কি সমান? এরপরও কি তোমরা উপদেশ গ্রহণ করবে না?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_24.mp3"
+        }
+    }
+}

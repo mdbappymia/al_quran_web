@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 163,
+    "english": "Your God is ˹only˺ One God. There is no god ˹worthy of worship˺ except Him—the Most Compassionate, Most Merciful.",
+    "arabic1": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+    "arabic2": "والهكم اله واحد لا اله الا هو الرحمن الرحيم",
+    "bengali": "আর তোমাদের ইলাহ এক ইলাহ। তিনি ছাড়া কোন (সত্য) ইলাহ নেই। তিনি অতি দয়াময়, পরম দয়ালু।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_163.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_163.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_163.mp3"
+        }
+    }
+}

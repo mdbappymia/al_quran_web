@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 167,
+    "english": "Those who disbelieve and hinder ˹others˺ from the Way of Allah have certainly strayed far away.",
+    "arabic1": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَـٰلًۢا بَعِيدًا",
+    "arabic2": "ان الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا",
+    "bengali": "নিশ্চয় যারা কুফরী করেছে এবং আল্লাহর পথ থেকে বাধা দিয়েছে,তারা অবশ্যই চূড়ান্তভাবে পথভ্রষ্ট হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_167.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_167.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_167.mp3"
+        }
+    }
+}

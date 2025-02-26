@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 30,
+    "english": "˹Jesus˺ declared, “I am truly a servant of Allah. He has destined me to be given the Scripture and to be a prophet.",
+    "arabic1": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّا",
+    "arabic2": "قال اني عبد الله اتاني الكتاب وجعلني نبيا",
+    "bengali": "শিশুটি বলল, ‘আমি তো আল্লাহর বান্দা; তিনি আমাকে কিতাব দিয়েছেন এবং আমাকে নবী বানিয়েছেন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_30.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_30.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_30.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 51,
+    "english": "those who took this faith ˹of Islam˺ as mere amusement and play and were deluded by ˹their˺ worldly life.” ˹Allah will say,˺ “Today We will ignore them just as they ignored the coming of this Day of theirs and for rejecting Our revelations.”",
+    "arabic1": "ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَـٰذَا وَمَا كَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+    "arabic2": "الذين اتخذوا دينهم لهوا ولعبا وغرتهم الحياة الدنيا فاليوم ننساهم كما نسوا لقاء يومهم هذا وما كانوا باياتنا يجحدون",
+    "bengali": "‘যারা তাদের দীনকে গ্রহণ করেছে খেলা ও তামাশারূপে এবং তাদেরকে দুনিয়ার জীবন প্রতারিত করেছে’। সুতরাং আজ আমি তাদেরকে (জাহান্নামে) ছেড়ে রাখব*, যেমন তারা তাদের এ দিনের সাক্ষাতের জন্য কাজ করা ছেড়ে দিয়েছিল। আর (যেভাবে) তারা আমার আয়াতসমূহকে অস্বীকার করত। \n* نسيان শব্দটি দু’টি অর্থে ব্যবহৃত হয়। (১) ভুলে যাওয়া-এ অর্থটি আল্লাহর জন্য সঙ্গতিপূর্ণ নয়। (২) ছেড়ে দেয়া। এখানে দ্বিতীয় অর্থটি নেয়া হয়েছে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_51.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_51.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_51.mp3"
+        }
+    }
+}

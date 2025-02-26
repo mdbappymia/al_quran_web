@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 34,
+    "english": "˹Always˺ remember what is recited in your homes of Allah’s revelations and ˹prophetic˺ wisdom. Surely Allah is Most Subtle, All-Aware.",
+    "arabic1": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَـٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+    "arabic2": "واذكرن ما يتلى في بيوتكن من ايات الله والحكمة ان الله كان لطيفا خبيرا",
+    "bengali": "আর তোমাদের ঘরে আল্লাহর যে, আয়াতসমূহ ও হিকমত পঠিত হয়- তা তোমরা স্মরণ রেখো। নিশ্চয়ই আল্লাহ অতি সূক্ষ্মদর্শী, সম্যক অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_34.mp3"
+        }
+    }
+}

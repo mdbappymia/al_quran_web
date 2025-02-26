@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 13,
+    "english": "It is ˹written˺ on pages held in honour—",
+    "arabic1": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+    "arabic2": "في صحف مكرمة",
+    "bengali": "এটা আছে সম্মানিত সহীফাসমূহে।* \n*অর্থাৎ লওহে মাহফুজে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_13.mp3"
+        }
+    }
+}

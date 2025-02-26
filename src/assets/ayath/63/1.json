@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Munaafiqoon",
+    "surahNameArabic": "المنافقون",
+    "surahNameArabicLong": "سورة المنافقون",
+    "surahNameTranslation": "The Hypocrites",
+    "revelationPlace": "Madina",
+    "totalAyah": 11,
+    "surahNo": 63,
+    "ayahNo": 1,
+    "english": "When the hypocrites come to you ˹O Prophet˺, they say, “We bear witness that you are certainly the Messenger of Allah”—and surely Allah knows that you are His Messenger—but Allah bears witness that the hypocrites are truly liars.",
+    "arabic1": " إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+    "arabic2": "اذا جاءك المنافقون قالوا نشهد انك لرسول الله والله يعلم انك لرسوله والله يشهد ان المنافقين لكاذبون",
+    "bengali": "যখন তোমার কাছে মুনাফিকরা আসে, তখন বলে, আমরা সাক্ষ্য দিচ্ছি যে, নিশ্চয় আপনি আল্লাহর রাসূল এবং আল্লাহ জানেন যে, অবশ্যই তুমি তাঁর রাসূল। আর আল্লাহ সাক্ষ্য দিচ্ছেন যে, অবশ্যই মুনাফিকরা মিথ্যাবাদী।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/63_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/63_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/63_1.mp3"
+        }
+    }
+}

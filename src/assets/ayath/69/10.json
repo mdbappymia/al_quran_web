@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Haaqqa",
+    "surahNameArabic": "الحاقة",
+    "surahNameArabicLong": "سورة الحاقة",
+    "surahNameTranslation": "The Reality",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 69,
+    "ayahNo": 10,
+    "english": "each disobeying their Lord’s messenger, so He seized them with a crushing grip.",
+    "arabic1": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+    "arabic2": "فعصوا رسول ربهم فاخذهم اخذة رابية",
+    "bengali": "আর তারা তাদের রবের রাসূলকে অমান্য করেছিল। সুতরাং তিনি তাদেরকে অত্যন্ত কঠোরভাবে পাকড়াও করলেন।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/69_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/69_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/69_10.mp3"
+        }
+    }
+}

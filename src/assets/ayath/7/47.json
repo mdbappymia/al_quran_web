@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 47,
+    "english": "When their eyes will turn towards the residents of Hell, they will pray, “Our Lord! Do not join us with the wrongdoing people.”",
+    "arabic1": "۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "arabic2": "واذا صرفت ابصارهم تلقاء اصحاب النار قالوا ربنا لا تجعلنا مع القوم الظالمين",
+    "bengali": "আর যখন তাদের দৃষ্টিকে আগুনের অধিবাসীদের প্রতি ফেরানো হবে, তখন তারা বলবে, ‘হে আমাদের রব, আমাদেরকে যালিম কওমের অন্তর্ভুক্ত করবেন না’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_47.mp3"
+        }
+    }
+}

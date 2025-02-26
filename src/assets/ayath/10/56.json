@@ -1,0 +1,28 @@
+{
+    "surahName": "Yunus",
+    "surahNameArabic": "يونس",
+    "surahNameArabicLong": "سورة يونس",
+    "surahNameTranslation": "Jonas",
+    "revelationPlace": "Mecca",
+    "totalAyah": 109,
+    "surahNo": 10,
+    "ayahNo": 56,
+    "english": "He ˹is the One Who˺ gives life and causes death, and to Him you will ˹all˺ be returned.",
+    "arabic1": "هُوَ يُحْىِۦ وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ",
+    "arabic2": "هو يحيي ويميت واليه ترجعون",
+    "bengali": "তিনিই জীবন দান করেন এবং মৃত্যু ঘটান এবং তাঁর কাছেই তোমাদের প্রত্যাবর্তন হবে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/10_56.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/10_56.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/10_56.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 73,
+    "english": "Surely your Lord is ever Bountiful to humanity, but most of them are ungrateful.",
+    "arabic1": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+    "arabic2": "وان ربك لذو فضل على الناس ولكن اكثرهم لا يشكرون",
+    "bengali": "আর নিশ্চয় তোমার রব মানুষের প্রতি অনুগ্রহশীল; কিন্তু তাদের বেশীর ভাগই শুকরিয়া আদায় করে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_73.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_73.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_73.mp3"
+        }
+    }
+}

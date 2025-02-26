@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 6,
+    "english": "Those who disbelieve in their Lord will suffer the punishment of Hell. What an evil destination!",
+    "arabic1": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+    "arabic2": "وللذين كفروا بربهم عذاب جهنم وبئس المصير",
+    "bengali": "আর যারা তাদের রবকে অস্বীকার করে, তাদের জন্য রয়েছে জাহান্নামের আযাব। আর কতইনা নিকৃষ্ট সেই প্রত্যাবর্তনস্থল!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_6.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_6.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_6.mp3"
+        }
+    }
+}

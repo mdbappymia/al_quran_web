@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ikhlaas",
+    "surahNameArabic": "الإخلاص",
+    "surahNameArabicLong": "سورة الإخلاص",
+    "surahNameTranslation": "Sincerity",
+    "revelationPlace": "Mecca",
+    "totalAyah": 4,
+    "surahNo": 112,
+    "ayahNo": 1,
+    "english": "Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺;",
+    "arabic1": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "arabic2": "قل هو الله احد",
+    "bengali": "বল, তিনিই আল্লাহ, এক-অদ্বিতীয়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/112_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/112_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/112_1.mp3"
+        }
+    }
+}

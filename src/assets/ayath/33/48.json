@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ahzaab",
+    "surahNameArabic": "الأحزاب",
+    "surahNameArabicLong": "سورة الأحزاب",
+    "surahNameTranslation": "The Clans",
+    "revelationPlace": "Madina",
+    "totalAyah": 73,
+    "surahNo": 33,
+    "ayahNo": 48,
+    "english": "Do not yield to the disbelievers and the hypocrites. Overlook their annoyances, and put your trust in Allah. For Allah is sufficient as a Trustee of Affairs.",
+    "arabic1": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+    "arabic2": "ولا تطع الكافرين والمنافقين ودع اذاهم وتوكل على الله وكفى بالله وكيلا",
+    "bengali": "আর তুমি কাফির ও মুনাফিকদের আনুগত্য করো না এবং তাদের নির্যাতন উপেক্ষা কর আর আল্লাহর উপর তাওয়াক্কুল কর; তত্ত্বাবধায়ক হিসেবে আল্লাহই যথেষ্ট।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/33_48.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/33_48.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/33_48.mp3"
+        }
+    }
+}

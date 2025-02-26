@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mujaadila",
+    "surahNameArabic": "المجادلة",
+    "surahNameArabicLong": "سورة المجادلة",
+    "surahNameTranslation": "The Pleading Woman",
+    "revelationPlace": "Madina",
+    "totalAyah": 22,
+    "surahNo": 58,
+    "ayahNo": 10,
+    "english": "Secret talks are only inspired by Satan to grieve the believers. Yet he cannot harm them whatsoever except by Allah’s Will. So in Allah let the believers put their trust.",
+    "arabic1": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَـٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+    "arabic2": "انما النجوى من الشيطان ليحزن الذين امنوا وليس بضارهم شيئا الا باذن الله وعلى الله فليتوكل المؤمنون",
+    "bengali": "গোপন পরামর্শ তো হল মুমিনরা যাতে দুঃখ পায় সে উদ্দেশ্যে কৃত শয়তানের কুমন্ত্রণা মাত্র। আর আল্লাহর অনুমতি ছাড়া সে তাদের কিছুই ক্ষতি করতে পারে না। অতএব আল্লাহরই ওপর মুমিনরা যেন তাওয়াক্কুল করে।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/58_10.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/58_10.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/58_10.mp3"
+        }
+    }
+}

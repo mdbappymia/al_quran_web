@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qadr",
+    "surahNameArabic": "القدر",
+    "surahNameArabicLong": "سورة القدر",
+    "surahNameTranslation": "The Power, Fate",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 97,
+    "ayahNo": 2,
+    "english": "And what will make you realize what the Night of Glory is?",
+    "arabic1": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "arabic2": "وما ادراك ما ليلة القدر",
+    "bengali": "তোমাকে কিসে জানাবে ‘লাইলাতুল ক্বাদর’ কী?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/97_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/97_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/97_2.mp3"
+        }
+    }
+}

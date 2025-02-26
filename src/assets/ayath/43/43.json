@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 43,
+    "english": "So hold firmly to what has been revealed to you ˹O Prophet˺. You are truly on the Straight Path.",
+    "arabic1": "فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+    "arabic2": "فاستمسك بالذي اوحي اليك انك على صراط مستقيم",
+    "bengali": "অতএব তোমার প্রতি যা ওহী করা হয়েছে তাকে তুমি সুদৃঢ়ভাবে ধারণ কর। নিশ্চয় তুমি সরল পথের উপর রয়েছ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_43.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_43.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_43.mp3"
+        }
+    }
+}

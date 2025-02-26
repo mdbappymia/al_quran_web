@@ -1,0 +1,28 @@
+{
+    "surahName": "Az-Zukhruf",
+    "surahNameArabic": "الزخرف",
+    "surahNameArabicLong": "سورة الزخرف",
+    "surahNameTranslation": "Ornaments of gold",
+    "revelationPlace": "Mecca",
+    "totalAyah": 89,
+    "surahNo": 43,
+    "ayahNo": 49,
+    "english": "˹Then˺ they pleaded, “O ˹mighty˺ magician! Pray to your Lord on our behalf, by virtue of the covenant He made with you. We will certainly accept guidance.”",
+    "arabic1": "وَقَالُوا۟ يَـٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ",
+    "arabic2": "وقالوا يا ايه الساحر ادع لنا ربك بما عهد عندك اننا لمهتدون",
+    "bengali": "আর তারা বলল, ‘হে যাদুকর, তোমার রবের কাছে তুমি আমাদের জন্য তাই প্রার্থনা কর, যার ওয়াদা তিনি তোমার সাথে করেছেন। নিশ্চয় আমরা হিদায়াতের পথে আসব।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/43_49.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/43_49.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/43_49.mp3"
+        }
+    }
+}

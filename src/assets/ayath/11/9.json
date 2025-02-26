@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 9,
+    "english": "If We give people a taste of Our mercy then take it away from them, they become utterly desperate, ungrateful.",
+    "arabic1": "وَلَئِنْ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَـٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌ كَفُورٌ",
+    "arabic2": "ولئن اذقنا الانسان منا رحمة ثم نزعناها منه انه ليئوس كفور",
+    "bengali": "আর যদি আমি মানুষকে আমার পক্ষ থেকে রহমত আস্বাদন করাই, অতঃপর তার থেকে তা কেড়ে নেই, নিশ্চয় সে তখন (হয়ে পড়বে) নিরাশ, অকৃতজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_9.mp3"
+        }
+    }
+}

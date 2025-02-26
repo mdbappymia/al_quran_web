@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 111,
+    "english": "And surely your Lord will fully pay all for their deeds. He is certainly All-Aware of what they do.",
+    "arabic1": "وَإِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ أَعْمَـٰلَهُمْ ۚ إِنَّهُۥ بِمَا يَعْمَلُونَ خَبِيرٌ",
+    "arabic2": "وان كلا لما ليوفينهم ربك اعمالهم انه بما يعملون خبير",
+    "bengali": "আর নিশ্চয় তোমার রব সবাইকে তাদের আমলের প্রতিদান পুরোপুরি দান করবেন। তারা যা আমল করে, অবশ্যই তিনি সে ব্যাপারে সবিশেষ অবহিত।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_111.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_111.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_111.mp3"
+        }
+    }
+}

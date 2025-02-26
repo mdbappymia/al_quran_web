@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 23,
+    "english": "As for those who disbelieve in Allah’s signs and the meeting with Him, it is they who will have no hope in His mercy. And it is they who will suffer a painful punishment.",
+    "arabic1": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُو۟لَـٰٓئِكَ يَئِسُوا۟ مِن رَّحْمَتِى وَأُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "arabic2": "والذين كفروا بايات الله ولقائه اولئك يئسوا من رحمتي واولئك لهم عذاب اليم",
+    "bengali": "আর যারা আল্লাহর আয়াতসমূহ ও তাঁর সাক্ষাত অস্বীকার করে তারা আমার রহমত থেকে হতাশ হবে এবং তাদের জন্যই রয়েছে যন্ত্রণাদায়ক আযাব।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_23.mp3"
+        }
+    }
+}

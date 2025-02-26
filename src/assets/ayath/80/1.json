@@ -1,0 +1,28 @@
+{
+    "surahName": "Abasa",
+    "surahNameArabic": "عبس",
+    "surahNameArabicLong": "سورة عبس",
+    "surahNameTranslation": "He frowned",
+    "revelationPlace": "Mecca",
+    "totalAyah": 42,
+    "surahNo": 80,
+    "ayahNo": 1,
+    "english": "He frowned and turned ˹his attention˺ away",
+    "arabic1": " عَبَسَ وَتَوَلَّىٰٓ",
+    "arabic2": "عبس وتولى",
+    "bengali": "সে* ভ্রকুঞ্চিত করল এবং মুখ ফিরিয়ে নিল। \n*মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/80_1.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/80_1.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/80_1.mp3"
+        }
+    }
+}

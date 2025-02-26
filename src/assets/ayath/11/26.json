@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 26,
+    "english": "that you should worship none but Allah. I truly fear for you the torment of a painful Day.”",
+    "arabic1": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ ۖ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ",
+    "arabic2": "ان لا تعبدوا الا الله اني اخاف عليكم عذاب يوم اليم",
+    "bengali": "‘যেন তোমরা আল্লাহ ছাড়া কারো ইবাদাত না কর। নিশ্চয় আমি তোমাদের উপর যন্ত্রণাদায়ক দিবসের আযাবের ভয় করছি’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_26.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_26.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_26.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Maryam",
+    "surahNameArabic": "مريم",
+    "surahNameArabicLong": "سورة مريم",
+    "surahNameTranslation": "Mary",
+    "revelationPlace": "Mecca",
+    "totalAyah": 98,
+    "surahNo": 19,
+    "ayahNo": 29,
+    "english": "So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”",
+    "arabic1": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّا",
+    "arabic2": "فاشارت اليه قالوا كيف نكلم من كان في المهد صبيا",
+    "bengali": "তখন সে শিশুটির দিকে ইশারা করল। তারা বলল, ‘যে কোলের শিশু আমরা কিভাবে তার সাথে কথা বলব’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/19_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/19_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/19_29.mp3"
+        }
+    }
+}

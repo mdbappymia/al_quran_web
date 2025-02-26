@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Anbiyaa",
+    "surahNameArabic": "الأنبياء",
+    "surahNameArabicLong": "سورة الأنبياء",
+    "surahNameTranslation": "The Prophets",
+    "revelationPlace": "Mecca",
+    "totalAyah": 112,
+    "surahNo": 21,
+    "ayahNo": 45,
+    "english": "Say, ˹O Prophet,˺ “I warn you only by revelation.” But the deaf cannot hear the call when they are warned!",
+    "arabic1": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+    "arabic2": "قل انما انذركم بالوحي ولا يسمع الصم الدعاء اذا ما ينذرون",
+    "bengali": "বল, ‘আমি তো কেবল ওহী দ্বারাই তোমাদেরকে সতর্ক করি’। কিন্তু যারা বধির তাদেরকে যখন সতর্ক করা হয়, তখন তারা সে আহবান শোনে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/21_45.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/21_45.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/21_45.mp3"
+        }
+    }
+}

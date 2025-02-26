@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Maaida",
+    "surahNameArabic": "المائدة",
+    "surahNameArabicLong": "سورة المائدة",
+    "surahNameTranslation": "The Table",
+    "revelationPlace": "Madina",
+    "totalAyah": 120,
+    "surahNo": 5,
+    "ayahNo": 68,
+    "english": "Say, ˹O Prophet,˺ “O People of the Book! You have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you from your Lord.” And your Lord’s revelation to you ˹O Prophet˺ will only cause many of them to increase in wickedness and disbelief. So do not grieve for the people who disbelieve.",
+    "arabic1": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "arabic2": "قل يا اهل الكتاب لستم على شيء حتى تقيموا التوراة والانجيل وما انزل اليكم من ربكم وليزيدن كثيرا منهم ما انزل اليك من ربك طغيانا وكفرا فلا تاس على القوم الكافرين",
+    "bengali": "বল, ‘হে কিতাবীরা, তোমরা কোন ভিত্তির উপর নেই, যতক্ষণ না তোমরা তাওরাত, ইনজীল ও তোমাদের নিকট তোমাদের রবের পক্ষ থেকে যা নাযিল করা হয়েছে, তা কায়েম কর’। আর তোমার নিকট তোমার রবের পক্ষ থেকে যা নাযিল করা হয়েছে, তা তাদের অনেকের অবাধ্যতা ও কুফরী বৃদ্ধি করবে। সুতরাং তুমি কাফির কওমের উপর হতাশ হয়ো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/5_68.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/5_68.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/5_68.mp3"
+        }
+    }
+}

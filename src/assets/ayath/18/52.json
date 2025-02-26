@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Kahf",
+    "surahNameArabic": "الكهف",
+    "surahNameArabicLong": "سورة الكهف",
+    "surahNameTranslation": "The Cave",
+    "revelationPlace": "Mecca",
+    "totalAyah": 110,
+    "surahNo": 18,
+    "ayahNo": 52,
+    "english": "And ˹beware of˺ the Day He will say, “Call upon those you claimed were My associate-gods.” So they will call them, but will receive no response. And We will make them ˹all˺ share in the same doom.",
+    "arabic1": "وَيَوْمَ يَقُولُ نَادُوا۟ شُرَكَآءِىَ ٱلَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًا",
+    "arabic2": "ويوم يقول نادوا شركائي الذين زعمتم فدعوهم فلم يستجيبوا لهم وجعلنا بينهم موبقا",
+    "bengali": "আর যেদিন তিনি বলবেন, ‘তোমরা ডাক আমার শরীকদের, যাদেরকে তোমরা (শরীক) মনে করতে’। অতঃপর তারা তাদেরকে ডাকবে, কিন্তু তারা তাদের ডাকে সাড়া দেবে না। আর আমি তাদের মধ্যে রেখে দেব ধ্বংসস্থল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/18_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/18_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/18_52.mp3"
+        }
+    }
+}

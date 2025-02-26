@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Furqaan",
+    "surahNameArabic": "الفرقان",
+    "surahNameArabicLong": "سورة الفرقان",
+    "surahNameTranslation": "The Criterion",
+    "revelationPlace": "Mecca",
+    "totalAyah": 77,
+    "surahNo": 25,
+    "ayahNo": 47,
+    "english": "He is the One Who has made the night for you as a cover, and ˹made˺ sleep for resting, and the day for rising.",
+    "arabic1": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا",
+    "arabic2": "وهو الذي جعل لكم الليل لباسا والنوم سباتا وجعل النهار نشورا",
+    "bengali": "আর তিনিই তোমাদের জন্য রাতকে আবরণ ও নিদ্রাকে আরামপ্রদ করেছেন এবং দিনকে করেছেন জাগ্রত থাকার সময়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/25_47.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/25_47.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/25_47.mp3"
+        }
+    }
+}

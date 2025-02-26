@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Alaq",
+    "surahNameArabic": "العلق",
+    "surahNameArabicLong": "سورة العلق",
+    "surahNameTranslation": "The Clot",
+    "revelationPlace": "Mecca",
+    "totalAyah": 19,
+    "surahNo": 96,
+    "ayahNo": 13,
+    "english": "What if that ˹man˺ persists in denial and turns away?",
+    "arabic1": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+    "arabic2": "ارايت ان كذب وتولى",
+    "bengali": "যদি সে মিথ্যারোপ করে এবং মুখ ফিরিয়ে নেয়?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/96_13.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/96_13.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/96_13.mp3"
+        }
+    }
+}

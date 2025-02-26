@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Insaan",
+    "surahNameArabic": "الانسان",
+    "surahNameArabicLong": "سورة الانسان",
+    "surahNameTranslation": "Man",
+    "revelationPlace": "Madina",
+    "totalAyah": 31,
+    "surahNo": 76,
+    "ayahNo": 24,
+    "english": "So be patient with your Lord’s decree, and do not yield to any evildoer or ˹staunch˺ disbeliever from among them.",
+    "arabic1": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+    "arabic2": "فاصبر لحكم ربك ولا تطع منهم اثما او كفورا",
+    "bengali": "অতএব তোমার রবের হুকুমের জন্য ধৈর্য ধারণ কর এবং তাদের মধ্য থেকে কোন পাপিষ্ঠ বা অস্বীকারকারীর আনুগত্য করো না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/76_24.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/76_24.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/76_24.mp3"
+        }
+    }
+}

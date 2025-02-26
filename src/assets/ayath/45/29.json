@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Jaathiya",
+    "surahNameArabic": "الجاثية",
+    "surahNameArabicLong": "سورة الجاثية",
+    "surahNameTranslation": "Crouching",
+    "revelationPlace": "Mecca",
+    "totalAyah": 37,
+    "surahNo": 45,
+    "ayahNo": 29,
+    "english": "This record of Ours speaks the truth about you. Indeed, We always had your deeds recorded ˹by the angels˺.”",
+    "arabic1": "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic2": "هذا كتابنا ينطق عليكم بالحق انا كنا نستنسخ ما كنتم تعملون",
+    "bengali": "‘এটি আমার লেখনী, যা তোমাদের ব্যাপারে সত্য সহকারে কথা বলবে; নিশ্চয় তোমরা যা করতে আমি তা লিখে রাখতাম’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/45_29.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/45_29.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/45_29.mp3"
+        }
+    }
+}

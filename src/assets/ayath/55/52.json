@@ -1,0 +1,28 @@
+{
+    "surahName": "Ar-Rahmaan",
+    "surahNameArabic": "الرحمن",
+    "surahNameArabicLong": "سورة الرحمن",
+    "surahNameTranslation": "The Beneficent",
+    "revelationPlace": "Madina",
+    "totalAyah": 78,
+    "surahNo": 55,
+    "ayahNo": 52,
+    "english": "In each will be two types of every fruit.",
+    "arabic1": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+    "arabic2": "فيهما من كل فاكهة زوجان",
+    "bengali": "উভয়ের মধ্যে প্রত্যেক ফল থেকে থাকবে দু’ প্রকারের।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/55_52.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/55_52.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/55_52.mp3"
+        }
+    }
+}

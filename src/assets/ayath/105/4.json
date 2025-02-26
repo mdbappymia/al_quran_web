@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 4,
+    "english": "that pelted them with stones of baked clay",
+    "arabic1": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+    "arabic2": "ترميهم بحجارة من سجيل",
+    "bengali": "তারা তাদের ওপর নিক্ষেপ করে পোড়ামাটির কঙ্কর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/105_4.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/105_4.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/105_4.mp3"
+        }
+    }
+}

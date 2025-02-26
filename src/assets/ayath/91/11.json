@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Shams",
+    "surahNameArabic": "الشمس",
+    "surahNameArabicLong": "سورة الشمس",
+    "surahNameTranslation": "The Sun",
+    "revelationPlace": "Mecca",
+    "totalAyah": 15,
+    "surahNo": 91,
+    "ayahNo": 11,
+    "english": "Thamûd rejected ˹the truth˺ out of arrogance",
+    "arabic1": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+    "arabic2": "كذبت ثمود بطغواها",
+    "bengali": "সামূদ জাতি আপন অবাধ্যতাবশত অস্বীকার করেছিল।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/91_11.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/91_11.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/91_11.mp3"
+        }
+    }
+}

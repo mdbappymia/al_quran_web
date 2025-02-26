@@ -1,0 +1,28 @@
+{
+    "surahName": "Taa-Haa",
+    "surahNameArabic": "طه",
+    "surahNameArabicLong": "سورة طه",
+    "surahNameTranslation": "Taa-Haa",
+    "revelationPlace": "Mecca",
+    "totalAyah": 135,
+    "surahNo": 20,
+    "ayahNo": 9,
+    "english": "Has the story of Moses reached you ˹O Prophet˺?",
+    "arabic1": "وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+    "arabic2": "وهل اتاك حديث موسى",
+    "bengali": "আর তোমার কাছে কি মূসার কথা পৌঁছেছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/20_9.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/20_9.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/20_9.mp3"
+        }
+    }
+}

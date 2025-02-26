@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 93,
+    "english": "or until you have a house of gold, or you ascend into heaven—and even then we will not believe in your ascension until you bring down to us a book that we can read.” Say, “Glory be to my Lord! Am I not only a human messenger?”",
+    "arabic1": "أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+    "arabic2": "او يكون لك بيت من زخرف او ترقى في السماء ولن نؤمن لرقيك حتى تنزل علينا كتابا نقرؤه قل سبحان ربي هل كنت الا بشرا رسولا",
+    "bengali": "‘অথবা তোমার জন্য স্বর্ণের একটি ঘর হবে অথবা তুমি আসমানে উঠবে, কিন্তু তোমার উঠাতেও আমরা ঈমান আনব না, যতক্ষণ না তুমি আমাদের প্রতি এক কিতাব নাযিল করবে যা আমরা পাঠ করব’। বল, ‘পবিত্র মহান আমার রব! আমি তো একজন মানব-রাসূল ছাড়া কিছু নই’?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_93.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_93.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_93.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Nisaa",
+    "surahNameArabic": "النساء",
+    "surahNameArabicLong": "سورة النساء",
+    "surahNameTranslation": "The Women",
+    "revelationPlace": "Madina",
+    "totalAyah": 176,
+    "surahNo": 4,
+    "ayahNo": 124,
+    "english": "But those who do good—whether male or female—and have faith will enter Paradise and will never be wronged ˹even as much as˺ the speck on a date stone.",
+    "arabic1": "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا",
+    "arabic2": "ومن يعمل من الصالحات من ذكر او انثى وهو مؤمن فاولئك يدخلون الجنة ولا يظلمون نقيرا",
+    "bengali": "আর পুরুষ কিংবা নারীর মধ্য থেকে যে নেককাজ করবে এমতাবস্থায় যে, সে মুমিন, তাহলে তারা জান্নাতে প্রবেশ করবে এবং তাদের প্রতি খেজুর বীচির আবরণ পরিমাণ যুলমও করা হবে না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/4_124.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/4_124.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/4_124.mp3"
+        }
+    }
+}

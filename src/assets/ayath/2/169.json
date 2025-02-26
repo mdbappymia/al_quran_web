@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Baqara",
+    "surahNameArabic": "البقرة",
+    "surahNameArabicLong": "سورة البقرة",
+    "surahNameTranslation": "The Cow",
+    "revelationPlace": "Madina",
+    "totalAyah": 286,
+    "surahNo": 2,
+    "ayahNo": 169,
+    "english": "He only incites you to commit evil and indecency, and to claim against Allah what you do not know.",
+    "arabic1": "إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic2": "انما يامركم بالسوء والفحشاء وان تقولوا على الله ما لا تعلمون",
+    "bengali": "নিশ্চয় সে তোমাদেরকে আদেশ দেয় মন্দ ও অশ্লীল কাজের এবং আল্লাহর ব্যাপারে এমন কিছু বলতে, যা তোমরা জান না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/2_169.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/2_169.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/2_169.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 64,
+    "english": "And O  my people! This she-camel of Allah is a sign for you. So leave her to graze ˹freely˺ on Allah’s earth and do her no harm, or a swift punishment will overtake you!”",
+    "arabic1": "وَيَـٰقَوْمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
+    "arabic2": "ويا قوم هذه ناقة الله لكم اية فذروها تاكل في ارض الله ولا تمسوها بسوء فياخذكم عذاب قريب",
+    "bengali": "‘আর হে আমার কওম, এটি আল্লাহর উট, তোমাদের জন্য নিদর্শনস্বরূপ। তাই তোমরা একে ছেড়ে দাও, সে আল্লাহর যমীনে (বিচরণ করে) খাবে এবং কোনরূপ মন্দভাবে তাকে স্পর্শ করো না, তাহলে তোমাদেরকে আশু আযাব পাকড়াও করবে’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_64.mp3"
+        }
+    }
+}

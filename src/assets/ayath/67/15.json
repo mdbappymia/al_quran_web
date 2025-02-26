@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Mulk",
+    "surahNameArabic": "الملك",
+    "surahNameArabicLong": "سورة الملك",
+    "surahNameTranslation": "The Sovereignty",
+    "revelationPlace": "Mecca",
+    "totalAyah": 30,
+    "surahNo": 67,
+    "ayahNo": 15,
+    "english": "He is the One Who smoothed out the earth for you, so move about in its regions and eat from His provisions. And to Him is the resurrection ˹of all˺.",
+    "arabic1": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+    "arabic2": "هو الذي جعل لكم الارض ذلولا فامشوا في مناكبها وكلوا من رزقه واليه النشور",
+    "bengali": "তিনিই তো তোমাদের জন্য যমীনকে সুগম করে দিয়েছেন, কাজেই তোমরা এর পথে-প্রান্তরে বিচরণ কর এবং তাঁর রিয্ক থেকে তোমরা আহার কর। আর তাঁর নিকটই পুনরুত্থান।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/67_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/67_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/67_15.mp3"
+        }
+    }
+}

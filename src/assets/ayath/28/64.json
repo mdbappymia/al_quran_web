@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 64,
+    "english": "It will be said ˹to the disbelievers˺, “Call upon your associate-gods ˹for help˺.” So they will call them, but will receive no response. And they will face the punishment, wishing they had been ˹rightly˺ guided!",
+    "arabic1": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ",
+    "arabic2": "وقيل ادعوا شركاءكم فدعوهم فلم يستجيبوا لهم وراوا العذاب لو انهم كانوا يهتدون",
+    "bengali": "আর বলা হবে, ‘তোমাদের দেবতাগুলোকে ডাক, অতঃপর তারা তাদেরকে ডাকবে, তখন তারা তাদের ডাকে সাড়া দেবে না। আর তারা আযাব দেখতে পাবে। হায়, এরা যদি সৎপথ প্রাপ্ত হত!",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_64.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_64.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_64.mp3"
+        }
+    }
+}

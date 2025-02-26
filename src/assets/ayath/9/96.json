@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 96,
+    "english": "They will swear to you in order to please you. And even if you are pleased with them, Allah will never be pleased with the rebellious people.",
+    "arabic1": "يَحْلِفُونَ لَكُمْ لِتَرْضَوْا۟ عَنْهُمْ ۖ فَإِن تَرْضَوْا۟ عَنْهُمْ فَإِنَّ ٱللَّهَ لَا يَرْضَىٰ عَنِ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+    "arabic2": "يحلفون لكم لترضوا عنهم فان ترضوا عنهم فان الله لا يرضى عن القوم الفاسقين",
+    "bengali": "তারা শপথ করবে তোমাদের নিকট, যাতে তোমরা তাদের প্রতি সন্তুষ্ট হও। অতএব তোমরা যদিও তাদের প্রতি সন্তুষ্ট হও, তবে নিশ্চয় আল্লাহ ফাসিক কওমের প্রতি সন্তুষ্ট হন না।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_96.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_96.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_96.mp3"
+        }
+    }
+}

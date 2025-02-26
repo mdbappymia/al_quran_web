@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Fil",
+    "surahNameArabic": "الفيل",
+    "surahNameArabicLong": "سورة الفيل",
+    "surahNameTranslation": "The Elephant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 5,
+    "surahNo": 105,
+    "ayahNo": 2,
+    "english": "Did He not frustrate their scheme?",
+    "arabic1": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+    "arabic2": "الم يجعل كيدهم في تضليل",
+    "bengali": "তিনি কি তাদের ষড়যন্ত্র ব্যর্থতায় পর্যবসিত করেননি?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/105_2.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/105_2.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/105_2.mp3"
+        }
+    }
+}

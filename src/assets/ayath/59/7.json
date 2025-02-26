@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Hashr",
+    "surahNameArabic": "الحشر",
+    "surahNameArabicLong": "سورة الحشر",
+    "surahNameTranslation": "The Exile",
+    "revelationPlace": "Madina",
+    "totalAyah": 24,
+    "surahNo": 59,
+    "ayahNo": 7,
+    "english": "As for gains granted by Allah to His Messenger from the people of ˹other˺ lands, they are for Allah and the Messenger, his close relatives, orphans, the poor, and ˹needy˺ travellers so that wealth may not merely circulate among your rich. Whatever the Messenger gives you, take it. And whatever he forbids you from, leave it. And fear Allah. Surely Allah is severe in punishment.",
+    "arabic1": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+    "arabic2": "ما افاء الله على رسوله من اهل القرى فلله وللرسول ولذي القربى واليتامى والمساكين وابن السبيل كي لا يكون دولة بين الاغنياء منكم وما اتاكم الرسول فخذوه وما نهاكم عنه فانتهوا واتقوا الله ان الله شديد العقاب",
+    "bengali": "আল্লাহ জনপদবাসীদের নিকট থেকে তাঁর রাসূলকে ফায় হিসেবে যা দিয়েছেন তা আল্লাহর, রাসূলের, আত্মীয়-স্বজনদের, ইয়াতীমদের, মিসকীন ও মুসাফিরদের এটি এ জন্য যে, যাতে ধন-সম্পদ তোমাদের মধ্যকার বিত্তশালীদের মাঝেই কেবল আবর্তিত না থাকে। রাসূল তোমাদের যা দেয় তা গ্রহণ কর, আর যা থেকে সে তোমাদের নিষেধ করে তা থেকে বিরত হও এবং আল্লাহকেই ভয় কর, নিশ্চয় আল্লাহ শাস্তি প্রদানে কঠোর।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/59_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/59_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/59_7.mp3"
+        }
+    }
+}

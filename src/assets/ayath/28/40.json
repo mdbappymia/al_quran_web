@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Qasas",
+    "surahNameArabic": "القصص",
+    "surahNameArabicLong": "سورة القصص",
+    "surahNameTranslation": "The Stories",
+    "revelationPlace": "Mecca",
+    "totalAyah": 88,
+    "surahNo": 28,
+    "ayahNo": 40,
+    "english": "So We seized him and his soldiers, casting them into the sea. See then what was the end of the wrongdoers!",
+    "arabic1": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلظَّـٰلِمِينَ",
+    "arabic2": "فاخذناه وجنوده فنبذناهم في اليم فانظر كيف كان عاقبة الظالمين",
+    "bengali": "অতঃপর আমি তাকে ও তার সেনাবাহিনীকে পাকড়াও করলাম, তারপর তাদেরকে সমুদ্রে নিক্ষেপ করলাম। অতএব, দেখ যালিমদের পরিণাম কিরূপ হয়েছিল?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/28_40.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/28_40.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/28_40.mp3"
+        }
+    }
+}

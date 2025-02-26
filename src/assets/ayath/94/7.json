@@ -1,0 +1,28 @@
+{
+    "surahName": "Ash-Sharh",
+    "surahNameArabic": "الشرح",
+    "surahNameArabicLong": "سورة الشرح",
+    "surahNameTranslation": "The Consolation",
+    "revelationPlace": "Mecca",
+    "totalAyah": 8,
+    "surahNo": 94,
+    "ayahNo": 7,
+    "english": "So once you have fulfilled ˹your duty˺, strive ˹in devotion˺",
+    "arabic1": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+    "arabic2": "فاذا فرغت فانصب",
+    "bengali": "অতএব যখনই তুমি অবসর পাবে, তখনই কঠোর ইবাদাতে রত হও।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/94_7.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/94_7.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/94_7.mp3"
+        }
+    }
+}

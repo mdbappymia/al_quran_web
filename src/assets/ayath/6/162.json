@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 162,
+    "english": "Say, “Surely my prayer, my worship, my life, and my death are all for Allah—Lord of all worlds.",
+    "arabic1": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "arabic2": "قل ان صلاتي ونسكي ومحياي ومماتي لله رب العالمين",
+    "bengali": "বল, ‘নিশ্চয় আমার সালাত, আমার কুরবানী, আমার জীবন ও আমার মৃত্যু আল্লাহর জন্য, যিনি সকল সৃষ্টির রব’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_162.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_162.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_162.mp3"
+        }
+    }
+}

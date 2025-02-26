@@ -1,0 +1,28 @@
+{
+    "surahName": "An-Naml",
+    "surahNameArabic": "النمل",
+    "surahNameArabicLong": "سورة النمل",
+    "surahNameTranslation": "The Ant",
+    "revelationPlace": "Mecca",
+    "totalAyah": 93,
+    "surahNo": 27,
+    "ayahNo": 23,
+    "english": "Indeed, I found a woman ruling over them, who has been given everything ˹she needs˺, and who has a magnificent throne.",
+    "arabic1": "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ",
+    "arabic2": "اني وجدت امراة تملكهم واوتيت من كل شيء ولها عرش عظيم",
+    "bengali": "‘আমি এক নারীকে দেখতে পেলাম, সে তাদের উপর রাজত্ব করছে। তাকে দেয়া হয়েছে সব কিছু। আর তার আছে এক বিশাল সিংহাসন’।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/27_23.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/27_23.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/27_23.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-A'raaf",
+    "surahNameArabic": "الأعراف",
+    "surahNameArabicLong": "سورة الأعراف",
+    "surahNameTranslation": "The Heights",
+    "revelationPlace": "Mecca",
+    "totalAyah": 206,
+    "surahNo": 7,
+    "ayahNo": 112,
+    "english": "to bring you every clever magician.”",
+    "arabic1": "يَأْتُوكَ بِكُلِّ سَـٰحِرٍ عَلِيمٍ",
+    "arabic2": "ياتوك بكل ساحر عليم",
+    "bengali": "‘তারা আপনার কাছে সকল বিজ্ঞ যাদুকরকে নিয়ে আসবে।’",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/7_112.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/7_112.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/7_112.mp3"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "surahName": "Ibrahim",
+    "surahNameArabic": "ابراهيم",
+    "surahNameArabicLong": "سورة ابراهيم",
+    "surahNameTranslation": "Abraham",
+    "revelationPlace": "Mecca",
+    "totalAyah": 52,
+    "surahNo": 14,
+    "ayahNo": 34,
+    "english": "And He has granted you all that you asked Him for. If you tried to count Allah’s blessings, you would never be able to number them. Indeed humankind is truly unfair, ˹totally˺ ungrateful.",
+    "arabic1": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَـٰنَ لَظَلُومٌ كَفَّارٌ",
+    "arabic2": "واتاكم من كل ما سالتموه وان تعدوا نعمت الله لا تحصوها ان الانسان لظلوم كفار",
+    "bengali": "আর তোমরা যা চেয়েছ, তার প্রত্যেকটি থেকে তিনি তোমাদের দিয়েছেন এবং যদি তোমরা আল্লাহর নিআমত গণনা কর, তবে তার সংখ্যা নিরূপণ করতে পারবে না। নিশ্চয় মানুষ অধিক অত্যাচারী ও অকৃতজ্ঞ।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/14_34.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/14_34.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/14_34.mp3"
+        }
+    }
+}

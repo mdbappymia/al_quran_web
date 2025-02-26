@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Ankaboot",
+    "surahNameArabic": "العنكبوت",
+    "surahNameArabicLong": "سورة العنكبوت",
+    "surahNameTranslation": "The Spider",
+    "revelationPlace": "Mecca",
+    "totalAyah": 69,
+    "surahNo": 29,
+    "ayahNo": 18,
+    "english": "If you ˹Meccans˺ persist in denial, so did ˹many˺ communities before you. The Messenger’s duty is only to deliver ˹the message˺ clearly.”",
+    "arabic1": "وَإِن تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ ۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+    "arabic2": "وان تكذبوا فقد كذب امم من قبلكم وما على الرسول الا البلاغ المبين",
+    "bengali": "আর তোমরা যদি মিথ্যারোপ কর, তবে তোমাদের পূর্বে অনেক জাতি মিথ্যারোপ করেছিল। আর রাসূলের উপর দায়িত্ব তো কেবল সুস্পষ্টভাবে পৌঁছানো।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/29_18.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/29_18.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/29_18.mp3"
+        }
+    }
+}

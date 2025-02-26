@@ -1,0 +1,28 @@
+{
+    "surahName": "At-Tawba",
+    "surahNameArabic": "التوبة",
+    "surahNameArabicLong": "سورة التوبة",
+    "surahNameTranslation": "The Repentance",
+    "revelationPlace": "Madina",
+    "totalAyah": 129,
+    "surahNo": 9,
+    "ayahNo": 125,
+    "english": "But as for those with sickness in their hearts, it has increased them only in wickedness upon their wickedness, and they die as disbelievers.",
+    "arabic1": "وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ كَـٰفِرُونَ",
+    "arabic2": "واما الذين في قلوبهم مرض فزادتهم رجسا الى رجسهم وماتوا وهم كافرون",
+    "bengali": "আর যাদের অন্তরে ব্যাধি রয়েছে, এটি তাদের অপবিত্রতার সাথে অপবিত্রতা বৃদ্ধি করে এবং তারা মারা যায় কাফির অবস্থায়।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/9_125.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/9_125.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/9_125.mp3"
+        }
+    }
+}

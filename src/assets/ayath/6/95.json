@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-An'aam",
+    "surahNameArabic": "الأنعام",
+    "surahNameArabicLong": "سورة الأنعام",
+    "surahNameTranslation": "The Cattle",
+    "revelationPlace": "Mecca",
+    "totalAyah": 165,
+    "surahNo": 6,
+    "ayahNo": 95,
+    "english": "Indeed, Allah is the One Who causes seeds and fruit stones to sprout. He brings forth the living from the dead and the dead from the living. That is Allah! How can you then be deluded ˹from the truth˺?",
+    "arabic1": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+    "arabic2": "ان الله فالق الحب والنوى يخرج الحي من الميت ومخرج الميت من الحي ذلكم الله فانى تؤفكون",
+    "bengali": "নিশ্চয় আল্লাহ বীজ ও আঁটি বিদীর্ণকারী। তিনি মৃত থেকে জীবিতকে বের করেন এবং জীবিত থেকে মৃতকে বেরকারী। তিনিই আল্লাহ, সুতরাং (সৎপথ থেকে) কোথায় তোমাদেরকে ফিরিয়ে নেয়া হচ্ছে?",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/6_95.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/6_95.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/6_95.mp3"
+        }
+    }
+}

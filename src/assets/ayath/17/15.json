@@ -1,0 +1,28 @@
+{
+    "surahName": "Al-Israa",
+    "surahNameArabic": "الإسراء",
+    "surahNameArabicLong": "سورة الإسراء",
+    "surahNameTranslation": "The Night Journey",
+    "revelationPlace": "Mecca",
+    "totalAyah": 111,
+    "surahNo": 17,
+    "ayahNo": 15,
+    "english": "Whoever chooses to be guided, it is only for their own good. And whoever chooses to stray, it is only to their own loss. No soul burdened with sin will bear the burden of another. And We would never punish ˹a people˺ until We have sent a messenger ˹to warn them˺.",
+    "arabic1": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا",
+    "arabic2": "من اهتدى فانما يهتدي لنفسه ومن ضل فانما يضل عليها ولا تزر وازرة وزر اخرى وما كنا معذبين حتى نبعث رسولا",
+    "bengali": "যে হিদায়াত গ্রহণ করে, সে তো নিজের জন্যই হিদায়াত গ্রহণ করে এবং যে পথভ্রষ্ট হয় সে নিজের (স্বার্থের) বিরুদ্ধেই পথভ্রষ্ট হয়। আর কোন বহনকারী অপরের (পাপের) বোঝা বহন করবে না। আর রাসূল প্রেরণ না করা পর্যন্ত আমি আযাবদাতা নই।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/17_15.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/17_15.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/17_15.mp3"
+        }
+    }
+}

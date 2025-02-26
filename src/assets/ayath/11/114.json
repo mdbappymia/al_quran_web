@@ -1,0 +1,28 @@
+{
+    "surahName": "Hud",
+    "surahNameArabic": "هود",
+    "surahNameArabicLong": "سورة هود",
+    "surahNameTranslation": "Hud",
+    "revelationPlace": "Mecca",
+    "totalAyah": 123,
+    "surahNo": 11,
+    "ayahNo": 114,
+    "english": "Establish prayer ˹O Prophet˺ at both ends of the day and in the early part of the night. Surely good deeds wipe out evil deeds. That is a reminder for the mindful.",
+    "arabic1": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+    "arabic2": "واقم الصلاة طرفي النهار وزلفا من الليل ان الحسنات يذهبن السيئات ذلك ذكرى للذاكرين",
+    "bengali": "আর তুমি সালাত কায়েম কর দিবসের দু’প্রান্তে এবং রাতের প্রথম অংশে*। নিশ্চয়ই ভালকাজ মন্দকাজকে মিটিয়ে দেয়। এটি উপদেশ গ্রহণকারীদের জন্য উপদেশ। \n* দিনের প্রথম প্রান্তে ফজরের সালাত, দ্বিতীয় প্রান্তে যোহর ও আসরের সালাত আর রাতের প্রথম অংশে মাগরিব ও ইশার সালাত। [তাফসীর ইবন কাসীর, তাইসীরু কারীমির রহমান]।",
+    "audio": {
+        "1": {
+            "reciter": "Mishary Rashid Al-Afasy",
+            "url": "https://quranaudio.pages.dev/1/11_114.mp3"
+        },
+        "2": {
+            "reciter": "Abu Bakr Al-Shatri",
+            "url": "https://quranaudio.pages.dev/2/11_114.mp3"
+        },
+        "3": {
+            "reciter": "Nasser Al Qatami",
+            "url": "https://quranaudio.pages.dev/3/11_114.mp3"
+        }
+    }
+}
