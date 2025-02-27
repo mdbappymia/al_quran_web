@@ -32,12 +32,36 @@ function App() {
   const width = useWidth();
   const isDesktop = width >= 1024;
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const [currentSurah, setCurrentSurah] = useState(1);
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentSurah, setCurrentSurah] = useState(() => {
+    const saved = localStorage.getItem('currentSurah');
+    return saved ? Number(saved) : 1;
+  });
+  const [currentPage, setCurrentPage] = useState(() => {
+    const saved = localStorage.getItem('currentPage');
+    return saved ? Number(saved) : 1;
+  });
   const [ayat, setAyat] = useState<Ayah[]>([]);
-  const [totalAyat, setTotalAyat] = useState(0);
+  const [totalAyat, setTotalAyat] = useState(() => {
+    const saved = localStorage.getItem('totalAyat');
+    return saved ? Number(saved) : 0;
+  });
   const audioRefs = useRef<(HTMLAudioElement | null)[]>([]);
+  const ayahRefs = useRef<(HTMLDivElement | null)[]>([]);
   const itemsPerPage = totalAyat > 7 ? 7 : totalAyat;
+  const [playingAyah, setPlayingAyah] = useState<number | null>(null);
+
+  // Save state to localStorage whenever it changes
+  useEffect(() => {
+    localStorage.setItem('currentSurah', currentSurah.toString());
+  }, [currentSurah]);
+
+  useEffect(() => {
+    localStorage.setItem('currentPage', currentPage.toString());
+  }, [currentPage]);
+
+  useEffect(() => {
+    localStorage.setItem('totalAyat', totalAyat.toString());
+  }, [totalAyat]);
 
   useEffect(() => {
     const loadAyat = async () => {
@@ -67,6 +91,17 @@ function App() {
     audioRefs.current = audioRefs.current.slice(0, ayat.length);
   }, [ayat]);
 
+  useEffect(() => {
+    ayahRefs.current = ayahRefs.current.slice(0, ayat.length);
+  }, [ayat]);
+
+  const scrollToAyah = (index: number) => {
+    ayahRefs.current[index]?.scrollIntoView({
+      behavior: 'smooth',
+      block: 'center'
+    });
+  };
+
   const handleAudioPlay = (index: number) => {
     audioRefs.current.forEach((audio, i) => {
       if (audio && i !== index) {
@@ -74,11 +109,21 @@ function App() {
         audio.currentTime = 0;
       }
     });
+    setPlayingAyah(index);
+    scrollToAyah(index);
+  };
+
+  const handleAudioPause = () => {
+    setPlayingAyah(null);
   };
 
   const handleAudioEnd = (index: number) => {
     if (index < audioRefs.current.length - 1 && audioRefs.current[index + 1]) {
       audioRefs.current[index + 1]?.play();
+      setPlayingAyah(index + 1);
+      scrollToAyah(index + 1);
+    } else {
+      setPlayingAyah(null);
     }
   };
 
@@ -259,6 +304,9 @@ function App() {
             {ayat.map((ayah, index) => (
               <motion.div
                 key={`${ayah.surahNo}_${ayah.ayahNo}`}
+                ref={el => {
+                  ayahRefs.current[index] = el;
+                }}
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: index * 0.1 }}
@@ -266,11 +314,46 @@ function App() {
               >
                 <div className="p-4">
                   {/* Arabic Text Section */}
-                  <div className="border-b border-gray-100 pb-4 w-full">
-                    <p dir="rtl" lang="ar" className="font-arabic text-right text-2xl sm:text-3xl leading-relaxed">
+                  <motion.div 
+                    className="border-b border-gray-100 pb-4 w-full relative overflow-hidden"
+                    animate={{
+                      scale: playingAyah === index ? 1.05 : 1,
+                      opacity: playingAyah === null || playingAyah === index ? 1 : 0.5,
+                    }}
+                    transition={{
+                      duration: 0.5,
+                      ease: "easeInOut"
+                    }}
+                  >
+                    {/* Shine Effect */}
+                    {playingAyah === index && (
+                      <motion.div
+                        className="absolute inset-0 w-[50%] bg-gradient-to-r from-transparent via-white to-transparent opacity-30 z-10 pointer-events-none"
+                        initial={{ x: "200%" }}
+                        animate={{ x: "-200%" }}
+                        transition={{
+                          duration: 3,
+                          repeat: Infinity,
+                          ease: "linear",
+                        }}
+                      />
+                    )}
+                    <motion.p 
+                      dir="rtl" 
+                      lang="ar" 
+                      className="font-arabic text-right text-2xl sm:text-3xl leading-relaxed relative"
+                      animate={{
+                        color: playingAyah === index ? '#059669' : '#1F2937',
+                        textShadow: playingAyah === index ? '0 0 10px rgba(5, 150, 105, 0.3)' : 'none',
+                      }}
+                      transition={{
+                        duration: 0.5,
+                        ease: "easeInOut"
+                      }}
+                    >
                       {ayah.arabic1}
-                    </p>
-                  </div>
+                    </motion.p>
+                  </motion.div>
 
                   {/* Translations Section */}
                   <div className="mt-4 space-y-4">
@@ -297,6 +380,7 @@ function App() {
                           audioRefs.current[index] = el;
                         }}
                         onPlay={() => handleAudioPlay(index)}
+                        onPause={() => handleAudioPause()}
                         onEnded={() => handleAudioEnd(index)}
                       >
                         <source src={ayah.audio[3].url} type="audio/mpeg" />
