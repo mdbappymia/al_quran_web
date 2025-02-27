@@ -58,6 +58,68 @@ function App() {
     });
   };
 
+  // Add new states for search functionality
+  const [searchQuery, setSearchQuery] = useState('');
+  const [filteredSurahs, setFilteredSurahs] = useState(allSurah);
+
+  // Add state for page number input
+  const [pageInput, setPageInput] = useState(currentPage.toString());
+
+  // Add state for showing suggestions
+  const [showSuggestions, setShowSuggestions] = useState(false);
+
+  const searchInputRef = useRef<HTMLDivElement>(null);
+
+  const [selectedSuggestionIndex, setSelectedSuggestionIndex] = useState(-1);
+
+  // Handle keyboard navigation
+  const handleSearchKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (!showSuggestions) return;
+
+    switch (e.key) {
+      case 'ArrowDown':
+        e.preventDefault();
+        setSelectedSuggestionIndex(prev => 
+          prev < filteredSurahs.length - 1 ? prev + 1 : prev
+        );
+        break;
+      case 'ArrowUp':
+        e.preventDefault();
+        setSelectedSuggestionIndex(prev => prev > 0 ? prev - 1 : -1);
+        break;
+      case 'Enter':
+        e.preventDefault();
+        if (selectedSuggestionIndex >= 0) {
+          const surahIndex = allSurah.findIndex(s => s === filteredSurahs[selectedSuggestionIndex]);
+          handleSuggestionClick(surahIndex + 1);
+        }
+        break;
+      case 'Escape':
+        setShowSuggestions(false);
+        setSelectedSuggestionIndex(-1);
+        break;
+    }
+  };
+
+  // Reset selected index when search query changes
+  useEffect(() => {
+    setSelectedSuggestionIndex(-1);
+  }, [searchQuery]);
+
+  // Add click outside handler
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (searchInputRef.current && !searchInputRef.current.contains(event.target as Node)) {
+        setShowSuggestions(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
+
   // Save state to localStorage whenever it changes
   useEffect(() => {
     localStorage.setItem('currentSurah', currentSurah.toString());
@@ -102,6 +164,61 @@ function App() {
   useEffect(() => {
     ayahRefs.current = ayahRefs.current.slice(0, ayat.length);
   }, [ayat]);
+
+  // Update filtered surahs when search query changes
+  useEffect(() => {
+    const query = searchQuery.toLowerCase().trim();
+    if (!query) {
+      setFilteredSurahs(allSurah); // Show all surahs when search is empty
+      return;
+    }
+    const filtered = allSurah.filter((surah, index) => {
+      const surahNumber = (index + 1).toString();
+      const surahName = surah.surahName.toLowerCase();
+      const searchTerms = query.split(' ');
+      
+      return searchTerms.every(term => 
+        surahName.includes(term) || surahNumber.includes(term)
+      );
+    });
+    setFilteredSurahs(filtered);
+  }, [searchQuery]);
+
+  // Handle page number input change
+  const handlePageInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = e.target.value.replace(/[^0-9]/g, '');
+    setPageInput(value);
+  };
+
+  // Handle page number input blur
+  const handlePageInputBlur = () => {
+    const pageNumber = parseInt(pageInput) || currentPage;
+    const newPage = Math.min(Math.max(1, pageNumber), totalPages);
+    setCurrentPage(newPage);
+    setPageInput(newPage.toString());
+    scrollToTop();
+  };
+
+  // Handle page number input keydown
+  const handlePageInputKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      handlePageInputBlur();
+    }
+  };
+
+  // Handle suggestion click
+  const handleSuggestionClick = (surahNumber: number) => {
+    setCurrentSurah(surahNumber);
+    setCurrentPage(1);
+    setPageInput("1");
+    setTotalAyat(0);
+    setShowSuggestions(false);
+    setSearchQuery('');
+    scrollToTop();
+    if (width < 1024) {
+      setIsSidebarOpen(false);
+    }
+  };
 
   const scrollToAyah = (index: number) => {
     ayahRefs.current[index]?.scrollIntoView({
@@ -206,7 +323,7 @@ function App() {
 
               {/* Rest of sidebar content */}
               <div className="space-y-6">
-                {/* Surah Selection */}
+                {/* Surah Search and Selection */}
                 <motion.div 
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
@@ -214,27 +331,77 @@ function App() {
                   className="space-y-2"
                 >
                   <label className="text-sm font-medium text-gray-700">
-                    Select Surah
+                    Search & Select Surah
                   </label>
-                  <select
-                    className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500"
-                    value={currentSurah.toString()}
-                    onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
-                      setCurrentSurah(Number(e.target.value));
-                      setCurrentPage(1);
-                      setTotalAyat(0);
-                      scrollToTop();
-                      if (width < 1024) {
-                        setIsSidebarOpen(false);
-                      }
-                    }}
-                  >
-                    {Array.from({ length: 114 }, (_, i) => i + 1).map((num) => (
-                      <option key={num} value={num}>
-                        {num}. {allSurah[num - 1].surahName}
-                      </option>
-                    ))}
-                  </select>
+                  <div className="space-y-2 relative">
+                    <div className="relative" ref={searchInputRef}>
+                      <input
+                        type="text"
+                        placeholder="Search by name or number..."
+                        className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500"
+                        value={searchQuery}
+                        onChange={(e) => {
+                          setSearchQuery(e.target.value);
+                          setShowSuggestions(true);
+                        }}
+                        onFocus={() => setShowSuggestions(true)}
+                        onKeyDown={handleSearchKeyDown}
+                      />
+                      
+                      {/* Suggestions Dropdown */}
+                      {showSuggestions && (
+                        <div className="absolute z-50 w-full mt-1 bg-white rounded-lg shadow-lg border border-gray-200 max-h-60 overflow-y-auto">
+                          {filteredSurahs.length > 0 ? (
+                            filteredSurahs.map((surah, index) => {
+                              const surahIndex = allSurah.findIndex(s => s === surah);
+                              return (
+                                <button
+                                  key={surahIndex + 1}
+                                  className={`w-full text-left px-4 py-2 hover:bg-emerald-50 focus:bg-emerald-50 focus:outline-none transition-colors ${
+                                    index === selectedSuggestionIndex ? 'bg-emerald-50' : ''
+                                  }`}
+                                  onClick={() => handleSuggestionClick(surahIndex + 1)}
+                                  onMouseEnter={() => setSelectedSuggestionIndex(index)}
+                                  onMouseDown={(e) => e.preventDefault()} // Prevent input blur
+                                >
+                                  <div className="flex items-center justify-between">
+                                    <span className="text-gray-900">{surahIndex + 1}. {surah.surahName}</span>
+                                  </div>
+                                </button>
+                              );
+                            })
+                          ) : (
+                            <div className="px-4 py-2 text-gray-500">
+                              No surahs found
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+
+                    {/* Surah Selection Dropdown - using full list */}
+                    <select
+                      className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500"
+                      value={currentSurah.toString()}
+                      onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
+                        const newSurah = Number(e.target.value);
+                        setCurrentSurah(newSurah);
+                        setCurrentPage(1);
+                        setPageInput("1");
+                        setTotalAyat(0);
+                        scrollToTop();
+                        if (width < 1024) {
+                          setIsSidebarOpen(false);
+                        }
+                      }}
+                    >
+                      {allSurah.map((surah, index) => (
+                        <option key={index + 1} value={index + 1}>
+                          {index + 1}. {surah.surahName}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
                 </motion.div>
 
                 {/* Page Navigation */}
@@ -245,11 +412,21 @@ function App() {
                   className="space-y-4"
                 >
                   <div className="p-3 bg-emerald-50 rounded-lg">
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-between items-center mb-2">
                       <span className="text-sm font-medium text-emerald-700">Current Page</span>
-                      <span className="text-sm font-medium text-emerald-900">{currentPage} of {totalPages}</span>
+                      <div className="flex items-center gap-1">
+                        <input
+                          type="text"
+                          className="w-16 rounded border-gray-200 focus:border-emerald-500 focus:ring-emerald-500 text-center text-sm"
+                          value={pageInput}
+                          onChange={handlePageInputChange}
+                          onBlur={handlePageInputBlur}
+                          onKeyDown={handlePageInputKeyDown}
+                        />
+                        <span className="text-sm font-medium text-emerald-900">of {totalPages}</span>
+                      </div>
                     </div>
-                    <div className="mt-2 h-2 bg-emerald-100 rounded-full overflow-hidden">
+                    <div className="h-2 bg-emerald-100 rounded-full overflow-hidden">
                       <div 
                         className="h-full bg-emerald-500 rounded-full transition-all duration-300"
                         style={{ width: `${(currentPage / totalPages) * 100}%` }}
@@ -261,7 +438,9 @@ function App() {
                     <button
                       className="bg-white border border-gray-200 hover:bg-gray-50 text-gray-700 shadow-sm flex justify-center items-center p-2 rounded-lg"
                       onClick={() => {
-                        setCurrentPage(p => Math.max(1, p - 1));
+                        const newPage = Math.max(1, currentPage - 1);
+                        setCurrentPage(newPage);
+                        setPageInput(newPage.toString());
                         scrollToTop();
                         if (width < 1024) {
                           setIsSidebarOpen(false);
@@ -277,7 +456,9 @@ function App() {
                     <button
                       className="bg-emerald-500 hover:bg-emerald-600 shadow-sm flex justify-center items-center p-2 rounded-lg"
                       onClick={() => {
-                        setCurrentPage(p => Math.min(totalPages, p + 1));
+                        const newPage = Math.min(totalPages, currentPage + 1);
+                        setCurrentPage(newPage);
+                        setPageInput(newPage.toString());
                         scrollToTop();
                         if (width < 1024) {
                           setIsSidebarOpen(false);
@@ -318,7 +499,6 @@ function App() {
             {ayat.map((ayah, index) => (
               <div key={`${ayah.surahNo}_${ayah.ayahNo}`}>
                 <motion.div
-                  key={`${ayah.surahNo}_${ayah.ayahNo}`}
                   ref={el => {
                     ayahRefs.current[index] = el;
                   }}
