@@ -49,6 +49,14 @@ function App() {
   const ayahRefs = useRef<(HTMLDivElement | null)[]>([]);
   const itemsPerPage = totalAyat > 7 ? 7 : totalAyat;
   const [playingAyah, setPlayingAyah] = useState<number | null>(null);
+  const mainContentRef = useRef<HTMLDivElement>(null);
+
+  const scrollToTop = () => {
+    mainContentRef.current?.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  };
 
   // Save state to localStorage whenever it changes
   useEffect(() => {
@@ -215,6 +223,7 @@ function App() {
                       setCurrentSurah(Number(e.target.value));
                       setCurrentPage(1);
                       setTotalAyat(0);
+                      scrollToTop();
                       if (width < 1024) {
                         setIsSidebarOpen(false);
                       }
@@ -253,6 +262,7 @@ function App() {
                       className="bg-white border border-gray-200 hover:bg-gray-50 text-gray-700 shadow-sm flex justify-center items-center p-2 rounded-lg"
                       onClick={() => {
                         setCurrentPage(p => Math.max(1, p - 1));
+                        scrollToTop();
                         if (width < 1024) {
                           setIsSidebarOpen(false);
                         }
@@ -268,6 +278,7 @@ function App() {
                       className="bg-emerald-500 hover:bg-emerald-600 shadow-sm flex justify-center items-center p-2 rounded-lg"
                       onClick={() => {
                         setCurrentPage(p => Math.min(totalPages, p + 1));
+                        scrollToTop();
                         if (width < 1024) {
                           setIsSidebarOpen(false);
                         }
@@ -300,110 +311,115 @@ function App() {
 
         {/* Main Content */}
         <div className="flex-1 lg:ml-5">
-          <div className="w-full mx-auto space-y-6 py-20 lg:py-5 h-screen overflow-y-auto">
+          <div 
+            ref={mainContentRef}
+            className="w-full mx-auto space-y-6 py-20 lg:py-5 h-screen overflow-y-auto"
+          >
             {ayat.map((ayah, index) => (
-              <motion.div
-                key={`${ayah.surahNo}_${ayah.ayahNo}`}
-                ref={el => {
-                  ayahRefs.current[index] = el;
-                }}
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: index * 0.1 }}
-                className="bg-white rounded-xl shadow-lg mx-auto max-w-4xl p-5 hover:shadow-xl transition-shadow duration-300 border-4 border-gray-200"
-              >
-                <div className="p-4">
-                  {/* Arabic Text Section */}
-                  <motion.div 
-                    className="border-b border-gray-100 pb-4 w-full relative overflow-hidden"
-                    animate={{
-                      scale: playingAyah === index ? 1.05 : 1,
-                      opacity: playingAyah === null || playingAyah === index ? 1 : 0.5,
-                    }}
-                    transition={{
-                      duration: 0.5,
-                      ease: "easeInOut"
-                    }}
-                  >
-                    {/* Shine Effect */}
-                    {playingAyah === index && (
-                      <motion.div
-                        className="absolute inset-0 w-[50%] bg-gradient-to-r from-transparent via-white to-transparent opacity-30 z-10 pointer-events-none"
-                        initial={{ x: "200%" }}
-                        animate={{ x: "-200%" }}
-                        transition={{
-                          duration: 3,
-                          repeat: Infinity,
-                          ease: "linear",
-                        }}
-                      />
-                    )}
-                    <motion.p 
-                      dir="rtl" 
-                      lang="ar" 
-                      className="font-arabic text-right text-2xl sm:text-3xl leading-relaxed relative"
+              <div key={`${ayah.surahNo}_${ayah.ayahNo}`}>
+                <motion.div
+                  key={`${ayah.surahNo}_${ayah.ayahNo}`}
+                  ref={el => {
+                    ayahRefs.current[index] = el;
+                  }}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: index * 0.1 }}
+                  className="bg-white rounded-xl shadow-lg mx-auto max-w-4xl p-5 hover:shadow-xl transition-shadow duration-300 border-4 border-gray-200"
+                >
+                  <div className="p-4">
+                    {/* Arabic Text Section */}
+                    <motion.div 
+                      className="border-b border-gray-100 pb-4 w-full relative overflow-hidden"
                       animate={{
-                        color: playingAyah === index ? '#059669' : '#1F2937',
-                        textShadow: playingAyah === index ? '0 0 10px rgba(5, 150, 105, 0.3)' : 'none',
+                        scale: playingAyah === index ? 1.05 : 1,
+                        opacity: playingAyah === null || playingAyah === index ? 1 : 0.5,
                       }}
                       transition={{
                         duration: 0.5,
                         ease: "easeInOut"
                       }}
                     >
-                      {ayah.arabic1}
-                    </motion.p>
-                  </motion.div>
-
-                  {/* Translations Section */}
-                  <div className="mt-4 space-y-4">
-                    {/* English Translation */}
-                    <div className="text-left">
-                      <p className="text-base sm:text-lg text-gray-900 leading-relaxed">
-                        {ayah.english}
-                      </p>
-                    </div>
-
-                    {/* Bengali Translation */}
-                    <div className="text-left">
-                      <p className="text-sm sm:text-md text-gray-700 leading-relaxed">
-                        {ayah.bengali}
-                      </p>
-                    </div>
-
-                    {/* Audio Section */}
-                    <div className="mt-4">
-                      <audio
-                        controls
-                        className="w-full"
-                        ref={el => {
-                          audioRefs.current[index] = el;
+                      {/* Shine Effect */}
+                      {playingAyah === index && (
+                        <motion.div
+                          className="absolute inset-0 w-[50%] bg-gradient-to-r from-transparent via-white to-transparent opacity-30 z-10 pointer-events-none"
+                          initial={{ x: "200%" }}
+                          animate={{ x: "-200%" }}
+                          transition={{
+                            duration: 3,
+                            repeat: Infinity,
+                            ease: "linear",
+                          }}
+                        />
+                      )}
+                      <motion.p 
+                        dir="rtl" 
+                        lang="ar" 
+                        className="font-arabic text-right text-2xl sm:text-3xl leading-relaxed relative"
+                        animate={{
+                          color: playingAyah === index ? '#059669' : '#1F2937',
+                          textShadow: playingAyah === index ? '0 0 10px rgba(5, 150, 105, 0.3)' : 'none',
                         }}
-                        onPlay={() => handleAudioPlay(index)}
-                        onPause={() => handleAudioPause()}
-                        onEnded={() => handleAudioEnd(index)}
+                        transition={{
+                          duration: 0.5,
+                          ease: "easeInOut"
+                        }}
                       >
-                        <source src={ayah.audio[3].url} type="audio/mpeg" />
-                        Your browser does not support the audio element.
-                      </audio>
-                    </div>
+                        {ayah.arabic1}
+                      </motion.p>
+                    </motion.div>
 
-                    {/* Footer */}
-                    <div className="flex flex-wrap justify-between items-center text-xs pt-3 border-t border-gray-200 gap-2">
-                      <div className="flex items-center gap-2">
-                        <span className="px-3 py-1.5 bg-emerald-50 rounded-full font-medium">
-                          {ayah.surahName}
-                        </span>
+                    {/* Translations Section */}
+                    <div className="mt-4 space-y-4">
+                      {/* English Translation */}
+                      <div className="text-left">
+                        <p className="text-base sm:text-lg text-gray-900 leading-relaxed">
+                          {ayah.english}
+                        </p>
                       </div>
-                      <div className="flex items-center gap-2 text-gray-500">
-                        <span className="font-medium">
-                          Ayah {ayah.ayahNo} of {totalAyat}
-                        </span>
+
+                      {/* Bengali Translation */}
+                      <div className="text-left">
+                        <p className="text-sm sm:text-md text-gray-700 leading-relaxed">
+                          {ayah.bengali}
+                        </p>
+                      </div>
+
+                      {/* Audio Section */}
+                      <div className="mt-4">
+                        <audio
+                          controls
+                          className="w-full"
+                          ref={el => {
+                            audioRefs.current[index] = el;
+                          }}
+                          onPlay={() => handleAudioPlay(index)}
+                          onPause={() => handleAudioPause()}
+                          onEnded={() => handleAudioEnd(index)}
+                        >
+                          <source src={ayah.audio[3].url} type="audio/mpeg" />
+                          Your browser does not support the audio element.
+                        </audio>
+                      </div>
+
+                      {/* Footer */}
+                      <div className="flex flex-wrap justify-between items-center text-xs pt-3 border-t border-gray-200 gap-2">
+                        <div className="flex items-center gap-2">
+                          <span className="px-3 py-1.5 bg-emerald-50 rounded-full font-medium">
+                            {ayah.surahName}
+                          </span>
+                        </div>
+                        <div className="flex items-center gap-2 text-gray-500">
+                          <span className="font-medium">
+                            Ayah {ayah.ayahNo} of {totalAyat}
+                          </span>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              </motion.div>
+                </motion.div>
+              </div>
             ))}
           </div>
         </div>
