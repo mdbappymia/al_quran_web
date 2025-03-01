@@ -1,7 +1,8 @@
-import { useState, useEffect, useRef } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import './App.css';
-import allSurah from './assets/all_surah.json';
+import { useState, useEffect, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import "./App.css";
+import allSurah from "./assets/all_surah.json";
+import allReciters from "./assets/reciter_list.json";
 
 interface Ayah {
   surahName: string;
@@ -17,12 +18,14 @@ interface Ayah {
 
 // Add useWidth hook
 function useWidth() {
-  const [width, setWidth] = useState(typeof window !== 'undefined' ? window.innerWidth : 0);
-  
+  const [width, setWidth] = useState(
+    typeof window !== "undefined" ? window.innerWidth : 0
+  );
+
   useEffect(() => {
     const handleResize = () => setWidth(window.innerWidth);
-    window.addEventListener('resize', handleResize);
-    return () => window.removeEventListener('resize', handleResize);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   return width;
@@ -33,16 +36,16 @@ function App() {
   const isDesktop = width >= 1024;
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [currentSurah, setCurrentSurah] = useState(() => {
-    const saved = localStorage.getItem('currentSurah');
+    const saved = localStorage.getItem("currentSurah");
     return saved ? Number(saved) : 1;
   });
   const [currentPage, setCurrentPage] = useState(() => {
-    const saved = localStorage.getItem('currentPage');
+    const saved = localStorage.getItem("currentPage");
     return saved ? Number(saved) : 1;
   });
   const [ayat, setAyat] = useState<Ayah[]>([]);
   const [totalAyat, setTotalAyat] = useState(() => {
-    const saved = localStorage.getItem('totalAyat');
+    const saved = localStorage.getItem("totalAyat");
     return saved ? Number(saved) : 0;
   });
   const audioRefs = useRef<(HTMLAudioElement | null)[]>([]);
@@ -54,12 +57,12 @@ function App() {
   const scrollToTop = () => {
     mainContentRef.current?.scrollTo({
       top: 0,
-      behavior: 'smooth'
+      behavior: "smooth",
     });
   };
 
   // Add new states for search functionality
-  const [searchQuery, setSearchQuery] = useState('');
+  const [searchQuery, setSearchQuery] = useState("");
   const [filteredSurahs, setFilteredSurahs] = useState(allSurah);
 
   // Add state for page number input
@@ -72,29 +75,77 @@ function App() {
 
   const [selectedSuggestionIndex, setSelectedSuggestionIndex] = useState(-1);
 
+  // Reciter state
+  const [reciter, setReciter] = useState(() => {
+    const saved = localStorage.getItem("currentReciter");
+    return saved || allReciters[0];
+  });
+
+  // Save reciter to localStorage when it changes
+  useEffect(() => {
+    localStorage.setItem("currentReciter", reciter);
+  }, [reciter]);
+
+  // Get audio URL based on reciter
+  const getAudioUrl = (ayah: Ayah, selectedReciter: string) => {
+    switch (selectedReciter) {
+      case "Mishary Rashid Al-Afasy":
+        return ayah.audio[1].url;
+      case "Abu Bakr Al-Shatri":
+        return ayah.audio[2].url;
+      case "Nasser Al Qatami":
+        return ayah.audio[3].url;
+      case "Saood ash Shuraym":
+        return `https://everyayah.com/data/Saood_ash-Shuraym_64kbps/${String(
+          ayah?.surahNo
+        ).padStart(3, "0")}${String(ayah?.ayahNo).padStart(3, "0")}.mp3`;
+      case "Abdul Rahman Al-Sudais":
+        return `https://everyayah.com/data/Abdurrahmaan_As-Sudais_64kbps/${String(
+          ayah?.surahNo
+        ).padStart(3, "0")}${String(ayah?.ayahNo).padStart(3, "0")}.mp3`;
+      default:
+        return ayah.audio[1].url; // Default to Mishary Rashid Al-Afasy
+    }
+  };
+
+  // Update audio sources when reciter changes
+  useEffect(() => {
+    audioRefs.current.forEach((audioRef, index) => {
+      if (audioRef && ayat[index]) {
+        const newUrl = getAudioUrl(ayat[index], reciter);
+        if (audioRef.src !== newUrl) {
+          audioRef.src = newUrl;
+          audioRef.load(); // Reload the audio element with new source
+        }
+      }
+    });
+  }, [reciter, ayat]);
+
   // Handle keyboard navigation
   const handleSearchKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (!showSuggestions) return;
 
     switch (e.key) {
-      case 'ArrowDown':
+      case "ArrowDown":
         e.preventDefault();
-        setSelectedSuggestionIndex(prev => 
+        setSelectedSuggestionIndex((prev) =>
           prev < filteredSurahs.length - 1 ? prev + 1 : prev
         );
         break;
-      case 'ArrowUp':
+      case "ArrowUp":
         e.preventDefault();
-        setSelectedSuggestionIndex(prev => prev > 0 ? prev - 1 : -1);
+        setSelectedSuggestionIndex((prev) => (prev > 0 ? prev - 1 : -1));
         break;
-      case 'Enter':
+      case "Enter":
         e.preventDefault();
         if (selectedSuggestionIndex >= 0) {
-          const surahIndex = allSurah.findIndex(s => s === filteredSurahs[selectedSuggestionIndex]);
+          const surahIndex = allSurah.findIndex(
+            (s) => s === filteredSurahs[selectedSuggestionIndex]
+          );
           handleSuggestionClick(surahIndex + 1);
         }
         break;
-      case 'Escape':
+      case "Escape":
         setShowSuggestions(false);
         setSelectedSuggestionIndex(-1);
         break;
@@ -109,28 +160,31 @@ function App() {
   // Add click outside handler
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (searchInputRef.current && !searchInputRef.current.contains(event.target as Node)) {
+      if (
+        searchInputRef.current &&
+        !searchInputRef.current.contains(event.target as Node)
+      ) {
         setShowSuggestions(false);
       }
     };
 
-    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener("mousedown", handleClickOutside);
     return () => {
-      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
 
   // Save state to localStorage whenever it changes
   useEffect(() => {
-    localStorage.setItem('currentSurah', currentSurah.toString());
+    localStorage.setItem("currentSurah", currentSurah.toString());
   }, [currentSurah]);
 
   useEffect(() => {
-    localStorage.setItem('currentPage', currentPage.toString());
+    localStorage.setItem("currentPage", currentPage.toString());
   }, [currentPage]);
 
   useEffect(() => {
-    localStorage.setItem('totalAyat', totalAyat.toString());
+    localStorage.setItem("totalAyat", totalAyat.toString());
   }, [totalAyat]);
 
   useEffect(() => {
@@ -140,23 +194,27 @@ function App() {
         const endAyah = Math.min(startAyah + itemsPerPage - 1, totalAyat);
         const promises = [];
         for (let i = startAyah; i <= endAyah; i++) {
-          const response = fetch(`/src/assets/ayath/${currentSurah}/${i}.json`).then(res => res.ok ? res.json() : null);
+          const response = fetch(
+            `/src/assets/ayath/${currentSurah}/${i}.json`
+          ).then((res) => (res.ok ? res.json() : null));
           promises.push(response);
         }
         const results = await Promise.all(promises);
-        setAyat(results.filter(result => result !== null));
+        setAyat(results.filter((result) => result !== null));
         if (totalAyat === 0) {
-          const firstAyah = await fetch(`/src/assets/ayath/${currentSurah}/1.json`).then(res => res.json());
+          const firstAyah = await fetch(
+            `/src/assets/ayath/${currentSurah}/1.json`
+          ).then((res) => res.json());
           setTotalAyat(firstAyah.totalAyah);
         }
       } catch (error) {
-        console.error('Error loading ayat:', error);
+        console.error("Error loading ayat:", error);
       }
     };
 
     loadAyat();
-  }, [currentSurah, currentPage, totalAyat, itemsPerPage]);
-
+  }, [currentSurah, currentPage, totalAyat, itemsPerPage, reciter]);
+  console.log(reciter);
   useEffect(() => {
     audioRefs.current = audioRefs.current.slice(0, ayat.length);
   }, [ayat]);
@@ -175,10 +233,10 @@ function App() {
     const filtered = allSurah.filter((surah, index) => {
       const surahNumber = (index + 1).toString();
       const surahName = surah.surahName.toLowerCase();
-      const searchTerms = query.split(' ');
-      
-      return searchTerms.every(term => 
-        surahName.includes(term) || surahNumber.includes(term)
+      const searchTerms = query.split(" ");
+
+      return searchTerms.every(
+        (term) => surahName.includes(term) || surahNumber.includes(term)
       );
     });
     setFilteredSurahs(filtered);
@@ -186,7 +244,7 @@ function App() {
 
   // Handle page number input change
   const handlePageInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const value = e.target.value.replace(/[^0-9]/g, '');
+    const value = e.target.value.replace(/[^0-9]/g, "");
     setPageInput(value);
   };
 
@@ -201,7 +259,7 @@ function App() {
 
   // Handle page number input keydown
   const handlePageInputKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
-    if (e.key === 'Enter') {
+    if (e.key === "Enter") {
       handlePageInputBlur();
     }
   };
@@ -213,7 +271,7 @@ function App() {
     setPageInput("1");
     setTotalAyat(0);
     setShowSuggestions(false);
-    setSearchQuery('');
+    setSearchQuery("");
     scrollToTop();
     if (width < 1024) {
       setIsSidebarOpen(false);
@@ -222,8 +280,8 @@ function App() {
 
   const scrollToAyah = (index: number) => {
     ayahRefs.current[index]?.scrollIntoView({
-      behavior: 'smooth',
-      block: 'center'
+      behavior: "smooth",
+      block: "center",
     });
   };
 
@@ -255,7 +313,7 @@ function App() {
   const totalPages = Math.ceil(totalAyat / itemsPerPage);
 
   return (
-    <div className='relative container mx-auto px-4 sm:px-6 lg:px-8'>
+    <div className="relative container mx-auto px-4 sm:px-6 lg:px-8">
       <div className="flex flex-col lg:flex-row min-h-screen bg-[#F8F9FA]">
         {/* Hamburger Menu Button - Only visible on mobile */}
         <button
@@ -291,11 +349,17 @@ function App() {
         <AnimatePresence>
           <motion.div
             initial={isDesktop ? false : { x: -300, opacity: 0 }}
-            animate={isDesktop ? { x: 0, opacity: 1 } : isSidebarOpen ? { x: 0, opacity: 1 } : { x: -300, opacity: 0 }}
+            animate={
+              isDesktop
+                ? { x: 0, opacity: 1 }
+                : isSidebarOpen
+                ? { x: 0, opacity: 1 }
+                : { x: -300, opacity: 0 }
+            }
             exit={isDesktop ? undefined : { x: -300, opacity: 0 }}
             transition={{ duration: 0.3 }}
             className={`
-              ${isDesktop ? 'relative' : 'fixed'} 
+              ${isDesktop ? "relative" : "fixed"} 
               top-0 left-0 z-40
               h-screen w-80
               bg-white shadow-lg
@@ -305,26 +369,33 @@ function App() {
           >
             <div className="p-6 flex-1">
               {/* Sidebar Content */}
-              <motion.div 
+              <motion.div
                 initial={{ y: -20, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.2 }}
                 className="flex items-center gap-3 mb-8"
               >
                 <div className="w-10 h-10 bg-emerald-50 rounded-lg flex items-center justify-center">
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12 2L1 12H4V21H20V12H23L12 2Z" className="fill-emerald-600"/>
+                  <svg
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M12 2L1 12H4V21H20V12H23L12 2Z"
+                      className="fill-emerald-600"
+                    />
                   </svg>
                 </div>
-                <h1 className="text-2xl font-bold text-gray-800">
-                  Al-Quran
-                </h1>
+                <h1 className="text-2xl font-bold text-gray-800">Al-Quran</h1>
               </motion.div>
 
               {/* Rest of sidebar content */}
               <div className="space-y-6">
                 {/* Surah Search and Selection */}
-                <motion.div 
+                <motion.div
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.3 }}
@@ -347,25 +418,35 @@ function App() {
                         onFocus={() => setShowSuggestions(true)}
                         onKeyDown={handleSearchKeyDown}
                       />
-                      
+
                       {/* Suggestions Dropdown */}
                       {showSuggestions && (
                         <div className="absolute z-50 w-full mt-1 bg-white rounded-lg shadow-lg border border-gray-200 max-h-60 overflow-y-auto">
                           {filteredSurahs.length > 0 ? (
                             filteredSurahs.map((surah, index) => {
-                              const surahIndex = allSurah.findIndex(s => s === surah);
+                              const surahIndex = allSurah.findIndex(
+                                (s) => s === surah
+                              );
                               return (
                                 <button
                                   key={surahIndex + 1}
                                   className={`w-full text-left px-4 py-2 hover:bg-emerald-50 focus:bg-emerald-50 focus:outline-none transition-colors ${
-                                    index === selectedSuggestionIndex ? 'bg-emerald-50' : ''
+                                    index === selectedSuggestionIndex
+                                      ? "bg-emerald-50"
+                                      : ""
                                   }`}
-                                  onClick={() => handleSuggestionClick(surahIndex + 1)}
-                                  onMouseEnter={() => setSelectedSuggestionIndex(index)}
+                                  onClick={() =>
+                                    handleSuggestionClick(surahIndex + 1)
+                                  }
+                                  onMouseEnter={() =>
+                                    setSelectedSuggestionIndex(index)
+                                  }
                                   onMouseDown={(e) => e.preventDefault()} // Prevent input blur
                                 >
                                   <div className="flex items-center justify-between">
-                                    <span className="text-gray-900">{surahIndex + 1}. {surah.surahName}</span>
+                                    <span className="text-gray-900">
+                                      {surahIndex + 1}. {surah.surahName}
+                                    </span>
                                   </div>
                                 </button>
                               );
@@ -413,7 +494,9 @@ function App() {
                 >
                   <div className="p-3 bg-emerald-50 rounded-lg">
                     <div className="flex justify-between items-center mb-2">
-                      <span className="text-sm font-medium text-emerald-700">Current Page</span>
+                      <span className="text-sm font-medium text-emerald-700">
+                        Current Page
+                      </span>
                       <div className="flex items-center gap-1">
                         <input
                           type="text"
@@ -423,13 +506,17 @@ function App() {
                           onBlur={handlePageInputBlur}
                           onKeyDown={handlePageInputKeyDown}
                         />
-                        <span className="text-sm font-medium text-emerald-900">of {totalPages}</span>
+                        <span className="text-sm font-medium text-emerald-900">
+                          of {totalPages}
+                        </span>
                       </div>
                     </div>
                     <div className="h-2 bg-emerald-100 rounded-full overflow-hidden">
-                      <div 
+                      <div
                         className="h-full bg-emerald-500 rounded-full transition-all duration-300"
-                        style={{ width: `${(currentPage / totalPages) * 100}%` }}
+                        style={{
+                          width: `${(currentPage / totalPages) * 100}%`,
+                        }}
                       />
                     </div>
                   </div>
@@ -448,8 +535,18 @@ function App() {
                       }}
                       disabled={currentPage === 1}
                     >
-                      <svg className="w-5 h-5 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                      <svg
+                        className="w-5 h-5 mr-1"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M15 19l-7-7 7-7"
+                        />
                       </svg>
                       Previous
                     </button>
@@ -467,10 +564,42 @@ function App() {
                       disabled={currentPage === totalPages}
                     >
                       Next
-                      <svg className="w-5 h-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      <svg
+                        className="w-5 h-5 ml-1"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M9 5l7 7-7 7"
+                        />
                       </svg>
                     </button>
+                  </div>
+                  {/* reciter options  */}
+                  <div className="mt-4">
+                    <label
+                      htmlFor="reciter"
+                      className="text-sm font-medium text-gray-700"
+                    >
+                      Select Reciter
+                    </label>
+                    <br />
+                    <select
+                      name="reciter"
+                      id="reciter"
+                      onChange={(e) => setReciter(e.target.value)}
+                      className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500 border p-2"
+                    >
+                      {allReciters.map((reciter, index) => (
+                        <option key={index} value={reciter}>
+                          {reciter}
+                        </option>
+                      ))}
+                    </select>
                   </div>
                 </motion.div>
               </div>
@@ -492,14 +621,14 @@ function App() {
 
         {/* Main Content */}
         <div className="flex-1 lg:ml-5">
-          <div 
+          <div
             ref={mainContentRef}
             className="w-full mx-auto space-y-6 py-20 lg:py-5 h-screen overflow-y-auto"
           >
             {ayat.map((ayah, index) => (
               <div key={`${ayah.surahNo}_${ayah.ayahNo}`}>
                 <motion.div
-                  ref={el => {
+                  ref={(el) => {
                     ayahRefs.current[index] = el;
                   }}
                   initial={{ opacity: 0, y: 20 }}
@@ -509,15 +638,18 @@ function App() {
                 >
                   <div className="p-4">
                     {/* Arabic Text Section */}
-                    <motion.div 
+                    <motion.div
                       className="border-b border-gray-100 pb-4 w-full relative overflow-hidden"
                       animate={{
                         scale: playingAyah === index ? 1.05 : 1,
-                        opacity: playingAyah === null || playingAyah === index ? 1 : 0.5,
+                        opacity:
+                          playingAyah === null || playingAyah === index
+                            ? 1
+                            : 0.5,
                       }}
                       transition={{
                         duration: 0.5,
-                        ease: "easeInOut"
+                        ease: "easeInOut",
                       }}
                     >
                       {/* Shine Effect */}
@@ -533,17 +665,20 @@ function App() {
                           }}
                         />
                       )}
-                      <motion.p 
-                        dir="rtl" 
-                        lang="ar" 
+                      <motion.p
+                        dir="rtl"
+                        lang="ar"
                         className="font-arabic text-right text-2xl sm:text-3xl leading-relaxed relative"
                         animate={{
-                          color: playingAyah === index ? '#059669' : '#1F2937',
-                          textShadow: playingAyah === index ? '0 0 10px rgba(5, 150, 105, 0.3)' : 'none',
+                          color: playingAyah === index ? "#059669" : "#1F2937",
+                          textShadow:
+                            playingAyah === index
+                              ? "0 0 10px rgba(5, 150, 105, 0.3)"
+                              : "none",
                         }}
                         transition={{
                           duration: 0.5,
-                          ease: "easeInOut"
+                          ease: "easeInOut",
                         }}
                       >
                         {ayah.arabic1}
@@ -571,14 +706,14 @@ function App() {
                         <audio
                           controls
                           className="w-full"
-                          ref={el => {
+                          ref={(el) => {
                             audioRefs.current[index] = el;
                           }}
                           onPlay={() => handleAudioPlay(index)}
                           onPause={() => handleAudioPause()}
                           onEnded={() => handleAudioEnd(index)}
+                          src={getAudioUrl(ayah, reciter)}
                         >
-                          <source src={ayah.audio[3].url} type="audio/mpeg" />
                           Your browser does not support the audio element.
                         </audio>
                       </div>
