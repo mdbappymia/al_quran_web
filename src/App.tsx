@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 import allSurah from "./assets/all_surah.json";
+import allReciters from "./assets/reciter_list.json";
 
 interface Ayah {
   surahName: string;
@@ -86,6 +87,51 @@ function App() {
     index: number;
     audio: HTMLAudioElement | null;
   }>({ index: -1, audio: null });
+  // Reciter state
+  const [reciter, setReciter] = useState(() => {
+    const saved = localStorage.getItem("currentReciter");
+    return saved || allReciters[0];
+  });
+
+  // Save reciter to localStorage when it changes
+  useEffect(() => {
+    localStorage.setItem("currentReciter", reciter);
+  }, [reciter]);
+
+  // Get audio URL based on reciter
+  const getAudioUrl = (ayah: Ayah, selectedReciter: string) => {
+    switch (selectedReciter) {
+      case "Mishary Rashid Al-Afasy":
+        return ayah.audio[1].url;
+      case "Abu Bakr Al-Shatri":
+        return ayah.audio[2].url;
+      case "Nasser Al Qatami":
+        return ayah.audio[3].url;
+      case "Saood ash Shuraym":
+        return `https://everyayah.com/data/Saood_ash-Shuraym_64kbps/${String(
+          ayah?.surahNo
+        ).padStart(3, "0")}${String(ayah?.ayahNo).padStart(3, "0")}.mp3`;
+      case "Abdul Rahman Al-Sudais":
+        return `https://everyayah.com/data/Abdurrahmaan_As-Sudais_64kbps/${String(
+          ayah?.surahNo
+        ).padStart(3, "0")}${String(ayah?.ayahNo).padStart(3, "0")}.mp3`;
+      default:
+        return ayah.audio[1].url; // Default to Mishary Rashid Al-Afasy
+    }
+  };
+
+  // Update audio sources when reciter changes
+  useEffect(() => {
+    audioRefs.current.forEach((audioRef, index) => {
+      if (audioRef && ayat[index]) {
+        const newUrl = getAudioUrl(ayat[index], reciter);
+        if (audioRef.src !== newUrl) {
+          audioRef.src = newUrl;
+          audioRef.load(); // Reload the audio element with new source
+        }
+      }
+    });
+  }, [reciter, ayat]);
 
   // Handle keyboard navigation
   const handleSearchKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
@@ -179,8 +225,8 @@ function App() {
     };
 
     loadAyat();
-  }, [currentSurah, currentPage, totalAyat, itemsPerPage]);
-
+  }, [currentSurah, currentPage, totalAyat, itemsPerPage, reciter]);
+  console.log(reciter);
   useEffect(() => {
     audioRefs.current = audioRefs.current.slice(0, ayat.length);
   }, [ayat]);
@@ -531,6 +577,20 @@ function App() {
                       </div>
 
                       {/* Suggestions Dropdown with enhanced styling */}
+                      <input
+                        type="text"
+                        placeholder="Search by name or number..."
+                        className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500"
+                        value={searchQuery}
+                        onChange={(e) => {
+                          setSearchQuery(e.target.value);
+                          setShowSuggestions(true);
+                        }}
+                        onFocus={() => setShowSuggestions(true)}
+                        onKeyDown={handleSearchKeyDown}
+                      />
+
+                      {/* Suggestions Dropdown */}
                       {showSuggestions && (
                         <div
                           className="absolute z-50 w-full mt-2 bg-white rounded-lg shadow-lg border border-gray-100 max-h-60 overflow-y-auto
@@ -605,6 +665,28 @@ function App() {
                       ))}
                     </select>
                   </div>
+                  {/* reciter options  */}
+                  <div className="mt-4">
+                    <label
+                      htmlFor="reciter"
+                      className="text-sm font-medium text-gray-700"
+                    >
+                      Select Reciter
+                    </label>
+                    <select
+                      name="reciter"
+                      id="reciter"
+                      value={reciter}
+                      onChange={(e) => setReciter(e.target.value)}
+                      className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500 border p-2"
+                    >
+                      {allReciters.map((reciter, index) => (
+                        <option key={index} value={reciter}>
+                          {reciter}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
                 </motion.div>
 
                 {/* Page Navigation with enhanced inputs */}
@@ -646,10 +728,6 @@ function App() {
 
                     {/* Auto-play and Continuous Play Controls */}
                     <div className="mt-3 space-y-3">
-                      {/* Auto-play Checkbox */}
-                      {/*  */}
-
-                      {/* Continuous Play Checkbox */}
                       <label className="flex items-center justify-between cursor-pointer group">
                         <span className="text-sm font-medium text-emerald-700 group-hover:text-emerald-800">
                           Play All Surahs
@@ -855,8 +933,8 @@ function App() {
                           onPlay={() => handleAudioPlay(index)}
                           onPause={() => handleAudioPause()}
                           onEnded={() => handleAudioEnd(index)}
+                          src={getAudioUrl(ayah, reciter)}
                         >
-                          <source src={ayah.audio[3].url} type="audio/mpeg" />
                           Your browser does not support the audio element.
                         </audio>
                       </div>
