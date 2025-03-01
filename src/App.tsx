@@ -577,18 +577,6 @@ function App() {
                       </div>
 
                       {/* Suggestions Dropdown with enhanced styling */}
-                      <input
-                        type="text"
-                        placeholder="Search by name or number..."
-                        className="w-full rounded-lg border-gray-200 focus:border-emerald-500 focus:ring-emerald-500"
-                        value={searchQuery}
-                        onChange={(e) => {
-                          setSearchQuery(e.target.value);
-                          setShowSuggestions(true);
-                        }}
-                        onFocus={() => setShowSuggestions(true)}
-                        onKeyDown={handleSearchKeyDown}
-                      />
 
                       {/* Suggestions Dropdown */}
                       {showSuggestions && (
@@ -604,7 +592,7 @@ function App() {
                               return (
                                 <button
                                   key={surahIndex + 1}
-                                  className={`w-full text-left px-4 py-3 hover:bg-emerald-50 focus:bg-emerald-50 focus:outline-none transition-colors
+                                  className={`w-full text-left px-4 py-3 my-1 hover:bg-emerald-50 focus:bg-emerald-50 focus:outline-none transition-colors
                                     ${
                                       index === selectedSuggestionIndex
                                         ? "bg-emerald-50"
