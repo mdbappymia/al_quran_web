@@ -1,40 +1,18 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
+/* Global play/pause floating button */
+.global-play-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 50;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+/* Hide bulky native audio controls we don't want */
+audio::-webkit-media-controls-download-button,
+audio::-webkit-media-controls-overflow-button,
+audio::-webkit-media-controls-toggle-closed-captions-button {
+  display: none !important;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+audio {
+  accent-color: #113f2d;
 }
