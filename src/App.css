@@ -1,105 +1,18 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
+/* Global play/pause floating button */
+.global-play-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 50;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
-
-.word-highlight {
-  display: inline-block;
-  padding: 0 5px;
-  border-radius: 4px;
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  position: relative;
-}
-
-.word-highlight.active {
-  background: linear-gradient(45deg, rgba(150, 111, 5, 0.2), rgba(5, 150, 105, 0.1));
-  box-shadow: 0 0 15px rgba(5, 150, 105, 0.2);
-  transform: scale(1.05);
-  color: #059669;
-}
-
-.word-highlight.active::after {
-  content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 100%;
-  height: 2px;
-  background-color: #059669;
-  transform: scaleX(1);
-  transition: transform 0.2s ease;
-}
-
-/* Custom Audio Controls */
-audio::-webkit-media-controls-volume-slider,
-audio::-webkit-media-controls-mute-button,
-audio::-webkit-media-controls-volume-control-container,
+/* Hide bulky native audio controls we don't want */
 audio::-webkit-media-controls-download-button,
 audio::-webkit-media-controls-overflow-button,
 audio::-webkit-media-controls-toggle-closed-captions-button {
   display: none !important;
 }
 
-/* Firefox volume control */
-audio::-moz-range-thumb[type="volume"] {
-  display: none !important;
-}
-
-/* Global Play/Pause Button */
-.global-play-button {
-  position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  z-index: 50;
-  background: linear-gradient(135deg, var(--highlight-color), #10b981);
-  color: white;
-  padding: 1rem;
-  border-radius: 9999px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  transition: all 0.2s ease;
-}
-
-.global-play-button:hover {
-  transform: scale(1.1);
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-}
-
-.global-play-button:active {
-  transform: scale(0.95);
+audio {
+  accent-color: #113f2d;
 }

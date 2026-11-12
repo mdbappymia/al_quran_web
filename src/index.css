@@ -1,69 +1,58 @@
-@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Sans:wght@400;500;600;700&display=swap');
-
-/* Ensure Tailwind CSS is installed and configured correctly */
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Marcellus&family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 
-:root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* ---------------------------------------------------------------------------
+   Al-Quran — "Gilded Emerald" design system
+   Deep pine green + antique gold on warm cream parchment.
+   ------------------------------------------------------------------------- */
+@theme {
+  --font-display: 'Marcellus', 'Amiri', serif;
+
+  /* Warm paper neutrals */
+  --color-cream: #f8f4e9;
+  --color-ivory: #fffdf4;
+  --color-parchment: #efe9d8;
+  --color-sand: #e4dcc5;
+  --color-ink: #1d2a22;
+
+  /* Deep pine greens */
+  --color-pine-50: #eef5ef;
+  --color-pine-100: #dcebe1;
+  --color-pine-200: #b9d4c6;
+  --color-pine-600: #1f6b4d;
+  --color-pine-700: #17553d;
+  --color-pine-800: #113f2d;
+  --color-pine-900: #0b2e21;
+  --color-pine-950: #06231a;
+
+  /* Antique gold */
+  --color-gold-100: #faf0cd;
+  --color-gold-200: #f3e0a4;
+  --color-gold-300: #e8cf7c;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #c9a227;
+  --color-gold-600: #a8842a;
+  --color-gold-700: #7d5f1a;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
-
-body {
-  margin: 0;
-  min-height: 100vh;
-}
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
+@layer base {
+  html {
+    font-family: 'Noto Sans', system-ui, sans-serif;
   }
-  a:hover {
-    color: #747bff;
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
   }
-  button {
-    background-color: #00bc7d;
-    color:white !important;
+
+  ::selection {
+    background: var(--color-gold-400);
+    color: var(--color-pine-950);
   }
 }
 
@@ -75,7 +64,6 @@ button:focus-visible {
 .font-arabic {
   font-family: 'Amiri', serif;
   line-height: 2;
-  font-size: 2rem;
 }
 
 /* Translations */
@@ -94,23 +82,141 @@ button:focus-visible {
   font-family: 'Noto Sans Bengali', 'Noto Sans', sans-serif;
 }
 
-/* Custom scrollbar */
+/* ------------------------------------------------------------------ */
+/* Decorative Islamic 8-pointed star lattice backgrounds               */
+/* ------------------------------------------------------------------ */
+.pattern-light {
+  background-color: #f8f4e9;
+  background-image:
+    radial-gradient(1200px 600px at 75% -10%, rgba(212, 175, 55, 0.12), transparent 60%),
+    radial-gradient(900px 520px at -12% 35%, rgba(17, 63, 45, 0.06), transparent 55%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'%3E%3Cg fill='none' stroke='%23113f2d' stroke-opacity='0.045' stroke-width='1.2'%3E%3Cpath d='M48 6l11 31 31 11-31 11-11 31-11-31-31-11 31-11z'/%3E%3Ccircle cx='48' cy='48' r='7'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.pattern-dark {
+  background-color: #0b2e21;
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'%3E%3Cg fill='none' stroke='%23d4af37' stroke-opacity='0.10' stroke-width='1.2'%3E%3Cpath d='M48 6l11 31 31 11-31 11-11 31-11-31-31-11 31-11z'/%3E%3Ccircle cx='48' cy='48' r='7'/%3E%3C/g%3E%3C/svg%3E"),
+    linear-gradient(168deg, #103f2e 0%, #0b2e21 45%, #06231a 100%);
+}
+
+/* Hairline gradient divider with a soft gold center */
+.gold-divider {
+  height: 1px;
+  border: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(201, 162, 39, 0.65) 18%,
+    #e8cf7c 50%,
+    rgba(201, 162, 39, 0.65) 82%,
+    transparent
+  );
+}
+
+.gold-divider-dark {
+  height: 1px;
+  border: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(212, 175, 55, 0.5) 20%,
+    rgba(243, 224, 164, 0.9) 50%,
+    rgba(212, 175, 55, 0.5) 80%,
+    transparent
+  );
+}
+
+/* Ayah number medallion — double-ringed gilded rosette */
+.ayah-medallion {
+  width: 2.35rem;
+  height: 2.35rem;
+  flex: none;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Marcellus', serif;
+  font-size: 0.78rem;
+  line-height: 1;
+  color: #6b4f10;
+  background: radial-gradient(circle at 50% 32%, #fdf6d8 0%, #f3e0a4 55%, #dfc069 100%);
+  border: 1px solid #c9a227;
+  box-shadow:
+    inset 0 0 0 2px #fffdf4,
+    inset 0 0 0 3.5px #c9a227,
+    0 2px 5px rgba(6, 35, 26, 0.35);
+}
+
+/* Playing-state glow for the active ayah card */
+.card-playing {
+  border-color: #d4af37 !important;
+  box-shadow:
+    0 0 0 3px rgba(212, 175, 55, 0.38),
+    0 28px 55px -18px rgba(6, 35, 26, 0.5) !important;
+}
+
+/* Shared dark gilded select — identical look for surah & reciter pickers,
+   including the native option popup (which ignores Tailwind classes). */
+.dark-select {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  padding: 0.625rem 2.5rem 0.625rem 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(212, 175, 55, 0.18);
+  background-color: #113f2d;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23e8cf7c' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 1.1rem;
+  color: #f3e0a4;
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.35);
+  cursor: pointer;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.dark-select:hover {
+  border-color: rgba(212, 175, 55, 0.4);
+}
+.dark-select:focus {
+  outline: none;
+  border-color: rgba(212, 175, 55, 0.6);
+  box-shadow:
+    inset 0 2px 6px rgba(0, 0, 0, 0.35),
+    0 0 0 3px rgba(212, 175, 55, 0.18);
+}
+.dark-select option {
+  background-color: #0b2e21;
+  color: #f3e0a4;
+}
+
+/* Sidebar scrollbar — subtle gold on deep green */
+.sidebar-scroll::-webkit-scrollbar {
+  width: 7px;
+}
+.sidebar-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.sidebar-scroll::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.28);
+  border-radius: 8px;
+}
+.sidebar-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 175, 55, 0.45);
+}
+
+/* Custom scrollbar — muted gold on parchment */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
-
-
-
-
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cfc298;
+  border-radius: 8px;
+}
 ::-webkit-scrollbar-thumb:hover {
-  background: #9333ea;
-}
-
-@layer base {
-  html {
-    font-family: 'Noto Sans', system-ui, sans-serif;
-  }
-
-
+  background: #b8a86f;
 }
